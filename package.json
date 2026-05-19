@@ -1,0 +1,9 @@
+{
+  "name": "quiz-app-json-vercel",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve public",
+    "start": "npx serve public"
+  }
+}

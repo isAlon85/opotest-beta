@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿En qué fecha se celebró el referéndum para la aprobación de la Constitución Española de 1978?",
+    "opciones": [
+      {
+        "texto": "6 de diciembre de 1978",
+        "es_correcta": true,
+        "explicacion": "El referéndum de ratificación de la Constitución se celebró el 6 de diciembre de 1978."
+      },
+      {
+        "texto": "27 de diciembre de 1978",
+        "es_correcta": false,
+        "explicacion": "El 27 de diciembre de 1978 fue la fecha de sanción por el Rey, no la del referéndum."
+      },
+      {
+        "texto": "29 de diciembre de 1978",
+        "es_correcta": false,
+        "explicacion": "El 29 de diciembre de 1978 es la fecha de publicación en el BOE, no del referéndum."
+      },
+      {
+        "texto": "1 de enero de 1979",
+        "es_correcta": false,
+        "explicacion": "El 1 de enero de 1979 no está relacionado con la ratificación de la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "¿En qué fecha fue sancionada la Constitución Española de 1978 por el Rey?",
+    "opciones": [
+      {
+        "texto": "6 de diciembre de 1978",
+        "es_correcta": false,
+        "explicacion": "El 6 de diciembre es la fecha del referéndum, no de la sanción."
+      },
+      {
+        "texto": "27 de diciembre de 1978",
+        "es_correcta": true,
+        "explicacion": "La Constitución fue sancionada por el Rey el 27 de diciembre de 1978."
+      },
+      {
+        "texto": "29 de diciembre de 1978",
+        "es_correcta": false,
+        "explicacion": "El 29 de diciembre corresponde a la publicación en el BOE."
+      },
+      {
+        "texto": "1 de enero de 1979",
+        "es_correcta": false,
+        "explicacion": "No es la fecha de la sanción real de la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cuándo se publicó la Constitución Española de 1978 en el Boletín Oficial del Estado?",
+    "opciones": [
+      {
+        "texto": "6 de diciembre de 1978",
+        "es_correcta": false,
+        "explicacion": "Ese día se celebró el referéndum constitucional."
+      },
+      {
+        "texto": "27 de diciembre de 1978",
+        "es_correcta": false,
+        "explicacion": "Ese día fue sancionada por el Rey, no publicada."
+      },
+      {
+        "texto": "29 de diciembre de 1978",
+        "es_correcta": true,
+        "explicacion": "La publicación en el BOE tuvo lugar el 29 de diciembre de 1978."
+      },
+      {
+        "texto": "1 de enero de 1979",
+        "es_correcta": false,
+        "explicacion": "No es la fecha oficial de publicación en el BOE."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué tipo de Estado define la Constitución Española en su artículo 1.1?",
+    "opciones": [
+      {
+        "texto": "Estado democrático y federal",
+        "es_correcta": false,
+        "explicacion": "La Constitución no establece que España sea un Estado federal."
+      },
+      {
+        "texto": "Estado social y democrático de Derecho",
+        "es_correcta": true,
+        "explicacion": "El artículo 1.1 establece que España se constituye en un Estado social y democrático de Derecho."
+      },
+      {
+        "texto": "Estado social, democrático y confederal",
+        "es_correcta": false,
+        "explicacion": "La Constitución no menciona que España sea un Estado confederal."
+      },
+      {
+        "texto": "Estado social y federal de Derecho",
+        "es_correcta": false,
+        "explicacion": "El término “federal” no figura en el artículo 1.1."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "Según la Constitución, ¿cuáles son los valores superiores del ordenamiento jurídico?",
+    "opciones": [
+      {
+        "texto": "Libertad, justicia, igualdad y solidaridad",
+        "es_correcta": false,
+        "explicacion": "La solidaridad no figura entre los valores superiores del art. 1.1."
+      },
+      {
+        "texto": "Libertad, seguridad, igualdad y pluralismo político",
+        "es_correcta": false,
+        "explicacion": "La seguridad no se cita como valor superior en el art. 1.1."
+      },
+      {
+        "texto": "Libertad, justicia, igualdad y pluralismo político",
+        "es_correcta": true,
+        "explicacion": "El artículo 1.1 establece estos cuatro valores como superiores del ordenamiento jurídico."
+      },
+      {
+        "texto": "Justicia, igualdad, unidad y pluralismo político",
+        "es_correcta": false,
+        "explicacion": "La unidad no figura como valor superior, aunque se mencione en el art. 2."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Dónde reside la soberanía nacional según la Constitución Española?",
+    "opciones": [
+      {
+        "texto": "En el Rey",
+        "es_correcta": false,
+        "explicacion": "La Constitución no atribuye la soberanía nacional al Rey."
+      },
+      {
+        "texto": "En las Cortes Generales",
+        "es_correcta": false,
+        "explicacion": "Las Cortes representan al pueblo, pero la soberanía no reside en ellas."
+      },
+      {
+        "texto": "En el pueblo español",
+        "es_correcta": true,
+        "explicacion": "El artículo 1.2 indica que la soberanía nacional reside en el pueblo español."
+      },
+      {
+        "texto": "En el Gobierno de la Nación",
+        "es_correcta": false,
+        "explicacion": "El Gobierno ejerce el poder ejecutivo, no es titular de la soberanía."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cuál es la forma política del Estado español según la Constitución?",
+    "opciones": [
+      {
+        "texto": "Monarquía constitucional",
+        "es_correcta": false,
+        "explicacion": "La fórmula exacta de la Constitución es “monarquía parlamentaria”."
+      },
+      {
+        "texto": "Monarquía parlamentaria",
+        "es_correcta": true,
+        "explicacion": "El artículo 1.3 establece que la forma política del Estado español es la monarquía parlamentaria."
+      },
+      {
+        "texto": "República parlamentaria",
+        "es_correcta": false,
+        "explicacion": "España no se configura como república, sino como monarquía."
+      },
+      {
+        "texto": "República federal",
+        "es_correcta": false,
+        "explicacion": "La Constitución no establece que España sea una república federal."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "El artículo 2 de la Constitución se fundamenta en la indisoluble unidad de:",
+    "opciones": [
+      {
+        "texto": "La Nación española, patria común e indivisible de todos los españoles",
+        "es_correcta": true,
+        "explicacion": "El art. 2 se fundamenta en la unidad de la Nación española, patria común e indivisible de todos los españoles."
+      },
+      {
+        "texto": "El Estado español y sus provincias",
+        "es_correcta": false,
+        "explicacion": "El precepto alude a la Nación española, no a provincias."
+      },
+      {
+        "texto": "La Corona y las Comunidades Autónomas",
+        "es_correcta": false,
+        "explicacion": "Esta fórmula no es la que emplea el artículo 2."
+      },
+      {
+        "texto": "La Unión Europea y España",
+        "es_correcta": false,
+        "explicacion": "La Unión Europea no se menciona en ese precepto."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "Según la Constitución, el castellano es:",
+    "opciones": [
+      {
+        "texto": "El idioma oficial del Estado, que todos los españoles tienen el deber de conocer y el derecho a usar",
+        "es_correcta": true,
+        "explicacion": "El art. 3.1 establece el deber de conocerlo y el derecho a usarlo."
+      },
+      {
+        "texto": "El idioma común del Estado, que todos los españoles pueden usar libremente",
+        "es_correcta": false,
+        "explicacion": "La expresión “idioma común” no es la fórmula constitucional."
+      },
+      {
+        "texto": "El idioma oficial del Estado, que todos los españoles tienen derecho a conocer y el deber de usar",
+        "es_correcta": false,
+        "explicacion": "Invierte indebidamente el derecho y el deber que fija el art. 3.1."
+      },
+      {
+        "texto": "Una lengua cooficial en todas las Comunidades Autónomas",
+        "es_correcta": false,
+        "explicacion": "Es oficial en todo el Estado; otras lenguas pueden ser cooficiales en determinadas Comunidades."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "Además del castellano, las demás lenguas españolas serán también oficiales en:",
+    "opciones": [
+      {
+        "texto": "Todo el territorio del Estado, si así lo decide el Gobierno",
+        "es_correcta": false,
+        "explicacion": "La oficialidad adicional depende de los Estatutos de Autonomía, no del Gobierno."
+      },
+      {
+        "texto": "Las Comunidades Autónomas que así lo establezcan en sus Estatutos",
+        "es_correcta": true,
+        "explicacion": "El art. 3.2 condiciona la cooficialidad de otras lenguas a lo previsto en los Estatutos de Autonomía."
+      },
+      {
+        "texto": "Las provincias que lo acuerden por mayoría absoluta",
+        "es_correcta": false,
+        "explicacion": "La Constitución no atribuye esa competencia a las provincias."
+      },
+      {
+        "texto": "Las entidades locales que así lo decidan",
+        "es_correcta": false,
+        "explicacion": "La oficialidad lingüística se decide a nivel autonómico en los Estatutos."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre la Constitución es correcta?",
+    "opciones": [
+      {
+        "texto": "Es una constitución flexible, de fácil reforma",
+        "es_correcta": false,
+        "explicacion": "La Constitución española se considera rígida por sus procedimientos de reforma."
+      },
+      {
+        "texto": "Es una constitución rígida, con procedimientos de reforma cualificados",
+        "es_correcta": true,
+        "explicacion": "La existencia de procedimientos agravados de reforma la caracteriza como rígida."
+      },
+      {
+        "texto": "Es una constitución consuetudinaria",
+        "es_correcta": false,
+        "explicacion": "Es una constitución escrita, no basada en la costumbre."
+      },
+      {
+        "texto": "Es una constitución otorgada por el monarca",
+        "es_correcta": false,
+        "explicacion": "Se aprobó mediante referéndum, no como constitución otorgada."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué institución representa al pueblo español según la Constitución?",
+    "opciones": [
+      {
+        "texto": "El Gobierno",
+        "es_correcta": false,
+        "explicacion": "El Gobierno ejerce el poder ejecutivo, no se define como representante directo del pueblo."
+      },
+      {
+        "texto": "Las Cortes Generales",
+        "es_correcta": true,
+        "explicacion": "El art. 66.1 establece que las Cortes Generales representan al pueblo español."
+      },
+      {
+        "texto": "El Rey",
+        "es_correcta": false,
+        "explicacion": "El Rey es Jefe del Estado, pero no se define como representante directo del pueblo."
+      },
+      {
+        "texto": "El Tribunal Constitucional",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional es el intérprete supremo de la Constitución, no representante del pueblo."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué título de la Constitución recoge el régimen de los derechos y deberes fundamentales?",
+    "opciones": [
+      {
+        "texto": "Título I",
+        "es_correcta": true,
+        "explicacion": "El Título I se denomina “De los derechos y deberes fundamentales”."
+      },
+      {
+        "texto": "Título II",
+        "es_correcta": false,
+        "explicacion": "El Título II se refiere a la Corona."
+      },
+      {
+        "texto": "Título III",
+        "es_correcta": false,
+        "explicacion": "El Título III regula las Cortes Generales."
+      },
+      {
+        "texto": "Título Preliminar",
+        "es_correcta": false,
+        "explicacion": "El Título Preliminar contiene principios básicos, pero no el régimen detallado de derechos y deberes."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál de las siguientes materias se sitúa en el Título Preliminar de la Constitución?",
+    "opciones": [
+      {
+        "texto": "La regulación detallada del derecho a la educación",
+        "es_correcta": false,
+        "explicacion": "El derecho a la educación se desarrolla en el Título I, no en el Título Preliminar."
+      },
+      {
+        "texto": "La forma política del Estado",
+        "es_correcta": true,
+        "explicacion": "La forma política del Estado como monarquía parlamentaria se recoge en el art. 1.3, dentro del Título Preliminar."
+      },
+      {
+        "texto": "La composición del Tribunal Constitucional",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional se regula en el Título IX."
+      },
+      {
+        "texto": "La organización territorial del Estado en Comunidades Autónomas y entes locales",
+        "es_correcta": false,
+        "explicacion": "La organización territorial se aborda en el Título VIII."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué principio se menciona en el artículo 2 junto con la unidad de la Nación española?",
+    "opciones": [
+      {
+        "texto": "El principio de subsidiariedad",
+        "es_correcta": false,
+        "explicacion": "La Constitución no utiliza en ese precepto el término subsidiariedad."
+      },
+      {
+        "texto": "El principio de solidaridad entre las nacionalidades y regiones",
+        "es_correcta": true,
+        "explicacion": "El art. 2 alude a la unidad de la Nación y garantiza la solidaridad entre nacionalidades y regiones."
+      },
+      {
+        "texto": "El principio de separación de poderes",
+        "es_correcta": false,
+        "explicacion": "La separación de poderes no se formula en el art. 2."
+      },
+      {
+        "texto": "El principio de proporcionalidad",
+        "es_correcta": false,
+        "explicacion": "No es un principio enunciado en el art. 2 de la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué establece el artículo 2 sobre las nacionalidades y regiones?",
+    "opciones": [
+      {
+        "texto": "Reconoce el derecho a la independencia de las nacionalidades y regiones",
+        "es_correcta": false,
+        "explicacion": "El art. 2 reconoce el derecho a la autonomía, no a la independencia."
+      },
+      {
+        "texto": "Reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones",
+        "es_correcta": true,
+        "explicacion": "El artículo 2 reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones."
+      },
+      {
+        "texto": "Limita la autonomía solo a las regiones, no a las nacionalidades",
+        "es_correcta": false,
+        "explicacion": "El precepto menciona expresamente nacionalidades y regiones."
+      },
+      {
+        "texto": "Establece la igualdad absoluta entre todas las entidades locales",
+        "es_correcta": false,
+        "explicacion": "El artículo 2 no se refiere a las entidades locales."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cuál de los siguientes NO es un valor superior del ordenamiento jurídico según el artículo 1.1?",
+    "opciones": [
+      {
+        "texto": "La igualdad",
+        "es_correcta": false,
+        "explicacion": "La igualdad sí figura como valor superior en el art. 1.1."
+      },
+      {
+        "texto": "La justicia",
+        "es_correcta": false,
+        "explicacion": "La justicia sí se menciona como valor superior."
+      },
+      {
+        "texto": "El pluralismo político",
+        "es_correcta": false,
+        "explicacion": "El pluralismo político forma parte de los valores superiores."
+      },
+      {
+        "texto": "La seguridad jurídica",
+        "es_correcta": true,
+        "explicacion": "La seguridad jurídica es un principio que aparece en otros artículos, pero no como valor superior en el art. 1.1."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "¿En qué se fundamenta la Constitución Española, según el artículo 1.2?",
+    "opciones": [
+      {
+        "texto": "En la independencia de los órganos constitucionales",
+        "es_correcta": false,
+        "explicacion": "La independencia de órganos no es el fundamento citado en el art. 1.2."
+      },
+      {
+        "texto": "En la soberanía nacional que reside en el pueblo español",
+        "es_correcta": true,
+        "explicacion": "El art. 1.2 indica que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado."
+      },
+      {
+        "texto": "En la supremacía de la ley sobre la Constitución",
+        "es_correcta": false,
+        "explicacion": "La Constitución es la norma suprema, no está subordinada a la ley."
+      },
+      {
+        "texto": "En la primacía de la Corona sobre los demás poderes",
+        "es_correcta": false,
+        "explicacion": "La Constitución no establece tal primacía."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué caracteriza a la Constitución Española en cuanto a su origen?",
+    "opciones": [
+      {
+        "texto": "Es una constitución otorgada por el monarca",
+        "es_correcta": false,
+        "explicacion": "Fue aprobada en referéndum, no otorgada unilateralmente por el monarca."
+      },
+      {
+        "texto": "Es una constitución aprobada por referéndum popular",
+        "es_correcta": true,
+        "explicacion": "La Constitución fue ratificada por el pueblo español en referéndum el 6 de diciembre de 1978."
+      },
+      {
+        "texto": "Es una constitución pactada entre partidos y sancionada sin consulta popular",
+        "es_correcta": false,
+        "explicacion": "Aunque hubo pacto político, la ratificación fue mediante referéndum."
+      },
+      {
+        "texto": "Es una constitución provisional a la espera de otra definitiva",
+        "es_correcta": false,
+        "explicacion": "La Constitución de 1978 se aprueba como texto definitivo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre la Constitución es correcta?",
+    "opciones": [
+      {
+        "texto": "Es la norma suprema del ordenamiento jurídico",
+        "es_correcta": true,
+        "explicacion": "En el sistema español la Constitución es la norma superior a la que deben ajustarse las demás."
+      },
+      {
+        "texto": "Tiene un rango inferior a las leyes orgánicas",
+        "es_correcta": false,
+        "explicacion": "Las leyes orgánicas están subordinadas a la Constitución."
+      },
+      {
+        "texto": "Puede ser modificada por una ley ordinaria si no afecta a derechos fundamentales",
+        "es_correcta": false,
+        "explicacion": "La reforma constitucional exige procedimientos específicos, no basta una ley ordinaria."
+      },
+      {
+        "texto": "Es una norma solo programática sin fuerza jurídica",
+        "es_correcta": false,
+        "explicacion": "La Constitución tiene plena fuerza jurídica y vincula a todos los poderes públicos."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué órgano es el intérprete supremo de la Constitución?",
+    "opciones": [
+      {
+        "texto": "El Tribunal Supremo",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Supremo es el órgano jurisdiccional superior, pero no el intérprete supremo de la Constitución."
+      },
+      {
+        "texto": "El Tribunal Constitucional",
+        "es_correcta": true,
+        "explicacion": "El Tribunal Constitucional es el intérprete supremo de la Constitución."
+      },
+      {
+        "texto": "El Consejo General del Poder Judicial",
+        "es_correcta": false,
+        "explicacion": "El CGPJ gobierna el poder judicial, pero no interpreta la Constitución en última instancia."
+      },
+      {
+        "texto": "El Senado",
+        "es_correcta": false,
+        "explicacion": "El Senado es una de las Cámaras de las Cortes, no el intérprete supremo de la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué título de la Constitución regula la Corona?",
+    "opciones": [
+      {
+        "texto": "Título I",
+        "es_correcta": false,
+        "explicacion": "El Título I aborda derechos y deberes fundamentales."
+      },
+      {
+        "texto": "Título II",
+        "es_correcta": true,
+        "explicacion": "El Título II se denomina “De la Corona”."
+      },
+      {
+        "texto": "Título III",
+        "es_correcta": false,
+        "explicacion": "El Título III se refiere a las Cortes Generales."
+      },
+      {
+        "texto": "Título Preliminar",
+        "es_correcta": false,
+        "explicacion": "El Título Preliminar contiene principios básicos, no la regulación de la Corona."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué título constitucional regula las Cortes Generales?",
+    "opciones": [
+      {
+        "texto": "Título II",
+        "es_correcta": false,
+        "explicacion": "El Título II regula la Corona."
+      },
+      {
+        "texto": "Título III",
+        "es_correcta": true,
+        "explicacion": "El Título III se refiere a las Cortes Generales."
+      },
+      {
+        "texto": "Título IV",
+        "es_correcta": false,
+        "explicacion": "El Título IV trata del Gobierno y de la Administración."
+      },
+      {
+        "texto": "Título I",
+        "es_correcta": false,
+        "explicacion": "El Título I regula los derechos y deberes fundamentales."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "pregunta": "En la Constitución, el Gobierno y la Administración se regulan en el:",
+    "opciones": [
+      {
+        "texto": "Título II",
+        "es_correcta": false,
+        "explicacion": "El Título II se ocupa de la Corona."
+      },
+      {
+        "texto": "Título III",
+        "es_correcta": false,
+        "explicacion": "El Título III regula las Cortes Generales."
+      },
+      {
+        "texto": "Título IV",
+        "es_correcta": true,
+        "explicacion": "El Título IV se titula “Del Gobierno y de la Administración”."
+      },
+      {
+        "texto": "Título VIII",
+        "es_correcta": false,
+        "explicacion": "El Título VIII se refiere a la organización territorial del Estado."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "pregunta": "¿En qué título se aborda la organización territorial del Estado?",
+    "opciones": [
+      {
+        "texto": "Título V",
+        "es_correcta": false,
+        "explicacion": "El Título V trata de las relaciones entre el Gobierno y las Cortes Generales."
+      },
+      {
+        "texto": "Título VIII",
+        "es_correcta": true,
+        "explicacion": "La organización territorial del Estado se regula en el Título VIII."
+      },
+      {
+        "texto": "Título IX",
+        "es_correcta": false,
+        "explicacion": "El Título IX se refiere al Tribunal Constitucional."
+      },
+      {
+        "texto": "Título X",
+        "es_correcta": false,
+        "explicacion": "El Título X trata de la reforma constitucional."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué título de la Constitución regula el Tribunal Constitucional?",
+    "opciones": [
+      {
+        "texto": "Título VIII",
+        "es_correcta": false,
+        "explicacion": "El Título VIII trata de la organización territorial del Estado."
+      },
+      {
+        "texto": "Título IX",
+        "es_correcta": true,
+        "explicacion": "El Tribunal Constitucional se regula en el Título IX."
+      },
+      {
+        "texto": "Título X",
+        "es_correcta": false,
+        "explicacion": "El Título X aborda la reforma constitucional."
+      },
+      {
+        "texto": "Título I",
+        "es_correcta": false,
+        "explicacion": "El Título I regula los derechos y deberes fundamentales."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué título de la Constitución regula la reforma constitucional?",
+    "opciones": [
+      {
+        "texto": "Título VIII",
+        "es_correcta": false,
+        "explicacion": "El Título VIII regula la organización territorial del Estado."
+      },
+      {
+        "texto": "Título IX",
+        "es_correcta": false,
+        "explicacion": "El Título IX trata del Tribunal Constitucional."
+      },
+      {
+        "texto": "Título X",
+        "es_correcta": true,
+        "explicacion": "La reforma de la Constitución se regula en el Título X."
+      },
+      {
+        "texto": "Título VII",
+        "es_correcta": false,
+        "explicacion": "El Título VII se refiere a la economía y la Hacienda."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuál de las siguientes opciones describe mejor la estructura general de la Constitución Española?",
+    "opciones": [
+      {
+        "texto": "Título Preliminar, diez Títulos numerados, disposiciones adicionales, transitorias, derogatoria y final",
+        "es_correcta": true,
+        "explicacion": "La Constitución se organiza en un Título Preliminar, diez títulos numerados y diversas disposiciones."
+      },
+      {
+        "texto": "Preámbulo, cinco títulos y disposiciones adicionales",
+        "es_correcta": false,
+        "explicacion": "La Constitución contiene más de cinco títulos."
+      },
+      {
+        "texto": "Sólo un cuerpo articulado sin títulos ni disposiciones",
+        "es_correcta": false,
+        "explicacion": "La Constitución tiene una estructura sistemática con títulos y disposiciones."
+      },
+      {
+        "texto": "Un Título único y varias leyes complementarias",
+        "es_correcta": false,
+        "explicacion": "No existe un Título único, sino varios títulos que ordenan la materia."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué recoge el Preámbulo de la Constitución Española?",
+    "opciones": [
+      {
+        "texto": "Derechos fundamentales detallados y su protección",
+        "es_correcta": false,
+        "explicacion": "Los derechos se desarrollan en el Título I, no en el Preámbulo."
+      },
+      {
+        "texto": "Objetivos y propósitos generales del texto constitucional",
+        "es_correcta": true,
+        "explicacion": "El Preámbulo expone los fines y valores inspiradores de la Constitución."
+      },
+      {
+        "texto": "La regulación de la Corona y la Jefatura del Estado",
+        "es_correcta": false,
+        "explicacion": "La Corona se regula en el Título II."
+      },
+      {
+        "texto": "La estructura del Tribunal Constitucional",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional se regula en el Título IX."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué órgano sanciona y promulga la Constitución una vez aprobada en referéndum?",
+    "opciones": [
+      {
+        "texto": "El Congreso de los Diputados",
+        "es_correcta": false,
+        "explicacion": "El Congreso participa en su elaboración, pero no sanciona ni promulga la Constitución."
+      },
+      {
+        "texto": "El Rey",
+        "es_correcta": true,
+        "explicacion": "Corresponde al Rey sancionar y promulgar la Constitución."
+      },
+      {
+        "texto": "El Tribunal Constitucional",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional no sanciona ni promulga normas."
+      },
+      {
+        "texto": "El Gobierno",
+        "es_correcta": false,
+        "explicacion": "El Gobierno tampoco sanciona ni promulga la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué procedimiento se sigue para la reforma agravada de la Constitución (por ejemplo, si afecta al Título Preliminar)?",
+    "opciones": [
+      {
+        "texto": "Mayoría absoluta de cada Cámara y referéndum facultativo",
+        "es_correcta": false,
+        "explicacion": "La reforma agravada exige mayorías más cualificadas y otros pasos."
+      },
+      {
+        "texto": "Mayoría de tres quintos de cada Cámara sin disolución",
+        "es_correcta": false,
+        "explicacion": "Este esquema se aproxima más a la reforma ordinaria, no a la agravada."
+      },
+      {
+        "texto": "Mayoría de dos tercios de cada Cámara, disolución de las Cortes, nuevas Cámaras y nuevo acuerdo de dos tercios, seguido de referéndum",
+        "es_correcta": true,
+        "explicacion": "La reforma agravada exige doble aprobación por dos tercios, disolución, nuevas Cortes y referéndum."
+      },
+      {
+        "texto": "Mayoría simple en Congreso y Senado y referéndum obligatorio",
+        "es_correcta": false,
+        "explicacion": "Una mayoría simple no es suficiente para la reforma agravada."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Qué materias quedan sometidas al procedimiento de reforma agravada?",
+    "opciones": [
+      {
+        "texto": "El Título Preliminar, el Título I Sección 1.ª y el Título II",
+        "es_correcta": true,
+        "explicacion": "Las reformas del Título Preliminar, derechos fundamentales (Sección 1.ª del Capítulo II del Título I) y la Corona (Título II) siguen el procedimiento agravado."
+      },
+      {
+        "texto": "Todos los títulos excepto el Título X",
+        "es_correcta": false,
+        "explicacion": "No todas las materias requieren el procedimiento agravado."
+      },
+      {
+        "texto": "Solo el Título I y el Título X",
+        "es_correcta": false,
+        "explicacion": "El Título X regula el procedimiento, pero el agravado se aplica a materias concretas."
+      },
+      {
+        "texto": "Solo el Título II",
+        "es_correcta": false,
+        "explicacion": "El Título II es una de las materias afectadas, pero no la única."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué mayoría se exige en cada Cámara para iniciar una reforma agravada de la Constitución?",
+    "opciones": [
+      {
+        "texto": "Mayoría absoluta",
+        "es_correcta": false,
+        "explicacion": "La mayoría absoluta es insuficiente en la reforma agravada."
+      },
+      {
+        "texto": "Mayoría de tres quintos",
+        "es_correcta": false,
+        "explicacion": "La reforma agravada exige dos tercios, no tres quintos."
+      },
+      {
+        "texto": "Mayoría de dos tercios",
+        "es_correcta": true,
+        "explicacion": "Se requiere el voto favorable de dos tercios de cada Cámara."
+      },
+      {
+        "texto": "Mayoría simple",
+        "es_correcta": false,
+        "explicacion": "Una mayoría simple es claramente insuficiente para este procedimiento."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "pregunta": "En el procedimiento de reforma agravada, tras la primera aprobación por las Cámaras, ¿qué paso inmediato prevé la Constitución?",
+    "opciones": [
+      {
+        "texto": "Celebración de un referéndum vinculante",
+        "es_correcta": false,
+        "explicacion": "El referéndum se celebra tras la aprobación de las nuevas Cortes."
+      },
+      {
+        "texto": "Disolución de las Cortes Generales",
+        "es_correcta": true,
+        "explicacion": "Tras la aprobación por dos tercios de cada Cámara se produce la disolución de las Cortes."
+      },
+      {
+        "texto": "Convocatoria automática de elecciones municipales",
+        "es_correcta": false,
+        "explicacion": "El procedimiento se refiere a las Cortes Generales, no a las corporaciones locales."
+      },
+      {
+        "texto": "Aprobación de la reforma por el Tribunal Constitucional",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional no interviene como órgano aprobatorio en la reforma."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué requisito de participación ciudadana se exige en la reforma agravada?",
+    "opciones": [
+      {
+        "texto": "Un referéndum solo si lo pide una décima parte de los diputados",
+        "es_correcta": false,
+        "explicacion": "En la reforma agravada el referéndum es obligatorio."
+      },
+      {
+        "texto": "Un referéndum facultativo tras la aprobación por las Cortes",
+        "es_correcta": false,
+        "explicacion": "En este caso el referéndum no es facultativo, sino preceptivo."
+      },
+      {
+        "texto": "Un referéndum obligatorio para ratificar la reforma",
+        "es_correcta": true,
+        "explicacion": "La reforma agravada debe ser ratificada en referéndum por el pueblo español."
+      },
+      {
+        "texto": "No se prevé ningún tipo de referéndum",
+        "es_correcta": false,
+        "explicacion": "El referéndum es elemento clave de la reforma agravada."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Qué procedimiento general se sigue para la reforma ordinaria de la Constitución?",
+    "opciones": [
+      {
+        "texto": "Mayoría de dos tercios en cada Cámara y referéndum obligatorio",
+        "es_correcta": false,
+        "explicacion": "Ese es el esquema agravado, no el ordinario."
+      },
+      {
+        "texto": "Mayoría de tres quintos en cada Cámara y posible referéndum si lo solicita una parte de los miembros",
+        "es_correcta": true,
+        "explicacion": "La reforma ordinaria exige tres quintos y permite referéndum si lo pide una fracción cualificada de las Cámaras."
+      },
+      {
+        "texto": "Mayoría absoluta en Congreso y mayoría simple en el Senado",
+        "es_correcta": false,
+        "explicacion": "No se corresponde con las mayorías previstas en la reforma ordinaria."
+      },
+      {
+        "texto": "Mayoría simple en ambas Cámaras sin posibilidad de referéndum",
+        "es_correcta": false,
+        "explicacion": "La reforma ordinaria no puede aprobarse con mera mayoría simple."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué órgano puede solicitar la celebración de referéndum en la reforma ordinaria de la Constitución?",
+    "opciones": [
+      {
+        "texto": "Una décima parte de los miembros de cualquiera de las Cámaras",
+        "es_correcta": false,
+        "explicacion": "La fracción exigida es superior a una décima parte."
+      },
+      {
+        "texto": "Una quinta parte de los miembros de cualquiera de las Cámaras",
+        "es_correcta": true,
+        "explicacion": "Una quinta parte de los miembros de cualquiera de las Cámaras puede solicitar que la reforma se someta a referéndum."
+      },
+      {
+        "texto": "El Tribunal Constitucional a iniciativa propia",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional no pide referéndums en este contexto."
+      },
+      {
+        "texto": "El Rey, a propuesta del Presidente del Gobierno",
+        "es_correcta": false,
+        "explicacion": "La iniciativa para el referéndum en reforma ordinaria procede de las Cámaras."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre la reforma constitucional es correcta?",
+    "opciones": [
+      {
+        "texto": "Cualquier reforma requiere siempre disolución de las Cortes Generales",
+        "es_correcta": false,
+        "explicacion": "Solo la reforma agravada exige disolver las Cortes."
+      },
+      {
+        "texto": "La reforma agravada se aplica a todo el texto constitucional sin excepción",
+        "es_correcta": false,
+        "explicacion": "Solo se aplica a materias especialmente protegidas."
+      },
+      {
+        "texto": "La reforma ordinaria permite un referéndum facultativo si lo solicita una quinta parte de los miembros de cualquiera de las Cámaras",
+        "es_correcta": true,
+        "explicacion": "Esa es una de las previsiones del procedimiento ordinario."
+      },
+      {
+        "texto": "El Rey puede vetar cualquier reforma constitucional",
+        "es_correcta": false,
+        "explicacion": "El Rey sanciona, pero no tiene poder de veto político sobre las reformas."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Cuál de los siguientes elementos se asocia a la supremacía de la Constitución?",
+    "opciones": [
+      {
+        "texto": "La posibilidad de que las leyes la contradigan si así lo acuerda el Parlamento",
+        "es_correcta": false,
+        "explicacion": "Ninguna ley puede contradecir la Constitución."
+      },
+      {
+        "texto": "La existencia de un Tribunal Constitucional que controla la adecuación de las leyes a la Constitución",
+        "es_correcta": true,
+        "explicacion": "El Tribunal Constitucional garantiza que las normas se ajusten a la Constitución."
+      },
+      {
+        "texto": "La prevalencia de los reglamentos sobre la Constitución en casos concretos",
+        "es_correcta": false,
+        "explicacion": "Los reglamentos tienen rango inferior a las leyes y, por supuesto, a la Constitución."
+      },
+      {
+        "texto": "La subordinación de los tratados internacionales a las leyes ordinarias",
+        "es_correcta": false,
+        "explicacion": "Los tratados ocupan una posición singular, pero siempre bajo la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Cuál de las siguientes características NO corresponde a la Constitución Española de 1978?",
+    "opciones": [
+      {
+        "texto": "Es una constitución escrita",
+        "es_correcta": false,
+        "explicacion": "La Constitución está recogida en un texto escrito."
+      },
+      {
+        "texto": "Es una constitución rígida",
+        "es_correcta": false,
+        "explicacion": "Los procedimientos de reforma cualificados le confieren rigidez."
+      },
+      {
+        "texto": "Es una constitución consensuada",
+        "es_correcta": false,
+        "explicacion": "Históricamente se considera fruto de amplio consenso político."
+      },
+      {
+        "texto": "Es una constitución no democrática",
+        "es_correcta": true,
+        "explicacion": "Es una constitución democrática, aprobada en referéndum; “no democrática” es incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cuál de los siguientes principios no se menciona expresamente en el Título Preliminar?",
+    "opciones": [
+      {
+        "texto": "Unidad de la Nación española",
+        "es_correcta": false,
+        "explicacion": "La unidad de la Nación se recoge en el artículo 2."
+      },
+      {
+        "texto": "Derecho a la autonomía de nacionalidades y regiones",
+        "es_correcta": false,
+        "explicacion": "También se menciona en el artículo 2."
+      },
+      {
+        "texto": "Estado social y democrático de Derecho",
+        "es_correcta": false,
+        "explicacion": "Está en el artículo 1.1 del Título Preliminar."
+      },
+      {
+        "texto": "Laicidad del Estado",
+        "es_correcta": true,
+        "explicacion": "La Constitución habla de aconfesionalidad en el art. 16.3, fuera del Título Preliminar, y no usa el término “laico”."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué órgano ejerce la función legislativa del Estado según la Constitución?",
+    "opciones": [
+      {
+        "texto": "El Gobierno",
+        "es_correcta": false,
+        "explicacion": "El Gobierno ejerce la función ejecutiva y la potestad reglamentaria."
+      },
+      {
+        "texto": "Las Cortes Generales",
+        "es_correcta": true,
+        "explicacion": "Las Cortes Generales ejercen la potestad legislativa del Estado."
+      },
+      {
+        "texto": "El Tribunal Constitucional",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional no tiene función legislativa."
+      },
+      {
+        "texto": "El Rey",
+        "es_correcta": false,
+        "explicacion": "El Rey sanciona y promulga las leyes, pero no legisla."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Qué órgano ostenta la Jefatura del Estado según la Constitución?",
+    "opciones": [
+      {
+        "texto": "El Presidente del Gobierno",
+        "es_correcta": false,
+        "explicacion": "El Presidente del Gobierno dirige el Gobierno, pero no es Jefe del Estado."
+      },
+      {
+        "texto": "El Rey",
+        "es_correcta": true,
+        "explicacion": "La Jefatura del Estado corresponde al Rey."
+      },
+      {
+        "texto": "El Presidente del Congreso",
+        "es_correcta": false,
+        "explicacion": "El Presidente del Congreso dirige esa Cámara, no el Estado."
+      },
+      {
+        "texto": "El Tribunal Supremo",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Supremo es el órgano jurisdiccional superior, no el Jefe del Estado."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué poder ejerce el Gobierno de la Nación según la Constitución?",
+    "opciones": [
+      {
+        "texto": "El poder legislativo",
+        "es_correcta": false,
+        "explicacion": "La potestad legislativa corresponde a las Cortes Generales."
+      },
+      {
+        "texto": "El poder ejecutivo",
+        "es_correcta": true,
+        "explicacion": "El Gobierno ejerce la función ejecutiva y la potestad reglamentaria."
+      },
+      {
+        "texto": "El poder judicial",
+        "es_correcta": false,
+        "explicacion": "El poder judicial lo ejercen juzgados y tribunales, no el Gobierno."
+      },
+      {
+        "texto": "El poder constituyente",
+        "es_correcta": false,
+        "explicacion": "El poder constituyente originario se ejerció al aprobar la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cómo define la Constitución la organización territorial del Estado?",
+    "opciones": [
+      {
+        "texto": "Centralizada, sin reconocimiento de autonomías",
+        "es_correcta": false,
+        "explicacion": "La Constitución reconoce el derecho a la autonomía de nacionalidades y regiones."
+      },
+      {
+        "texto": "En municipios, provincias y Comunidades Autónomas",
+        "es_correcta": true,
+        "explicacion": "El Título VIII establece esta organización territorial básica."
+      },
+      {
+        "texto": "Solo en provincias y Comunidades Autónomas",
+        "es_correcta": false,
+        "explicacion": "Los municipios también se mencionan como entidades básicas."
+      },
+      {
+        "texto": "Solo en Comunidades Autónomas, sin referencia a otras entidades",
+        "es_correcta": false,
+        "explicacion": "La Constitución también reconoce municipios y provincias."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué menciona la Constitución sobre los partidos políticos?",
+    "opciones": [
+      {
+        "texto": "Son órganos del Estado integrados en la estructura constitucional",
+        "es_correcta": false,
+        "explicacion": "Los partidos no se consideran órganos del Estado."
+      },
+      {
+        "texto": "Expresan el pluralismo político y concurren a la formación y manifestación de la voluntad popular",
+        "es_correcta": true,
+        "explicacion": "La Constitución les atribuye este papel en el sistema democrático."
+      },
+      {
+        "texto": "Carecen de relevancia constitucional",
+        "es_correcta": false,
+        "explicacion": "Los partidos están explícitamente reconocidos en la Constitución."
+      },
+      {
+        "texto": "Son meras asociaciones privadas sin función pública",
+        "es_correcta": false,
+        "explicacion": "Tienen una función clave en la vida política y en la formación de la voluntad popular."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Qué dice la Constitución sobre los sindicatos de trabajadores y las asociaciones empresariales?",
+    "opciones": [
+      {
+        "texto": "No se mencionan en ningún precepto constitucional",
+        "es_correcta": false,
+        "explicacion": "Sí se mencionan y reconocen en la Constitución."
+      },
+      {
+        "texto": "Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios",
+        "es_correcta": true,
+        "explicacion": "La Constitución les reconoce este papel en el sistema socioeconómico."
+      },
+      {
+        "texto": "Se consideran órganos integrantes de la Administración pública",
+        "es_correcta": false,
+        "explicacion": "No forman parte de la Administración."
+      },
+      {
+        "texto": "Están sometidos jerárquicamente al Gobierno",
+        "es_correcta": false,
+        "explicacion": "No existe tal subordinación jerárquica en la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Qué principio inspira la organización económica según la Constitución?",
+    "opciones": [
+      {
+        "texto": "La economía de libre mercado sin intervención del Estado",
+        "es_correcta": false,
+        "explicacion": "El Estado tiene un papel en la planificación y la intervención económica."
+      },
+      {
+        "texto": "La economía planificada en todos sus aspectos",
+        "es_correcta": false,
+        "explicacion": "No se configura una economía completamente planificada."
+      },
+      {
+        "texto": "La economía social de mercado, inspirada en la justicia social",
+        "es_correcta": true,
+        "explicacion": "La Constitución proclama un modelo de economía social de mercado con atención a la justicia social."
+      },
+      {
+        "texto": "La autarquía económica del Estado",
+        "es_correcta": false,
+        "explicacion": "La Constitución no defiende un modelo autárquico."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Qué carácter tiene la Constitución respecto a los poderes públicos?",
+    "opciones": [
+      {
+        "texto": "Meramente declarativo, sin fuerza vinculante",
+        "es_correcta": false,
+        "explicacion": "La Constitución es jurídicamente vinculante para todos los poderes públicos."
+      },
+      {
+        "texto": "Normativo y vinculante, como norma suprema del ordenamiento",
+        "es_correcta": true,
+        "explicacion": "Los poderes públicos están sometidos a la Constitución y al resto del ordenamiento jurídico."
+      },
+      {
+        "texto": "Solo programático en materia de derechos sociales",
+        "es_correcta": false,
+        "explicacion": "Aunque algunos preceptos tengan contenido programático, la Constitución es norma jurídica."
+      },
+      {
+        "texto": "De mero marco político sin relevancia jurídica",
+        "es_correcta": false,
+        "explicacion": "La Constitución tiene plena eficacia jurídica."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué establece la Constitución sobre la sumisión de los ciudadanos y los poderes públicos?",
+    "opciones": [
+      {
+        "texto": "Están sujetos solo a la ley, pero no a la Constitución",
+        "es_correcta": false,
+        "explicacion": "La Constitución es la norma suprema, también vincula a ciudadanos y poderes públicos."
+      },
+      {
+        "texto": "Están sujetos a la Constitución y al resto del ordenamiento jurídico",
+        "es_correcta": true,
+        "explicacion": "La Constitución proclama la sujeción general a la Constitución y al ordenamiento jurídico."
+      },
+      {
+        "texto": "Solo los poderes públicos están sujetos a la Constitución, no los ciudadanos",
+        "es_correcta": false,
+        "explicacion": "La sujeción alcanza a todos, ciudadanos y poderes públicos."
+      },
+      {
+        "texto": "Solo los ciudadanos están sujetos a la Constitución",
+        "es_correcta": false,
+        "explicacion": "También los poderes públicos están sometidos a ella."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Qué recoge la Constitución sobre la bandera de España?",
+    "opciones": [
+      {
+        "texto": "Que no puede ser modificada en ningún caso",
+        "es_correcta": false,
+        "explicacion": "No establece una prohibición absoluta de modificación, aunque sí describe sus colores."
+      },
+      {
+        "texto": "Que está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura",
+        "es_correcta": true,
+        "explicacion": "La Constitución describe así la bandera de España."
+      },
+      {
+        "texto": "Que cada Comunidad Autónoma podrá adoptar libremente una bandera estatal alternativa",
+        "es_correcta": false,
+        "explicacion": "Las Comunidades pueden tener bandera propia, pero no alternativa a la del Estado."
+      },
+      {
+        "texto": "Que las banderas autonómicas no pueden ondear junto a la bandera de España",
+        "es_correcta": false,
+        "explicacion": "Pueden utilizarse junto a la bandera de España en los edificios públicos."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Qué dice la Constitución sobre las banderas y enseñas de las Comunidades Autónomas?",
+    "opciones": [
+      {
+        "texto": "Que no pueden ser reconocidas en la Constitución",
+        "es_correcta": false,
+        "explicacion": "La Constitución sí admite banderas y enseñas autonómicas."
+      },
+      {
+        "texto": "Que podrán utilizarse junto a la bandera de España en sus edificios públicos y actos oficiales",
+        "es_correcta": true,
+        "explicacion": "La Constitución permite su uso junto con la bandera del Estado."
+      },
+      {
+        "texto": "Que sustituyen a la bandera de España dentro del territorio autonómico",
+        "es_correcta": false,
+        "explicacion": "La bandera de España es obligatoria en todos los edificios públicos."
+      },
+      {
+        "texto": "Que serán determinadas por el Gobierno central",
+        "es_correcta": false,
+        "explicacion": "Cada Comunidad Autónoma establece su propia bandera en su Estatuto."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Qué disposición de la Constitución recoge la derogación de las leyes y normas anteriores incompatibles con ella?",
+    "opciones": [
+      {
+        "texto": "Una disposición final",
+        "es_correcta": false,
+        "explicacion": "La Constitución no contiene disposiciones finales con esa función."
+      },
+      {
+        "texto": "La disposición derogatoria",
+        "es_correcta": true,
+        "explicacion": "La disposición derogatoria deja sin efecto las normas anteriores que se opongan a la Constitución."
+      },
+      {
+        "texto": "Una disposición adicional",
+        "es_correcta": false,
+        "explicacion": "Las disposiciones adicionales tienen otra finalidad."
+      },
+      {
+        "texto": "Una disposición transitoria",
+        "es_correcta": false,
+        "explicacion": "Las disposiciones transitorias regulan el paso del régimen anterior al nuevo."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué función tienen las disposiciones transitorias de la Constitución?",
+    "opciones": [
+      {
+        "texto": "Regular el funcionamiento del Tribunal Constitucional",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional se regula en el Título IX."
+      },
+      {
+        "texto": "Regular el tránsito del ordenamiento jurídico anterior al nuevo régimen constitucional",
+        "es_correcta": true,
+        "explicacion": "Las disposiciones transitorias facilitan la adaptación del ordenamiento anterior a la nueva Constitución."
+      },
+      {
+        "texto": "Introducir nuevas competencias al Gobierno",
+        "es_correcta": false,
+        "explicacion": "No es el objetivo de dichas disposiciones."
+      },
+      {
+        "texto": "Establecer los valores superiores del ordenamiento",
+        "es_correcta": false,
+        "explicacion": "Los valores superiores se establecen en el artículo 1.1."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Qué finalidad tienen las disposiciones adicionales en la Constitución?",
+    "opciones": [
+      {
+        "texto": "Regular aspectos particulares o específicos no encajables en el articulado general",
+        "es_correcta": true,
+        "explicacion": "Las disposiciones adicionales introducen previsiones específicas adicionales al articulado."
+      },
+      {
+        "texto": "Derogar de forma general todas las leyes anteriores",
+        "es_correcta": false,
+        "explicacion": "La función derogatoria corresponde a la disposición derogatoria."
+      },
+      {
+        "texto": "Establecer el procedimiento de reforma de la Constitución",
+        "es_correcta": false,
+        "explicacion": "La reforma se regula en el Título X."
+      },
+      {
+        "texto": "Regular la estructura del poder judicial",
+        "es_correcta": false,
+        "explicacion": "El poder judicial se regula principalmente en el Título VI."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué se establece en la disposición final de la Constitución?",
+    "opciones": [
+      {
+        "texto": "La entrada en vigor de la Constitución",
+        "es_correcta": true,
+        "explicacion": "La disposición final fija la entrada en vigor, producida al día de su publicación."
+      },
+      {
+        "texto": "La derogación de las Leyes Fundamentales anteriores",
+        "es_correcta": false,
+        "explicacion": "Esto se recoge en la disposición derogatoria."
+      },
+      {
+        "texto": "El reconocimiento de las banderas autonómicas",
+        "es_correcta": false,
+        "explicacion": "El reconocimiento de banderas se encuentra en el articulado, no en la disposición final."
+      },
+      {
+        "texto": "La organización de las elecciones generales",
+        "es_correcta": false,
+        "explicacion": "Las elecciones generales se regulan en otros preceptos y leyes."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Qué expresa el Preámbulo en relación con el Estado de Derecho?",
+    "opciones": [
+      {
+        "texto": "El propósito de establecer la justicia, la libertad y la seguridad, y promover el bien de cuantos integran la Nación",
+        "es_correcta": true,
+        "explicacion": "El Preámbulo recoge estos objetivos generales del texto constitucional."
+      },
+      {
+        "texto": "La decisión de instaurar una monarquía absoluta",
+        "es_correcta": false,
+        "explicacion": "La Constitución establece una monarquía parlamentaria, no absoluta."
+      },
+      {
+        "texto": "La primacía del poder ejecutivo sobre el resto",
+        "es_correcta": false,
+        "explicacion": "No se proclama la supremacía del ejecutivo."
+      },
+      {
+        "texto": "La subordinación de los derechos fundamentales a la economía",
+        "es_correcta": false,
+        "explicacion": "La Constitución no subordina los derechos fundamentales a la economía."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre la Constitución es INCORRECTA?",
+    "opciones": [
+      {
+        "texto": "Es la norma suprema del ordenamiento jurídico",
+        "es_correcta": false,
+        "explicacion": "Es correcto que la Constitución sea la norma suprema."
+      },
+      {
+        "texto": "Contiene valores y principios fundamentales que vinculan a los poderes públicos",
+        "es_correcta": false,
+        "explicacion": "Es correcto; los valores y principios vinculan a los poderes públicos."
+      },
+      {
+        "texto": "Puede ser reformada mediante los procedimientos que ella misma establece",
+        "es_correcta": false,
+        "explicacion": "También es correcto; la reforma se sujeta al Título X."
+      },
+      {
+        "texto": "Permite que una ley ordinaria modifique directamente el texto constitucional",
+        "es_correcta": true,
+        "explicacion": "Es incorrecto; ninguna ley ordinaria puede modificar la Constitución."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué tipo de control garantiza la supremacía de la Constitución frente a las leyes?",
+    "opciones": [
+      {
+        "texto": "Control de constitucionalidad ejercido por el Tribunal Constitucional",
+        "es_correcta": true,
+        "explicacion": "El Tribunal Constitucional controla la adecuación de las leyes a la Constitución."
+      },
+      {
+        "texto": "Control de constitucionalidad ejercido por el Rey",
+        "es_correcta": false,
+        "explicacion": "El Rey no ejerce control de constitucionalidad sobre las leyes."
+      },
+      {
+        "texto": "Control discrecional ejercido por el Gobierno",
+        "es_correcta": false,
+        "explicacion": "El Gobierno no controla la constitucionalidad de las leyes."
+      },
+      {
+        "texto": "Control político ejercido por los partidos mayoritarios",
+        "es_correcta": false,
+        "explicacion": "Los partidos no tienen un control jurídico de constitucionalidad."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Cuál de las siguientes opciones refleja mejor la importancia de la Constitución en el sistema de fuentes?",
+    "opciones": [
+      {
+        "texto": "Es una ley ordinaria con rango similar a las demás",
+        "es_correcta": false,
+        "explicacion": "La Constitución tiene rango superior al resto de normas."
+      },
+      {
+        "texto": "Es la norma básica a la que se subordinan todas las demás fuentes del derecho",
+        "es_correcta": true,
+        "explicacion": "El sistema de fuentes se ordena jerárquicamente bajo la Constitución."
+      },
+      {
+        "texto": "Es una norma de carácter interno sin efectos jurídicos externos",
+        "es_correcta": false,
+        "explicacion": "La Constitución tiene plena eficacia jurídica frente a todos."
+      },
+      {
+        "texto": "Su cumplimiento es optativo para los poderes públicos",
+        "es_correcta": false,
+        "explicacion": "La Constitución vincula obligatoriamente a poderes públicos y ciudadanos."
+      }
+    ]
+  }
+]

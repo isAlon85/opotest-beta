@@ -79421,22 +79421,22 @@
       {
         "texto": "El Gobierno",
         "es_correcta": false,
-        "explicacion": "Falsa. El Gobierno dirige la política interior y exterior, pero no representa al pueblo ni ejerce la potestad legislativa. Referencia: art. 66 CE."
+        "explicacion": "El Gobierno dirige la política interior y exterior, pero no representa al pueblo ni ejerce la potestad legislativa. Referencia: art. 66 CE."
       },
       {
         "texto": "Las Cortes Generales",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Constitución atribuye a las Cortes Generales la representación del pueblo español y la potestad legislativa del Estado. Referencia: art. 66 CE."
+        "explicacion": "La Constitución atribuye a las Cortes Generales la representación del pueblo español y la potestad legislativa del Estado. Referencia: art. 66 CE."
       },
       {
         "texto": "El Tribunal Constitucional",
         "es_correcta": false,
-        "explicacion": "Falsa. El Tribunal Constitucional controla la constitucionalidad de las normas, pero no ejerce la potestad legislativa. Referencia: arts. 159 y 161 CE."
+        "explicacion": "El Tribunal Constitucional controla la constitucionalidad de las normas, pero no ejerce la potestad legislativa. Referencia: arts. 159 y 161 CE."
       },
       {
         "texto": "El Rey",
         "es_correcta": false,
-        "explicacion": "Falsa. El Rey sanciona y promulga las leyes, pero no ejerce la potestad legislativa. Referencia: art. 62.a CE."
+        "explicacion": "El Rey sanciona y promulga las leyes, pero no ejerce la potestad legislativa. Referencia: art. 62.a CE."
       }
     ]
   },
@@ -79447,22 +79447,22 @@
       {
         "texto": "La confesionalidad del Estado",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución afirma exactamente lo contrario: ninguna confesión tendrá carácter estatal. Referencia: art. 16.3 CE."
+        "explicacion": "La Constitución afirma exactamente lo contrario: ninguna confesión tendrá carácter estatal. Referencia: art. 16.3 CE."
       },
       {
         "texto": "La aconfesionalidad del Estado",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Constitución establece que ninguna confesión tendrá carácter estatal y que los poderes públicos mantendrán cooperación con las confesiones. Referencia: art. 16.3 CE."
+        "explicacion": "La Constitución establece que ninguna confesión tendrá carácter estatal y que los poderes públicos mantendrán cooperación con las confesiones. Referencia: art. 16.3 CE."
       },
       {
         "texto": "La supremacía de la religión mayoritaria",
         "es_correcta": false,
-        "explicacion": "Falsa. No existe supremacía religiosa constitucional; rige la neutralidad estatal. Referencia: art. 16.3 CE."
+        "explicacion": "No existe supremacía religiosa constitucional; rige la neutralidad estatal. Referencia: art. 16.3 CE."
       },
       {
         "texto": "La obligación de declarar la religión oficial",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución prohíbe una religión oficial del Estado. Referencia: art. 16.3 CE."
+        "explicacion": "La Constitución prohíbe una religión oficial del Estado. Referencia: art. 16.3 CE."
       }
     ]
   },
@@ -79473,22 +79473,22 @@
       {
         "texto": "48 horas",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución fija el máximo en 72 horas. Referencia: art. 17.2 CE."
+        "explicacion": "La Constitución fija el máximo en 72 horas. Referencia: art. 17.2 CE."
       },
       {
         "texto": "72 horas",
         "es_correcta": true,
-        "explicacion": "Verdadera. La detención preventiva no puede exceder de 72 horas antes de la puesta en libertad o a disposición judicial. Referencia: art. 17.2 CE."
+        "explicacion": "La detención preventiva no puede exceder de 72 horas antes de la puesta en libertad o a disposición judicial. Referencia: art. 17.2 CE."
       },
       {
         "texto": "5 días",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el plazo constitucional de la detención preventiva. Referencia: art. 17.2 CE."
+        "explicacion": "No es el plazo constitucional de la detención preventiva. Referencia: art. 17.2 CE."
       },
       {
         "texto": "1 semana",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución no permite ese plazo como regla general. Referencia: art. 17.2 CE."
+        "explicacion": "La Constitución no permite ese plazo como regla general. Referencia: art. 17.2 CE."
       }
     ]
   },
@@ -79499,22 +79499,22 @@
       {
         "texto": "La libertad de expresión",
         "es_correcta": false,
-        "explicacion": "Falsa. La inviolabilidad del domicilio se regula en el artículo 18.2 CE, no en libertad de expresión. Referencia: art. 18.2 CE."
+        "explicacion": "La inviolabilidad del domicilio se regula en el artículo 18.2 CE, no en libertad de expresión. Referencia: art. 18.2 CE."
       },
       {
         "texto": "El secreto de las comunicaciones",
         "es_correcta": false,
-        "explicacion": "Falsa. El secreto de las comunicaciones es otro derecho distinto, recogido en el artículo 18.3 CE. Referencia: art. 18.3 CE."
+        "explicacion": "El secreto de las comunicaciones es otro derecho distinto, recogido en el artículo 18.3 CE. Referencia: art. 18.3 CE."
       },
       {
         "texto": "La inviolabilidad del domicilio",
         "es_correcta": true,
-        "explicacion": "Verdadera. Nadie puede entrar o registrar un domicilio sin consentimiento del titular, resolución judicial o flagrante delito. Referencia: art. 18.2 CE."
+        "explicacion": "Nadie puede entrar o registrar un domicilio sin consentimiento del titular, resolución judicial o flagrante delito. Referencia: art. 18.2 CE."
       },
       {
         "texto": "La tutela judicial efectiva",
         "es_correcta": false,
-        "explicacion": "Falsa. Ese derecho se recoge en el artículo 24 CE, no en el 18.2. Referencia: art. 24 CE."
+        "explicacion": "Ese derecho se recoge en el artículo 24 CE, no en el 18.2. Referencia: art. 24 CE."
       }
     ]
   },
@@ -79525,22 +79525,22 @@
       {
         "texto": "El Presidente del Gobierno",
         "es_correcta": false,
-        "explicacion": "Falsa. El Presidente del Gobierno dirige la acción del Gobierno, pero no es Jefe del Estado. Referencia: art. 56.1 CE."
+        "explicacion": "El Presidente del Gobierno dirige la acción del Gobierno, pero no es Jefe del Estado. Referencia: art. 56.1 CE."
       },
       {
         "texto": "El Rey",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Rey es el Jefe del Estado, símbolo de su unidad y permanencia. Referencia: art. 56.1 CE."
+        "explicacion": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia. Referencia: art. 56.1 CE."
       },
       {
         "texto": "El Congreso de los Diputados",
         "es_correcta": false,
-        "explicacion": "Falsa. El Congreso es una de las Cámaras legislativas, no el Jefe del Estado. Referencia: art. 66 CE."
+        "explicacion": "El Congreso es una de las Cámaras legislativas, no el Jefe del Estado. Referencia: art. 66 CE."
       },
       {
         "texto": "El Tribunal Supremo",
         "es_correcta": false,
-        "explicacion": "Falsa. El Tribunal Supremo es el órgano jurisdiccional superior, no el Jefe del Estado. Referencia: art. 123 CE."
+        "explicacion": "El Tribunal Supremo es el órgano jurisdiccional superior, no el Jefe del Estado. Referencia: art. 123 CE."
       }
     ]
   },
@@ -79551,22 +79551,22 @@
       {
         "texto": "Artículo 16",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 16 regula libertad ideológica, religiosa y de culto. Referencia: art. 16 CE."
+        "explicacion": "El artículo 16 regula libertad ideológica, religiosa y de culto. Referencia: art. 16 CE."
       },
       {
         "texto": "Artículo 20",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 20.2 CE establece que el ejercicio de estas libertades no puede restringirse mediante censura previa. Referencia: art. 20.2 CE."
+        "explicacion": "El artículo 20.2 CE establece que el ejercicio de estas libertades no puede restringirse mediante censura previa. Referencia: art. 20.2 CE."
       },
       {
         "texto": "Artículo 23",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 23 regula participación política y acceso a cargos públicos. Referencia: art. 23 CE."
+        "explicacion": "El artículo 23 regula participación política y acceso a cargos públicos. Referencia: art. 23 CE."
       },
       {
         "texto": "Artículo 24",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 24 regula tutela judicial efectiva y garantías procesales. Referencia: art. 24 CE."
+        "explicacion": "El artículo 24 regula tutela judicial efectiva y garantías procesales. Referencia: art. 24 CE."
       }
     ]
   },
@@ -79577,22 +79577,22 @@
       {
         "texto": "Mayoría simple del Congreso",
         "es_correcta": false,
-        "explicacion": "Falsa. Las leyes orgánicas exigen mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto. Referencia: art. 81.2 CE."
+        "explicacion": "Las leyes orgánicas exigen mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto. Referencia: art. 81.2 CE."
       },
       {
         "texto": "Mayoría absoluta del Congreso",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Constitución exige mayoría absoluta del Congreso en votación final sobre el conjunto para aprobarlas, modificarlas o derogarlas. Referencia: art. 81.2 CE."
+        "explicacion": "La Constitución exige mayoría absoluta del Congreso en votación final sobre el conjunto para aprobarlas, modificarlas o derogarlas. Referencia: art. 81.2 CE."
       },
       {
         "texto": "Dos tercios de ambas Cámaras",
         "es_correcta": false,
-        "explicacion": "Falsa. Esa mayoría corresponde a ciertos procedimientos de reforma constitucional, no a las leyes orgánicas. Referencia: arts. 167 y 168 CE."
+        "explicacion": "Esa mayoría corresponde a ciertos procedimientos de reforma constitucional, no a las leyes orgánicas. Referencia: arts. 167 y 168 CE."
       },
       {
         "texto": "Unanimidad parlamentaria",
         "es_correcta": false,
-        "explicacion": "Falsa. No se exige unanimidad para las leyes orgánicas. Referencia: art. 81.2 CE."
+        "explicacion": "No se exige unanimidad para las leyes orgánicas. Referencia: art. 81.2 CE."
       }
     ]
   },
@@ -79603,22 +79603,22 @@
       {
         "texto": "10 días",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución fija un plazo de 15 días. Referencia: art. 91 CE."
+        "explicacion": "La Constitución fija un plazo de 15 días. Referencia: art. 91 CE."
       },
       {
         "texto": "15 días",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Rey sancionará en el plazo de 15 días las leyes aprobadas por las Cortes Generales. Referencia: art. 91 CE."
+        "explicacion": "El Rey sancionará en el plazo de 15 días las leyes aprobadas por las Cortes Generales. Referencia: art. 91 CE."
       },
       {
         "texto": "30 días",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el plazo previsto constitucionalmente. Referencia: art. 91 CE."
+        "explicacion": "No es el plazo previsto constitucionalmente. Referencia: art. 91 CE."
       },
       {
         "texto": "48 horas",
         "es_correcta": false,
-        "explicacion": "Falsa. No existe ese plazo en el artículo 91 CE. Referencia: art. 91 CE."
+        "explicacion": "No existe ese plazo en el artículo 91 CE. Referencia: art. 91 CE."
       }
     ]
   },
@@ -79629,22 +79629,22 @@
       {
         "texto": "El Consejo de Estado",
         "es_correcta": false,
-        "explicacion": "Falsa. El Consejo de Estado es un órgano consultivo, no jurisdiccional. Referencia: art. 107 CE."
+        "explicacion": "El Consejo de Estado es un órgano consultivo, no jurisdiccional. Referencia: art. 107 CE."
       },
       {
         "texto": "El Tribunal Constitucional",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Tribunal Constitucional conoce del recurso de inconstitucionalidad y de la cuestión de inconstitucionalidad. Referencia: arts. 161 y 163 CE."
+        "explicacion": "El Tribunal Constitucional conoce del recurso de inconstitucionalidad y de la cuestión de inconstitucionalidad. Referencia: arts. 161 y 163 CE."
       },
       {
         "texto": "El Tribunal Supremo",
         "es_correcta": false,
-        "explicacion": "Falsa. Aunque es el órgano jurisdiccional superior en todos los órdenes, no controla la constitucionalidad de las leyes. Referencia: art. 123 CE."
+        "explicacion": "Aunque es el órgano jurisdiccional superior en todos los órdenes, no controla la constitucionalidad de las leyes. Referencia: art. 123 CE."
       },
       {
         "texto": "El Defensor del Pueblo",
         "es_correcta": false,
-        "explicacion": "Falsa. Puede interponer recursos, pero no resolver sobre constitucionalidad. Referencia: art. 162 CE."
+        "explicacion": "Puede interponer recursos, pero no resolver sobre constitucionalidad. Referencia: art. 162 CE."
       }
     ]
   },
@@ -79655,22 +79655,22 @@
       {
         "texto": "Derecho a la educación",
         "es_correcta": false,
-        "explicacion": "Falsa. El derecho a la educación se regula en el artículo 27 CE. Referencia: art. 27 CE."
+        "explicacion": "El derecho a la educación se regula en el artículo 27 CE. Referencia: art. 27 CE."
       },
       {
         "texto": "Derecho a la participación política y al acceso a cargos públicos en condiciones de igualdad",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 23 CE reconoce ambos derechos: participación en asuntos públicos y acceso en igualdad a cargos públicos. Referencia: art. 23 CE."
+        "explicacion": "El artículo 23 CE reconoce ambos derechos: participación en asuntos públicos y acceso en igualdad a cargos públicos. Referencia: art. 23 CE."
       },
       {
         "texto": "Derecho de petición",
         "es_correcta": false,
-        "explicacion": "Falsa. El derecho de petición está en el artículo 29 CE. Referencia: art. 29 CE."
+        "explicacion": "El derecho de petición está en el artículo 29 CE. Referencia: art. 29 CE."
       },
       {
         "texto": "Derecho al honor",
         "es_correcta": false,
-        "explicacion": "Falsa. El honor está protegido en el artículo 18.1 CE. Referencia: art. 18.1 CE."
+        "explicacion": "El honor está protegido en el artículo 18.1 CE. Referencia: art. 18.1 CE."
       }
     ]
   },
@@ -79681,22 +79681,22 @@
       {
         "texto": "La Junta de Castilla y León",
         "es_correcta": false,
-        "explicacion": "Falsa. La Junta es el órgano de gobierno y administración de la Comunidad, no el órgano representativo del pueblo. Referencia: EACyL."
+        "explicacion": "La Junta es el órgano de gobierno y administración de la Comunidad, no el órgano representativo del pueblo. Referencia: EACyL."
       },
       {
         "texto": "Las Cortes de Castilla y León",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Estatuto atribuye a las Cortes la representación del pueblo de Castilla y León. Referencia: art. 20.1 EACyL."
+        "explicacion": "El Estatuto atribuye a las Cortes la representación del pueblo de Castilla y León. Referencia: art. 20.1 EACyL."
       },
       {
         "texto": "El Procurador del Común",
         "es_correcta": false,
-        "explicacion": "Falsa. Es el Alto Comisionado de las Cortes para la protección de derechos, no el órgano representativo. Referencia: art. 18 EACyL."
+        "explicacion": "Es el Alto Comisionado de las Cortes para la protección de derechos, no el órgano representativo. Referencia: art. 18 EACyL."
       },
       {
         "texto": "El Consejo Consultivo",
         "es_correcta": false,
-        "explicacion": "Falsa. Tiene función consultiva, no representativa. Referencia: art. 33 EACyL."
+        "explicacion": "Tiene función consultiva, no representativa. Referencia: art. 33 EACyL."
       }
     ]
   },
@@ -79707,22 +79707,22 @@
       {
         "texto": "Diputados",
         "es_correcta": false,
-        "explicacion": "Falsa. El Estatuto utiliza la denominación tradicional de Procuradores. Referencia: art. 21.1 EACyL."
+        "explicacion": "El Estatuto utiliza la denominación tradicional de Procuradores. Referencia: art. 21.1 EACyL."
       },
       {
         "texto": "Procuradores",
         "es_correcta": true,
-        "explicacion": "Verdadera. Los miembros de las Cortes de Castilla y León reciben la denominación de Procuradores. Referencia: art. 21.1 EACyL."
+        "explicacion": "Los miembros de las Cortes de Castilla y León reciben la denominación de Procuradores. Referencia: art. 21.1 EACyL."
       },
       {
         "texto": "Senadores",
         "es_correcta": false,
-        "explicacion": "Falsa. Los Senadores representan a la Comunidad en la Cámara Alta, pero no son los miembros de las Cortes. Referencia: art. 24.5 EACyL."
+        "explicacion": "Los Senadores representan a la Comunidad en la Cámara Alta, pero no son los miembros de las Cortes. Referencia: art. 24.5 EACyL."
       },
       {
         "texto": "Consejeros",
         "es_correcta": false,
-        "explicacion": "Falsa. Los Consejeros integran la Junta, no las Cortes. Referencia: EACyL."
+        "explicacion": "Los Consejeros integran la Junta, no las Cortes. Referencia: EACyL."
       }
     ]
   },
@@ -79733,22 +79733,22 @@
       {
         "texto": "Derecho a que todas las solicitudes sean estimadas",
         "es_correcta": false,
-        "explicacion": "Falsa. La buena Administración no implica estimación automática de solicitudes. Referencia: art. 12 EACyL."
+        "explicacion": "La buena Administración no implica estimación automática de solicitudes. Referencia: art. 12 EACyL."
       },
       {
         "texto": "Derecho a un trato imparcial y objetivo y a la resolución en un plazo razonable",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Estatuto reconoce esos elementos como parte del derecho a una buena Administración. Referencia: art. 12 EACyL."
+        "explicacion": "El Estatuto reconoce esos elementos como parte del derecho a una buena Administración. Referencia: art. 12 EACyL."
       },
       {
         "texto": "Derecho a elegir libremente al funcionario instructor",
         "es_correcta": false,
-        "explicacion": "Falsa. No existe tal derecho subjetivo. Referencia: art. 12 EACyL."
+        "explicacion": "No existe tal derecho subjetivo. Referencia: art. 12 EACyL."
       },
       {
         "texto": "Derecho a la gratuidad absoluta de todos los procedimientos",
         "es_correcta": false,
-        "explicacion": "Falsa. La gratuidad no se reconoce de forma general. Referencia: art. 12 EACyL."
+        "explicacion": "La gratuidad no se reconoce de forma general. Referencia: art. 12 EACyL."
       }
     ]
   },
@@ -79759,22 +79759,22 @@
       {
         "texto": "El Consejo de Cuentas",
         "es_correcta": false,
-        "explicacion": "Falsa. El Consejo de Cuentas fiscaliza la actividad económico-presupuestaria, no defiende derechos. Referencia: art. 90 EACyL."
+        "explicacion": "El Consejo de Cuentas fiscaliza la actividad económico-presupuestaria, no defiende derechos. Referencia: art. 90 EACyL."
       },
       {
         "texto": "El Procurador del Común",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Procurador del Común es el Alto Comisionado de las Cortes para la defensa de los derechos constitucionales y estatutarios. Referencia: art. 18.1 EACyL."
+        "explicacion": "El Procurador del Común es el Alto Comisionado de las Cortes para la defensa de los derechos constitucionales y estatutarios. Referencia: art. 18.1 EACyL."
       },
       {
         "texto": "El Presidente de la Junta",
         "es_correcta": false,
-        "explicacion": "Falsa. No tiene la condición de Alto Comisionado parlamentario. Referencia: EACyL."
+        "explicacion": "No tiene la condición de Alto Comisionado parlamentario. Referencia: EACyL."
       },
       {
         "texto": "El Tribunal Superior de Justicia",
         "es_correcta": false,
-        "explicacion": "Falsa. Es órgano judicial, no comisionado de derechos. Referencia: art. 40 EACyL."
+        "explicacion": "Es órgano judicial, no comisionado de derechos. Referencia: art. 40 EACyL."
       }
     ]
   },
@@ -79785,22 +79785,22 @@
       {
         "texto": "23 de abril",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Estatuto establece el 23 de abril como fiesta oficial de la Comunidad de Castilla y León. Referencia: art. 6.2 EACyL."
+        "explicacion": "El Estatuto establece el 23 de abril como fiesta oficial de la Comunidad de Castilla y León. Referencia: art. 6.2 EACyL."
       },
       {
         "texto": "12 de octubre",
         "es_correcta": false,
-        "explicacion": "Falsa. Es la Fiesta Nacional de España, no la fiesta oficial autonómica. Referencia: CE."
+        "explicacion": "Es la Fiesta Nacional de España, no la fiesta oficial autonómica. Referencia: CE."
       },
       {
         "texto": "6 de diciembre",
         "es_correcta": false,
-        "explicacion": "Falsa. Es el Día de la Constitución Española. Referencia: CE."
+        "explicacion": "Es el Día de la Constitución Española. Referencia: CE."
       },
       {
         "texto": "1 de mayo",
         "es_correcta": false,
-        "explicacion": "Falsa. Es el Día del Trabajo, no la fiesta oficial estatutaria. Referencia: CE."
+        "explicacion": "Es el Día del Trabajo, no la fiesta oficial estatutaria. Referencia: CE."
       }
     ]
   },
@@ -79811,22 +79811,22 @@
       {
         "texto": "Es lengua oficial junto al castellano",
         "es_correcta": false,
-        "explicacion": "Falsa. El Estatuto no le atribuye oficialidad general. Referencia: art. 5 EACyL."
+        "explicacion": "El Estatuto no le atribuye oficialidad general. Referencia: art. 5 EACyL."
       },
       {
         "texto": "Será objeto de protección específica, y su protección, uso y promoción serán regulados",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Estatuto prevé protección específica del leonés y su regulación. Referencia: art. 5.2 EACyL."
+        "explicacion": "El Estatuto prevé protección específica del leonés y su regulación. Referencia: art. 5.2 EACyL."
       },
       {
         "texto": "Solo podrá usarse en actos privados",
         "es_correcta": false,
-        "explicacion": "Falsa. No existe esa limitación estatutaria. Referencia: art. 5.2 EACyL."
+        "explicacion": "No existe esa limitación estatutaria. Referencia: art. 5.2 EACyL."
       },
       {
         "texto": "No recibe ninguna protección",
         "es_correcta": false,
-        "explicacion": "Falsa. Sí recibe protección específica. Referencia: art. 5.2 EACyL."
+        "explicacion": "Sí recibe protección específica. Referencia: art. 5.2 EACyL."
       }
     ]
   },
@@ -79837,22 +79837,22 @@
       {
         "texto": "El gallego",
         "es_correcta": false,
-        "explicacion": "Falsa. El gallego es cooficial en su Comunidad Autónoma, pero no lengua oficial del Estado. Referencia: art. 3 CE."
+        "explicacion": "El gallego es cooficial en su Comunidad Autónoma, pero no lengua oficial del Estado. Referencia: art. 3 CE."
       },
       {
         "texto": "El castellano",
         "es_correcta": true,
-        "explicacion": "Verdadera. El castellano es la lengua española oficial del Estado, y todos tienen el deber de conocerla y el derecho a usarla. Referencia: art. 3.1 CE."
+        "explicacion": "El castellano es la lengua española oficial del Estado, y todos tienen el deber de conocerla y el derecho a usarla. Referencia: art. 3.1 CE."
       },
       {
         "texto": "El catalán",
         "es_correcta": false,
-        "explicacion": "Falsa. Es cooficial en su ámbito territorial, no lengua oficial del Estado. Referencia: art. 3 CE."
+        "explicacion": "Es cooficial en su ámbito territorial, no lengua oficial del Estado. Referencia: art. 3 CE."
       },
       {
         "texto": "El euskera",
         "es_correcta": false,
-        "explicacion": "Falsa. Es cooficial en su Comunidad Autónoma, no lengua oficial del Estado. Referencia: art. 3 CE."
+        "explicacion": "Es cooficial en su Comunidad Autónoma, no lengua oficial del Estado. Referencia: art. 3 CE."
       }
     ]
   },
@@ -79863,22 +79863,22 @@
       {
         "texto": "No tienen derecho a elegir residencia",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución reconoce ese derecho expresamente. Referencia: art. 19 CE."
+        "explicacion": "La Constitución reconoce ese derecho expresamente. Referencia: art. 19 CE."
       },
       {
         "texto": "Pueden elegir libremente su residencia y circular por el territorio nacional",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 19 CE reconoce la libertad de residencia y circulación por el territorio nacional. Referencia: art. 19 CE."
+        "explicacion": "El artículo 19 CE reconoce la libertad de residencia y circulación por el territorio nacional. Referencia: art. 19 CE."
       },
       {
         "texto": "Solo pueden circular con autorización judicial",
         "es_correcta": false,
-        "explicacion": "Falsa. La libertad es la regla y la limitación, excepcional. Referencia: art. 19 CE."
+        "explicacion": "La libertad es la regla y la limitación, excepcional. Referencia: art. 19 CE."
       },
       {
         "texto": "Solo pueden residir en su provincia de nacimiento",
         "es_correcta": false,
-        "explicacion": "Falsa. No existe esa restricción constitucional. Referencia: art. 19 CE."
+        "explicacion": "No existe esa restricción constitucional. Referencia: art. 19 CE."
       }
     ]
   },
@@ -79889,22 +79889,22 @@
       {
         "texto": "Mayoría simple de cada Cámara",
         "es_correcta": false,
-        "explicacion": "Falsa. La reforma ordinaria exige tres quintos de cada Cámara, con matices si no hay acuerdo. Referencia: art. 167 CE."
+        "explicacion": "La reforma ordinaria exige tres quintos de cada Cámara, con matices si no hay acuerdo. Referencia: art. 167 CE."
       },
       {
         "texto": "Mayoría de tres quintos de cada Cámara",
         "es_correcta": true,
-        "explicacion": "Verdadera. Esa es la mayoría exigida por el artículo 167 CE para la reforma ordinaria. Referencia: art. 167.1 CE."
+        "explicacion": "Esa es la mayoría exigida por el artículo 167 CE para la reforma ordinaria. Referencia: art. 167.1 CE."
       },
       {
         "texto": "Mayoría absoluta del Senado",
         "es_correcta": false,
-        "explicacion": "Falsa. No basta la mayoría absoluta del Senado para la reforma ordinaria. Referencia: art. 167 CE."
+        "explicacion": "No basta la mayoría absoluta del Senado para la reforma ordinaria. Referencia: art. 167 CE."
       },
       {
         "texto": "Unanimidad de ambas Cámaras",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución no exige unanimidad. Referencia: art. 167 CE."
+        "explicacion": "La Constitución no exige unanimidad. Referencia: art. 167 CE."
       }
     ]
   },
@@ -79915,22 +79915,22 @@
       {
         "texto": "Procedimiento agravado del artículo 168",
         "es_correcta": true,
-        "explicacion": "Verdadera. Las reformas que afecten al Título Preliminar deben seguir el procedimiento agravado del artículo 168 CE. Referencia: art. 168 CE."
+        "explicacion": "Las reformas que afecten al Título Preliminar deben seguir el procedimiento agravado del artículo 168 CE. Referencia: art. 168 CE."
       },
       {
         "texto": "Procedimiento del artículo 167",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 167 regula la reforma ordinaria, no la del Título Preliminar. Referencia: art. 167 CE."
+        "explicacion": "El artículo 167 regula la reforma ordinaria, no la del Título Preliminar. Referencia: art. 167 CE."
       },
       {
         "texto": "Decreto-ley",
         "es_correcta": false,
-        "explicacion": "Falsa. Un Decreto-ley no puede reformar la Constitución. Referencia: art. 86 CE."
+        "explicacion": "Un Decreto-ley no puede reformar la Constitución. Referencia: art. 86 CE."
       },
       {
         "texto": "Ley ordinaria",
         "es_correcta": false,
-        "explicacion": "Falsa. La reforma constitucional no puede hacerse por ley ordinaria. Referencia: arts. 167 y 168 CE."
+        "explicacion": "La reforma constitucional no puede hacerse por ley ordinaria. Referencia: arts. 167 y 168 CE."
       }
     ]
   },
@@ -79941,22 +79941,22 @@
       {
         "texto": "El Rey",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Rey convoca elecciones en los términos previstos por la Constitución. Referencia: art. 62.b CE."
+        "explicacion": "El Rey convoca elecciones en los términos previstos por la Constitución. Referencia: art. 62.b CE."
       },
       {
         "texto": "El Senado",
         "es_correcta": false,
-        "explicacion": "Falsa. El Senado no convoca elecciones generales. Referencia: CE."
+        "explicacion": "El Senado no convoca elecciones generales. Referencia: CE."
       },
       {
         "texto": "El Consejo de Ministros sin refrendo",
         "es_correcta": false,
-        "explicacion": "Falsa. La convocatoria corresponde al Rey, con el refrendo correspondiente en los casos constitucionales. Referencia: arts. 62.b y 64 CE."
+        "explicacion": "La convocatoria corresponde al Rey, con el refrendo correspondiente en los casos constitucionales. Referencia: arts. 62.b y 64 CE."
       },
       {
         "texto": "El Tribunal Supremo",
         "es_correcta": false,
-        "explicacion": "Falsa. No tiene competencia electoral de convocatoria. Referencia: CE."
+        "explicacion": "No tiene competencia electoral de convocatoria. Referencia: CE."
       }
     ]
   },
@@ -79967,22 +79967,22 @@
       {
         "texto": "Derecho de reunión pacífica y sin armas",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 21 CE reconoce ese derecho y establece que no necesita autorización previa. Referencia: art. 21.1 CE."
+        "explicacion": "El artículo 21 CE reconoce ese derecho y establece que no necesita autorización previa. Referencia: art. 21.1 CE."
       },
       {
         "texto": "Derecho a la educación",
         "es_correcta": false,
-        "explicacion": "Falsa. El derecho a la educación se regula en el artículo 27 CE. Referencia: art. 27 CE."
+        "explicacion": "El derecho a la educación se regula en el artículo 27 CE. Referencia: art. 27 CE."
       },
       {
         "texto": "Derecho al trabajo",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el artículo 35 CE. Referencia: art. 35 CE."
+        "explicacion": "Se regula en el artículo 35 CE. Referencia: art. 35 CE."
       },
       {
         "texto": "Derecho de petición",
         "es_correcta": false,
-        "explicacion": "Falsa. Está en el artículo 29 CE. Referencia: art. 29 CE."
+        "explicacion": "Está en el artículo 29 CE. Referencia: art. 29 CE."
       }
     ]
   },
@@ -79993,22 +79993,22 @@
       {
         "texto": "Artículo 28.1",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 28.1 CE reconoce el derecho a sindicarse libremente. Referencia: art. 28.1 CE."
+        "explicacion": "El artículo 28.1 CE reconoce el derecho a sindicarse libremente. Referencia: art. 28.1 CE."
       },
       {
         "texto": "Artículo 28.2",
         "es_correcta": false,
-        "explicacion": "Falsa. Ese apartado se refiere al derecho de huelga. Referencia: art. 28.2 CE."
+        "explicacion": "Ese apartado se refiere al derecho de huelga. Referencia: art. 28.2 CE."
       },
       {
         "texto": "Artículo 37.1",
         "es_correcta": false,
-        "explicacion": "Falsa. Ese artículo regula la negociación colectiva laboral. Referencia: art. 37.1 CE."
+        "explicacion": "Ese artículo regula la negociación colectiva laboral. Referencia: art. 37.1 CE."
       },
       {
         "texto": "Artículo 23.1",
         "es_correcta": false,
-        "explicacion": "Falsa. Se refiere a la participación en asuntos públicos. Referencia: art. 23.1 CE."
+        "explicacion": "Se refiere a la participación en asuntos públicos. Referencia: art. 23.1 CE."
       }
     ]
   },
@@ -80019,22 +80019,22 @@
       {
         "texto": "Artículo 24",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 24 regula tutela judicial efectiva. Referencia: art. 24 CE."
+        "explicacion": "El artículo 24 regula tutela judicial efectiva. Referencia: art. 24 CE."
       },
       {
         "texto": "Artículo 26",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 26 CE prohíbe los Tribunales de Honor en la Administración civil y en las organizaciones profesionales. Referencia: art. 26 CE."
+        "explicacion": "El artículo 26 CE prohíbe los Tribunales de Honor en la Administración civil y en las organizaciones profesionales. Referencia: art. 26 CE."
       },
       {
         "texto": "Artículo 31",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 31 regula el sistema tributario. Referencia: art. 31 CE."
+        "explicacion": "El artículo 31 regula el sistema tributario. Referencia: art. 31 CE."
       },
       {
         "texto": "Artículo 45",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 45 se refiere al medio ambiente. Referencia: art. 45 CE."
+        "explicacion": "El artículo 45 se refiere al medio ambiente. Referencia: art. 45 CE."
       }
     ]
   },
@@ -80045,22 +80045,22 @@
       {
         "texto": "Derecho a la propiedad privada y a la herencia",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 33 CE reconoce el derecho a la propiedad privada y a la herencia, con función social. Referencia: art. 33 CE."
+        "explicacion": "El artículo 33 CE reconoce el derecho a la propiedad privada y a la herencia, con función social. Referencia: art. 33 CE."
       },
       {
         "texto": "Derecho a la libertad de empresa",
         "es_correcta": false,
-        "explicacion": "Falsa. La libertad de empresa está en el artículo 38 CE. Referencia: art. 38 CE."
+        "explicacion": "La libertad de empresa está en el artículo 38 CE. Referencia: art. 38 CE."
       },
       {
         "texto": "Derecho a la vivienda",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 47 CE regula el derecho a una vivienda digna. Referencia: art. 47 CE."
+        "explicacion": "El artículo 47 CE regula el derecho a una vivienda digna. Referencia: art. 47 CE."
       },
       {
         "texto": "Derecho de asociación",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el artículo 22 CE. Referencia: art. 22 CE."
+        "explicacion": "Se regula en el artículo 22 CE. Referencia: art. 22 CE."
       }
     ]
   },
@@ -80071,22 +80071,22 @@
       {
         "texto": "Artículo 27.4",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Constitución establece la obligatoriedad y gratuidad de la enseñanza básica. Referencia: art. 27.4 CE."
+        "explicacion": "La Constitución establece la obligatoriedad y gratuidad de la enseñanza básica. Referencia: art. 27.4 CE."
       },
       {
         "texto": "Artículo 27.1",
         "es_correcta": false,
-        "explicacion": "Falsa. Ese apartado reconoce el derecho a la educación y la libertad de enseñanza, pero no la gratuidad obligatoria. Referencia: art. 27.1 CE."
+        "explicacion": "Ese apartado reconoce el derecho a la educación y la libertad de enseñanza, pero no la gratuidad obligatoria. Referencia: art. 27.1 CE."
       },
       {
         "texto": "Artículo 43",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 43 se refiere a la protección de la salud. Referencia: art. 43 CE."
+        "explicacion": "El artículo 43 se refiere a la protección de la salud. Referencia: art. 43 CE."
       },
       {
         "texto": "Artículo 39",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 39 trata de la protección social, económica y jurídica de la familia. Referencia: art. 39 CE."
+        "explicacion": "El artículo 39 trata de la protección social, económica y jurídica de la familia. Referencia: art. 39 CE."
       }
     ]
   },
@@ -80097,22 +80097,22 @@
       {
         "texto": "Derecho al trabajo y a una remuneración suficiente",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 35 CE reconoce el deber de trabajar y el derecho al trabajo, la libre elección de profesión y una remuneración suficiente. Referencia: art. 35 CE."
+        "explicacion": "El artículo 35 CE reconoce el deber de trabajar y el derecho al trabajo, la libre elección de profesión y una remuneración suficiente. Referencia: art. 35 CE."
       },
       {
         "texto": "Derecho a la libertad religiosa",
         "es_correcta": false,
-        "explicacion": "Falsa. Está en el artículo 16 CE. Referencia: art. 16 CE."
+        "explicacion": "Está en el artículo 16 CE. Referencia: art. 16 CE."
       },
       {
         "texto": "Derecho a la intimidad",
         "es_correcta": false,
-        "explicacion": "Falsa. Está en el artículo 18 CE. Referencia: art. 18 CE."
+        "explicacion": "Está en el artículo 18 CE. Referencia: art. 18 CE."
       },
       {
         "texto": "Derecho a la libre circulación",
         "es_correcta": false,
-        "explicacion": "Falsa. Está en el artículo 19 CE. Referencia: art. 19 CE."
+        "explicacion": "Está en el artículo 19 CE. Referencia: art. 19 CE."
       }
     ]
   },
@@ -80123,22 +80123,22 @@
       {
         "texto": "La libertad de empresa en el marco de la economía de mercado",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Constitución reconoce la libertad de empresa y la protege de acuerdo con las exigencias de la economía general. Referencia: art. 38 CE."
+        "explicacion": "La Constitución reconoce la libertad de empresa y la protege de acuerdo con las exigencias de la economía general. Referencia: art. 38 CE."
       },
       {
         "texto": "El derecho a la educación",
         "es_correcta": false,
-        "explicacion": "Falsa. Ese derecho se regula en el artículo 27 CE. Referencia: art. 27 CE."
+        "explicacion": "Ese derecho se regula en el artículo 27 CE. Referencia: art. 27 CE."
       },
       {
         "texto": "La autonomía municipal",
         "es_correcta": false,
-        "explicacion": "Falsa. La autonomía municipal se reconoce en el artículo 140 CE. Referencia: art. 140 CE."
+        "explicacion": "La autonomía municipal se reconoce en el artículo 140 CE. Referencia: art. 140 CE."
       },
       {
         "texto": "La inviolabilidad del domicilio",
         "es_correcta": false,
-        "explicacion": "Falsa. Está en el artículo 18.2 CE. Referencia: art. 18.2 CE."
+        "explicacion": "Está en el artículo 18.2 CE. Referencia: art. 18.2 CE."
       }
     ]
   },
@@ -80149,22 +80149,22 @@
       {
         "texto": "El derecho a disfrutar de un medio ambiente adecuado y el deber de conservarlo",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 45 CE reconoce ese derecho y ese deber de conservación. Referencia: art. 45.1 CE."
+        "explicacion": "El artículo 45 CE reconoce ese derecho y ese deber de conservación. Referencia: art. 45.1 CE."
       },
       {
         "texto": "La libertad sindical",
         "es_correcta": false,
-        "explicacion": "Falsa. La libertad sindical se regula en el artículo 28.1 CE. Referencia: art. 28.1 CE."
+        "explicacion": "La libertad sindical se regula en el artículo 28.1 CE. Referencia: art. 28.1 CE."
       },
       {
         "texto": "El derecho al honor",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el artículo 18.1 CE. Referencia: art. 18.1 CE."
+        "explicacion": "Se regula en el artículo 18.1 CE. Referencia: art. 18.1 CE."
       },
       {
         "texto": "La libertad de empresa",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el artículo 38 CE. Referencia: art. 38 CE."
+        "explicacion": "Se regula en el artículo 38 CE. Referencia: art. 38 CE."
       }
     ]
   },
@@ -80175,22 +80175,22 @@
       {
         "texto": "Artículo 47",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 47 CE reconoce el derecho a disfrutar de una vivienda digna y adecuada. Referencia: art. 47 CE."
+        "explicacion": "El artículo 47 CE reconoce el derecho a disfrutar de una vivienda digna y adecuada. Referencia: art. 47 CE."
       },
       {
         "texto": "Artículo 45",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 45 CE regula el medio ambiente. Referencia: art. 45 CE."
+        "explicacion": "El artículo 45 CE regula el medio ambiente. Referencia: art. 45 CE."
       },
       {
         "texto": "Artículo 39",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 39 CE trata de la familia y los hijos. Referencia: art. 39 CE."
+        "explicacion": "El artículo 39 CE trata de la familia y los hijos. Referencia: art. 39 CE."
       },
       {
         "texto": "Artículo 33",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 33 CE regula propiedad privada y herencia. Referencia: art. 33 CE."
+        "explicacion": "El artículo 33 CE regula propiedad privada y herencia. Referencia: art. 33 CE."
       }
     ]
   },
@@ -80201,22 +80201,22 @@
       {
         "texto": "Los principios éticos y de conducta de los empleados públicos",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 52 del EBEP recoge el código de conducta aplicable a los empleados públicos. Referencia: art. 52 TREBEP."
+        "explicacion": "El artículo 52 del EBEP recoge el código de conducta aplicable a los empleados públicos. Referencia: art. 52 TREBEP."
       },
       {
         "texto": "Los requisitos de acceso a la función pública",
         "es_correcta": false,
-        "explicacion": "Falsa. Los requisitos de acceso están en el artículo 56 TREBEP. Referencia: art. 56 TREBEP."
+        "explicacion": "Los requisitos de acceso están en el artículo 56 TREBEP. Referencia: art. 56 TREBEP."
       },
       {
         "texto": "Las situaciones administrativas",
         "es_correcta": false,
-        "explicacion": "Falsa. Las situaciones administrativas están en los artículos 85 y siguientes del EBEP. Referencia: arts. 85 y ss. TREBEP."
+        "explicacion": "Las situaciones administrativas están en los artículos 85 y siguientes del EBEP. Referencia: arts. 85 y ss. TREBEP."
       },
       {
         "texto": "La jubilación forzosa",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el artículo 67 TREBEP. Referencia: art. 67 TREBEP."
+        "explicacion": "Se regula en el artículo 67 TREBEP. Referencia: art. 67 TREBEP."
       }
     ]
   },
@@ -80227,22 +80227,22 @@
       {
         "texto": "Que se interpreten conforme a la costumbre administrativa",
         "es_correcta": false,
-        "explicacion": "Falsa. La interpretación constitucional de derechos se conecta con el artículo 10.2 CE, no con costumbre administrativa. Referencia: art. 10.2 CE."
+        "explicacion": "La interpretación constitucional de derechos se conecta con el artículo 10.2 CE, no con costumbre administrativa. Referencia: art. 10.2 CE."
       },
       {
         "texto": "Que los derechos y libertades vinculan a todos los poderes públicos y solo pueden regularse por ley respetando su contenido esencial",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 53 CE fija esa vinculación y reserva legal. Referencia: art. 53.1 CE."
+        "explicacion": "El artículo 53 CE fija esa vinculación y reserva legal. Referencia: art. 53.1 CE."
       },
       {
         "texto": "Que solo vinculan a la Administración General del Estado",
         "es_correcta": false,
-        "explicacion": "Falsa. Vinculan a todos los poderes públicos. Referencia: art. 53.1 CE."
+        "explicacion": "Vinculan a todos los poderes públicos. Referencia: art. 53.1 CE."
       },
       {
         "texto": "Que pueden ser regulados por reglamento sin límite",
         "es_correcta": false,
-        "explicacion": "Falsa. Solo por ley y respetando el contenido esencial. Referencia: art. 53.1 CE."
+        "explicacion": "Solo por ley y respetando el contenido esencial. Referencia: art. 53.1 CE."
       }
     ]
   },
@@ -80253,22 +80253,22 @@
       {
         "texto": "El Defensor del Pueblo",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 54 CE regula al Defensor del Pueblo como Alto Comisionado de las Cortes Generales. Referencia: art. 54 CE."
+        "explicacion": "El artículo 54 CE regula al Defensor del Pueblo como Alto Comisionado de las Cortes Generales. Referencia: art. 54 CE."
       },
       {
         "texto": "El Tribunal Constitucional",
         "es_correcta": false,
-        "explicacion": "Falsa. El Tribunal Constitucional se regula en los artículos 159 y siguientes. Referencia: arts. 159 y ss. CE."
+        "explicacion": "El Tribunal Constitucional se regula en los artículos 159 y siguientes. Referencia: arts. 159 y ss. CE."
       },
       {
         "texto": "El Consejo de Estado",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el artículo 107 CE. Referencia: art. 107 CE."
+        "explicacion": "Se regula en el artículo 107 CE. Referencia: art. 107 CE."
       },
       {
         "texto": "El Tribunal de Cuentas",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el artículo 136 CE. Referencia: art. 136 CE."
+        "explicacion": "Se regula en el artículo 136 CE. Referencia: art. 136 CE."
       }
     ]
   },
@@ -80279,22 +80279,22 @@
       {
         "texto": "La suspensión de ciertos derechos fundamentales",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 55.1 CE permite suspender determinados derechos en los estados de excepción o sitio. Referencia: art. 55.1 CE."
+        "explicacion": "El artículo 55.1 CE permite suspender determinados derechos en los estados de excepción o sitio. Referencia: art. 55.1 CE."
       },
       {
         "texto": "La libertad de empresa",
         "es_correcta": false,
-        "explicacion": "Falsa. No es uno de los derechos suspendibles de ese precepto. Referencia: art. 55.1 CE."
+        "explicacion": "No es uno de los derechos suspendibles de ese precepto. Referencia: art. 55.1 CE."
       },
       {
         "texto": "La autonomía municipal",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el contenido del artículo 55.1 CE. Referencia: art. 55.1 CE."
+        "explicacion": "No es el contenido del artículo 55.1 CE. Referencia: art. 55.1 CE."
       },
       {
         "texto": "La potestad legislativa",
         "es_correcta": false,
-        "explicacion": "Falsa. Se trata de suspensión de derechos, no de potestad legislativa. Referencia: art. 55.1 CE."
+        "explicacion": "Se trata de suspensión de derechos, no de potestad legislativa. Referencia: art. 55.1 CE."
       }
     ]
   },
@@ -80305,22 +80305,22 @@
       {
         "texto": "Artículo 16",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 16 CE garantiza la libertad ideológica, religiosa y de culto. Referencia: art. 16 CE."
+        "explicacion": "El artículo 16 CE garantiza la libertad ideológica, religiosa y de culto. Referencia: art. 16 CE."
       },
       {
         "texto": "Artículo 14",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 14 CE regula la igualdad ante la ley. Referencia: art. 14 CE."
+        "explicacion": "El artículo 14 CE regula la igualdad ante la ley. Referencia: art. 14 CE."
       },
       {
         "texto": "Artículo 18",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 18 CE protege honor, intimidad, domicilio y comunicaciones. Referencia: art. 18 CE."
+        "explicacion": "El artículo 18 CE protege honor, intimidad, domicilio y comunicaciones. Referencia: art. 18 CE."
       },
       {
         "texto": "Artículo 21",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 21 CE regula el derecho de reunión. Referencia: art. 21 CE."
+        "explicacion": "El artículo 21 CE regula el derecho de reunión. Referencia: art. 21 CE."
       }
     ]
   },
@@ -80331,22 +80331,22 @@
       {
         "texto": "Mayoría absoluta en votación final sobre el conjunto del proyecto",
         "es_correcta": true,
-        "explicacion": "Verdadera. Esa es la exigencia constitucional para aprobar, modificar o derogar leyes orgánicas. Referencia: art. 81.2 CE."
+        "explicacion": "Esa es la exigencia constitucional para aprobar, modificar o derogar leyes orgánicas. Referencia: art. 81.2 CE."
       },
       {
         "texto": "Mayoría simple en una sola votación",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 81 CE exige mayoría absoluta. Referencia: art. 81.2 CE."
+        "explicacion": "El artículo 81 CE exige mayoría absoluta. Referencia: art. 81.2 CE."
       },
       {
         "texto": "Dos tercios del Senado",
         "es_correcta": false,
-        "explicacion": "Falsa. No es la regla del artículo 81 CE. Referencia: art. 81.2 CE."
+        "explicacion": "No es la regla del artículo 81 CE. Referencia: art. 81.2 CE."
       },
       {
         "texto": "Unanimidad de las Cortes",
         "es_correcta": false,
-        "explicacion": "Falsa. No se exige unanimidad para leyes orgánicas. Referencia: art. 81.2 CE."
+        "explicacion": "No se exige unanimidad para leyes orgánicas. Referencia: art. 81.2 CE."
       }
     ]
   },
@@ -80357,22 +80357,22 @@
       {
         "texto": "El Gobierno mediante decreto",
         "es_correcta": true,
-        "explicacion": "Verdadera. El estado de alarma se declara por el Gobierno mediante decreto acordado en Consejo de Ministros. Referencia: art. 116.2 CE."
+        "explicacion": "El estado de alarma se declara por el Gobierno mediante decreto acordado en Consejo de Ministros. Referencia: art. 116.2 CE."
       },
       {
         "texto": "El Senado",
         "es_correcta": false,
-        "explicacion": "Falsa. El Senado no lo declara. Referencia: art. 116 CE."
+        "explicacion": "El Senado no lo declara. Referencia: art. 116 CE."
       },
       {
         "texto": "El Rey por sí solo",
         "es_correcta": false,
-        "explicacion": "Falsa. No puede declararlo por sí solo. Referencia: art. 116 CE."
+        "explicacion": "No puede declararlo por sí solo. Referencia: art. 116 CE."
       },
       {
         "texto": "El Tribunal Constitucional",
         "es_correcta": false,
-        "explicacion": "Falsa. No tiene esa competencia. Referencia: art. 116 CE."
+        "explicacion": "No tiene esa competencia. Referencia: art. 116 CE."
       }
     ]
   },
@@ -80383,22 +80383,22 @@
       {
         "texto": "El Delegado del Gobierno",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 154 CE atribuye esa dirección al Delegado nombrado por el Gobierno. Referencia: art. 154 CE."
+        "explicacion": "El artículo 154 CE atribuye esa dirección al Delegado nombrado por el Gobierno. Referencia: art. 154 CE."
       },
       {
         "texto": "El Presidente de la Comunidad Autónoma",
         "es_correcta": false,
-        "explicacion": "Falsa. El Presidente autonómico dirige la administración propia de la Comunidad, no la del Estado. Referencia: art. 154 CE."
+        "explicacion": "El Presidente autonómico dirige la administración propia de la Comunidad, no la del Estado. Referencia: art. 154 CE."
       },
       {
         "texto": "El Alcalde",
         "es_correcta": false,
-        "explicacion": "Falsa. No dirige la Administración del Estado en la Comunidad. Referencia: art. 154 CE."
+        "explicacion": "No dirige la Administración del Estado en la Comunidad. Referencia: art. 154 CE."
       },
       {
         "texto": "El Tribunal Superior de Justicia",
         "es_correcta": false,
-        "explicacion": "Falsa. Es órgano judicial. Referencia: art. 152 CE."
+        "explicacion": "Es órgano judicial. Referencia: art. 152 CE."
       }
     ]
   },
@@ -80409,22 +80409,22 @@
       {
         "texto": "El Gobierno con aprobación por mayoría absoluta del Senado",
         "es_correcta": true,
-        "explicacion": "Verdadera. Eso es lo que prevé el artículo 155 CE. Referencia: art. 155.1 CE."
+        "explicacion": "Eso es lo que prevé el artículo 155 CE. Referencia: art. 155.1 CE."
       },
       {
         "texto": "El Congreso por mayoría simple",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el procedimiento del artículo 155 CE. Referencia: art. 155 CE."
+        "explicacion": "No es el procedimiento del artículo 155 CE. Referencia: art. 155 CE."
       },
       {
         "texto": "El Rey sin refrendo",
         "es_correcta": false,
-        "explicacion": "Falsa. El Rey no adopta esas medidas por sí solo. Referencia: art. 155 CE."
+        "explicacion": "El Rey no adopta esas medidas por sí solo. Referencia: art. 155 CE."
       },
       {
         "texto": "El Tribunal Constitucional",
         "es_correcta": false,
-        "explicacion": "Falsa. Puede resolver cuestiones constitucionales, pero no aplicar el artículo 155 CE. Referencia: art. 155 CE."
+        "explicacion": "Puede resolver cuestiones constitucionales, pero no aplicar el artículo 155 CE. Referencia: art. 155 CE."
       }
     ]
   },
@@ -80435,22 +80435,22 @@
       {
         "texto": "Que emana del pueblo y se administra por Jueces y Magistrados independientes",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 117 CE afirma que la justicia emana del pueblo y se administra por jueces y magistrados independientes, inamovibles y sometidos al imperio de la ley. Referencia: art. 117.1 CE."
+        "explicacion": "El artículo 117 CE afirma que la justicia emana del pueblo y se administra por jueces y magistrados independientes, inamovibles y sometidos al imperio de la ley. Referencia: art. 117.1 CE."
       },
       {
         "texto": "Que depende del Gobierno",
         "es_correcta": false,
-        "explicacion": "Falsa. El Poder Judicial es independiente del Gobierno. Referencia: art. 117 CE."
+        "explicacion": "El Poder Judicial es independiente del Gobierno. Referencia: art. 117 CE."
       },
       {
         "texto": "Que puede ser ejercida por cualquier autoridad administrativa",
         "es_correcta": false,
-        "explicacion": "Falsa. La potestad jurisdiccional corresponde exclusivamente a los juzgados y tribunales. Referencia: art. 117.3 CE."
+        "explicacion": "La potestad jurisdiccional corresponde exclusivamente a los juzgados y tribunales. Referencia: art. 117.3 CE."
       },
       {
         "texto": "Que admite tribunales de excepción",
         "es_correcta": false,
-        "explicacion": "Falsa. Están prohibidos expresamente por la Constitución. Referencia: art. 117.6 CE."
+        "explicacion": "Están prohibidos expresamente por la Constitución. Referencia: art. 117.6 CE."
       }
     ]
   },
@@ -80461,22 +80461,22 @@
       {
         "texto": "El Congreso de los Diputados",
         "es_correcta": false,
-        "explicacion": "Falsa. La designación corresponde a las Asambleas legislativas de las Comunidades Autónomas o, en su defecto, al órgano colegiado superior. Referencia: art. 69.5 CE."
+        "explicacion": "La designación corresponde a las Asambleas legislativas de las Comunidades Autónomas o, en su defecto, al órgano colegiado superior. Referencia: art. 69.5 CE."
       },
       {
         "texto": "La Asamblea legislativa de la Comunidad Autónoma",
         "es_correcta": true,
-        "explicacion": "Verdadera. Las Comunidades Autónomas designan sus Senadores a través de su Asamblea legislativa o, en su defecto, del órgano colegiado superior. Referencia: art. 69.5 CE."
+        "explicacion": "Las Comunidades Autónomas designan sus Senadores a través de su Asamblea legislativa o, en su defecto, del órgano colegiado superior. Referencia: art. 69.5 CE."
       },
       {
         "texto": "El Consejo de Estado",
         "es_correcta": false,
-        "explicacion": "Falsa. No participa en la designación de Senadores autonómicos. Referencia: art. 69 CE."
+        "explicacion": "No participa en la designación de Senadores autonómicos. Referencia: art. 69 CE."
       },
       {
         "texto": "El Tribunal Supremo",
         "es_correcta": false,
-        "explicacion": "Falsa. No tiene esa competencia. Referencia: art. 69 CE."
+        "explicacion": "No tiene esa competencia. Referencia: art. 69 CE."
       }
     ]
   },
@@ -80487,22 +80487,22 @@
       {
         "texto": "Un recurso administrativo ante la Administración",
         "es_correcta": false,
-        "explicacion": "Falsa. El recurso de amparo se presenta ante el Tribunal Constitucional. Referencia: art. 53.2 CE."
+        "explicacion": "El recurso de amparo se presenta ante el Tribunal Constitucional. Referencia: art. 53.2 CE."
       },
       {
         "texto": "Un recurso para la tutela de derechos fundamentales ante el Tribunal Constitucional",
         "es_correcta": true,
-        "explicacion": "Verdadera. Sirve para proteger los derechos del artículo 14 y de la Sección primera del Capítulo segundo, además de la objeción de conciencia en el artículo 30. Referencia: art. 53.2 CE."
+        "explicacion": "Sirve para proteger los derechos del artículo 14 y de la Sección primera del Capítulo segundo, además de la objeción de conciencia en el artículo 30. Referencia: art. 53.2 CE."
       },
       {
         "texto": "Una denuncia ante el Defensor del Pueblo",
         "es_correcta": false,
-        "explicacion": "Falsa. El Defensor del Pueblo no resuelve el recurso de amparo. Referencia: art. 54 CE."
+        "explicacion": "El Defensor del Pueblo no resuelve el recurso de amparo. Referencia: art. 54 CE."
       },
       {
         "texto": "Una reclamación tributaria",
         "es_correcta": false,
-        "explicacion": "Falsa. No tiene naturaleza tributaria. Referencia: CE."
+        "explicacion": "No tiene naturaleza tributaria. Referencia: CE."
       }
     ]
   },
@@ -80513,22 +80513,22 @@
       {
         "texto": "No menos de 500.000 firmas acreditadas",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Constitución exige al menos 500.000 firmas acreditadas y excluye determinadas materias. Referencia: art. 87.3 CE."
+        "explicacion": "La Constitución exige al menos 500.000 firmas acreditadas y excluye determinadas materias. Referencia: art. 87.3 CE."
       },
       {
         "texto": "100.000 firmas",
         "es_correcta": false,
-        "explicacion": "Falsa. La cifra constitucional es mayor. Referencia: art. 87.3 CE."
+        "explicacion": "La cifra constitucional es mayor. Referencia: art. 87.3 CE."
       },
       {
         "texto": "1 millón de firmas",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el umbral establecido. Referencia: art. 87.3 CE."
+        "explicacion": "No es el umbral establecido. Referencia: art. 87.3 CE."
       },
       {
         "texto": "La mayoría absoluta del Congreso",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el requisito de la iniciativa popular. Referencia: art. 87.3 CE."
+        "explicacion": "No es el requisito de la iniciativa popular. Referencia: art. 87.3 CE."
       }
     ]
   },
@@ -80539,22 +80539,22 @@
       {
         "texto": "Pueden afectar al Título I de la Constitución sin limitación",
         "es_correcta": false,
-        "explicacion": "Falsa. Están limitados por materias vedadas, entre ellas los derechos, deberes y libertades del Título I. Referencia: art. 86.1 CE."
+        "explicacion": "Están limitados por materias vedadas, entre ellas los derechos, deberes y libertades del Título I. Referencia: art. 86.1 CE."
       },
       {
         "texto": "Pueden dictarse en caso de extraordinaria y urgente necesidad, con límites materiales",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Gobierno puede dictarlos por extraordinaria y urgente necesidad, pero no pueden afectar a materias expresamente excluidas. Referencia: art. 86.1 CE."
+        "explicacion": "El Gobierno puede dictarlos por extraordinaria y urgente necesidad, pero no pueden afectar a materias expresamente excluidas. Referencia: art. 86.1 CE."
       },
       {
         "texto": "Sustituyen a las leyes orgánicas",
         "es_correcta": false,
-        "explicacion": "Falsa. No pueden sustituir la legislación orgánica ni afectar a sus materias vedadas. Referencia: art. 86 CE."
+        "explicacion": "No pueden sustituir la legislación orgánica ni afectar a sus materias vedadas. Referencia: art. 86 CE."
       },
       {
         "texto": "No requieren convalidación parlamentaria",
         "es_correcta": false,
-        "explicacion": "Falsa. Deben someterse al Congreso para su convalidación o derogación. Referencia: art. 86.2 CE."
+        "explicacion": "Deben someterse al Congreso para su convalidación o derogación. Referencia: art. 86.2 CE."
       }
     ]
   },
@@ -80565,22 +80565,22 @@
       {
         "texto": "No necesitan autorización de las Cortes",
         "es_correcta": false,
-        "explicacion": "Falsa. Precisamente esos tratados requieren previa autorización de las Cortes Generales. Referencia: art. 94.1.c CE."
+        "explicacion": "Precisamente esos tratados requieren previa autorización de las Cortes Generales. Referencia: art. 94.1.c CE."
       },
       {
         "texto": "Requieren previa autorización de las Cortes Generales",
         "es_correcta": true,
-        "explicacion": "Verdadera. Los tratados que afecten a derechos y deberes fundamentales necesitan autorización previa de las Cortes. Referencia: art. 94.1.c CE."
+        "explicacion": "Los tratados que afecten a derechos y deberes fundamentales necesitan autorización previa de las Cortes. Referencia: art. 94.1.c CE."
       },
       {
         "texto": "Se aprueban solo por decreto del Gobierno",
         "es_correcta": false,
-        "explicacion": "Falsa. No basta el decreto del Gobierno para esos tratados. Referencia: art. 94 CE."
+        "explicacion": "No basta el decreto del Gobierno para esos tratados. Referencia: art. 94 CE."
       },
       {
         "texto": "Los decide exclusivamente el Tribunal Constitucional",
         "es_correcta": false,
-        "explicacion": "Falsa. El Tribunal Constitucional solo interviene en caso de contradicción con la Constitución. Referencia: art. 95 CE."
+        "explicacion": "El Tribunal Constitucional solo interviene en caso de contradicción con la Constitución. Referencia: art. 95 CE."
       }
     ]
   },
@@ -80591,22 +80591,22 @@
       {
         "texto": "Puede aplicarse si lo aprueba el Gobierno",
         "es_correcta": false,
-        "explicacion": "Falsa. Si es contrario a la Constitución, exige previa revisión constitucional. Referencia: art. 95.1 CE."
+        "explicacion": "Si es contrario a la Constitución, exige previa revisión constitucional. Referencia: art. 95.1 CE."
       },
       {
         "texto": "Exige previa revisión constitucional",
         "es_correcta": true,
-        "explicacion": "Verdadera. La celebración de un tratado incompatible con la Constitución requiere revisar previamente la Constitución. Referencia: art. 95.1 CE."
+        "explicacion": "La celebración de un tratado incompatible con la Constitución requiere revisar previamente la Constitución. Referencia: art. 95.1 CE."
       },
       {
         "texto": "Se aplica automáticamente por prevalencia del derecho internacional",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución exige revisión previa. Referencia: art. 95 CE."
+        "explicacion": "La Constitución exige revisión previa. Referencia: art. 95 CE."
       },
       {
         "texto": "Se anula por decisión del Presidente del Gobierno",
         "es_correcta": false,
-        "explicacion": "Falsa. No depende de una decisión unilateral del Gobierno. Referencia: art. 95 CE."
+        "explicacion": "No depende de una decisión unilateral del Gobierno. Referencia: art. 95 CE."
       }
     ]
   },
@@ -80617,22 +80617,22 @@
       {
         "texto": "El Rey",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Constitución atribuye al Rey el mando supremo de las Fuerzas Armadas. Referencia: art. 62.h CE."
+        "explicacion": "La Constitución atribuye al Rey el mando supremo de las Fuerzas Armadas. Referencia: art. 62.h CE."
       },
       {
         "texto": "El Ministro de Defensa",
         "es_correcta": false,
-        "explicacion": "Falsa. El Ministro de Defensa no ostenta el mando supremo constitucional. Referencia: art. 62.h CE."
+        "explicacion": "El Ministro de Defensa no ostenta el mando supremo constitucional. Referencia: art. 62.h CE."
       },
       {
         "texto": "El Presidente del Gobierno",
         "es_correcta": false,
-        "explicacion": "Falsa. Dirige la política de defensa, pero no el mando supremo. Referencia: art. 97 CE."
+        "explicacion": "Dirige la política de defensa, pero no el mando supremo. Referencia: art. 97 CE."
       },
       {
         "texto": "El Congreso",
         "es_correcta": false,
-        "explicacion": "Falsa. Las Cortes controlan la acción del Gobierno, no ejercen el mando militar supremo. Referencia: arts. 66 y 62 CE."
+        "explicacion": "Las Cortes controlan la acción del Gobierno, no ejercen el mando militar supremo. Referencia: arts. 66 y 62 CE."
       }
     ]
   },
@@ -80643,22 +80643,22 @@
       {
         "texto": "Artículo 24",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 24 CE reconoce el derecho a la tutela judicial efectiva sin indefensión. Referencia: art. 24.1 CE."
+        "explicacion": "El artículo 24 CE reconoce el derecho a la tutela judicial efectiva sin indefensión. Referencia: art. 24.1 CE."
       },
       {
         "texto": "Artículo 25",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 25 CE se refiere al principio de legalidad penal y sancionadora. Referencia: art. 25 CE."
+        "explicacion": "El artículo 25 CE se refiere al principio de legalidad penal y sancionadora. Referencia: art. 25 CE."
       },
       {
         "texto": "Artículo 26",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 26 CE prohíbe los Tribunales de Honor. Referencia: art. 26 CE."
+        "explicacion": "El artículo 26 CE prohíbe los Tribunales de Honor. Referencia: art. 26 CE."
       },
       {
         "texto": "Artículo 27",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 27 CE regula el derecho a la educación. Referencia: art. 27 CE."
+        "explicacion": "El artículo 27 CE regula el derecho a la educación. Referencia: art. 27 CE."
       }
     ]
   },
@@ -80669,22 +80669,22 @@
       {
         "texto": "Pueden imponerse retroactivamente si son más severas",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución prohíbe sancionar por hechos que no fueran infracción en el momento de producirse. Referencia: art. 25.1 CE."
+        "explicacion": "La Constitución prohíbe sancionar por hechos que no fueran infracción en el momento de producirse. Referencia: art. 25.1 CE."
       },
       {
         "texto": "Nadie puede ser condenado o sancionado por acciones u omisiones que no constituyan delito, falta o infracción administrativa en el momento de producirse",
         "es_correcta": true,
-        "explicacion": "Verdadera. Ese es el principio de legalidad penal y sancionadora del artículo 25.1 CE. Referencia: art. 25.1 CE."
+        "explicacion": "Ese es el principio de legalidad penal y sancionadora del artículo 25.1 CE. Referencia: art. 25.1 CE."
       },
       {
         "texto": "Solo afecta al ámbito civil",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 25 CE se proyecta al ámbito penal y sancionador administrativo. Referencia: art. 25 CE."
+        "explicacion": "El artículo 25 CE se proyecta al ámbito penal y sancionador administrativo. Referencia: art. 25 CE."
       },
       {
         "texto": "Permite trabajos forzados como pena",
         "es_correcta": false,
-        "explicacion": "Falsa. La Constitución prohíbe que las penas privativas de libertad consistan en trabajos forzados. Referencia: art. 25.2 CE."
+        "explicacion": "La Constitución prohíbe que las penas privativas de libertad consistan en trabajos forzados. Referencia: art. 25.2 CE."
       }
     ]
   },
@@ -80695,22 +80695,22 @@
       {
         "texto": "Derecho de petición",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 29 CE reconoce el derecho de petición individual y colectiva, por escrito. Referencia: art. 29 CE."
+        "explicacion": "El artículo 29 CE reconoce el derecho de petición individual y colectiva, por escrito. Referencia: art. 29 CE."
       },
       {
         "texto": "Derecho a la educación",
         "es_correcta": false,
-        "explicacion": "Falsa. El derecho a la educación está en el artículo 27 CE. Referencia: art. 27 CE."
+        "explicacion": "El derecho a la educación está en el artículo 27 CE. Referencia: art. 27 CE."
       },
       {
         "texto": "Derecho al trabajo",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el artículo 35 CE. Referencia: art. 35 CE."
+        "explicacion": "Se regula en el artículo 35 CE. Referencia: art. 35 CE."
       },
       {
         "texto": "Derecho a la intimidad",
         "es_correcta": false,
-        "explicacion": "Falsa. Está en el artículo 18.1 CE. Referencia: art. 18.1 CE."
+        "explicacion": "Está en el artículo 18.1 CE. Referencia: art. 18.1 CE."
       }
     ]
   },
@@ -80721,22 +80721,22 @@
       {
         "texto": "El Rey",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Rey sanciona y promulga las leyes conforme al artículo 62.a CE. Referencia: art. 62.a CE."
+        "explicacion": "El Rey sanciona y promulga las leyes conforme al artículo 62.a CE. Referencia: art. 62.a CE."
       },
       {
         "texto": "El Congreso",
         "es_correcta": false,
-        "explicacion": "Falsa. El Congreso aprueba las leyes, pero no las sanciona ni promulga. Referencia: art. 66 CE."
+        "explicacion": "El Congreso aprueba las leyes, pero no las sanciona ni promulga. Referencia: art. 66 CE."
       },
       {
         "texto": "El Senado",
         "es_correcta": false,
-        "explicacion": "Falsa. El Senado participa en la tramitación legislativa, pero no sanciona ni promulga. Referencia: art. 90 CE."
+        "explicacion": "El Senado participa en la tramitación legislativa, pero no sanciona ni promulga. Referencia: art. 90 CE."
       },
       {
         "texto": "El Gobierno",
         "es_correcta": false,
-        "explicacion": "Falsa. El Gobierno no sanciona ni promulga leyes. Referencia: CE."
+        "explicacion": "El Gobierno no sanciona ni promulga leyes. Referencia: CE."
       }
     ]
   },
@@ -80747,22 +80747,22 @@
       {
         "texto": "Mayoría de dos tercios de cada Cámara",
         "es_correcta": true,
-        "explicacion": "Verdadera. El procedimiento agravado exige mayoría de dos tercios en cada Cámara. Referencia: art. 168 CE."
+        "explicacion": "El procedimiento agravado exige mayoría de dos tercios en cada Cámara. Referencia: art. 168 CE."
       },
       {
         "texto": "Mayoría absoluta del Congreso",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 168 CE exige un consenso mucho más reforzado. Referencia: art. 168 CE."
+        "explicacion": "El artículo 168 CE exige un consenso mucho más reforzado. Referencia: art. 168 CE."
       },
       {
         "texto": "Tres quintos de cada Cámara",
         "es_correcta": false,
-        "explicacion": "Falsa. Esa es la regla del artículo 167 CE, no del 168 CE. Referencia: arts. 167 y 168 CE."
+        "explicacion": "Esa es la regla del artículo 167 CE, no del 168 CE. Referencia: arts. 167 y 168 CE."
       },
       {
         "texto": "Mayoría simple del Senado",
         "es_correcta": false,
-        "explicacion": "Falsa. No basta con esa mayoría. Referencia: art. 168 CE."
+        "explicacion": "No basta con esa mayoría. Referencia: art. 168 CE."
       }
     ]
   },
@@ -80773,22 +80773,22 @@
       {
         "texto": "El Estado se organiza territorialmente en municipios, provincias y Comunidades Autónomas",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 137 CE así lo dispone y reconoce autonomía para la gestión de sus respectivos intereses. Referencia: art. 137 CE."
+        "explicacion": "El artículo 137 CE así lo dispone y reconoce autonomía para la gestión de sus respectivos intereses. Referencia: art. 137 CE."
       },
       {
         "texto": "El Estado se organiza solo en provincias",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 137 CE incluye municipios, provincias y Comunidades Autónomas. Referencia: art. 137 CE."
+        "explicacion": "El artículo 137 CE incluye municipios, provincias y Comunidades Autónomas. Referencia: art. 137 CE."
       },
       {
         "texto": "El Estado se organiza exclusivamente en regiones históricas",
         "es_correcta": false,
-        "explicacion": "Falsa. No es la fórmula constitucional. Referencia: art. 137 CE."
+        "explicacion": "No es la fórmula constitucional. Referencia: art. 137 CE."
       },
       {
         "texto": "El Estado no tiene organización territorial",
         "es_correcta": false,
-        "explicacion": "Falsa. Sí tiene organización territorial constitucionalmente definida. Referencia: art. 137 CE."
+        "explicacion": "Sí tiene organización territorial constitucionalmente definida. Referencia: art. 137 CE."
       }
     ]
   },
@@ -80799,22 +80799,22 @@
       {
         "texto": "La autonomía de los municipios",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 140 CE garantiza la autonomía municipal y la personalidad jurídica plena de los municipios. Referencia: art. 140 CE."
+        "explicacion": "El artículo 140 CE garantiza la autonomía municipal y la personalidad jurídica plena de los municipios. Referencia: art. 140 CE."
       },
       {
         "texto": "La autonomía de las Comunidades Autónomas",
         "es_correcta": false,
-        "explicacion": "Falsa. La autonomía de las Comunidades Autónomas se regula en otros preceptos constitucionales. Referencia: arts. 143 y ss. CE."
+        "explicacion": "La autonomía de las Comunidades Autónomas se regula en otros preceptos constitucionales. Referencia: arts. 143 y ss. CE."
       },
       {
         "texto": "La soberanía nacional",
         "es_correcta": false,
-        "explicacion": "Falsa. La soberanía nacional reside en el pueblo español. Referencia: art. 1.2 CE."
+        "explicacion": "La soberanía nacional reside en el pueblo español. Referencia: art. 1.2 CE."
       },
       {
         "texto": "La independencia judicial",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en el título del Poder Judicial. Referencia: art. 117 CE."
+        "explicacion": "Se regula en el título del Poder Judicial. Referencia: art. 117 CE."
       }
     ]
   },
@@ -80825,22 +80825,22 @@
       {
         "texto": "Artículo 27.10",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Constitución reconoce la autonomía de las Universidades en los términos que la ley establezca. Referencia: art. 27.10 CE."
+        "explicacion": "La Constitución reconoce la autonomía de las Universidades en los términos que la ley establezca. Referencia: art. 27.10 CE."
       },
       {
         "texto": "Artículo 27.1",
         "es_correcta": false,
-        "explicacion": "Falsa. Ese apartado reconoce el derecho a la educación y la libertad de enseñanza. Referencia: art. 27.1 CE."
+        "explicacion": "Ese apartado reconoce el derecho a la educación y la libertad de enseñanza. Referencia: art. 27.1 CE."
       },
       {
         "texto": "Artículo 30.3",
         "es_correcta": false,
-        "explicacion": "Falsa. Ese apartado se refiere al servicio civil. Referencia: art. 30.3 CE."
+        "explicacion": "Ese apartado se refiere al servicio civil. Referencia: art. 30.3 CE."
       },
       {
         "texto": "Artículo 38",
         "es_correcta": false,
-        "explicacion": "Falsa. Regula la libertad de empresa. Referencia: art. 38 CE."
+        "explicacion": "Regula la libertad de empresa. Referencia: art. 38 CE."
       }
     ]
   },
@@ -80851,22 +80851,22 @@
       {
         "texto": "Artículo 55",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 55 TREBEP recoge igualdad, mérito, capacidad, publicidad y otros principios del acceso. Referencia: art. 55 TREBEP."
+        "explicacion": "El artículo 55 TREBEP recoge igualdad, mérito, capacidad, publicidad y otros principios del acceso. Referencia: art. 55 TREBEP."
       },
       {
         "texto": "Artículo 52",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 52 recoge el código de conducta. Referencia: art. 52 TREBEP."
+        "explicacion": "El artículo 52 recoge el código de conducta. Referencia: art. 52 TREBEP."
       },
       {
         "texto": "Artículo 67",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 67 regula la jubilación. Referencia: art. 67 TREBEP."
+        "explicacion": "El artículo 67 regula la jubilación. Referencia: art. 67 TREBEP."
       },
       {
         "texto": "Artículo 80",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 80 regula la libre designación como forma de provisión. Referencia: art. 80 TREBEP."
+        "explicacion": "El artículo 80 regula la libre designación como forma de provisión. Referencia: art. 80 TREBEP."
       }
     ]
   },
@@ -80877,22 +80877,22 @@
       {
         "texto": "Tener experiencia previa de cinco años",
         "es_correcta": false,
-        "explicacion": "Falsa. La experiencia no es un requisito general del artículo 56 EBEP. Referencia: art. 56 TREBEP."
+        "explicacion": "La experiencia no es un requisito general del artículo 56 EBEP. Referencia: art. 56 TREBEP."
       },
       {
         "texto": "Poseer la capacidad funcional para el desempeño de las tareas",
         "es_correcta": true,
-        "explicacion": "Verdadera. Es uno de los requisitos generales para participar en procesos selectivos. Referencia: art. 56.1.b TREBEP."
+        "explicacion": "Es uno de los requisitos generales para participar en procesos selectivos. Referencia: art. 56.1.b TREBEP."
       },
       {
         "texto": "Estar empadronado en la Administración convocante",
         "es_correcta": false,
-        "explicacion": "Falsa. No es un requisito general. Referencia: art. 56 TREBEP."
+        "explicacion": "No es un requisito general. Referencia: art. 56 TREBEP."
       },
       {
         "texto": "Tener una edad mínima de 21 años siempre",
         "es_correcta": false,
-        "explicacion": "Falsa. La regla general es tener dieciséis años cumplidos, salvo excepciones. Referencia: art. 56.1.c TREBEP."
+        "explicacion": "La regla general es tener dieciséis años cumplidos, salvo excepciones. Referencia: art. 56.1.c TREBEP."
       }
     ]
   },
@@ -80903,22 +80903,22 @@
       {
         "texto": "Grupo A",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Grupo A se divide en A1 y A2 y exige título universitario de Grado, salvo título universitario distinto exigido por ley. Referencia: art. 76 TREBEP."
+        "explicacion": "El Grupo A se divide en A1 y A2 y exige título universitario de Grado, salvo título universitario distinto exigido por ley. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Grupo B",
         "es_correcta": false,
-        "explicacion": "Falsa. El Grupo B exige título de Técnico Superior. Referencia: art. 76 TREBEP."
+        "explicacion": "El Grupo B exige título de Técnico Superior. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Grupo C1",
         "es_correcta": false,
-        "explicacion": "Falsa. El C1 exige Bachiller o Técnico. Referencia: art. 76 TREBEP."
+        "explicacion": "El C1 exige Bachiller o Técnico. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Grupo C2",
         "es_correcta": false,
-        "explicacion": "Falsa. El C2 exige ESO. Referencia: art. 76 TREBEP."
+        "explicacion": "El C2 exige ESO. Referencia: art. 76 TREBEP."
       }
     ]
   },
@@ -80929,22 +80929,22 @@
       {
         "texto": "Grupo B",
         "es_correcta": true,
-        "explicacion": "Verdadera. El Grupo B exige estar en posesión del título de Técnico Superior. Referencia: art. 76 TREBEP."
+        "explicacion": "El Grupo B exige estar en posesión del título de Técnico Superior. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Grupo A2",
         "es_correcta": false,
-        "explicacion": "Falsa. El A2 exige título universitario de Grado. Referencia: art. 76 TREBEP."
+        "explicacion": "El A2 exige título universitario de Grado. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Grupo C1",
         "es_correcta": false,
-        "explicacion": "Falsa. El C1 exige Bachiller o Técnico. Referencia: art. 76 TREBEP."
+        "explicacion": "El C1 exige Bachiller o Técnico. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Grupo C2",
         "es_correcta": false,
-        "explicacion": "Falsa. El C2 exige ESO. Referencia: art. 76 TREBEP."
+        "explicacion": "El C2 exige ESO. Referencia: art. 76 TREBEP."
       }
     ]
   },
@@ -80955,22 +80955,22 @@
       {
         "texto": "Concurso puro",
         "es_correcta": false,
-        "explicacion": "Falsa. El concurso puro solo puede aplicarse excepcionalmente por ley. Referencia: art. 61.6 TREBEP."
+        "explicacion": "El concurso puro solo puede aplicarse excepcionalmente por ley. Referencia: art. 61.6 TREBEP."
       },
       {
         "texto": "Oposición y concurso-oposición",
         "es_correcta": true,
-        "explicacion": "Verdadera. Son los sistemas selectivos ordinarios para funcionarios de carrera. Referencia: art. 61.6 TREBEP."
+        "explicacion": "Son los sistemas selectivos ordinarios para funcionarios de carrera. Referencia: art. 61.6 TREBEP."
       },
       {
         "texto": "Libre designación",
         "es_correcta": false,
-        "explicacion": "Falsa. La libre designación es un sistema de provisión de puestos, no de acceso inicial. Referencia: arts. 78 y 80 TREBEP."
+        "explicacion": "La libre designación es un sistema de provisión de puestos, no de acceso inicial. Referencia: arts. 78 y 80 TREBEP."
       },
       {
         "texto": "Nombramiento político",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el sistema ordinario de selección. Referencia: art. 55 TREBEP."
+        "explicacion": "No es el sistema ordinario de selección. Referencia: art. 55 TREBEP."
       }
     ]
   },
@@ -80981,22 +80981,22 @@
       {
         "texto": "3 por ciento",
         "es_correcta": false,
-        "explicacion": "Falsa. El mínimo legal es el 7 por ciento. Referencia: art. 59.1 TREBEP."
+        "explicacion": "El mínimo legal es el 7 por ciento. Referencia: art. 59.1 TREBEP."
       },
       {
         "texto": "5 por ciento",
         "es_correcta": false,
-        "explicacion": "Falsa. La reserva mínima establecida es superior. Referencia: art. 59.1 TREBEP."
+        "explicacion": "La reserva mínima establecida es superior. Referencia: art. 59.1 TREBEP."
       },
       {
         "texto": "7 por ciento",
         "es_correcta": true,
-        "explicacion": "Verdadera. El EBEP establece una reserva no inferior al 7 por ciento de las vacantes. Referencia: art. 59.1 TREBEP."
+        "explicacion": "El EBEP establece una reserva no inferior al 7 por ciento de las vacantes. Referencia: art. 59.1 TREBEP."
       },
       {
         "texto": "10 por ciento",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el mínimo fijado por la norma básica. Referencia: art. 59.1 TREBEP."
+        "explicacion": "No es el mínimo fijado por la norma básica. Referencia: art. 59.1 TREBEP."
       }
     ]
   },
@@ -81007,22 +81007,22 @@
       {
         "texto": "Funcionarios de carrera",
         "es_correcta": false,
-        "explicacion": "Falsa. Pueden formar parte si cumplen los requisitos de imparcialidad y profesionalidad. Referencia: art. 60 TREBEP."
+        "explicacion": "Pueden formar parte si cumplen los requisitos de imparcialidad y profesionalidad. Referencia: art. 60 TREBEP."
       },
       {
         "texto": "Personal de elección o designación política, funcionarios interinos y personal eventual",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 60.2 TREBEP lo prohíbe expresamente. Referencia: art. 60.2 TREBEP."
+        "explicacion": "El artículo 60.2 TREBEP lo prohíbe expresamente. Referencia: art. 60.2 TREBEP."
       },
       {
         "texto": "Empleados públicos con titulación superior",
         "es_correcta": false,
-        "explicacion": "Falsa. La prohibición no se basa en la titulación superior. Referencia: art. 60 TREBEP."
+        "explicacion": "La prohibición no se basa en la titulación superior. Referencia: art. 60 TREBEP."
       },
       {
         "texto": "Personal laboral fijo",
         "es_correcta": false,
-        "explicacion": "Falsa. No existe prohibición general por esa sola condición. Referencia: art. 60 TREBEP."
+        "explicacion": "No existe prohibición general por esa sola condición. Referencia: art. 60 TREBEP."
       }
     ]
   },
@@ -81033,22 +81033,22 @@
       {
         "texto": "Abierto y con libre concurrencia",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 61.1 TREBEP fija el carácter abierto y la libre concurrencia de los procesos selectivos. Referencia: art. 61.1 TREBEP."
+        "explicacion": "El artículo 61.1 TREBEP fija el carácter abierto y la libre concurrencia de los procesos selectivos. Referencia: art. 61.1 TREBEP."
       },
       {
         "texto": "Cerrado y restringido a interinos",
         "es_correcta": false,
-        "explicacion": "Falsa. El acceso general no es restringido a interinos. Referencia: art. 61 TREBEP."
+        "explicacion": "El acceso general no es restringido a interinos. Referencia: art. 61 TREBEP."
       },
       {
         "texto": "Nominal y discrecional",
         "es_correcta": false,
-        "explicacion": "Falsa. La selección no es discrecional ni nominal. Referencia: art. 61 TREBEP."
+        "explicacion": "La selección no es discrecional ni nominal. Referencia: art. 61 TREBEP."
       },
       {
         "texto": "Automático por antigüedad",
         "es_correcta": false,
-        "explicacion": "Falsa. Debe respetar mérito, capacidad y libre concurrencia. Referencia: art. 55 y 61 TREBEP."
+        "explicacion": "Debe respetar mérito, capacidad y libre concurrencia. Referencia: art. 55 y 61 TREBEP."
       }
     ]
   },
@@ -81059,22 +81059,22 @@
       {
         "texto": "Artículo 62",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 62 TREBEP regula la adquisición de la condición de funcionario de carrera. Referencia: art. 62 TREBEP."
+        "explicacion": "El artículo 62 TREBEP regula la adquisición de la condición de funcionario de carrera. Referencia: art. 62 TREBEP."
       },
       {
         "texto": "Artículo 63",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 63 regula la pérdida de la condición de funcionario de carrera. Referencia: art. 63 TREBEP."
+        "explicacion": "El artículo 63 regula la pérdida de la condición de funcionario de carrera. Referencia: art. 63 TREBEP."
       },
       {
         "texto": "Artículo 67",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 67 regula la jubilación. Referencia: art. 67 TREBEP."
+        "explicacion": "El artículo 67 regula la jubilación. Referencia: art. 67 TREBEP."
       },
       {
         "texto": "Artículo 70",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 70 regula la oferta de empleo público. Referencia: art. 70 TREBEP."
+        "explicacion": "El artículo 70 regula la oferta de empleo público. Referencia: art. 70 TREBEP."
       }
     ]
   },
@@ -81085,22 +81085,22 @@
       {
         "texto": "La renuncia",
         "es_correcta": true,
-        "explicacion": "Verdadera. La renuncia es causa de pérdida de la condición de funcionario de carrera. Referencia: art. 63.a TREBEP."
+        "explicacion": "La renuncia es causa de pérdida de la condición de funcionario de carrera. Referencia: art. 63.a TREBEP."
       },
       {
         "texto": "La excedencia por cuidado de hijos",
         "es_correcta": false,
-        "explicacion": "Falsa. La excedencia no supone pérdida de la condición funcionarial. Referencia: art. 63 y 92 TREBEP."
+        "explicacion": "La excedencia no supone pérdida de la condición funcionarial. Referencia: art. 63 y 92 TREBEP."
       },
       {
         "texto": "La comisión de servicios",
         "es_correcta": false,
-        "explicacion": "Falsa. No extingue la condición de funcionario. Referencia: TREBEP."
+        "explicacion": "No extingue la condición de funcionario. Referencia: TREBEP."
       },
       {
         "texto": "La movilidad voluntaria",
         "es_correcta": false,
-        "explicacion": "Falsa. Tampoco la pérdida de la condición. Referencia: TREBEP."
+        "explicacion": "Tampoco la pérdida de la condición. Referencia: TREBEP."
       }
     ]
   },
@@ -81111,22 +81111,22 @@
       {
         "texto": "60 años",
         "es_correcta": false,
-        "explicacion": "Falsa. La edad general es 65 años. Referencia: art. 67.3 TREBEP."
+        "explicacion": "La edad general es 65 años. Referencia: art. 67.3 TREBEP."
       },
       {
         "texto": "65 años",
         "es_correcta": true,
-        "explicacion": "Verdadera. La jubilación forzosa se declara de oficio al cumplir 65 años, salvo normas específicas o prolongación. Referencia: art. 67.3 TREBEP."
+        "explicacion": "La jubilación forzosa se declara de oficio al cumplir 65 años, salvo normas específicas o prolongación. Referencia: art. 67.3 TREBEP."
       },
       {
         "texto": "67 años",
         "es_correcta": false,
-        "explicacion": "Falsa. No es la edad general del EBEP. Referencia: art. 67 TREBEP."
+        "explicacion": "No es la edad general del EBEP. Referencia: art. 67 TREBEP."
       },
       {
         "texto": "70 años sin excepción",
         "es_correcta": false,
-        "explicacion": "Falsa. Puede solicitarse prolongación hasta los 70 años en ciertos términos, pero no es la regla general. Referencia: art. 67.3 TREBEP."
+        "explicacion": "Puede solicitarse prolongación hasta los 70 años en ciertos términos, pero no es la regla general. Referencia: art. 67.3 TREBEP."
       }
     ]
   },
@@ -81137,22 +81137,22 @@
       {
         "texto": "Un año",
         "es_correcta": false,
-        "explicacion": "Falsa. El plazo máximo es de tres años. Referencia: art. 70.1 TREBEP."
+        "explicacion": "El plazo máximo es de tres años. Referencia: art. 70.1 TREBEP."
       },
       {
         "texto": "Dos años",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el plazo legal del artículo 70.1 TREBEP. Referencia: art. 70.1 TREBEP."
+        "explicacion": "No es el plazo legal del artículo 70.1 TREBEP. Referencia: art. 70.1 TREBEP."
       },
       {
         "texto": "Tres años",
         "es_correcta": true,
-        "explicacion": "Verdadera. La ejecución de la Oferta de Empleo Público debe desarrollarse dentro del plazo improrrogable de tres años. Referencia: art. 70.1 TREBEP."
+        "explicacion": "La ejecución de la Oferta de Empleo Público debe desarrollarse dentro del plazo improrrogable de tres años. Referencia: art. 70.1 TREBEP."
       },
       {
         "texto": "Cinco años",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el plazo establecido. Referencia: art. 70.1 TREBEP."
+        "explicacion": "No es el plazo establecido. Referencia: art. 70.1 TREBEP."
       }
     ]
   },
@@ -81163,22 +81163,22 @@
       {
         "texto": "Denominación, grupos, cuerpos o escalas, sistemas de provisión y retribuciones complementarias",
         "es_correcta": true,
-        "explicacion": "Verdadera. Eso es lo mínimo que deben incluir las relaciones de puestos de trabajo u otros instrumentos similares. Referencia: art. 74 TREBEP."
+        "explicacion": "Eso es lo mínimo que deben incluir las relaciones de puestos de trabajo u otros instrumentos similares. Referencia: art. 74 TREBEP."
       },
       {
         "texto": "Solo la denominación del puesto",
         "es_correcta": false,
-        "explicacion": "Falsa. La ordenación debe incluir más elementos. Referencia: art. 74 TREBEP."
+        "explicacion": "La ordenación debe incluir más elementos. Referencia: art. 74 TREBEP."
       },
       {
         "texto": "Solo la retribución básica",
         "es_correcta": false,
-        "explicacion": "Falsa. No basta con ese único dato. Referencia: art. 74 TREBEP."
+        "explicacion": "No basta con ese único dato. Referencia: art. 74 TREBEP."
       },
       {
         "texto": "Únicamente el destino geográfico",
         "es_correcta": false,
-        "explicacion": "Falsa. La regulación exige varios elementos estructurales. Referencia: art. 74 TREBEP."
+        "explicacion": "La regulación exige varios elementos estructurales. Referencia: art. 74 TREBEP."
       }
     ]
   },
@@ -81189,22 +81189,22 @@
       {
         "texto": "Por antigüedad",
         "es_correcta": false,
-        "explicacion": "Falsa. Se clasifican según la titulación exigida para el acceso. Referencia: art. 76 TREBEP."
+        "explicacion": "Se clasifican según la titulación exigida para el acceso. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Según la titulación exigida para el acceso",
         "es_correcta": true,
-        "explicacion": "Verdadera. La clasificación profesional del personal funcionario de carrera responde a la titulación requerida. Referencia: art. 76 TREBEP."
+        "explicacion": "La clasificación profesional del personal funcionario de carrera responde a la titulación requerida. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Por decisión política",
         "es_correcta": false,
-        "explicacion": "Falsa. No depende de discrecionalidad política. Referencia: art. 76 TREBEP."
+        "explicacion": "No depende de discrecionalidad política. Referencia: art. 76 TREBEP."
       },
       {
         "texto": "Por el salario final",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el criterio de clasificación. Referencia: art. 76 TREBEP."
+        "explicacion": "No es el criterio de clasificación. Referencia: art. 76 TREBEP."
       }
     ]
   },
@@ -81215,22 +81215,22 @@
       {
         "texto": "Concurso y libre designación",
         "es_correcta": true,
-        "explicacion": "Verdadera. Son los procedimientos ordinarios de provisión previstos por el EBEP. Referencia: art. 78.2 TREBEP."
+        "explicacion": "Son los procedimientos ordinarios de provisión previstos por el EBEP. Referencia: art. 78.2 TREBEP."
       },
       {
         "texto": "Sorteo y antigüedad",
         "es_correcta": false,
-        "explicacion": "Falsa. No son procedimientos de provisión del EBEP. Referencia: art. 78 TREBEP."
+        "explicacion": "No son procedimientos de provisión del EBEP. Referencia: art. 78 TREBEP."
       },
       {
         "texto": "Nombramiento directo y sin convocatoria",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 78 exige convocatoria pública. Referencia: art. 78 TREBEP."
+        "explicacion": "El artículo 78 exige convocatoria pública. Referencia: art. 78 TREBEP."
       },
       {
         "texto": "Elección popular",
         "es_correcta": false,
-        "explicacion": "Falsa. No es una forma de provisión funcionarial. Referencia: art. 78 TREBEP."
+        "explicacion": "No es una forma de provisión funcionarial. Referencia: art. 78 TREBEP."
       }
     ]
   },
@@ -81241,22 +81241,22 @@
       {
         "texto": "La valoración de méritos y capacidades, y en su caso aptitudes de los candidatos",
         "es_correcta": true,
-        "explicacion": "Verdadera. El concurso es el procedimiento normal de provisión de puestos. Referencia: art. 79.1 TREBEP."
+        "explicacion": "El concurso es el procedimiento normal de provisión de puestos. Referencia: art. 79.1 TREBEP."
       },
       {
         "texto": "La elección política del candidato",
         "es_correcta": false,
-        "explicacion": "Falsa. La provisión debe ser objetiva y técnica. Referencia: art. 79 TREBEP."
+        "explicacion": "La provisión debe ser objetiva y técnica. Referencia: art. 79 TREBEP."
       },
       {
         "texto": "La mejor entrevista personal sin méritos",
         "es_correcta": false,
-        "explicacion": "Falsa. La valoración de méritos es esencial. Referencia: art. 79 TREBEP."
+        "explicacion": "La valoración de méritos es esencial. Referencia: art. 79 TREBEP."
       },
       {
         "texto": "La mera antigüedad sin más",
         "es_correcta": false,
-        "explicacion": "Falsa. No basta por sí sola. Referencia: art. 79 TREBEP."
+        "explicacion": "No basta por sí sola. Referencia: art. 79 TREBEP."
       }
     ]
   },
@@ -81267,22 +81267,22 @@
       {
         "texto": "Pierden toda posibilidad de nuevo puesto",
         "es_correcta": false,
-        "explicacion": "Falsa. Debe asignárseles un puesto conforme al sistema de carrera profesional con las garantías correspondientes. Referencia: art. 80.4 TREBEP."
+        "explicacion": "Debe asignárseles un puesto conforme al sistema de carrera profesional con las garantías correspondientes. Referencia: art. 80.4 TREBEP."
       },
       {
         "texto": "Se les debe asignar un puesto de trabajo conforme al sistema de carrera profesional propio de cada Administración",
         "es_correcta": true,
-        "explicacion": "Verdadera. El EBEP impone esa garantía tras el cese discrecional. Referencia: art. 80.4 TREBEP."
+        "explicacion": "El EBEP impone esa garantía tras el cese discrecional. Referencia: art. 80.4 TREBEP."
       },
       {
         "texto": "Pasan automáticamente a excedencia forzosa",
         "es_correcta": false,
-        "explicacion": "Falsa. Esa no es la consecuencia legal general. Referencia: art. 80 TREBEP."
+        "explicacion": "Esa no es la consecuencia legal general. Referencia: art. 80 TREBEP."
       },
       {
         "texto": "Quedan excluidos del servicio público",
         "es_correcta": false,
-        "explicacion": "Falsa. No pierden su vinculación por ese solo cese. Referencia: art. 80 TREBEP."
+        "explicacion": "No pierden su vinculación por ese solo cese. Referencia: art. 80 TREBEP."
       }
     ]
   },
@@ -81293,22 +81293,22 @@
       {
         "texto": "Artículo 81",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 81 TREBEP regula la movilidad del personal funcionario de carrera. Referencia: art. 81 TREBEP."
+        "explicacion": "El artículo 81 TREBEP regula la movilidad del personal funcionario de carrera. Referencia: art. 81 TREBEP."
       },
       {
         "texto": "Artículo 78",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 78 trata de la provisión de puestos de trabajo. Referencia: art. 78 TREBEP."
+        "explicacion": "El artículo 78 trata de la provisión de puestos de trabajo. Referencia: art. 78 TREBEP."
       },
       {
         "texto": "Artículo 84",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 84 regula la cooperación interadministrativa en materia de empleo. Referencia: art. 84 TREBEP."
+        "explicacion": "El artículo 84 regula la cooperación interadministrativa en materia de empleo. Referencia: art. 84 TREBEP."
       },
       {
         "texto": "Artículo 90",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 90 regula la suspensión. Referencia: art. 90 TREBEP."
+        "explicacion": "El artículo 90 regula la suspensión. Referencia: art. 90 TREBEP."
       }
     ]
   },
@@ -81319,22 +81319,22 @@
       {
         "texto": "Artículo 90",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 90 TREBEP regula la suspensión firme. Referencia: art. 90 TREBEP."
+        "explicacion": "El artículo 90 TREBEP regula la suspensión firme. Referencia: art. 90 TREBEP."
       },
       {
         "texto": "Artículo 89",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 89 regula la excedencia voluntaria. Referencia: art. 89 TREBEP."
+        "explicacion": "El artículo 89 regula la excedencia voluntaria. Referencia: art. 89 TREBEP."
       },
       {
         "texto": "Artículo 87",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 87 regula los servicios especiales. Referencia: art. 87 TREBEP."
+        "explicacion": "El artículo 87 regula los servicios especiales. Referencia: art. 87 TREBEP."
       },
       {
         "texto": "Artículo 94",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 94 regula la expectativa de destino. Referencia: art. 94 TREBEP."
+        "explicacion": "El artículo 94 regula la expectativa de destino. Referencia: art. 94 TREBEP."
       }
     ]
   },
@@ -81345,22 +81345,22 @@
       {
         "texto": "Un mes",
         "es_correcta": false,
-        "explicacion": "Falsa. La normativa prevé un mínimo de dos años. Referencia: art. 91 Ley Función Pública CyL."
+        "explicacion": "La normativa prevé un mínimo de dos años. Referencia: art. 91 Ley Función Pública CyL."
       },
       {
         "texto": "Dos años",
         "es_correcta": true,
-        "explicacion": "Verdadera. La excedencia voluntaria por interés particular exige un periodo mínimo de permanencia de dos años continuados. Referencia: art. 91 Ley Función Pública CyL."
+        "explicacion": "La excedencia voluntaria por interés particular exige un periodo mínimo de permanencia de dos años continuados. Referencia: art. 91 Ley Función Pública CyL."
       },
       {
         "texto": "Cinco años",
         "es_correcta": false,
-        "explicacion": "Falsa. Cinco años es el tiempo previo de servicios efectivos exigido para solicitarla, no su duración mínima. Referencia: art. 91 Ley Función Pública CyL."
+        "explicacion": "Cinco años es el tiempo previo de servicios efectivos exigido para solicitarla, no su duración mínima. Referencia: art. 91 Ley Función Pública CyL."
       },
       {
         "texto": "Diez años",
         "es_correcta": false,
-        "explicacion": "Falsa. No es la duración mínima legal. Referencia: art. 91 Ley Función Pública CyL."
+        "explicacion": "No es la duración mínima legal. Referencia: art. 91 Ley Función Pública CyL."
       }
     ]
   },
@@ -81371,22 +81371,22 @@
       {
         "texto": "Un mínimo de cinco años de servicios efectivos en cualquiera de las Administraciones Públicas en los cinco años anteriores",
         "es_correcta": true,
-        "explicacion": "Verdadera. Esa es la exigencia legal autonómica para solicitar la excedencia por interés particular. Referencia: art. 91.2 Ley Función Pública CyL."
+        "explicacion": "Esa es la exigencia legal autonómica para solicitar la excedencia por interés particular. Referencia: art. 91.2 Ley Función Pública CyL."
       },
       {
         "texto": "Diez años de servicio en la Junta",
         "es_correcta": false,
-        "explicacion": "Falsa. La ley no exige diez años ni limita a la Junta. Referencia: art. 91.2 Ley Función Pública CyL."
+        "explicacion": "La ley no exige diez años ni limita a la Junta. Referencia: art. 91.2 Ley Función Pública CyL."
       },
       {
         "texto": "Dos años de servicio en la misma unidad administrativa",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el requisito general. Referencia: art. 91.2 Ley Función Pública CyL."
+        "explicacion": "No es el requisito general. Referencia: art. 91.2 Ley Función Pública CyL."
       },
       {
         "texto": "No haber solicitado nunca otro permiso",
         "es_correcta": false,
-        "explicacion": "Falsa. No es ese el requisito legal. Referencia: art. 91.2 Ley Función Pública CyL."
+        "explicacion": "No es ese el requisito legal. Referencia: art. 91.2 Ley Función Pública CyL."
       }
     ]
   },
@@ -81397,22 +81397,22 @@
       {
         "texto": "Servicios en otras Administraciones Públicas",
         "es_correcta": true,
-        "explicacion": "Verdadera. La ley autonómica prevé esa situación para los funcionarios que pasan a ocupar puestos en otras Administraciones. Referencia: art. 97 Ley Función Pública CyL."
+        "explicacion": "La ley autonómica prevé esa situación para los funcionarios que pasan a ocupar puestos en otras Administraciones. Referencia: art. 97 Ley Función Pública CyL."
       },
       {
         "texto": "Excedencia por cuidado de familiares",
         "es_correcta": false,
-        "explicacion": "Falsa. Esa situación responde a otra causa distinta. Referencia: art. 92 Ley Función Pública CyL."
+        "explicacion": "Esa situación responde a otra causa distinta. Referencia: art. 92 Ley Función Pública CyL."
       },
       {
         "texto": "Suspensión firme",
         "es_correcta": false,
-        "explicacion": "Falsa. No se aplica por el mero traslado a otra Administración. Referencia: art. 98 Ley Función Pública CyL."
+        "explicacion": "No se aplica por el mero traslado a otra Administración. Referencia: art. 98 Ley Función Pública CyL."
       },
       {
         "texto": "Excedencia voluntaria incentivada",
         "es_correcta": false,
-        "explicacion": "Falsa. Tiene otra causa y régimen propio. Referencia: art. 96 Ley Función Pública CyL."
+        "explicacion": "Tiene otra causa y régimen propio. Referencia: art. 96 Ley Función Pública CyL."
       }
     ]
   },
@@ -81423,22 +81423,22 @@
       {
         "texto": "Tres años",
         "es_correcta": false,
-        "explicacion": "Falsa. El límite es superior. Referencia: art. 98.1 Ley Función Pública CyL."
+        "explicacion": "El límite es superior. Referencia: art. 98.1 Ley Función Pública CyL."
       },
       {
         "texto": "Seis años",
         "es_correcta": true,
-        "explicacion": "Verdadera. La suspensión firme por sanción disciplinaria no puede exceder de seis años. Referencia: art. 98.1 Ley Función Pública CyL."
+        "explicacion": "La suspensión firme por sanción disciplinaria no puede exceder de seis años. Referencia: art. 98.1 Ley Función Pública CyL."
       },
       {
         "texto": "Diez años",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el máximo legal. Referencia: art. 98.1 Ley Función Pública CyL."
+        "explicacion": "No es el máximo legal. Referencia: art. 98.1 Ley Función Pública CyL."
       },
       {
         "texto": "Indefinida",
         "es_correcta": false,
-        "explicacion": "Falsa. La ley fija un límite temporal. Referencia: art. 98.1 Ley Función Pública CyL."
+        "explicacion": "La ley fija un límite temporal. Referencia: art. 98.1 Ley Función Pública CyL."
       }
     ]
   },
@@ -81449,22 +81449,22 @@
       {
         "texto": "El Consejo de Estado",
         "es_correcta": false,
-        "explicacion": "Falsa. No resuelve esos conflictos. Referencia: art. 14 Ley 40/2015."
+        "explicacion": "No resuelve esos conflictos. Referencia: art. 14 Ley 40/2015."
       },
       {
         "texto": "El superior jerárquico común",
         "es_correcta": true,
-        "explicacion": "Verdadera. Los conflictos intraministeriales se resuelven por el superior jerárquico común. Referencia: disposición adicional undécima y art. 14 Ley 40/2015."
+        "explicacion": "Los conflictos intraministeriales se resuelven por el superior jerárquico común. Referencia: disposición adicional undécima y art. 14 Ley 40/2015."
       },
       {
         "texto": "El Congreso de los Diputados",
         "es_correcta": false,
-        "explicacion": "Falsa. No tiene esa competencia organizativa interna. Referencia: CE."
+        "explicacion": "No tiene esa competencia organizativa interna. Referencia: CE."
       },
       {
         "texto": "El Tribunal Constitucional",
         "es_correcta": false,
-        "explicacion": "Falsa. No resuelve conflictos internos de atribuciones administrativas. Referencia: CE."
+        "explicacion": "No resuelve conflictos internos de atribuciones administrativas. Referencia: CE."
       }
     ]
   },
@@ -81475,22 +81475,22 @@
       {
         "texto": "Las funciones de las Conferencias Sectoriales",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 148 de la Ley 40/2015 regula sus funciones consultivas, decisorias o de coordinación. Referencia: art. 148 Ley 40/2015."
+        "explicacion": "El artículo 148 de la Ley 40/2015 regula sus funciones consultivas, decisorias o de coordinación. Referencia: art. 148 Ley 40/2015."
       },
       {
         "texto": "La jubilación de los funcionarios",
         "es_correcta": false,
-        "explicacion": "Falsa. Esa materia corresponde al EBEP. Referencia: art. 67 TREBEP."
+        "explicacion": "Esa materia corresponde al EBEP. Referencia: art. 67 TREBEP."
       },
       {
         "texto": "La reforma constitucional",
         "es_correcta": false,
-        "explicacion": "Falsa. La reforma constitucional se regula en la Constitución. Referencia: arts. 167 y 168 CE."
+        "explicacion": "La reforma constitucional se regula en la Constitución. Referencia: arts. 167 y 168 CE."
       },
       {
         "texto": "La organización del Congreso",
         "es_correcta": false,
-        "explicacion": "Falsa. La organización parlamentaria está en la Constitución y en los Reglamentos parlamentarios. Referencia: arts. 72 y ss. CE."
+        "explicacion": "La organización parlamentaria está en la Constitución y en los Reglamentos parlamentarios. Referencia: arts. 72 y ss. CE."
       }
     ]
   },
@@ -81501,22 +81501,22 @@
       {
         "texto": "El Presidente de la Conferencia Sectorial",
         "es_correcta": true,
-        "explicacion": "Verdadera. La ley establece que cada Conferencia Sectorial tendrá un secretario designado por su Presidente. Referencia: art. 150.1 Ley 40/2015."
+        "explicacion": "La ley establece que cada Conferencia Sectorial tendrá un secretario designado por su Presidente. Referencia: art. 150.1 Ley 40/2015."
       },
       {
         "texto": "El Senado",
         "es_correcta": false,
-        "explicacion": "Falsa. No participa en esa designación. Referencia: Ley 40/2015."
+        "explicacion": "No participa en esa designación. Referencia: Ley 40/2015."
       },
       {
         "texto": "El Consejo de Ministros",
         "es_correcta": false,
-        "explicacion": "Falsa. No designa al secretario por esa vía. Referencia: art. 150 Ley 40/2015."
+        "explicacion": "No designa al secretario por esa vía. Referencia: art. 150 Ley 40/2015."
       },
       {
         "texto": "La Conferencia de Presidentes",
         "es_correcta": false,
-        "explicacion": "Falsa. La designación corresponde al Presidente de la Conferencia Sectorial. Referencia: art. 150.1 Ley 40/2015."
+        "explicacion": "La designación corresponde al Presidente de la Conferencia Sectorial. Referencia: art. 150.1 Ley 40/2015."
       }
     ]
   },
@@ -81527,22 +81527,22 @@
       {
         "texto": "Solo consultiva",
         "es_correcta": false,
-        "explicacion": "Falsa. La ley prevé funciones consultivas, decisorias y de coordinación. Referencia: art. 148.1 Ley 40/2015."
+        "explicacion": "La ley prevé funciones consultivas, decisorias y de coordinación. Referencia: art. 148.1 Ley 40/2015."
       },
       {
         "texto": "Consultiva, decisoria o de coordinación",
         "es_correcta": true,
-        "explicacion": "Verdadera. Esa triple funcionalidad aparece expresamente en la ley. Referencia: art. 148.1 Ley 40/2015."
+        "explicacion": "Esa triple funcionalidad aparece expresamente en la ley. Referencia: art. 148.1 Ley 40/2015."
       },
       {
         "texto": "Jurisdiccional",
         "es_correcta": false,
-        "explicacion": "Falsa. No tiene funciones jurisdiccionales. Referencia: Ley 40/2015."
+        "explicacion": "No tiene funciones jurisdiccionales. Referencia: Ley 40/2015."
       },
       {
         "texto": "Legislativa",
         "es_correcta": false,
-        "explicacion": "Falsa. No ejerce potestad legislativa. Referencia: Ley 40/2015."
+        "explicacion": "No ejerce potestad legislativa. Referencia: Ley 40/2015."
       }
     ]
   },
@@ -81553,22 +81553,22 @@
       {
         "texto": "El Ministro que la presida",
         "es_correcta": true,
-        "explicacion": "Verdadera. La convocatoria corresponde al Ministro que presida la Conferencia Sectorial. Referencia: art. 149.1 Ley 40/2015."
+        "explicacion": "La convocatoria corresponde al Ministro que presida la Conferencia Sectorial. Referencia: art. 149.1 Ley 40/2015."
       },
       {
         "texto": "El Rey",
         "es_correcta": false,
-        "explicacion": "Falsa. No participa en esa convocatoria. Referencia: Ley 40/2015."
+        "explicacion": "No participa en esa convocatoria. Referencia: Ley 40/2015."
       },
       {
         "texto": "El Tribunal Supremo",
         "es_correcta": false,
-        "explicacion": "Falsa. No tiene esa competencia. Referencia: Ley 40/2015."
+        "explicacion": "No tiene esa competencia. Referencia: Ley 40/2015."
       },
       {
         "texto": "El Senado",
         "es_correcta": false,
-        "explicacion": "Falsa. No convoca Conferencias Sectoriales. Referencia: Ley 40/2015."
+        "explicacion": "No convoca Conferencias Sectoriales. Referencia: Ley 40/2015."
       }
     ]
   },
@@ -81579,22 +81579,22 @@
       {
         "texto": "El Secretario de Estado u órgano superior designado y un representante de cada Comunidad Autónoma, más Ceuta y Melilla",
         "es_correcta": true,
-        "explicacion": "Verdadera. Esa es la composición prevista legalmente. Referencia: art. 152.1 Ley 40/2015."
+        "explicacion": "Esa es la composición prevista legalmente. Referencia: art. 152.1 Ley 40/2015."
       },
       {
         "texto": "Solo representantes del Estado",
         "es_correcta": false,
-        "explicacion": "Falsa. La composición incluye también representantes autonómicos y de Ceuta y Melilla. Referencia: art. 152.1 Ley 40/2015."
+        "explicacion": "La composición incluye también representantes autonómicos y de Ceuta y Melilla. Referencia: art. 152.1 Ley 40/2015."
       },
       {
         "texto": "Solo representantes autonómicos",
         "es_correcta": false,
-        "explicacion": "Falsa. Participan ambas partes. Referencia: art. 152.1 Ley 40/2015."
+        "explicacion": "Participan ambas partes. Referencia: art. 152.1 Ley 40/2015."
       },
       {
         "texto": "Diputados y Senadores",
         "es_correcta": false,
-        "explicacion": "Falsa. No forman parte por ese solo hecho. Referencia: Ley 40/2015."
+        "explicacion": "No forman parte por ese solo hecho. Referencia: Ley 40/2015."
       }
     ]
   },
@@ -81605,22 +81605,22 @@
       {
         "texto": "Son siempre meras recomendaciones sin eficacia",
         "es_correcta": false,
-        "explicacion": "Falsa. Algunos acuerdos pueden ser de obligado cumplimiento. Referencia: art. 151 Ley 40/2015."
+        "explicacion": "Algunos acuerdos pueden ser de obligado cumplimiento. Referencia: art. 151 Ley 40/2015."
       },
       {
         "texto": "Pueden adoptar acuerdos de obligado cumplimiento en determinados casos",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Ley 40/2015 prevé acuerdos obligatorios en los términos legales. Referencia: art. 151 Ley 40/2015."
+        "explicacion": "La Ley 40/2015 prevé acuerdos obligatorios en los términos legales. Referencia: art. 151 Ley 40/2015."
       },
       {
         "texto": "Solo pueden emitir votos particulares",
         "es_correcta": false,
-        "explicacion": "Falsa. Pueden adoptar acuerdos y recomendaciones. Referencia: art. 151 Ley 40/2015."
+        "explicacion": "Pueden adoptar acuerdos y recomendaciones. Referencia: art. 151 Ley 40/2015."
       },
       {
         "texto": "No pueden adoptar ningún tipo de decisión",
         "es_correcta": false,
-        "explicacion": "Falsa. Sí pueden adoptar decisiones con distintas formas. Referencia: art. 151 Ley 40/2015."
+        "explicacion": "Sí pueden adoptar decisiones con distintas formas. Referencia: art. 151 Ley 40/2015."
       }
     ]
   },
@@ -81631,22 +81631,22 @@
       {
         "texto": "El Esquema Nacional de Interoperabilidad y el Esquema Nacional de Seguridad",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 156 regula ambos esquemas. Referencia: art. 156 Ley 40/2015."
+        "explicacion": "El artículo 156 regula ambos esquemas. Referencia: art. 156 Ley 40/2015."
       },
       {
         "texto": "El Estatuto del Tribunal Constitucional",
         "es_correcta": false,
-        "explicacion": "Falsa. Eso corresponde a la Constitución y ley orgánica. Referencia: arts. 159 y 165 CE."
+        "explicacion": "Eso corresponde a la Constitución y ley orgánica. Referencia: arts. 159 y 165 CE."
       },
       {
         "texto": "La selección de funcionarios",
         "es_correcta": false,
-        "explicacion": "Falsa. Está en el EBEP. Referencia: arts. 55 y ss. TREBEP."
+        "explicacion": "Está en el EBEP. Referencia: arts. 55 y ss. TREBEP."
       },
       {
         "texto": "La distribución de competencias autonómicas",
         "es_correcta": false,
-        "explicacion": "Falsa. Esa materia corresponde a la Constitución y estatutos. Referencia: CE."
+        "explicacion": "Esa materia corresponde a la Constitución y estatutos. Referencia: CE."
       }
     ]
   },
@@ -81657,22 +81657,22 @@
       {
         "texto": "Las Administraciones deben poner a disposición de otras sus aplicaciones reutilizables",
         "es_correcta": true,
-        "explicacion": "Verdadera. La ley fomenta la reutilización de aplicaciones desarrolladas por las Administraciones. Referencia: art. 157 Ley 40/2015."
+        "explicacion": "La ley fomenta la reutilización de aplicaciones desarrolladas por las Administraciones. Referencia: art. 157 Ley 40/2015."
       },
       {
         "texto": "Las aplicaciones públicas no pueden compartirse nunca",
         "es_correcta": false,
-        "explicacion": "Falsa. La ley precisamente impulsa su reutilización. Referencia: art. 157 Ley 40/2015."
+        "explicacion": "La ley precisamente impulsa su reutilización. Referencia: art. 157 Ley 40/2015."
       },
       {
         "texto": "Solo pueden compartirse entre ministerios",
         "es_correcta": false,
-        "explicacion": "Falsa. Pueden ponerse a disposición de cualquiera de las Administraciones que lo solicite. Referencia: art. 157 Ley 40/2015."
+        "explicacion": "Pueden ponerse a disposición de cualquiera de las Administraciones que lo solicite. Referencia: art. 157 Ley 40/2015."
       },
       {
         "texto": "Solo si tienen software privativo comercial",
         "es_correcta": false,
-        "explicacion": "Falsa. No es ese el criterio legal. Referencia: art. 157 Ley 40/2015."
+        "explicacion": "No es ese el criterio legal. Referencia: art. 157 Ley 40/2015."
       }
     ]
   },
@@ -81683,22 +81683,22 @@
       {
         "texto": "La transferencia de tecnología entre Administraciones",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 158 regula la transferencia de tecnología y los directorios de aplicaciones reutilizables. Referencia: art. 158 Ley 40/2015."
+        "explicacion": "El artículo 158 regula la transferencia de tecnología y los directorios de aplicaciones reutilizables. Referencia: art. 158 Ley 40/2015."
       },
       {
         "texto": "La disolución de las Cortes Generales",
         "es_correcta": false,
-        "explicacion": "Falsa. Eso está en la Constitución. Referencia: art. 115 CE."
+        "explicacion": "Eso está en la Constitución. Referencia: art. 115 CE."
       },
       {
         "texto": "La organización de los municipios",
         "es_correcta": false,
-        "explicacion": "Falsa. Eso corresponde a la Constitución y legislación de régimen local. Referencia: art. 140 CE."
+        "explicacion": "Eso corresponde a la Constitución y legislación de régimen local. Referencia: art. 140 CE."
       },
       {
         "texto": "El recurso de amparo",
         "es_correcta": false,
-        "explicacion": "Falsa. Se regula en la Constitución. Referencia: art. 53.2 CE."
+        "explicacion": "Se regula en la Constitución. Referencia: art. 53.2 CE."
       }
     ]
   },
@@ -81709,22 +81709,22 @@
       {
         "texto": "Un registro electrónico estatal de órganos e instrumentos de cooperación",
         "es_correcta": true,
-        "explicacion": "Verdadera. La disposición adicional séptima lo impone expresamente. Referencia: disp. adic. séptima Ley 40/2015."
+        "explicacion": "La disposición adicional séptima lo impone expresamente. Referencia: disp. adic. séptima Ley 40/2015."
       },
       {
         "texto": "Un registro de propiedad privada",
         "es_correcta": false,
-        "explicacion": "Falsa. No es esa la finalidad. Referencia: Ley 40/2015."
+        "explicacion": "No es esa la finalidad. Referencia: Ley 40/2015."
       },
       {
         "texto": "Un censo electoral",
         "es_correcta": false,
-        "explicacion": "Falsa. Esa función no corresponde a ese registro. Referencia: Ley 40/2015."
+        "explicacion": "Esa función no corresponde a ese registro. Referencia: Ley 40/2015."
       },
       {
         "texto": "Un padrón municipal",
         "es_correcta": false,
-        "explicacion": "Falsa. Es una institución local, no estatal. Referencia: CE."
+        "explicacion": "Es una institución local, no estatal. Referencia: CE."
       }
     ]
   },
@@ -81735,22 +81735,22 @@
       {
         "texto": "Inadmitirla sin más",
         "es_correcta": false,
-        "explicacion": "Falsa. La Administración debe requerir subsanación, salvo supuestos específicos. Referencia: art. 68 LPACAP."
+        "explicacion": "La Administración debe requerir subsanación, salvo supuestos específicos. Referencia: art. 68 LPACAP."
       },
       {
         "texto": "Requerir la subsanación en el plazo legal",
         "es_correcta": true,
-        "explicacion": "Verdadera. La ley obliga a requerir al interesado para que subsane la falta o acompañe los documentos preceptivos. Referencia: art. 68 LPACAP."
+        "explicacion": "La ley obliga a requerir al interesado para que subsane la falta o acompañe los documentos preceptivos. Referencia: art. 68 LPACAP."
       },
       {
         "texto": "Resolver favorablemente por silencio",
         "es_correcta": false,
-        "explicacion": "Falsa. No opera así. Referencia: art. 68 LPACAP."
+        "explicacion": "No opera así. Referencia: art. 68 LPACAP."
       },
       {
         "texto": "Destruir la solicitud",
         "es_correcta": false,
-        "explicacion": "Falsa. No procede tal actuación. Referencia: art. 68 LPACAP."
+        "explicacion": "No procede tal actuación. Referencia: art. 68 LPACAP."
       }
     ]
   },
@@ -81761,22 +81761,22 @@
       {
         "texto": "Siempre será necesaria en cualquier trámite, sin excepción",
         "es_correcta": false,
-        "explicacion": "Falsa. La ley distingue entre identificación y firma, y solo exige firma cuando deba acreditarse voluntad o consentimiento. Referencia: art. 10 LPACAP."
+        "explicacion": "La ley distingue entre identificación y firma, y solo exige firma cuando deba acreditarse voluntad o consentimiento. Referencia: art. 10 LPACAP."
       },
       {
         "texto": "Solo será necesaria cuando deba acreditarse la voluntad y el consentimiento del interesado",
         "es_correcta": true,
-        "explicacion": "Verdadera. La Ley 39/2015 separa identificación y firma y reserva esta última a los supuestos en que sea necesaria. Referencia: art. 10 LPACAP."
+        "explicacion": "La Ley 39/2015 separa identificación y firma y reserva esta última a los supuestos en que sea necesaria. Referencia: art. 10 LPACAP."
       },
       {
         "texto": "Nunca será necesaria",
         "es_correcta": false,
-        "explicacion": "Falsa. Sí puede ser necesaria en algunos procedimientos. Referencia: art. 10 LPACAP."
+        "explicacion": "Sí puede ser necesaria en algunos procedimientos. Referencia: art. 10 LPACAP."
       },
       {
         "texto": "Solo sirve para notificaciones",
         "es_correcta": false,
-        "explicacion": "Falsa. Su alcance es más amplio. Referencia: art. 10 LPACAP."
+        "explicacion": "Su alcance es más amplio. Referencia: art. 10 LPACAP."
       }
     ]
   },
@@ -81787,22 +81787,22 @@
       {
         "texto": "Artículo 16",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 16 LPACAP regula el registro electrónico general. Referencia: art. 16 LPACAP."
+        "explicacion": "El artículo 16 LPACAP regula el registro electrónico general. Referencia: art. 16 LPACAP."
       },
       {
         "texto": "Artículo 18",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 18 trata sobre colaboración de las personas con la Administración. Referencia: art. 18 LPACAP."
+        "explicacion": "El artículo 18 trata sobre colaboración de las personas con la Administración. Referencia: art. 18 LPACAP."
       },
       {
         "texto": "Artículo 27",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 27 regula copias auténticas. Referencia: art. 27 LPACAP."
+        "explicacion": "El artículo 27 regula copias auténticas. Referencia: art. 27 LPACAP."
       },
       {
         "texto": "Artículo 41",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 41 regula las condiciones generales de las notificaciones. Referencia: art. 41 LPACAP."
+        "explicacion": "El artículo 41 regula las condiciones generales de las notificaciones. Referencia: art. 41 LPACAP."
       }
     ]
   },
@@ -81813,22 +81813,22 @@
       {
         "texto": "Artículo 30",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 30 LPACAP establece las reglas de cómputo de plazos por días, meses y años. Referencia: art. 30 LPACAP."
+        "explicacion": "El artículo 30 LPACAP establece las reglas de cómputo de plazos por días, meses y años. Referencia: art. 30 LPACAP."
       },
       {
         "texto": "Artículo 31",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 31 regula la ampliación del plazo. Referencia: art. 31 LPACAP."
+        "explicacion": "El artículo 31 regula la ampliación del plazo. Referencia: art. 31 LPACAP."
       },
       {
         "texto": "Artículo 32",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 32 regula la ampliación de plazos. Referencia: art. 32 LPACAP."
+        "explicacion": "El artículo 32 regula la ampliación de plazos. Referencia: art. 32 LPACAP."
       },
       {
         "texto": "Artículo 33",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 33 regula la tramitación de urgencia. Referencia: art. 33 LPACAP."
+        "explicacion": "El artículo 33 regula la tramitación de urgencia. Referencia: art. 33 LPACAP."
       }
     ]
   },
@@ -81839,22 +81839,22 @@
       {
         "texto": "Artículo 32",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 32 LPACAP regula la ampliación de plazos. Referencia: art. 32 LPACAP."
+        "explicacion": "El artículo 32 LPACAP regula la ampliación de plazos. Referencia: art. 32 LPACAP."
       },
       {
         "texto": "Artículo 30",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 30 regula el cómputo. Referencia: art. 30 LPACAP."
+        "explicacion": "El artículo 30 regula el cómputo. Referencia: art. 30 LPACAP."
       },
       {
         "texto": "Artículo 34",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el precepto sobre ampliación. Referencia: LPACAP."
+        "explicacion": "No es el precepto sobre ampliación. Referencia: LPACAP."
       },
       {
         "texto": "Artículo 41",
         "es_correcta": false,
-        "explicacion": "Falsa. Se refiere a notificaciones. Referencia: art. 41 LPACAP."
+        "explicacion": "Se refiere a notificaciones. Referencia: art. 41 LPACAP."
       }
     ]
   },
@@ -81865,22 +81865,22 @@
       {
         "texto": "Artículo 33",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 33 LPACAP regula la tramitación de urgencia. Referencia: art. 33 LPACAP."
+        "explicacion": "El artículo 33 LPACAP regula la tramitación de urgencia. Referencia: art. 33 LPACAP."
       },
       {
         "texto": "Artículo 32",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 32 regula la ampliación de plazos. Referencia: art. 32 LPACAP."
+        "explicacion": "El artículo 32 regula la ampliación de plazos. Referencia: art. 32 LPACAP."
       },
       {
         "texto": "Artículo 34",
         "es_correcta": false,
-        "explicacion": "Falsa. No es el precepto aplicable. Referencia: LPACAP."
+        "explicacion": "No es el precepto aplicable. Referencia: LPACAP."
       },
       {
         "texto": "Artículo 40",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 40 trata de notificaciones. Referencia: art. 40 LPACAP."
+        "explicacion": "El artículo 40 trata de notificaciones. Referencia: art. 40 LPACAP."
       }
     ]
   },
@@ -81891,22 +81891,22 @@
       {
         "texto": "Artículo 40",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 40 LPACAP establece el régimen de las notificaciones. Referencia: art. 40 LPACAP."
+        "explicacion": "El artículo 40 LPACAP establece el régimen de las notificaciones. Referencia: art. 40 LPACAP."
       },
       {
         "texto": "Artículo 28",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 28 regula la aportación de documentos por los interesados. Referencia: art. 28 LPACAP."
+        "explicacion": "El artículo 28 regula la aportación de documentos por los interesados. Referencia: art. 28 LPACAP."
       },
       {
         "texto": "Artículo 55",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 55 regula la información y actuaciones previas. Referencia: art. 55 LPACAP."
+        "explicacion": "El artículo 55 regula la información y actuaciones previas. Referencia: art. 55 LPACAP."
       },
       {
         "texto": "Artículo 68",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 68 regula la subsanación. Referencia: art. 68 LPACAP."
+        "explicacion": "El artículo 68 regula la subsanación. Referencia: art. 68 LPACAP."
       }
     ]
   },
@@ -81917,22 +81917,22 @@
       {
         "texto": "Artículo 68",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 68 LPACAP regula la subsanación y mejora de la solicitud. Referencia: art. 68 LPACAP."
+        "explicacion": "El artículo 68 LPACAP regula la subsanación y mejora de la solicitud. Referencia: art. 68 LPACAP."
       },
       {
         "texto": "Artículo 70",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 70 define el expediente administrativo. Referencia: art. 70 LPACAP."
+        "explicacion": "El artículo 70 define el expediente administrativo. Referencia: art. 70 LPACAP."
       },
       {
         "texto": "Artículo 71",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 71 regula el impulso de oficio. Referencia: art. 71 LPACAP."
+        "explicacion": "El artículo 71 regula el impulso de oficio. Referencia: art. 71 LPACAP."
       },
       {
         "texto": "Artículo 72",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 72 regula la concentración de trámites. Referencia: art. 72 LPACAP."
+        "explicacion": "El artículo 72 regula la concentración de trámites. Referencia: art. 72 LPACAP."
       }
     ]
   },
@@ -81943,22 +81943,22 @@
       {
         "texto": "Artículo 70",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 70 LPACAP define el expediente administrativo. Referencia: art. 70 LPACAP."
+        "explicacion": "El artículo 70 LPACAP define el expediente administrativo. Referencia: art. 70 LPACAP."
       },
       {
         "texto": "Artículo 74",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 74 regula las pruebas. Referencia: art. 74 LPACAP."
+        "explicacion": "El artículo 74 regula las pruebas. Referencia: art. 74 LPACAP."
       },
       {
         "texto": "Artículo 80",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 80 regula el dictamen. Referencia: art. 80 LPACAP."
+        "explicacion": "El artículo 80 regula el dictamen. Referencia: art. 80 LPACAP."
       },
       {
         "texto": "Artículo 95",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 95 regula la ejecución. Referencia: art. 95 LPACAP."
+        "explicacion": "El artículo 95 regula la ejecución. Referencia: art. 95 LPACAP."
       }
     ]
   },
@@ -81969,22 +81969,22 @@
       {
         "texto": "Artículo 71",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 71 LPACAP dispone el impulso de oficio del procedimiento en todos sus trámites. Referencia: art. 71 LPACAP."
+        "explicacion": "El artículo 71 LPACAP dispone el impulso de oficio del procedimiento en todos sus trámites. Referencia: art. 71 LPACAP."
       },
       {
         "texto": "Artículo 73",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 73 regula la acumulación. Referencia: art. 73 LPACAP."
+        "explicacion": "El artículo 73 regula la acumulación. Referencia: art. 73 LPACAP."
       },
       {
         "texto": "Artículo 75",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 75 regula la prueba. Referencia: art. 75 LPACAP."
+        "explicacion": "El artículo 75 regula la prueba. Referencia: art. 75 LPACAP."
       },
       {
         "texto": "Artículo 77",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 77 regula la prueba documental y de informes. Referencia: art. 77 LPACAP."
+        "explicacion": "El artículo 77 regula la prueba documental y de informes. Referencia: art. 77 LPACAP."
       }
     ]
   },
@@ -81995,22 +81995,22 @@
       {
         "texto": "Artículo 73",
         "es_correcta": true,
-        "explicacion": "Verdadera. El artículo 73 LPACAP regula la acumulación de procedimientos. Referencia: art. 73 LPACAP."
+        "explicacion": "El artículo 73 LPACAP regula la acumulación de procedimientos. Referencia: art. 73 LPACAP."
       },
       {
         "texto": "Artículo 71",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 71 regula el impulso de oficio. Referencia: art. 71 LPACAP."
+        "explicacion": "El artículo 71 regula el impulso de oficio. Referencia: art. 71 LPACAP."
       },
       {
         "texto": "Artículo 72",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 72 regula la concentración de trámites. Referencia: art. 72 LPACAP."
+        "explicacion": "El artículo 72 regula la concentración de trámites. Referencia: art. 72 LPACAP."
       },
       {
         "texto": "Artículo 74",
         "es_correcta": false,
-        "explicacion": "Falsa. El artículo 74 regula la prueba. Referencia: art. 74 LPACAP."
+        "explicacion": "El artículo 74 regula la prueba. Referencia: art. 74 LPACAP."
       }
     ]
   }

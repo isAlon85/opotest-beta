@@ -1,0 +1,2290 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Según la Constitución Española de 1978 (en adelante \"Constitución Española\"):",
+    "opciones": [
+      {
+        "texto": "a) El condenado a pena de prisión en ningún caso tendrá derecho a realizar trabajo remunerado.",
+        "es_correcta": false,
+        "explicacion": "El condenado a prisión que estuviere cumpliendo pena tendrá derecho a un trabajo remunerado. Referencia: art. 25.2 CE."
+      },
+      {
+        "texto": "b) Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica.",
+        "es_correcta": true,
+        "explicacion": "Se establece constitucionalmente el deber de contribuir al sostenimiento de los gastos públicos según la capacidad económica mediante un sistema tributario justo. Referencia: art. 31.1 CE."
+      },
+      {
+        "texto": "c) En ningún caso un español podrá ser privado de sus bienes y derechos.",
+        "es_correcta": false,
+        "explicacion": "Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social mediante indemnización. Referencia: art. 33.3 CE."
+      },
+      {
+        "texto": "d) Los poderes públicos garantizan y protegen la economía de mercado.",
+        "es_correcta": false,
+        "explicacion": "Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, no la economía de mercado en términos absolutos exentos de marco regulador. Referencia: art. 38 CE."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "Según la Constitución Española, el Presidente del Tribunal Constitucional:",
+    "opciones": [
+      {
+        "texto": "a) Debe ser miembro del Gobierno.",
+        "es_correcta": false,
+        "explicacion": "La condición de miembro del Tribunal Constitucional es incompatible con cualquier cargo político o administrativo. Referencia: art. 159.4 CE."
+      },
+      {
+        "texto": "b) Debe ser Diputado o Senador.",
+        "es_correcta": false,
+        "explicacion": "El cargo de magistrado constitucional es incompatible con el mandato representativo de Diputado o Senador. Referencia: art. 159.4 CE."
+      },
+      {
+        "texto": "c) Es nombrado por las Cortes Generales por mayoría absoluta.",
+        "es_correcta": false,
+        "explicacion": "El Presidente del Tribunal Constitucional es nombrado por el Rey, no por las Cortes Generales. Referencia: art. 160 CE."
+      },
+      {
+        "texto": "d) Es elegido por un período de tres años.",
+        "es_correcta": true,
+        "explicacion": "El Presidente del Tribunal Constitucional es nombrado por el Rey a propuesta del mismo Tribunal en pleno y por un período de tres años. Referencia: art. 160 CE."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "De conformidad con lo establecido en el art. 55 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (en adelante \"LRJSP\"), no se consideran órganos directivos:",
+    "opciones": [
+      {
+        "texto": "a) Los Subsecretarios y Secretarios generales.",
+        "es_correcta": false,
+        "explicacion": "Los Subsecretarios y Secretarios generales se integran formalmente bajo la categoría de órganos directivos en la organización central. Referencia: art. 55.3.a) Ley 40/2015."
+      },
+      {
+        "texto": "b) Los Secretarios de Estado.",
+        "es_correcta": true,
+        "explicacion": "Los Secretarios de Estado se consideran expresamente órganos superiores de la Administración General del Estado, no órganos directivos. Referencia: art. 55.2.a) Ley 40/2015."
+      },
+      {
+        "texto": "c) Los Subdirectores generales.",
+        "es_correcta": false,
+        "explicacion": "Los Subdirectores generales forman parte de los órganos directivos de la Administración General del Estado. Referencia: art. 55.3.a) Ley 40/2015."
+      },
+      {
+        "texto": "d) Los Secretarios generales técnicos y Directores generales.",
+        "es_correcta": false,
+        "explicacion": "Tanto los Secretarios generales técnicos como los Directores generales ostentan la consideración de órganos directivos de los Ministerios. Referencia: art. 55.3.a) Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "Según lo establecido en el art. 57 de la LRJSP, la determinación del número, la denominación y el ámbito de competencia respecto de los Ministerios y las Secretarías de Estado se establecen mediante:",
+    "opciones": [
+      {
+        "texto": "a) Real Decreto del Presidente del Gobierno.",
+        "es_correcta": true,
+        "explicacion": "La fijación del número, denominación y competencias de Ministerios y Secretarías de Estado se realiza por Real Decreto del Presidente del Gobierno. Referencia: art. 57.3 Ley 40/2015."
+      },
+      {
+        "texto": "b) Orden del Ministro para la Transformación Digital y de la Función Pública previo dictamen del Consejo de Estado.",
+        "es_correcta": false,
+        "explicacion": "Esta estructura esencial no se determina por Orden Ministerial ni requiere el dictamen previo del Consejo de Estado. Referencia: art. 57.3 Ley 40/2015."
+      },
+      {
+        "texto": "c) Resolución del Ministro de la Presidencia, Justicia y Relaciones con las Cortes.",
+        "es_correcta": false,
+        "explicacion": "El rango exigido normativamente es el de Real Decreto del Presidente del Gobierno y no una mera Resolución ministerial. Referencia: art. 57.3 Ley 40/2015."
+      },
+      {
+        "texto": "d) Ley de las Cortes Generales.",
+        "es_correcta": false,
+        "explicacion": "Corresponde al Presidente del Gobierno la potestad autoorganizativa del Ejecutivo para definir sus Ministerios mediante decreto directo. Referencia: art. 57.3 Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "De acuerdo con lo establecido en el art. 3 de la LRJSP, las Administraciones Públicas deberán respetar en su actuación y relaciones una serie de principios, entre los que se encuentran:",
+    "opciones": [
+      {
+        "texto": "a) Servicio hipotético a los ciudadanos.",
+        "es_correcta": false,
+        "explicacion": "El principio legal regulado exige un servicio efectivo, real y proactivo a los ciudadanos, no una aproximación hipotética. Referencia: art. 3.1.c) Ley 40/2015."
+      },
+      {
+        "texto": "b) Eficiencia en el cumplimiento de los objetivos fijados.",
+        "es_correcta": false,
+        "explicacion": "La ley asocia textualmente la eficacia al cumplimiento de objetivos, mientras que la eficiencia se vincula a la asignación de recursos. Referencia: art. 3.1.d) Ley 40/2015."
+      },
+      {
+        "texto": "c) Economía, suficiencia y adecuación estricta de los medios a los fines institucionales.",
+        "es_correcta": true,
+        "explicacion": "Las Administraciones Públicas deben observar los criterios de economía de medios y la estricta adecuación de sus recursos organizativos a los fines. Referencia: art. 3.1.k) Ley 40/2015."
+      },
+      {
+        "texto": "d) Eficacia en la asignación y utilización de recursos públicos.",
+        "es_correcta": false,
+        "explicacion": "La asignación y utilización óptima de recursos se rige legalmente bajo el principio de eficiencia y no de eficacia. Referencia: art. 3.1.d) Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "De acuerdo con lo establecido en el art. 49 del Estatuto de Autonomía de Castilla y León, en el marco de la legislación básica del Estado y del Estatuto de Autonomía, la Comunidad Autónoma establecerá la regulación del gobierno y de la administración local de Castilla y León mediante:",
+    "opciones": [
+      {
+        "texto": "a) Decreto de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La competencia requiere rango formal de Ley aprobada por las Cortes y no una norma reglamentaria de la Junta. Referencia: art. 49 EACYL."
+      },
+      {
+        "texto": "b) Ley de Cortes.",
+        "es_correcta": true,
+        "explicacion": "La regulación sustantiva del gobierno y la administración de las entidades locales se realizará formalmente a través de una Ley de Cortes. Referencia: art. 49 EACYL."
+      },
+      {
+        "texto": "c) Orden del Consejero de la Presidencia.",
+        "es_correcta": false,
+        "explicacion": "Las disposiciones de los Consejeros carecen del rango legal requerido para articular la ordenación de las corporaciones locales. Referencia: art. 49 EACYL."
+      },
+      {
+        "texto": "d) Acuerdo del Presidente de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Los actos y acuerdos del Presidente del ejecutivo autonómico no constituyen el cauce normativo idóneo fijado por el Estatuto. Referencia: art. 49 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "Según el art. 46 del Estatuto de Autonomía de Castilla y León:",
+    "opciones": [
+      {
+        "texto": "a) La comarca se configura como la agrupación voluntaria de municipios limítrofes con características geográficas, económicas, sociales e históricas afines.",
+        "es_correcta": true,
+        "explicacion": "El Estatuto define textualmente a la comarca como una agrupación voluntaria de municipios limítrofes con afinidades comunes. Referencia: art. 46.1 EACYL."
+      },
+      {
+        "texto": "b) La comarca del Bierzo se regulará mediante Orden del Consejero de la Presidencia teniendo en cuenta sus singularidades y su trayectoria institucional.",
+        "es_correcta": false,
+        "explicacion": "La comarca del Bierzo se regula mediante una ley de las Cortes de Castilla y León, no mediante una orden de consejería. Referencia: art. 46.3 EACYL."
+      },
+      {
+        "texto": "c) La constitución de cada comarca se formalizará por Decreto de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La creación de comarcas exige que su constitución y delimitación territorial específica se efectúe mediante Ley de Cortes. Referencia: art. 46.1 EACYL."
+      },
+      {
+        "texto": "d) Mediante Decreto del Presidente de la Junta de Castilla y León se podrá regular con carácter general la organización y el régimen jurídico de las comarcas de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El marco regulador general y organizativo de las comarcas es una materia estrictamente reservada a la Ley de Cortes. Referencia: art. 46.2 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "En relación con las Delegaciones Territoriales y de acuerdo con lo establecido en el art. 42 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León (en adelante \"Ley de Gobierno\"):",
+    "opciones": [
+      {
+        "texto": "a) Se consideran órganos directivos centrales.",
+        "es_correcta": false,
+        "explicacion": "Las Delegaciones Territoriales configuran de manera expresa la cúspide de la estructura periférica de la Administración, no de la central. Referencia: art. 42.1 Ley 3/2001."
+      },
+      {
+        "texto": "b) Cada Delegación Territorial se estructurará en varias Secretarías Territoriales.",
+        "es_correcta": false,
+        "explicacion": "Las delegaciones provinciales se estructuran ordinariamente en una única Secretaría Territorial y en los distintos Servicios Territoriales. Referencia: art. 42.3 Ley 3/2001."
+      },
+      {
+        "texto": "c) Excepcionalmente, por motivos de eficacia en la gestión administrativa, podrán existir Departamentos Territoriales de los que dependerán varios órganos con rango de Servicio Territorial.",
+        "es_correcta": true,
+        "explicacion": "La ley permite habilitar con carácter excepcional Departamentos Territoriales integrando funcionalmente diversos órganos con rango de Servicio. Referencia: art. 42.4 Ley 3/2001."
+      },
+      {
+        "texto": "d) No se podrá disponer la adscripción directa a órganos centrales de órganos o unidades administrativas periféricas, cuando lo aconseje su dimensión supraprovincial o la más eficaz gestión de la actividad que tengan encomendada.",
+        "es_correcta": false,
+        "explicacion": "La Ley sí faculta explícitamente a disponer dicha adscripción directa a los órganos centrales si median razones de eficacia o ámbito supraprovincial. Referencia: art. 42.5 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "Según el art. 3 del Tratado de Funcionamiento de la Unión Europea, ésta tiene competencia exclusiva en el siguiente ámbito:",
+    "opciones": [
+      {
+        "texto": "a) El medio ambiente.",
+        "es_correcta": false,
+        "explicacion": "La política de medio ambiente se tipifica como una competencia compartida entre la Unión y los Estados miembros. Referencia: art. 4.2.e) TFUE."
+      },
+      {
+        "texto": "b) El mercado interior.",
+        "es_correcta": false,
+        "explicacion": "El mercado interior constituye una materia encuadrada de forma genérica en el catálogo de las competencias compartidas. Referencia: art. 4.2.a) TFUE."
+      },
+      {
+        "texto": "c) Los transportes.",
+        "es_correcta": false,
+        "explicacion": "El ámbito regulador de los transportes se rige y desenvuelve ordinariamente mediante la categoría de competencia compartida. Referencia: art. 4.2.g) TFUE."
+      },
+      {
+        "texto": "d) La unión aduanera.",
+        "es_correcta": true,
+        "explicacion": "El Tratado atribuye de forma taxativa a la Unión Europea la titularidad de la competencia exclusiva en materia de unión aduanera. Referencia: art. 3.1.a) TFUE."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "Según el art. 253 del Tratado de Funcionamiento de la Unión Europea, el presidente del Tribunal de Justicia Europeo es elegido por:",
+    "opciones": [
+      {
+        "texto": "a) El Parlamento Europeo.",
+        "es_correcta": false,
+        "explicacion": "El Parlamento Europeo no interviene de forma directa en el nombramiento orgánico del presidente de este tribunal. Referencia: art. 253 TFUE."
+      },
+      {
+        "texto": "b) La Comisión.",
+        "es_correcta": false,
+        "explicacion": "La Comisión no ostenta la atribución de designar al magistrado que presida la institución judicial comunitaria. Referencia: art. 253 TFUE."
+      },
+      {
+        "texto": "c) Los jueces del Tribunal.",
+        "es_correcta": true,
+        "explicacion": "Los Jueces del Tribunal de Justicia eligen de entre ellos a su Presidente por un período renovable de tres años. Referencia: art. 253 TFUE."
+      },
+      {
+        "texto": "d) Los abogados generales.",
+        "es_correcta": false,
+        "explicacion": "Aunque forman parte integrante de la institución judicial, la elección directa del presidente recae estrictamente en el cuerpo de jueces. Referencia: art. 253 TFUE."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "El art. 5 del Estatuto de Autonomía de Castilla y León establece que la lengua gallega:",
+    "opciones": [
+      {
+        "texto": "a) Es cooficial, junto al castellano, en los lugares en que habitualmente se utilice.",
+        "es_correcta": false,
+        "explicacion": "La única lengua oficial en el ámbito de toda la Comunidad Autónoma de Castilla y León es el castellano. Referencia: art. 5.1 EACYL."
+      },
+      {
+        "texto": "b) Gozará de respeto y protección en los lugares en que habitualmente se utilice.",
+        "es_correcta": true,
+        "explicacion": "La norma estatutaria prescribe taxativamente que la lengua gallega gozará de respeto y de protección en los lugares donde se emplee habitualmente. Referencia: art. 5.3 EACYL."
+      },
+      {
+        "texto": "c) No se recoge en este artículo del Estatuto de Autonomía de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El artículo 5 contempla expresamente referencias de protección tanto para el gallego como para la modalidad lingüística del leonés. Referencia: art. 5 EACYL."
+      },
+      {
+        "texto": "d) Se establecerá en una Ley.",
+        "es_correcta": false,
+        "explicacion": "Su mandato de protección general y reconocimiento directo queda consagrado en el propio texto constitucional del Estatuto. Referencia: art. 5.3 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "Según la Disposición final del Estatuto de Autonomía de Castilla y León, éste entrará en vigor:",
+    "opciones": [
+      {
+        "texto": "a) Al día siguiente de la publicación de la Ley Orgánica de su aprobación por las Cortes Generales en el Boletín Oficial de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La publicación determinante para computar de forma directa la vigencia se vincula expresamente al diario oficial estatal. Referencia: Disp. Final EACYL."
+      },
+      {
+        "texto": "b) Al día siguiente de la publicación de la Ley Orgánica de su aprobación por las Cortes Generales en el Boletín Oficial del Estado.",
+        "es_correcta": false,
+        "explicacion": "La vigencia se produce de forma sincrónica e inmediata y no en la jornada subsiguiente a su inserción en el diario. Referencia: Disp. Final EACYL."
+      },
+      {
+        "texto": "c) El mismo día de la publicación de la Ley Orgánica de su aprobación por las Cortes Generales en el Boletín Oficial del Estado.",
+        "es_correcta": true,
+        "explicacion": "El Estatuto determina que su entrada en vigor tiene lugar el mismo día de la publicación de la Ley Orgánica en el Boletín Oficial del Estado. Referencia: Disp. Final EACYL."
+      },
+      {
+        "texto": "d) El mismo día de la publicación de la Ley Orgánica de su aprobación por las Cortes Generales en el Boletín Oficial de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "A efectos de vigencia, la referencia estatutaria formal remite en primer término a la publicación en el BOE. Referencia: Disp. Final EACYL."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "Según el art. 41 del Estatuto de Autonomía de Castilla y León, el Presidente del Tribunal Superior de Justicia de Castilla y León es propuesto por:",
+    "opciones": [
+      {
+        "texto": "a) El Presidente de la Junta de Castilla y León y lo nombra el Rey.",
+        "es_correcta": false,
+        "explicacion": "El ejecutivo autonómico carece de la potestad de proponer de forma directa los nombramientos de la cúpula del poder judicial. Referencia: art. 41.1 EACYL."
+      },
+      {
+        "texto": "b) El Consejo General del Poder Judicial.",
+        "es_correcta": true,
+        "explicacion": "El Presidente del Tribunal Superior de Justicia de la Comunidad es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial. Referencia: art. 41.1 EACYL."
+      },
+      {
+        "texto": "c) La Junta de Castilla y León de acuerdo con las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "No es una figura cuya propuesta proceda de una deliberación compartida entre el Gobierno autonómico y el parlamento. Referencia: art. 41.1 EACYL."
+      },
+      {
+        "texto": "d) Las Cortes de Castilla y León con acuerdo del Ministerio de Justicia.",
+        "es_correcta": false,
+        "explicacion": "Las Cortes Generales o autonómicas no asumen la propuesta formal de nombramiento, reservada por ley al órgano de gobierno de los jueces. Referencia: art. 41.1 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "Según el art. 21 del Estatuto de Autonomía de Castilla y León, las causas de inelegibilidad e incompatibilidad de los Procuradores, serán determinadas por:",
+    "opciones": [
+      {
+        "texto": "a) La Ley de Incompatibilidades.",
+        "es_correcta": false,
+        "explicacion": "El Estatuto de Autonomía remite este bloque normativo concreto a un marco legal diferenciado y de carácter sustantivamente electoral. Referencia: art. 21.2 EACYL."
+      },
+      {
+        "texto": "b) Los poderes públicos.",
+        "es_correcta": false,
+        "explicacion": "No se encomienda conceptualmente a una habilitación genérica de los poderes públicos, sino a una disposición con fuerza de ley determinada. Referencia: art. 21.2 EACYL."
+      },
+      {
+        "texto": "c) Las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Aunque las Cortes aprueban las normas, el Estatuto realiza una reserva material expresa a favor de la ordenación electoral. Referencia: art. 21.2 EACYL."
+      },
+      {
+        "texto": "d) La legislación electoral.",
+        "es_correcta": true,
+        "explicacion": "Las causas de inelegibilidad e incompatibilidad de los Procuradores se rigen estrictamente por lo que determine la legislación electoral. Referencia: art. 21.2 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "Según el art. 25 del Estatuto de Autonomía de Castilla y León, la entrada en vigor de las leyes de Castilla y León se rige por:",
+    "opciones": [
+      {
+        "texto": "a) La fecha de su promulgación por el Presidente de las Cortes.",
+        "es_correcta": false,
+        "explicacion": "La promulgación de las leyes territoriales corresponde formalmente al Presidente de la Junta de Castilla y León y no al de las Cortes. Referencia: art. 25.1 EACYL."
+      },
+      {
+        "texto": "b) La fecha de su publicación en el Boletín Oficial del Estado.",
+        "es_correcta": false,
+        "explicacion": "Aunque se publiquen en el BOE para su difusión nacional, el diario oficial que rige de manera directa su cómputo de eficacia es el BOCYL. Referencia: art. 25.2 EACYL."
+      },
+      {
+        "texto": "c) La fecha de su publicación en el Boletín Oficial de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "Las Leyes de la Comunidad se publicarán en el Boletín Oficial de Castilla y León, fecha que determina su régimen de entrada en vigor. Referencia: art. 25.2 EACYL."
+      },
+      {
+        "texto": "d) La fecha de su aprobación por las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La mera aprobación parlamentaria de un texto legislativo no marca el dies a quo para el despliegue general de sus efectos y eficacia. Referencia: art. 25.2 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "La Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, dispone en su art. 16 que los acuerdos del Consejo Consultivo se adoptarán por:",
+    "opciones": [
+      {
+        "texto": "a) Mayoría simple de los votos de los asistentes. En caso de empate, decidirá el Presidente con su voto de calidad.",
+        "es_correcta": false,
+        "explicacion": "La ley exige un quorum de votación reforzado y cualificado en primera instancia para la validez de los dictámenes de este órgano consultivo. Referencia: art. 16.1 Ley 1/2002."
+      },
+      {
+        "texto": "b) Mayoría de dos tercios de los miembros asistentes, sin necesidad del voto de calidad del Presidente.",
+        "es_correcta": false,
+        "explicacion": "No es aplicable la regla de los dos tercios de los concurrentes para dirimir las deliberaciones habituales del Consejo. Referencia: art. 16.1 Ley 1/2002."
+      },
+      {
+        "texto": "c) Mayoría de tres quintos de los miembros asistentes a la reunión.",
+        "es_correcta": false,
+        "explicacion": "La exigencia de una proporción de tres quintas partes no es la regla ordinaria de votación recogida en el precepto normativo. Referencia: art. 16.1 Ley 1/2002."
+      },
+      {
+        "texto": "d) Mayoría absoluta de votos de los asistentes. En caso de empate, decidirá el Presidente con su voto de calidad.",
+        "es_correcta": true,
+        "explicacion": "Los acuerdos se adoptan formalmente por mayoría absoluta de los asistentes, dirimiendo los empates el voto de calidad del Presidente. Referencia: art. 16.1 Ley 1/2002."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "El art. 2.1 de la Ley 13/1990, de 28 de noviembre, del Consejo Económico y Social, establece que:",
+    "opciones": [
+      {
+        "texto": "a) Es un órgano colegiado de carácter consultivo y asesor en materia socioeconómica de la Comunidad de Castilla y León, dotado de personalidad jurídica propia.",
+        "es_correcta": true,
+        "explicacion": "La ley define al CES como institución consultiva en el ámbito socioeconómico dotada expresamente de personalidad jurídica pública propia. Referencia: art. 2.1 Ley 13/1990."
+      },
+      {
+        "texto": "b) Es un órgano colegiado de asesoramiento en materia socioeconómica de la Comunidad de Castilla y León, que carece de personalidad jurídica propia.",
+        "es_correcta": false,
+        "explicacion": "Es erróneo afirmar que carece de personalidad, puesto que la ley le otorga independencia orgánica y capacidad jurídica plena. Referencia: art. 2.1 Ley 13/1990."
+      },
+      {
+        "texto": "c) Es un órgano de carácter consultivo en materia socioeconómica y laboral de la Comunidad de Castilla y León, dotado de personalidad jurídica única.",
+        "es_correcta": false,
+        "explicacion": "La literalidad exacta de su norma de creación define su naturaleza bajo la fórmula formal de personalidad jurídica propia. Referencia: art. 2.1 Ley 13/1990."
+      },
+      {
+        "texto": "d) Es un órgano asesor en materia socioeconómica, laboral y administrativa de la Comunidad de Castilla y León, que carece de personalidad jurídica propia.",
+        "es_correcta": false,
+        "explicacion": "La afirmación resulta doblemente incorrecta al atribuirle competencias administrativas generales y negarle su sustantividad jurídica. Referencia: art. 2.1 Ley 13/1990."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "La Ley de Gobierno en su art. 15 determina que la Junta de Castilla y León se compone:",
+    "opciones": [
+      {
+        "texto": "a) Del Presidente, del Vicepresidente y de un máximo de quince Consejeros.",
+        "es_correcta": false,
+        "explicacion": "La existencia del cargo de Vicepresidente está contemplada legalmente con un carácter meramente eventual y potestativo. Referencia: art. 15 Ley 3/2001."
+      },
+      {
+        "texto": "b) Del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de un máximo de diez Consejeros.",
+        "es_correcta": false,
+        "explicacion": "El límite máximo de diez departamentos o consejerías fijado en esta opción no se corresponde con los topes numéricos que marca la ley. Referencia: art. 15 Ley 3/2001."
+      },
+      {
+        "texto": "c) Del Presidente, los Vicepresidentes, un máximo de ocho Consejeros y los Viceconsejeros.",
+        "es_correcta": false,
+        "explicacion": "Los Viceconsejeros son altos cargos que integran la estructura directiva de los departamentos, pero no forman parte del Consejo de Gobierno. Referencia: art. 15 Ley 3/2001."
+      },
+      {
+        "texto": "d) Del Presidente, en su caso del Vicepresidente o Vicepresidentes y de los Consejeros.",
+        "es_correcta": true,
+        "explicacion": "La Junta de Castilla y León está integrada formalmente por el Presidente, el o los Vicepresidentes en su caso, y los Consejeros. Referencia: art. 15 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "El art. 16 de la Ley de Gobierno establece que la Junta de Castilla y León tiene, entre otras, las siguientes atribuciones:",
+    "opciones": [
+      {
+        "texto": "a) Remitir los Proyectos de Ley a las Cortes de Castilla y León, así como acordar su retirada en los términos que establezca el Reglamento de la Cámara.",
+        "es_correcta": false,
+        "explicacion": "La remisión y eventual acuerdo de retirada de proyectos legislativos es competencia del Consejo de Gobierno colegiado. Referencia: art. 16 Ley 3/2001."
+      },
+      {
+        "texto": "b) Dictar Reales Decretos Legislativos en los términos previstos en el art. 16.3 del Estatuto de Autonomía.",
+        "es_correcta": false,
+        "explicacion": "Los decretos normativos dictados por el Gobierno autonómico se denominan Decretos Legislativos, desprovistos de la fórmula institucional de Reales. Referencia: art. 16 Ley 3/2001."
+      },
+      {
+        "texto": "c) Aprobar el Anteproyecto de Ley de Presupuestos de la Comunidad Autónoma y remitirlo a las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La Junta aprueba formalmente el Proyecto de Ley de Presupuestos, habiendo superado ya la fase inicial y técnica de anteproyecto. Referencia: art. 16.2.c) Ley 3/2001."
+      },
+      {
+        "texto": "d) Ejecutar y desarrollar sus propios Presupuestos.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del ejercicio único declara válida y ajustada a derecho la opción d en base al clausulado global de funciones del órgano ejecutivo. Referencia: Plantilla Oficial Examen."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "El art. 26 de la Ley de Gobierno fija las atribuciones de los consejeros, entre las que se encuentran:",
+    "opciones": [
+      {
+        "texto": "a) Preparar y presentar a la Junta anteproyectos de Ley, proyectos de Decretos, proyectos de Decreto-Ley y propuestas de Acuerdos relativos a las cuestiones propias de su Consejería.",
+        "es_correcta": false,
+        "explicacion": "La preparación e impulso sectorial de iniciativas normativas es función ordinaria atribuida de forma expresa al titular de cada consejería. Referencia: art. 26.1.a) Ley 3/2001."
+      },
+      {
+        "texto": "b) Ejercer exclusivamente la potestad ejecutiva en las materias propias de su Consejería.",
+        "es_correcta": false,
+        "explicacion": "La potestad ejecutiva superior de la Comunidad reside formalmente de forma colegiada en el conjunto de la Junta y en su Presidente. Referencia: art. 26 Ley 3/2001."
+      },
+      {
+        "texto": "c) Nombrar y cesar a los titulares de los puestos de concurso dependientes de su Consejería.",
+        "es_correcta": false,
+        "explicacion": "La adjudicación de puestos por concurso se resuelve de manera administrativa reglada, no por libre designación de cese discrecional del titular. Referencia: art. 26 Ley 3/2001."
+      },
+      {
+        "texto": "d) Celebrar los contratos en materias propias de competencia de su Consejería, con el límite fijado en las Leyes de Presupuestos de la Comunidad.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora oficial asigna la respuesta d como la opción válida asignable a las funciones presupuestarias y contractuales de los Consejeros. Referencia: Plantilla Oficial Examen."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "pregunta": "De acuerdo con el art. 33.1 de la Ley de Gobierno:",
+    "opciones": [
+      {
+        "texto": "a) La Administración General de la Comunidad adecuará su organización, funcionamiento y relaciones a los principios generales y normas básicas del régimen jurídico de las Administraciones públicas.",
+        "es_correcta": true,
+        "explicacion": "El precepto estipula textualmente que la Administración General adaptará su estructura y relaciones al marco normativo básico estatal. Referencia: art. 33.1 Ley 3/2001."
+      },
+      {
+        "texto": "b) La Administración General de la Comunidad adecuará su organización, funcionamiento y relaciones a los principios generales y normas supletorias del procedimiento administrativo de las Administraciones públicas.",
+        "es_correcta": false,
+        "explicacion": "La remisión legal se produce sobre las normas de carácter básico y troncal del Estado, no sobre previsiones normativas de índole supletoria. Referencia: art. 33.1 Ley 3/2001."
+      },
+      {
+        "texto": "c) La Administración Institucional de la Comunidad adecuará su organización a los principios generales y normas básicas del régimen jurídico de las Administraciones públicas.",
+        "es_correcta": false,
+        "explicacion": "El apartado primero del artículo regula específicamente el marco concerniente de forma exclusiva a la Administración General. Referencia: art. 33.1 Ley 3/2001."
+      },
+      {
+        "texto": "d) La Administración Institucional de la Comunidad adecuará su organización, funcionamiento y relaciones a los principios generales y normas básicas del régimen jurídico de las Administraciones públicas.",
+        "es_correcta": false,
+        "explicacion": "El redactado literal enfoca este bloque inicial de adecuación sobre el entramado de los departamentos de la Administración General. Referencia: art. 33.1 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "pregunta": "La Ley de Gobierno en su art. 28, establece que:",
+    "opciones": [
+      {
+        "texto": "a) Los Vicepresidentes y los Consejeros no están sujetos a las mismas incompatibilidades que el Presidente de la Junta.",
+        "es_correcta": false,
+        "explicacion": "La ley prescribe un tratamiento jurídico idéntico y plenamente equiparado en el régimen de prohibiciones e incompatibilidades. Referencia: art. 28 Ley 3/2001."
+      },
+      {
+        "texto": "b) Los Vicepresidentes y los Consejeros están sujetos a las mismas incompatibilidades que el Presidente de la Junta.",
+        "es_correcta": true,
+        "explicacion": "La norma determina expresamente que los miembros del Consejo de Gobierno compartirán rigurosamente el mismo marco limitativo que el Presidente. Referencia: art. 28 Ley 3/2001."
+      },
+      {
+        "texto": "c) Los Vicepresidentes y los Consejeros están sujetos a las mismas incompatibilidades que el Presidente de las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La referencia legal para trazar la homogeneidad del régimen se realiza respecto al jefe del ejecutivo y no sobre la presidencia del legislativo. Referencia: art. 28 Ley 3/2001."
+      },
+      {
+        "texto": "d) Los Vicepresidentes y los Consejeros no tienen las mismas incompatibilidades que el Presidente de las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El artículo fija la equiparación interna tomando como modelo de referencia obligado el estatuto del Presidente de la Junta. Referencia: art. 28 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "pregunta": "De acuerdo con el art. 39 de la Ley de Gobierno, el Secretario general tiene atribuidas, entre otras, las siguientes competencias:",
+    "opciones": [
+      {
+        "texto": "a) Ostentar la representation de la Consejería por orden del Viceconsejero correspondiente.",
+        "es_correcta": false,
+        "explicacion": "La representación institucional ordinaria de cada departamento recae por derecho propio en su respectivo Consejero. Referencia: art. 39 Ley 3/2001."
+      },
+      {
+        "texto": "b) Dirigir y gestionar los Servicios comunes del departamento, así como los órganos y unidades administrativas que se encuentren bajo la dependencia de una Dirección General.",
+        "es_correcta": false,
+        "explicacion": "Las unidades adscritas a una Dirección General se encuentran subordinadas de manera directa al Director General de ese sector. Referencia: art. 39 Ley 3/2001."
+      },
+      {
+        "texto": "c) Informar y tramitar los proyectos de ley y las disposiciones administrativas de carácter general de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Al Secretario General le corresponde informar y tramitar los proyectos normativos ceñidos estrictamente al ámbito propio de su Consejería. Referencia: art. 39.1.b) Ley 3/2001."
+      },
+      {
+        "texto": "d) Desempeñar la jefatura superior de todo el personal de la Consejería y resolver cuantos asuntos se refieran al mismo, salvo los atribuidos expresamente a otros órganos de la Consejería.",
+        "es_correcta": true,
+        "explicacion": "Corresponde legalmente al Secretario General ejercer la jefatura del personal adscrito a su correspondiente departamento. Referencia: art. 39.1.g) Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "pregunta": "El art. 51 de la Ley de Gobierno, con respecto a los órganos periféricos, establece que las Delegaciones Territoriales se ubicarán:",
+    "opciones": [
+      {
+        "texto": "a) En las capitales de las provincias de la Comunidad Autónoma, sin perjuicio de que alguno de sus órganos o unidades administrativas se localice, por Ley de la Junta de Castilla y León, en otros municipios de las correspondientes provincias.",
+        "es_correcta": false,
+        "explicacion": "El instrumento formal requerido por la legislación ordinaria para habilitar otras localizaciones municipales no es una norma con rango de ley. Referencia: art. 51 Ley 3/2001."
+      },
+      {
+        "texto": "b) En las capitales de las provincias de la Comunidad Autónoma, sin perjuicio de que alguno de sus órganos o unidades administrativas se localice, por Decreto de la Junta de Castilla y León, en otros municipios de las correspondientes provincias.",
+        "es_correcta": true,
+        "explicacion": "La ubicación de dependencias periféricas fuera de las capitales provinciales requiere habilitación expresa mediante Decreto de la Junta. Referencia: art. 51 Ley 3/2001."
+      },
+      {
+        "texto": "c) En las capitales de las provincias de la Comunidad Autónoma, sin perjuicio de que alguno de sus órganos o unidades administrativas se localice, por Acuerdo de la Junta de Castilla y León, en otros municipios de las correspondientes provincias.",
+        "es_correcta": false,
+        "explicacion": "La naturaleza jurídica formal de un mero Acuerdo del Consejo de Gobierno resulta insuficiente según el texto normativo analizado. Referencia: art. 51 Ley 3/2001."
+      },
+      {
+        "texto": "d) En las capitales de las provincias de la Comunidad Autónoma, salvo que algunos de sus órganos o unidades administrativas se ubiquen en otros municipios de esas provincias.",
+        "es_correcta": false,
+        "explicacion": "La dispersión o radicación de oficinas territoriales no se produce de forma automática o de hecho; está sujeta a formalidades jurídicas explícitas. Referencia: art. 51 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "pregunta": "El art. 45 de la Ley de Gobierno establece que:",
+    "opciones": [
+      {
+        "texto": "a) La creación, modificación o supresión de Viceconsejerías, Secretarías Generales y de Direcciones Generales se llevará a cabo por Acuerdo del Presidente de la Junta de Castilla y León a iniciativa del Consejero o Consejeros interesados.",
+        "es_correcta": false,
+        "explicacion": "La alteración formal de la estructura orgánica básica de los departamentos no es una competencia exclusiva o directa del Presidente. Referencia: art. 45.1 Ley 3/2001."
+      },
+      {
+        "texto": "b) La creación, modificación o supresión de Viceconsejerías y Secretarías Generales se llevará a cabo por Ley de las Cortes de Castilla y León a iniciativa del Consejero o Consejeros interesados.",
+        "es_correcta": false,
+        "explicacion": "La organización de estos órganos intermedios de las Consejerías recae en el ámbito de la potestad reglamentaria y organizativa del ejecutivo. Referencia: art. 45.1 Ley 3/2001."
+      },
+      {
+        "texto": "c) La creación, modificación o supresión de Secretarías Generales se llevará a cabo por Resolución del Consejero de la Presidencia a iniciativa del Consejero o Consejeros interesados.",
+        "es_correcta": false,
+        "explicacion": "Un Consejero de forma singular carece de la habilitación formal para decretar la estructura organizativa de los demás departamentos. Referencia: art. 45.1 Ley 3/2001."
+      },
+      {
+        "texto": "d) La creación, modificación o supresión de Secretarías Generales y de Direcciones Generales se llevará a cabo por Decreto de la Junta de Castilla y León a iniciativa del Consejero o Consejeros interesados y a propuesta del Consejero de Presidencia y Administración Territorial, sin perjuicio de su posterior desarrollo en las normas orgánicas correspondientes.",
+        "es_correcta": true,
+        "explicacion": "La ordenación de estos altos órganos directivos exige imperativamente la adopción formal de un Decreto del Consejo de Gobierno de la Junta. Referencia: art. 45.1 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "pregunta": "Conforme al art. 84 de la Ley de Gobierno, la creación de empresas públicas se efectuará:",
+    "opciones": [
+      {
+        "texto": "a) Por Decreto de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El reglamento del ejecutivo puede autorizar o complementar el proceso, pero el núcleo institucional de su creación exige cobertura parlamentaria. Referencia: art. 84 Ley 3/2001."
+      },
+      {
+        "texto": "b) Por Decreto del Presidente de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La potestad de constituir o instituir empresas públicas de la Comunidad no se encuadra en las atribuciones del Presidente por decreto. Referencia: art. 84 Ley 3/2001."
+      },
+      {
+        "texto": "c) Por Ley.",
+        "es_correcta": true,
+        "explicacion": "La constitución de las empresas públicas integradas en el sector público autonómico requerirá de forma obligatoria una reserva de Ley. Referencia: art. 84 Ley 3/2001."
+      },
+      {
+        "texto": "d) Por Resolución del Consejero competente en la materia.",
+        "es_correcta": false,
+        "explicacion": "Una resolución de un órgano departamental singular resulta manifiestamente nula por carecer de competencia material para fundar una entidad pública. Referencia: art. 84 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "pregunta": "Según el art. 89 de la Ley de Gobierno, las funciones del máximo órgano unipersonal de gestión del organismo autónomo se equipararán a las del:",
+    "opciones": [
+      {
+        "texto": "a) Consejero.",
+        "es_correcta": false,
+        "explicacion": "El rango de Consejero se asocia exclusivamente al mando superior político y administrativo del conjunto de un departamento. Referencia: art. 89 Ley 3/2001."
+      },
+      {
+        "texto": "b) Secretario general.",
+        "es_correcta": false,
+        "explicacion": "Las funciones horizontales del Secretario General de una Consejería difieren formalmente del rol de gestión asignado a estos entes. Referencia: art. 89 Ley 3/2001."
+      },
+      {
+        "texto": "c) Director general.",
+        "es_correcta": true,
+        "explicacion": "Las atribuciones conferidas al responsable ejecutivo de un organismo autónomo se asimilan legalmente a las de un Director General. Referencia: art. 89 Ley 3/2001."
+      },
+      {
+        "texto": "d) Coordinador de servicios.",
+        "es_correcta": false,
+        "explicacion": "La escala organizativa sitúa estas jefaturas de gestión en un escalafón asimilado a la alta dirección general de la administración sectorial. Referencia: art. 89 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "pregunta": "Los decretos legislativos:",
+    "opciones": [
+      {
+        "texto": "a) Son disposiciones del Gobierno que contienen legislación delegada.",
+        "es_correcta": true,
+        "explicacion": "Constituyen normas con fuerza de Ley dictadas formalmente por el ejecutivo en virtud de una previa delegación otorgada por el parlamento. Referencia: art. 82.1 CE."
+      },
+      {
+        "texto": "b) Deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación.",
+        "es_correcta": false,
+        "explicacion": "Dicho procedimiento de validación y control parlamentario inmediato a los 30 días es propio de los Decretos-Leyes, no de los legislativos. Referencia: art. 86.2 CE."
+      },
+      {
+        "texto": "c) La delegación legislativa deberá otorgarse mediante una ley ordinaria cuando su objeto sea la formación de textos articulados.",
+        "es_correcta": false,
+        "explicacion": "Para habilitar la redacción de un texto articulado innovador es imperativa una Ley de Bases y no una Ley ordinaria. Referencia: art. 82.2 CE."
+      },
+      {
+        "texto": "d) Son normas reglamentarias dictadas por el Gobierno que carecen de rango de Ley.",
+        "es_correcta": false,
+        "explicacion": "Es falso, pues los Decretos Legislativos ostentan de manera plena y pacífica un rango equivalente al de las disposiciones legales. Referencia: art. 82.1 CE."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "pregunta": "Según el art. 82 de la Constitución Española, la autorización al Gobierno de la Nación para dictar textos articulados se efectúa a través de:",
+    "opciones": [
+      {
+        "texto": "a) Ley de bases.",
+        "es_correcta": true,
+        "explicacion": "La delegación legislativa para la elaboración de textos articulados se otorgará de forma necesaria mediante una Ley de Bases. Referencia: art. 82.2 CE."
+      },
+      {
+        "texto": "b) Ley ordinaria.",
+        "es_correcta": false,
+        "explicacion": "La ley ordinaria es el instrumento de delegación reservado específicamente cuando el objeto es refundir varios textos legales en uno. Referencia: art. 82.2 CE."
+      },
+      {
+        "texto": "c) Decreto legislativo.",
+        "es_correcta": false,
+        "explicacion": "El Decreto Legislativo es el producto normativo final que dicta el Gobierno, no el instrumento parlamentario de autorización previa. Referencia: art. 82.1 CE."
+      },
+      {
+        "texto": "d) Decreto-Ley.",
+        "es_correcta": false,
+        "explicacion": "El Decreto-Ley emana del Gobierno por razones de extraordinaria y urgente necesidad, sin mediar autorización previa de las Cortes. Referencia: art. 86.1 CE."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "pregunta": "Contra las resoluciones y determinados actos de trámite, fundado en cualquiera de los motivos de nulidad o anulabilidad previstos en los arts. 47 y 48 de la ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas (en adelante \"LPACAP\"), podrá interponerse por los interesados:",
+    "opciones": [
+      {
+        "texto": "a) El recurso de alzada exclusivamente.",
+        "es_correcta": false,
+        "explicacion": "La viabilidad de interponer un recurso administrativo no se agota con la alzada; depende de si el órgano agota o no la vía administrativa. Referencia: art. 112.1 Ley 39/2015."
+      },
+      {
+        "texto": "b) Los recursos de alzada y potestativo de reposición.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora unificada fija la opción b como la respuesta correcta según la clasificación general de los recursos ordinarios. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "c) Los recursos de alzada y extraordinario de revisión.",
+        "es_correcta": false,
+        "explicacion": "La revisión extraordinaria es un supuesto tasado y excepcional supeditado a motivos fácticos muy singulares y rigurosos. Referencia: art. 112.1 Ley 39/2015."
+      },
+      {
+        "texto": "d) Los recursos de alzada, potestativo de reposición y extraordinario de revisión.",
+        "es_correcta": false,
+        "explicacion": "La interposición ordinaria de acciones de impugnación general se canaliza formalmente a través de la alzada o de la reposición. Referencia: art. 112.1 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "pregunta": "Según el art. 122 de la LPACAP, contra la resolución de un recurso de alzada:",
+    "opciones": [
+      {
+        "texto": "a) Podrá interponerse recurso potestativo de reposición o contencioso administrativo.",
+        "es_correcta": false,
+        "explicacion": "El recurso potestativo de reposición no puede interponerse nunca contra la resolución de un previo recurso de alzada. Referencia: art. 122.3 Ley 39/2015."
+      },
+      {
+        "texto": "b) Únicamente cabrá interponer recurso potestativo de reposición.",
+        "es_correcta": false,
+        "explicacion": "La resolución de una alzada cierra de forma definitiva la vía administrativa ordinaria y abre la vía jurisdiccional. Referencia: art. 122.3 Ley 39/2015."
+      },
+      {
+        "texto": "c) No cabe ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el art. 125.1.",
+        "es_correcta": true,
+        "explicacion": "Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el extraordinario de revisión. Referencia: art. 122.3 Ley 39/2015."
+      },
+      {
+        "texto": "d) No cabrá ningún otro recurso administrativo.",
+        "es_correcta": false,
+        "explicacion": "La afirmación omite la excepción legal que representa la viabilidad del recurso extraordinario de revisión ante vicios formales externos. Referencia: art. 122.3 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "pregunta": "Según el art. 107 de la LPACAP, la declaración de lesividad no podrá adoptarse una vez transcurrido:",
+    "opciones": [
+      {
+        "texto": "a) 6 meses desde que se dictó el acto administrativo.",
+        "es_correcta": false,
+        "explicacion": "El plazo de seis meses es notoriamente breve e impropio de la acción de lesividad regulada a nivel general para la Administración. Referencia: art. 107.2 Ley 39/2015."
+      },
+      {
+        "texto": "b) 1 año desde que se dictó el acto administrativo.",
+        "es_correcta": false,
+        "explicacion": "La ley concede a la Administración un margen temporal superior al año para enjuiciar y declarar lesivo un acto propio anulable. Referencia: art. 107.2 Ley 39/2015."
+      },
+      {
+        "texto": "c) 2 años desde que se dictó el acto administrativo.",
+        "es_correcta": false,
+        "explicacion": "El periodo de caducidad para la declaración de lesividad duplica los dos años de vigencia temporal sugeridos en esta opción. Referencia: art. 107.2 Ley 39/2015."
+      },
+      {
+        "texto": "d) 4 años desde que se dictó el acto administrativo.",
+        "es_correcta": true,
+        "explicacion": "La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se hubiera dictado el acto administrativo. Referencia: art. 107.2 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "pregunta": "De acuerdo con el art. 21 de la LPACAP, ¿cuál es el plazo máximo para resolver y notificar un procedimiento administrativo iniciado de oficio si no está fijado dicho plazo por las normas que lo regulan?",
+    "opciones": [
+      {
+        "texto": "a) 3 meses desde la entrada de la solicitud en el registro electrónico de la Administración u Organismo competente para su recepción.",
+        "es_correcta": false,
+        "explicacion": "La referencia de entrada de la solicitud es de aplicación exclusiva para los expedientes tramitados a instancia de parte. Referencia: art. 21.3 Ley 39/2015."
+      },
+      {
+        "texto": "b) 3 meses desde la fecha del acuerdo de iniciación.",
+        "es_correcta": true,
+        "explicacion": "Cuando las normas reguladoras no fijen plazo, este será de tres meses contados, en expedientes de oficio, desde el acuerdo de iniciación. Referencia: art. 21.3 Ley 39/2015."
+      },
+      {
+        "texto": "c) 6 meses desde la entrada de la solicitud en el registro electrónico de la Administración u Organismo competente para su recepción.",
+        "es_correcta": false,
+        "explicacion": "Esta previsión confunde los plazos máximos supletorios generales con las reglas de cómputo propias del inicio a solicitud del interesado. Referencia: art. 21.3 Ley 39/2015."
+      },
+      {
+        "texto": "d) 6 meses desde la fecha del acuerdo de iniciación.",
+        "es_correcta": false,
+        "explicacion": "El plazo supletorio general que la ley establece por defecto es de tres meses, no de seis. Referencia: art. 21.3 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "pregunta": "Para la válida constitución de un órgano colegiado, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá, según el art. 17 de la LRJSP, la asistencia:",
+    "opciones": [
+      {
+        "texto": "a) Presencial o a distancia, del presidente y secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.",
+        "es_correcta": true,
+        "explicacion": "Se requiere de forma tasada la presencia de los cargos de presidencia y secretaría y un quorum mínimo de la mitad de los integrantes. Referencia: art. 17.2 Ley 40/2015."
+      },
+      {
+        "texto": "b) Presencial o a distancia, del presidente, vicepresidente y secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.",
+        "es_correcta": false,
+        "explicacion": "La asistencia del vicepresidente no es una condición sine qua non exigida con carácter general por la ley básica para constituir el órgano. Referencia: art. 17.2 Ley 40/2015."
+      },
+      {
+        "texto": "c) Presencial o a distancia, del presidente y secretario o en su caso, de quienes les suplan, y la de la mitad más uno, al menos, de sus miembros.",
+        "es_correcta": false,
+        "explicacion": "El redactado normativo exige alcanzar la fracción de la mitad de la totalidad de sus miembros, no la fórmula matemática de la mitad más uno. Referencia: art. 17.2 Ley 40/2015."
+      },
+      {
+        "texto": "d) Presencial o a distancia, del presidente y secretario o en su caso, de quienes les suplan, y dos tercios, al menos, de sus miembros.",
+        "es_correcta": false,
+        "explicacion": "La proporción cualificada de dos terceras partes no es el umbral legal ordinario exigido para la válida constitución en primera convocatoria. Referencia: art. 17.2 Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "pregunta": "Según el art. 8 de la LRJSP, no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén:",
+    "opciones": [
+      {
+        "texto": "a) La avocación, la delegación de competencias, la suplencia y la delegación de firma.",
+        "es_correcta": false,
+        "explicacion": "La delegación de competencias traslada de forma explícita el ejercicio, pero la enumeración omite figuras clave de gestión recogidas en el precepto. Referencia: art. 8.1 Ley 40/2015."
+      },
+      {
+        "texto": "b) La delegación de competencias, la avocación, las encomiendas de gestión, la delegación de firma y la suplencia.",
+        "es_correcta": false,
+        "explicacion": "Esta secuencia altera el orden expositivo detallado en la norma, aunque recoge de manera extensiva las técnicas de traslación del ejercicio. Referencia: art. 8.1 Ley 40/2015."
+      },
+      {
+        "texto": "c) La delegación de competencias, la suplencia, la delegación de firma y las encomiendas de gestión.",
+        "es_correcta": true,
+        "explicacion": "La delegación de competencias, la encomienda de gestión, la delegación de firma y la suplencia alteran el ejercicio sin mutar la titularidad originaria. Referencia: art. 8.1 Ley 40/2015."
+      },
+      {
+        "texto": "d) La avocación, las encomiendas de gestión, la delegación de firma y la suplencia.",
+        "es_correcta": false,
+        "explicacion": "La avocación supone una llamada singular sobre un asunto concreto, rigiéndose por dinámicas singulares respecto al resto de técnicas de gestión. Referencia: art. 8.1 Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "pregunta": "Según el art. 19 de la LRJSP al presidente de un órgano colegiado no le corresponde:",
+    "opciones": [
+      {
+        "texto": "a) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.",
+        "es_correcta": true,
+        "explicacion": "La expedición de certificaciones de acuerdos es una función que compete de forma exclusiva al Secretario del órgano, no al Presidente. Referencia: art. 19.4.c) Ley 40/2015."
+      },
+      {
+        "texto": "b) Visar las actas y certificaciones de los acuerdos del órgano.",
+        "es_correcta": false,
+        "explicacion": "El visado formal de las actas y documentos oficiales para otorgarles validez sí es una atribución propia de la presidencia. Referencia: art. 19.2.f) Ley 40/2015."
+      },
+      {
+        "texto": "c) Fijar el orden del día.",
+        "es_corrector": false,
+        "explicacion": "Fijar el orden del día de las sesiones, teniendo en cuenta las peticiones de los demás miembros, corresponde legalmente al presidente. Referencia: art. 19.2.b) Ley 40/2015."
+      },
+      {
+        "texto": "d) Acordar la convocatoria de las sesiones ordinarias y extraordinarias",
+        "es_correcta": false,
+        "explicacion": "La facultad de acordar formalmente la convocatoria de las reuniones del órgano es una potestad inmanente a la figura presidencial. Referencia: art. 19.2.b) Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Cuál de las siguientes no es una situación administrativa de los funcionarios de carrera, conforme al art. 85 del Texto Refundido del Estatuto Básico del Empleado Público (en adelante \"TREBEP\")?",
+    "opciones": [
+      {
+        "texto": "a) Excedencia.",
+        "es_correcta": false,
+        "explicacion": "La excedencia, en sus distintas modalidades, está catalogada plenamente como una situación administrativa ordinaria. Referencia: art. 85.1.c) TREBEP."
+      },
+      {
+        "texto": "b) Servicios especiales.",
+        "es_correcta": false,
+        "explicacion": "La declaración de servicios especiales constituye un supuesto clásico de situación administrativa contemplado en la norma. Referencia: art. 85.1.b) TREBEP."
+      },
+      {
+        "texto": "c) Expectativa de destino.",
+        "es_correcta": true,
+        "explicacion": "La situación de expectativa de destino no figura recogida en el catálogo unificado de situaciones del estatuto básico estatal. Referencia: art. 85.1 TREBEP."
+      },
+      {
+        "texto": "d) Suspensión de funciones.",
+        "es_correcta": false,
+        "explicacion": "La suspensión de funciones, sea de carácter provisional o firme, conforma una situación administrativa tipificada por ley. Referencia: art. 85.1.e) TREBEP."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "pregunta": "En relación con la excedencia por el cuidado familiar que aparece en el art. 89 del TREBEP, el puesto de trabajo desempeñado:",
+    "opciones": [
+      {
+        "texto": "a) Se reservará, como máximo, dos años.",
+        "es_correcta": false,
+        "explicacion": "El periodo de reserva garantizado con carácter obligatorio en el puesto de origen no se encuentra topado de forma estricta en dos años. Referencia: art. 89.4 TREBEP."
+      },
+      {
+        "texto": "b) Se reservará, al menos, durante dos años.",
+        "es_correcta": false,
+        "explicacion": "La reserva obligatoria del puesto concreto se proyecta por un periodo mínimo de dos años, ampliable según los términos fijados por cada administración. Referencia: art. 89.4 TREBEP."
+      },
+      {
+        "texto": "c) Se reservará, como máximo, tres años.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del proceso selectivo determina que la opción c responde de forma oficial al supuesto planteado sobre la reserva de puesto. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "d) No se podrá reservar.",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que la excedencia por cuidado de familiares confiere de manera inherente un derecho de reserva del puesto de origen. Referencia: art. 89.4 TREBEP."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "pregunta": "De acuerdo con lo indicado en el art. 48 del TREBEP, en caso de accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario de un familiar dentro del segundo grado de consanguinidad o afinidad, los funcionarios tendrán derecho a:",
+    "opciones": [
+      {
+        "texto": "a) Un permiso de tres días hábiles, solamente en los casos de consanguinidad.",
+        "es_correcta": false,
+        "explicacion": "La ley no discrimina la afinidad frente a la consanguinidad ni reduce el cómputo de la licencia a tres días de duración. Referencia: art. 48.a) TREBEP."
+      },
+      {
+        "texto": "b) Un permiso de cinco días hábiles.",
+        "es_correcta": false,
+        "explicacion": "El permiso general por estos supuestos familiares es de cinco días tras las recientes reformas de conciliación en la legislación laboral y pública. Referencia: art. 48.a) TREBEP."
+      },
+      {
+        "texto": "c) Un permiso de cuatro días hábiles.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora oficial declara como válida la opción c para el cómputo de este permiso específico de cuidado familiar. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "d) Un permiso de tres días hábiles.",
+        "es_correcta": false,
+        "explicacion": "Un permiso limitado a tres jornadas no responde a la redacción ni a las bases actuales del estatuto del empleado público. Referencia: art. 48.a) TREBEP."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "pregunta": "Según el art. 5 de la Ley 7/2005 de 24 de mayo, de la Función Pública de Castilla y León (en adelante \"LFPCYL\"), es un Órgano Superior competente en materia de Función Pública:",
+    "opciones": [
+      {
+        "texto": "a) El Presidente de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Aunque ostenta la máxima representación, la dirección de la función pública se atribuye a órganos colegiados o consejerías específicas. Referencia: art. 5 Ley 7/2005."
+      },
+      {
+        "texto": "b) El Consejero competente en materia de diálogo social.",
+        "es_correcta": false,
+        "explicacion": "La asignación formal de competencias directas se atribuye al Consejero de la Presidencia y no a una figura de diálogo social. Referencia: art. 5 Ley 7/2005."
+      },
+      {
+        "texto": "c) La Comisión Regional de la Función Pública.",
+        "es_correcta": true,
+        "explicacion": "La ley tipifica expresamente a la Comisión Regional de la Función Pública como uno de los órganos superiores en esta materia. Referencia: art. 5.c) Ley 7/2005."
+      },
+      {
+        "texto": "d) El Consejo de la comisión de los empleados públicos.",
+        "es_correcta": false,
+        "explicacion": "Dicha denominación orgánica no existe ni está recogida en el catálogo de autoridades de la función pública autonómica. Referencia: art. 5 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "pregunta": "Señala la respuesta incorrecta según el art. 46 de la LFPCYL. Para ser admitidos a las pruebas de selección de funcionarios se requerirá:",
+    "opciones": [
+      {
+        "texto": "a) Estar en posesión del Título exigible, o en condiciones de obtenerlo, en la fecha en que finalice el plazo de presentación de solicitudes para tomar parte en las pruebas selectivas.",
+        "es_correcta": false,
+        "explicacion": "Es un requisito correcto y obligatorio, por lo que no constituye la respuesta incorrecta buscada por el enunciado. Referencia: art. 46.1.c) Ley 7/2005."
+      },
+      {
+        "texto": "b) Ser español, sin perjuicio de lo establecido en la normativa vigente sobre acceso a determinados sectores de la Función Pública de nacionales de los demás Estados miembros de la Unión Europea, así como en otros supuestos legalmente establecidos.",
+        "es_correcta": false,
+        "explicacion": "Es un postulado verídico y adaptado a la legislación del acceso público de los ciudadanos comunitarios. Referencia: art. 46.1.a) Ley 7/2005."
+      },
+      {
+        "texto": "c) Poseer la capacidad necesaria para el desempeño de las correspondientes funciones.",
+        "es_correcta": false,
+        "explicacion": "Constituye una condición de aptitud psicofísica verídica exigida de forma universal en los procesos selectivos. Referencia: art. 46.1.d) Ley 7/2005."
+      },
+      {
+        "texto": "d) Hallarse inhabilitado, por sentencia firme, para el desempeño de funciones públicas, ni haber sido separado, mediante expediente disciplinario, del servicio de cualquier Administración Pública.",
+        "es_correcta": true,
+        "explicacion": "Es la respuesta incorrecta (y por tanto la que hay que marcar), pues el requisito real es justamente *no* hallarse inhabilitado. Referencia: art. 46.1.e) Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "pregunta": "Según el art. 10 de la LFPCYL ¿quién propone a la Junta de Castilla y León las directrices a que deberán ajustarse los gastos de personal al servicio de la Administración de Castilla y León?",
+    "opciones": [
+      {
+        "texto": "a) El Consejero de la Presidencia.",
+        "es_correcta": false,
+        "explicacion": "Al titular de Presidencia le competen la ordenación y los recursos humanos, pero la vertiente puramente financiera y de gasto recae en otro departamento. Referencia: art. 10 Ley 7/2005."
+      },
+      {
+        "texto": "b) El Consejero competente en materia de política presupuestaria y de gasto público.",
+        "es_correcta": true,
+        "explicacion": "Corresponde al Consejero de Hacienda (competente en economía y presupuestos) elevar las directrices de los gastos de personal. Referencia: art. 10 Ley 7/2005."
+      },
+      {
+        "texto": "c) El Consejero de Economía y Empleo.",
+        "es_correcta": false,
+        "explicacion": "Aunque coordina parcelas macroeconómicas, no ostenta la atribución específica de fijar las directrices internas del gasto presupuestario de personal. Referencia: art. 10 Ley 7/2005."
+      },
+      {
+        "texto": "d) El Consejo de la Función Pública.",
+        "es_correcta": false,
+        "explicacion": "Es un órgano colegiado de debate y consulta, desprovisto de la potestad ejecutiva de proponer de forma directa las directrices presupuestarias. Referencia: art. 10 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "pregunta": "Según el art. 43 del TREBEP, podrán promover la celebración de elecciones a Delegados y Juntas de personal:",
+    "opciones": [
+      {
+        "texto": "a) Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes a los que se refiere este Estatuto en el conjunto de las Administraciones Públicas.",
+        "es_correcta": true,
+        "explicacion": "La ley faculta expresamente a promover elecciones a las organizaciones sindicales que acrediten dicho umbral del diez por ciento. Referencia: art. 43.a) TREBEP."
+      },
+      {
+        "texto": "b) Los sindicatos que hayan obtenido un porcentaje del 5 por 100 en la unidad electoral en la que se pretende promover las elecciones.",
+        "es_correcta": false,
+        "explicacion": "Un porcentaje de representatividad del cinco por ciento resulta insuficiente según el módulo legal mínimo requerido a nivel general. Referencia: art. 43 TREBEP."
+      },
+      {
+        "texto": "c) Los funcionarios de la unidad electoral, por un porcentaje del 40 por 100 de la unidad electoral.",
+        "es_correcta": false,
+        "explicacion": "Los propios trabajadores pueden promover elecciones colectivas si media acuerdo mayoritario de la plantilla, variando las cuotas exigidas. Referencia: art. 43 TREBEP."
+      },
+      {
+        "texto": "d) Los sindicatos menos representativos a nivel de comunidad autónoma, cuando la unidad electoral afectada esté ubicada en su ámbito geográfico.",
+        "es_correcta": false,
+        "explicacion": "La capacidad promotora general se vincula a criterios objetivos de representatividad acreditada y no a demarcaciones territoriales simples. Referencia: art. 43 TREBEP."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "pregunta": "Según el art. 37 del TREBEP quedan excluidas de la obligatoriedad de la negociación:",
+    "opciones": [
+      {
+        "texto": "a) Las normas que fijen los criterios generales en materia de acceso, carrera, provisión, sistemas de clasificación de puestos de trabajo y planes e instrumentos de planificación de recursos humanos.",
+        "es_correcta": false,
+        "explicacion": "Estas materias relativas a las condiciones generales del empleo público son de negociación obligatoria en las Mesas. Referencia: art. 37.1 TREBEP."
+      },
+      {
+        "texto": "b) Las normas que fijen los criterios y mecanismos generales en materia de evaluación del desempeño.",
+        "es_correcta": false,
+        "explicacion": "La determinación y ordenación general de los sistemas de evaluación del desempeño exige someterse a negociación colectiva. Referencia: art. 37.1 TREBEP."
+      },
+      {
+        "texto": "c) Los criterios generales de acción social.",
+        "es_correcta": false,
+        "explicacion": "La fijación de los marcos de la acción social es una materia inequívocamente sujeta al principio de negociación obligatoria. Referencia: art. 37.1.g) TREBEP."
+      },
+      {
+        "texto": "d) La determinación de condiciones de trabajo del personal directivo.",
+        "es_correcta": true,
+        "explicacion": "Quedan excluidas de la obligatoriedad de la negociación las decisiones que afecten a las condiciones del personal directivo. Referencia: art. 37.2.a) TREBEP."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "pregunta": "Según el art. 28 del Decreto 227/1997, de 20 de noviembre, por el que se aprueba el Reglamento de Incompatibilidades del Personal al Servicio de la Administración de la Comunidad de Castilla y León, los criterios preferenciales para determinar la actividad principal en el supuesto de desarrollar dos actividades públicas que correspondan a diferentes administraciones son:",
+    "opciones": [
+      {
+        "texto": "a) La que tenga mayor complemento específico.",
+        "es_correcta": false,
+        "explicacion": "El complemento específico singular no opera como el criterio automatizado de desempate preferente que marca el reglamento. Referencia: art. 28 Decreto 227/1997."
+      },
+      {
+        "texto": "b) En caso de dos actividades a tiempo parcial, la de menor duración semanal.",
+        "es_correcta": false,
+        "explicacion": "La preferencia reglamentaria en jornadas parciales tiende a ponderar el puesto que ofrezca mayor estabilidad o volumen de dedicación. Referencia: art. 28 Decreto 227/1997."
+      },
+      {
+        "texto": "c) En caso de igual duración, la de menor retribución.",
+        "es_correcta": false,
+        "explicacion": "Ante igualdad de condiciones horarias, la lógica normativa prioriza el puesto que devengue mayor cuantía económica global. Referencia: art. 28 Decreto 227/1997."
+      },
+      {
+        "texto": "d) En caso de igual duración y retribución, por la que opte el interesado en su solicitud.",
+        "es_correcta": true,
+        "explicacion": "El reglamento otorga la facultad de opción al propio empleado si concurre una absoluta identidad en tiempos y retribuciones. Referencia: art. 28 Decreto 227/1997."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "pregunta": "Según el artículo 5 de la Orden EYH/524/2024, de 31 de mayo, por la que se dictan las normas para la elaboración de los Presupuestos Generales de la Comunidad de Castilla y León para el año 2025. ¿Cómo se estructura el estado de ingresos en los Presupuestos Generales de la comunidad?",
+    "opciones": [
+      {
+        "texto": "a) Siguiendo únicamente la clasificación funcional.",
+        "es_correcta": false,
+        "explicacion": "Los ingresos públicos carecen por su propia naturaleza financiera de una clasificación de carácter netamente funcional. Referencia: art. 5 Orden EYH/524/2024."
+      },
+      {
+        "texto": "b) Mediante la clasificación orgánica y económica.",
+        "es_correcta": true,
+        "explicacion": "El estado de ingresos de los Presupuestos de la Comunidad se estructurará siguiendo los criterios orgánico y económico. Referencia: art. 5.1 Orden EYH/524/2024."
+      },
+      {
+        "texto": "c) Utilizando exclusivamente la clasificación económica.",
+        "es_correcta": false,
+        "explicacion": "Resulta incompleto, pues la vertiente orgánica es indispensable para identificar el centro gestor que recauda los fondos. Referencia: art. 5 Orden EYH/524/2024."
+      },
+      {
+        "texto": "d) Aplicando las clasificación funcional y económica.",
+        "es_correcta": false,
+        "explicacion": "La vertiente funcional se reserva de forma exclusiva para ordenar los objetivos y programas del estado de gastos. Referencia: art. 5 Orden EYH/524/2024."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "pregunta": "Según el art. 2 de la Ley 2/2006, de 3 de mayo, de la Hacienda y del Sector Público de la Comunidad de Castilla y León (en adelante \"LHySP\"), el sector público institucional de la Comunidad se integra por:",
+    "opciones": [
+      {
+        "texto": "a) Los Organismos Autónomos y los entes públicos de derecho privado integrantes de la Administración Institucional de la Comunidad.",
+        "es_correcta": true,
+        "explicacion": "La ley adscribe formalmente a los organismos autónomos y entidades de derecho privado en el perímetro del sector institucional. Referencia: art. 2.1 Ley 2/2006."
+      },
+      {
+        "texto": "b) Las empresas privadas integrantes de la Administración Institucional de la Comunidad.",
+        "es_correcta": false,
+        "explicacion": "Las mercantiles de capital enteramente privado no forman parte de la estructura institucional de la Administración Pública. Referencia: art. 2 Ley 2/2006."
+      },
+      {
+        "texto": "c) Las universidades privadas integrantes de la Administración Institucional de la Comunidad.",
+        "es_correcta": false,
+        "explicacion": "Las instituciones universitarias de naturaleza privada son entidades ajenas al sector público de la Comunidad. Referencia: art. 2 Ley 2/2006."
+      },
+      {
+        "texto": "d) Las fundaciones privadas integrantes de la Administración Institucional de la Comunidad.",
+        "es_correcta": false,
+        "explicacion": "Solo integran el sector institucional aquellas fundaciones que revistan un carácter estrictamente público y de control autonómico. Referencia: art. 2 Ley 2/2006."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "pregunta": "Según el art. 165 de la LHySP, el presupuesto de cada ejercicio se liquidará en cuanto a la recaudación de derechos y al pago de obligaciones:",
+    "opciones": [
+      {
+        "texto": "a) El 1 de diciembre del año natural correspondiente.",
+        "es_correcta": false,
+        "explicacion": "La liquidación no puede anticiparse al cierre efectivo de la actividad económica ordinaria de la anualidad. Referencia: art. 165 Ley 2/2006."
+      },
+      {
+        "texto": "b) El 31 de diciembre del año natural correspondiente.",
+        "es_correcta": true,
+        "explicacion": "El presupuesto de cada ejercicio se liquidará el 31 de diciembre del año natural correspondiente en cuanto a recaudación y pagos. Referencia: art. 165 Ley 2/2006."
+      },
+      {
+        "texto": "c) El 31 de enero del año natural correspondiente.",
+        "es_correcta": false,
+        "explicacion": "El mes de enero abre el ejercicio siguiente, no constituyendo la fecha de devengo y cierre del presupuesto precedente. Referencia: art. 165 Ley 2/2006."
+      },
+      {
+        "texto": "d) El 15 de octubre del año natural correspondiente.",
+        "es_correcta": false,
+        "explicacion": "El mes de octubre coincide con fases de elaboración del nuevo presupuesto, no con la liquidación formal del corriente. Referencia: art. 165 Ley 2/2006."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "pregunta": "Según lo dispuesto en el art. 68 de la Ley 2/2013, de 15 de mayo, de Igualdad de Oportunidades para las Personas con Discapacidad, la Junta de Castilla y León aprobará un Plan Estratégico de Igualdad de Oportunidades para las personas con discapacidad:",
+    "opciones": [
+      {
+        "texto": "a) Cada 2 años.",
+        "es_correcta": false,
+        "explicacion": "Un periodo bienal resulta excesivamente corto para el desarrollo y evaluación de políticas estratégicas de calado transversal. Referencia: art. 68 Ley 2/2013."
+      },
+      {
+        "texto": "b) Cada 3 años.",
+        "es_correcta": false,
+        "explicacion": "La periodicidad trienal no es el marco temporal que el legislador plasmó en la redacción del texto normativo de igualdad. Referencia: art. 68 Ley 2/2013."
+      },
+      {
+        "texto": "c) Cada 4 años.",
+        "es_correcta": true,
+        "explicacion": "La ley establece que la planificación estratégica y sectorial en esta materia se articulará con un horizonte temporal de cuatro años. Referencia: art. 68 Ley 2/2013."
+      },
+      {
+        "texto": "d) Cada 5 años.",
+        "es_correcta": false,
+        "explicacion": "El lapso de cinco años excede la vigencia estándar reservada por esta norma para los planes integrales de discapacidad. Referencia: art. 68 Ley 2/2013."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "pregunta": "El art. 93 de la LFPCYL establece que las funcionarias públicas víctimas de violencia de género tendrán derecho a la reserva del puesto de trabajo que desempeñaran durante seis meses, y ésta se podrá prorrogar por períodos de:",
+    "opciones": [
+      {
+        "texto": "a) Seis meses, hasta un máximo de veinticuatro.",
+        "es_correcta": false,
+        "explicacion": "El tope de veinticuatro meses supera los límites de protección y prórrogas que confiere este articulado concreto de la función pública. Referencia: art. 93 Ley 7/2005."
+      },
+      {
+        "texto": "b) Tres meses, hasta un máximo de doce.",
+        "es_correcta": false,
+        "explicacion": "El módulo trimestral de prórroga no se adecúa a los iter semestrales contemplados formalmente en el texto estatutario. Referencia: art. 93 Ley 7/2005."
+      },
+      {
+        "texto": "c) Seis meses, hasta un máximo de dieciocho.",
+        "es_correcta": false,
+        "explicacion": "Esta combinación temporal no refleja la redacción original de las prórrogas de protección a las funcionarias del texto autonómico. Referencia: art. 93 Ley 7/2005."
+      },
+      {
+        "texto": "d) Tres meses, hasta un máximo de dieciocho.",
+        "es_correcta": true,
+        "explicacion": "Las prórrogas sucesivas para garantizar de forma efectiva la reserva de puesto se acordarán por periodos de tres meses hasta un tope de dieciocho. Referencia: art. 93 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "pregunta": "Según el art. 43 de la Ley 2/2010, de 11 de marzo, de Derechos de los Ciudadanos en sus relaciones con la Administración de la Comunidad de Castilla y León y de Gestión Pública ¿quién elaborará, con carácter anual, un informe sobre la implantación de la administración electrónica?",
+    "opciones": [
+      {
+        "texto": "a) El titular de la Consejería de la Presidencia.",
+        "es_correcta": false,
+        "explicacion": "La confección técnica y el seguimiento directo del informe sectorial anual no se centralizan de forma directa en la figura singular del Consejero. Referencia: art. 43 Ley 2/2010."
+      },
+      {
+        "texto": "b) La Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El Consejo de Gobierno es el destinatario de la información o quien la aprueba, no el órgano administrativo técnico encargado de su elaboración. Referencia: art. 43 Ley 2/2010."
+      },
+      {
+        "texto": "c) La Dirección General de Economía y Hacienda.",
+        "es_correcta": false,
+        "explicacion": "Dicho centro directivo asume competencias puramente financieras, ajenas al despliegue tecnológico y de gestión de la administración digital. Referencia: art. 43 Ley 2/2010."
+      },
+      {
+        "texto": "d) La consejería competente en materia de simplificación administrativa.",
+        "es_correcta": true,
+        "explicacion": "Corresponde legalmente a la Consejería competente en simplificación administrativa redactar el informe anual de administración electrónica. Referencia: art. 43 Ley 2/2010."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "pregunta": "Según el art. 5 de la Ley 2/2010, de 11 de marzo, de Derechos de los Ciudadanos en sus relaciones con la Administración de la Comunidad de Castilla y León y de Gestión Pública, la actuación de la Administración autonómica ha de poner en práctica métodos que permitan sistemáticamente detectar sus deficiencias, corregirlas y prestar sus servicios a los ciudadanos de forma cada vez más eficiente, eficaz, económica, participativa y con mayor celeridad, de acuerdo con el principio de:",
+    "opciones": [
+      {
+        "texto": "a) Modernización e innovación.",
+        "es_correcta": false,
+        "explicacion": "Aunque guarda relación conceptual, la literalidad y el objeto del precepto apuntan a un principio de revisión sistémica permanente. Referencia: art. 5 Ley 2/2010."
+      },
+      {
+        "texto": "b) Responsabilidad.",
+        "es_correcta": false,
+        "explicacion": "El principio de responsabilidad se orienta a la asunción de las consecuencias de los actos y la gestión, no a la optimización procedimental. Referencia: art. 5 Ley 2/2010."
+      },
+      {
+        "texto": "c) Mejora continua.",
+        "es_correcta": true,
+        "explicacion": "La detección sistemática de errores y la corrección de los servicios responde formalmente al principio de mejora continua. Referencia: art. 5 Ley 2/2010."
+      },
+      {
+        "texto": "d) Prevención.",
+        "es_correcta": false,
+        "explicacion": "La prevención busca evitar la aparición del riesgo o vicio, diferenciándose de las técnicas correctoras dinámicas de la calidad. Referencia: art. 5 Ley 2/2010."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "pregunta": "Señale la respuesta incorrecta. Según el art. 16 del Decreto 13/2021, de 20 de mayo, por el que se regulan las oficinas de asistencia en materia de registros de la Administración de Castilla y León, la información administrativa general prestada a la ciudadanía versa sobre:",
+    "opciones": [
+      {
+        "texto": "a) La identificación, fines, competencias, estructura, funcionamiento y localización de las distintas consejerías, centros directivos, órganos y unidades administrativas autonómicas.",
+        "es_correcta": false,
+        "explicacion": "Es una función verídica de la información general, lo que la descarta como la respuesta incorrecta solicitada. Referencia: art. 16.a) Decreto 13/2021."
+      },
+      {
+        "texto": "b) La información administrativa concerniente al estado o contenido de los procedimientos, en tramitación o finalizados.",
+        "es_correcta": true,
+        "explicacion": "Es la respuesta incorrecta (a marcar), ya que el estado concreto de un expediente configura información particular y no general. Referencia: art. 16 Decreto 13/2021."
+      },
+      {
+        "texto": "c) Los procedimientos administrativos, servicios públicos y demás prestaciones de competencia autonómica.",
+        "es_correcta": false,
+        "explicacion": "Constituye un pilar básico y verídico de los contenidos informativos informales de carácter eminentemente general. Referencia: art. 16.b) Decreto 13/2021."
+      },
+      {
+        "texto": "d) Cualesquiera otros datos que la ciudadanía tenga necesidad de conocer en su relación con la Administración de la Comunidad de Castilla y León en su conjunto o con alguno de sus ámbitos de actuación.",
+        "es_correcta": false,
+        "explicacion": "Es una cláusula de cierre verídica destinada a englobar las necesidades ordinarias de orientación al administrado. Referencia: art. 16.d) Decreto 13/2021."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "pregunta": "Según establece el Decreto 193/2001, de 19 de julio ¿Cuál de las siguientes funciones no se realiza a través del servicio telefónico 012?",
+    "opciones": [
+      {
+        "texto": "a) Ofrecer, mediante un único canal, información administrativa a través de la cual los ciudadanos puedan acceder al conocimiento de asuntos relacionados con sus derechos, obligaciones e intereses legítimos, individuales o colectivos, y sobre la utilización de los bienes y servicios públicos.",
+        "es_correcta": false,
+        "explicacion": "Representa el núcleo fundacional y verídico de las atribuciones prestadas por la plataforma telefónica corporativa. Referencia: Decreto 193/2001."
+      },
+      {
+        "texto": "b) Ofrecer información administrativa de carácter general que sirva de orientación a los ciudadanos que hayan de relacionarse con la Administración Autonómica, y verse sobre la identificación, fines, competencias, estructura, funcionamiento y localización de los distintos departamentos, centros directivos, órganos y unidades administrativas.",
+        "es_correcta": false,
+        "explicacion": "Esta función de orientación general sobre la estructura pública es verídica y consustancial al canal 012. Referencia: Decreto 193/2001."
+      },
+      {
+        "texto": "c) Asistir a los ciudadanos en el ejercicio del derecho de petición reconocido en el art. 29 de la Constitución.",
+        "es_correcta": false,
+        "explicacion": "La asistencia en gestiones y derechos es una potestad verídica integrada en la cartera de servicios de atención ciudadana. Referencia: Decreto 193/2001."
+      },
+      {
+        "texto": "d) La inscripción, aceptación, revocación, prórroga o renuncia de poderes en el registro electrónico de apoderamientos, a través de comparecencia personal en las oficinas de asistencia habilitadas.",
+        "es_correcta": true,
+        "explicacion": "Es la función no aplicable (a marcar), ya que el apoderamiento por comparecencia exige presencialidad física y no atención telefónica. Referencia: art. 6 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "pregunta": "Según establece el art. 3 de la Ley 3/2015, de 4 de marzo, de Transparencia y Participación Ciudadana de Castilla y León, entre la información objeto de publicación no se encuentra:",
+    "opciones": [
+      {
+        "texto": "a) Las relaciones de puestos de trabajo, las plantillas de personal o instrumentos análogos.",
+        "es_correcta": false,
+        "explicacion": "Las RPT constituyen información de publicación obligatoria e indispensable en el Portal de Transparencia. Referencia: art. 3 Ley 3/2015."
+      },
+      {
+        "texto": "b) Los convenios colectivos y los acuerdos, pactos o planes reguladores de las condiciones de trabajo o de las retribuciones o incentivos.",
+        "es_correcta": false,
+        "explicacion": "Los pactos laborales de carácter público están sometidos de forma verídica al principio de publicidad activa de la norma. Referencia: art. 3 Ley 3/2015."
+      },
+      {
+        "texto": "c) El número de vehículos oficiales de los que son titulares o arrendatarios y el uso al que se destinan.",
+        "es_correcta": false,
+        "explicacion": "La transparencia de la flota móvil institucional configura una obligación de publicación activa plenamente verídica. Referencia: art. 3 Ley 3/2015."
+      },
+      {
+        "texto": "d) La distribución de los empleados públicos en las diferentes instalaciones de cada unidad administrativa.",
+        "es_correcta": true,
+        "explicacion": "La localización física interna pormenorizada de cada trabajador no figura en el listado de obligaciones de publicidad activa. Referencia: art. 3 Ley 3/2015."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "pregunta": "Para que un documento electrónico administrativo sea considerado válido, el art. 26 de la LPACAP establece una serie de requisitos, entre los que no se encuentra:",
+    "opciones": [
+      {
+        "texto": "a) Incorporar una referencia temporal del momento en que han sido emitidos.",
+        "es_correcta": false,
+        "explicacion": "La marca o referencia de tiempo constituye un requisito de validez verídico fijado expresamente por la ley. Referencia: art. 26.2.c) Ley 39/2015."
+      },
+      {
+        "texto": "b) Incorporar los metadatos mínimos exigidos.",
+        "es_correcta": false,
+        "explicacion": "La presencia de metadatos de gestión es una condición técnica obligatoria y verídica para el documento administrativo. Referencia: art. 26.2.b) Ley 39/2015."
+      },
+      {
+        "texto": "c) Incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable.",
+        "es_correcta": false,
+        "explicacion": "La firma electrónica del órgano emisor es un elemento de autenticidad verídico e indispensable por ley. Referencia: art. 26.2.d) Ley 39/2015."
+      },
+      {
+        "texto": "d) Disponer de los datos de identificación que permitan su generalización, sin perjuicio de su posible incorporación a un expediente electrónico.",
+        "es_correcta": true,
+        "explicacion": "La 'generalización' no es un concepto ni un requisito técnico contemplado en las condiciones de validez del documento. Referencia: art. 26.2 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Cuál es la función de Widgets en Windows 11?",
+    "opciones": [
+      {
+        "texto": "a) Widgets proporciona una vista personalizada de noticias, clima, calendario y otras informaciones en un panel.",
+        "es_correcta": true,
+        "explicacion": "Widgets es una característica del sistema operativo diseñada para ofrecer un panel de información dinámica y flujos de contenido. Referencia: Entorno operativo Windows 11."
+      },
+      {
+        "texto": "b) Widgets permite crear accesos directos a aplicaciones en el escritorio.",
+        "es_correcta": false,
+        "explicacion": "La creación de accesos directos tradicionales en el escritorio se gestiona desde el menú contextual o explorador de archivos. Referencia: Entorno operativo Windows 11."
+      },
+      {
+        "texto": "c) Widgets permite cambiar el tema, el fondo de pantalla y la pantalla de bloqueo del sistema operativo.",
+        "es_correcta": false,
+        "explicacion": "La personalización estética y de fondos del entorno se realiza desde el apartado de Configuración de Windows. Referencia: Entorno operativo Windows 11."
+      },
+      {
+        "texto": "d) Widgets permite gestionar las actualizaciones del sistema.",
+        "es_correcta": false,
+        "explicacion": "La administración y descarga de parches de seguridad del sistema corre a cargo de la herramienta dedicada Windows Update. Referencia: Entorno operativo Windows 11."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Cuál de los siguientes protocolos no está relacionado con el correo electrónico?",
+    "opciones": [
+      {
+        "texto": "a) SMTP.",
+        "es_correcta": false,
+        "explicacion": "El protocolo SMTP es el estándar fundamental utilizado de forma activa para la transferencia y envío de correo electrónico. Referencia: Protocolos de red e Internet."
+      },
+      {
+        "texto": "b) POP3.",
+        "es_correcta": false,
+        "explicacion": "POP3 es un protocolo clásico orientado a la descarga local de mensajes desde el servidor de correo electrónico de destino. Referencia: Protocolos de red e Internet."
+      },
+      {
+        "texto": "c) SNMP.",
+        "es_correcta": true,
+        "explicacion": "SNMP es un protocolo destinado de forma exclusiva a la gestión y monitorización de dispositivos en redes informáticas. Referencia: Protocolos de red e Internet."
+      },
+      {
+        "texto": "d) IMAP.",
+        "es_correcta": false,
+        "explicacion": "IMAP es el protocolo extendido para la visualización y gestión sincronizada de mensajes de correo directamente en el servidor. Referencia: Protocolos de red e Internet."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuál es el propósito de una firma digital en un correo electrónico?",
+    "opciones": [
+      {
+        "texto": "a) Asegurar que el contenido del correo electrónico sea visible solo para el destinatario previsto, mediante el cifrado del mensaje.",
+        "es_correcta": false,
+        "explicacion": "La confidencialidad y restricción de lectura se logra mediante técnicas de cifrado de datos, no con la firma electrónica aislada. Referencia: Seguridad informática y firma digital."
+      },
+      {
+        "texto": "b) Permitir al destinatario verificar que el correo electrónico proviene del remitente indicado y que el contenido no ha sido alterado desde su envío.",
+        "es_correcta": true,
+        "explicacion": "La firma digital garantiza de forma unívoca la autenticidad del origen del mensaje y la integridad de su contenido textual. Referencia: Seguridad informática y firma digital."
+      },
+      {
+        "texto": "c) Garantizar que el correo electrónico llegue al destinatario sin ser interceptado por terceros, proporcionando una ruta de entrega segura.",
+        "es_correcta": false,
+        "explicacion": "La seguridad de la canalización del tráfico de red depende de protocolos de transporte seguro como TLS/SSL. Referencia: Seguridad informática y firma digital."
+      },
+      {
+        "texto": "d) Confirmar que la dirección de correo electrónico del remitente es válida y está asociada a una cuenta activa en el momento del envío.",
+        "es_correcta": false,
+        "explicacion": "La verificación de cuentas activas responde a mecanismos de consulta de los servidores postales DNS y MX, no a firmas del mensaje. Referencia: Seguridad informática y firma digital."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "pregunta": "De conformidad con el art. 3 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales ¿en qué actividades, en el ámbito de las funciones públicas, no es de aplicación dicha ley?:",
+    "opciones": [
+      {
+        "texto": "a) En las actividades de los establecimientos penitenciarios.",
+        "es_correcta": false,
+        "explicacion": "La exclusión no opera de forma general para prisiones; se focaliza exclusivamente en los cuerpos de policía, seguridad militar y aduanas. Referencia: art. 3.2 Ley 31/1995."
+      },
+      {
+        "texto": "b) En las actividades de trabajo de los empleados públicos.",
+        "es_correcta": false,
+        "explicacion": "La Ley de Prevención de Riesgos Laborales posee un carácter plenamente aplicable sobre el colectivo de los empleados públicos. Referencia: art. 3.1 Ley 31/1995."
+      },
+      {
+        "texto": "c) En las actividades de policía, seguridad y resguardo aduanero.",
+        "es_correcta": true,
+        "explicacion": "La ley excluye expresamente de su ámbito regulador las funciones de policía, seguridad, protección civil y resguardo aduanero. Referencia: art. 3.2 Ley 31/1995."
+      },
+      {
+        "texto": "d) En las actividades de los centros y establecimientos militares.",
+        "es_correcta": false,
+        "explicacion": "La norma matiza que se excluyen las funciones operativas de las Fuerzas Armadas, rigiéndose por normativa específica de defensa. Referencia: art. 3.2 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Qué implica la inderogabilidad singular a que se refiere el artículo 37 de la LPACAP?",
+    "opciones": [
+      {
+        "texto": "a) Que los actos administrativos de carácter particular no podrán vulnerar lo establecido en una disposición de carácter particular, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó una disposición general.",
+        "es_correcta": false,
+        "explicacion": "El principio articula de forma directa la subordinación jerárquica obligada de un acto singular frente a un reglamento general. Referencia: art. 37.1 Ley 39/2015."
+      },
+      {
+        "texto": "b) Que las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó una disposición general.",
+        "es_correcta": true,
+        "explicacion": "Las resoluciones particulares no podrán vulnerar lo establecido en una disposición general, aunque emanen de órganos de superior jerarquía. Referencia: art. 37.1 Ley 39/2015."
+      },
+      {
+        "texto": "c) Que los actos administrativos de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o inferior jerarquía al que dictó una disposición particular.",
+        "es_correcta": false,
+        "explicacion": "La construcción conceptual invierte erróneamente los planos normativos de alcance general frente a la resolución concreta. Referencia: art. 37.1 Ley 39/2015."
+      },
+      {
+        "texto": "d) Que las resoluciones administrativas de carácter general no podrán vulnerar lo establecido en una disposición de carácter particular, aunque aquéllas procedan de un órgano de igual o superior jerarquía que dictó una disposición general.",
+        "es_correcta": false,
+        "explicacion": "Un reglamento de alcance general prevalece en el ordenamiento sobre cualquier decisión administrativa singular posterior. Referencia: art. 37.1 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "pregunta": "De acuerdo con el art. 19 del Estatuto de Autonomía de Castilla y León, son instituciones propias de la Comunidad de Castilla y León:",
+    "opciones": [
+      {
+        "texto": "a) El Consejo Económico y Social, el Procurador del Común, el Consejo Consultivo y el Consejo de la Juventud, y las que se determinen por las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El Consejo de la Juventud no se encuadra en la enumeración constitucional de rango estatutario de instituciones estatutarias propias. Referencia: art. 19.2 EACYL."
+      },
+      {
+        "texto": "b) El Consejo Económico y Social, el Procurador del Común, el Consejo Consultivo, el Consejo del Diálogo Social, y las que se determinen por las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El Diálogo Social conforma un marco de concertación política y laboral, desprovisto del estatus de institución estatutaria propia. Referencia: art. 19.2 EACYL."
+      },
+      {
+        "texto": "c) El Consejo Económico y Social, el Procurador del Común, el Consejo Consultivo, el Consejo de Cuentas, y las que determine el presente Estatuto o las leyes aprobadas por las Cortes de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "El Estatuto reconoce expresamente como instituciones propias al CES, Procurador del Común, Consejo Consultivo y Consejo de Cuentas. Referencia: art. 19.2 EACYL."
+      },
+      {
+        "texto": "d) El Consejo Económico y Social, el Procurador del Común, el Consejo Consultivo, el Consejo de la Juventud, el Consejo de Transparencia, y las que se determinen por las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Se introducen figuras asociadas a comisiones sectoriales que no ostentan la consideración de instituciones troncales estatutarias. Referencia: art. 19.2 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Cuándo estará sometido a la relación laboral de carácter especial de alta dirección el personal directivo, según lo dispuesto en el art. 13 del TREBЕР?",
+    "opciones": [
+      {
+        "texto": "a) Cuando reúna la condición de personal laboral.",
+        "es_correcta": true,
+        "explicacion": "El personal directivo profesional estará sujeto a la relación laboral de alta dirección cuando ostente la condición de personal laboral. Referencia: art. 13 TREBEP."
+      },
+      {
+        "texto": "b) Cuando reúna la condición de funcionario interino.",
+        "es_correcta": false,
+        "explicacion": "Un funcionario interino se rige por vínculos de derecho administrativo y nombramiento reglado, incompatibles con contratos laborales. Referencia: art. 13 TREBEP."
+      },
+      {
+        "texto": "c) Cuando reúna la condición de funcionario de carrera.",
+        "es_correcta": false,
+        "explicacion": "Los funcionarios de carrera se desenvuelven de forma estricta bajo una relación estatutaria regulada por el derecho administrativo. Referencia: art. 13 TREBEP."
+      },
+      {
+        "texto": "d) Todas las respuestas son correctas.",
+        "es_correcta": false,
+        "explicacion": "La sumisión al régimen laboral especial exige necesariamente la naturaleza laboral del vínculo del empleado directivo contratado. Referencia: art. 13 TREBEP."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "pregunta": "Según el art. 25 del Estatuto de Autonomía de Castilla y León, los decretos-leyes, desde su promulgación, deberán ser convalidados o derogados por:",
+    "opciones": [
+      {
+        "texto": "a) El Tribunal Superior de Justicia de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Al TSJCYL le corresponde el control jurisdiccional de legalidad, careciendo de funciones de convalidación legislativa o política. Referencia: art. 25.4 EACYL."
+      },
+      {
+        "texto": "b) La Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La Junta aprueba y dicta el Decreto-Ley, debiendo someter obligatoriamente su obra normativa al control del poder legislativo. Referencia: art. 25.4 EACYL."
+      },
+      {
+        "texto": "c) Las Cortes de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "Los Decretos-Leyes autonómicos deberán someterse de forma obligatoria a debate y votación de convalidación en las Cortes. Referencia: art. 25.4 EACYL."
+      },
+      {
+        "texto": "d) No tienen que ser convalidados o derogados.",
+        "es_correcta": false,
+        "explicacion": "La convalidación parlamentaria parlamentaria obligatoria es un requisito constitucional para estabilizar la vigencia de la norma. Referencia: art. 25.4 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "pregunta": "Según el art. 3 de la LPACAP, ¿quiénes tienen capacidad de obrar ante las Administraciones Públicas?",
+    "opciones": [
+      {
+        "texto": "a) Los grupos de afectados, las uniones y entidades con personalidad jurídica y los patrimonios independientes o autónomos organizados.",
+        "es_correcta": false,
+        "explicacion": "El redactado legal extiende este derecho de obrar administrativo bajo supuestos específicos a entes carentes de personalidad formal. Referencia: art. 3 Ley 39/2015."
+      },
+      {
+        "texto": "b) Solo las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+        "es_correcta": false,
+        "explicacion": "Resulta una respuesta restrictiva, ya que el derecho administrativo amplía la capacidad de obrar más allá del estricto marco civilista. Referencia: art. 3 Ley 39/2015."
+      },
+      {
+        "texto": "c) Los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos cuando la Ley así lo declare expresamente.",
+        "es_correcta": true,
+        "explicacion": "Ostentan capacidad de obrar los grupos de afectados, uniones y entidades sin personalidad cuando una Ley lo prevea de forma expresa. Referencia: art. 3.c) Ley 39/2015."
+      },
+      {
+        "texto": "d) Las personas jurídicas inscritas en el Registro de la Propiedad.",
+        "es_correcta": false,
+        "explicacion": "La inscripción registral de la propiedad inmobiliaria es ajena conceptualmente a la capacidad de obrar general ante el sector público. Referencia: art. 3 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "pregunta": "Según el art. 123 de la LPACAP, los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos:",
+    "opciones": [
+      {
+        "texto": "a) En alzada.",
+        "es_correcta": false,
+        "explicacion": "El recurso de alzada procede de forma exclusiva contra aquellos actos que *no* agotan ni ponen fin a la vía administrativa ordinaria. Referencia: art. 121.1 Ley 39/2015."
+      },
+      {
+        "texto": "b) Potestativamente en reposición.",
+        "es_correcta": true,
+        "explicacion": "Los actos que ponen fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los dictó. Referencia: art. 123.1 Ley 39/2015."
+      },
+      {
+        "texto": "c) En alzada y potestativamente en reposición.",
+        "es_correcta": false,
+        "explicacion": "Ambas acciones procesales administrativas resultan mutuamente excluyentes debido a la naturaleza del agotamiento de la vía. Referencia: arts. 121 y 123 Ley 39/2015."
+      },
+      {
+        "texto": "d) Únicamente podrán recurrirse en vía judicial.",
+        "es_correcta": false,
+        "explicacion": "Es falso, pues el interesado dispone de la opción de interponer con carácter previo y voluntario el recurso de reposición. Referencia: art. 123.1 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "pregunta": "Para describir las imágenes de los logos del encabezado del anexo Word con un texto alternativo, seguiremos la siguiente ruta. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Desde Insertar → Marcador → Texto alternativo",
+        "es_correcta": false,
+        "explicacion": "Los marcadores en Word se destinan a indexar ubicaciones de salto textual y no a parametrizar la accesibilidad gráfica del archivo. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Desde Formato de imagen → Accesibilidad → Texto alternativo",
+        "es_correcta": true,
+        "explicacion": "La adición de descripciones de accesibilidad en elementos gráficos se aloja en la pestaña contextual Formato de Imagen bajo Accesibilidad. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Desde Formato de imagen → Ajustar texto → Texto alternativo",
+        "es_correcta": false,
+        "explicacion": "La opción Ajustar Texto regula la disposición y fluidez del párrafo alrededor de la imagen, desvinculada de metadatos alternativos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Desde Insertar → Encabezado → Texto alternativo",
+        "es_correcta": false,
+        "explicacion": "El menú Insertar Encabezado habilita la edición del lienzo superior del folio, requiriendo seleccionar el objeto para editar su accesibilidad. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "pregunta": "Las cuatro primeras frases del supuesto del anexo Word, contienen hipervínculos a los títulos de los párrafos correspondientes. Este recurso se realiza en Word 365 a través de una de estas rutas. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Referencias → Referencia cruzada → Elemento numerado → Número de párrafo",
+        "es_correcta": false,
+        "explicacion": "El volcado indexado mediante referencia cruzada permite vincular marcadores o títulos, variando el destino final según la opción elegida. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Referencias → Insertar Índice → Elemento numerado → Número de párrafo",
+        "es_correcta": false,
+        "explicacion": "La inserción de índices alfabéticos compila palabras clave del manuscrito, no asumiendo el rol operativo de hipervínculos dinámicos internos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Referencias → Tabla de contenido → Tabla de contenido personalizada → No mostrar números de página",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del ejercicio único dictamina de forma oficial como válida la ruta c para instrumentar estos hipervínculos de bloque. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "d) Insertar → Vínculos → Marcador → Elemento numerado → No mostrar números de página",
+        "es_correcta": false,
+        "explicacion": "La herramienta Marcador genera etiquetas internas invisibles de posicionamiento, careciendo de este menú anidado de visualización de páginas. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "pregunta": "En el primer párrafo del anexo Word que comienza por \"Se trata de...\" y termina en \"...en áreas\", se observa que hay un número en la expresión (DIGital COMPetences), para conseguir esto en Word 365 se utiliza uno de los siguientes recursos. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Pie de página → Incluir un marcador, insertar el texto",
+        "es_correcta": false,
+        "explicacion": "El pie de página es un bloque estructural que se repite al final de las páginas, no una llamada puntual indexada al texto. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Pulsando a la vez Alt+Ctrl+O insertar el texto",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora oficial asigna la validez de la acción a la secuencia b dentro de las utilidades de anotación del procesador de textos. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "c) Referencias → Insertar cita → Agregar nuevo marcador de posición, insertar el texto",
+        "es_correcta": false,
+        "explicacion": "Los marcadores de posición de cita reservan un espacio formal para fuentes bibliográficas estructuradas según estilos como APA. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Insertar → Referencia cruzada → Elemento numerado, insertar el texto",
+        "es_correcta": false,
+        "explicacion": "La referencia cruzada se limita a enlazar elementos ya existentes en el documento, requiriendo su previa inserción y numeración. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "pregunta": "Hemos introducido la fecha de realización del documento anexo Word, que se actualiza cada vez que abrimos el documento. Señale la única respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Texto → Elementos rápidos → Campo → Date → Formatos de fecha",
+        "es_correcta": true,
+        "explicacion": "La inserción automatizada de una fecha dinámica autoactualizable se canaliza mediante el campo especial DATE en Elementos Rápidos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Inicio → Texto → Fecha y hora → Formatos disponibles",
+        "es_correcta": false,
+        "explicacion": "La pestaña Inicio no aloja los comandos dinámicos avanzados de inyección de metadatos de campos u objetos del sistema. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Inicio → Texto → Elementos rápidos → Campo → Date → Formatos de fecha",
+        "es_correcta": false,
+        "explicacion": "El menú de Elementos Rápidos y sus herramientas de automatización de campos pertenecen de forma exclusiva a la pestaña Insertar. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Insertar → Texto → Objeto → Date → Formatos disponibles",
+        "es_correcta": false,
+        "explicacion": "El comando Objeto incrusta archivos o aplicaciones externas independientes, difiriendo de la lógica interna de campos lógicos como Date. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "pregunta": "En la parte inferior del documento anexo Word se han incluido un gráfico y una tabla que se actualiza de su documento de origen en Excel 365. Para que se pueda realizar esta operación, estos elementos han sido incluidos siguiendo una de las rutas siguientes. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Objeto → Crear desde un archivo → Vincular al archivo",
+        "es_correcta": true,
+        "explicacion": "La inserción de un objeto externo activando la casilla 'Vincular al archivo' garantiza la sincronización dinámica bidireccional entre Word y Excel. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Seleccionar los elementos en el archivo de origen → Copiar → Situarse en el archivo de destino → Pegar → Mantener formato de origen",
+        "es_correcta": false,
+        "explicacion": "El pegado estándar con formato de origen clona los datos de manera estática, rompiendo cualquier enlace de actualización automática posterior. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Insertar → Objeto → Microsoft Excel → Seleccionar → Vincular y mantener formato de origen",
+        "es_correcta": false,
+        "explicacion": "Dicha ruta no describe los comandos y los pasos literales que la interfaz de la aplicación despliega en su cuadro de diálogo de objetos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Seleccionar los elementos en el archivo de origen → Copiar → Situarse en el archivo de destino → Pegar → Mantener formato de origen",
+        "es_correcta": false,
+        "explicacion": "Duplica conceptualmente el error del volcado estático de portapapeles, incapaz de anclar vínculos funcionales de actualización de datos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "pregunta": "Para insertar una cita bibliográfica sobre el Marco Europeo de competencias digitales DIGCOMP, ¿cuál es la ruta correcta en Word 365?",
+    "opciones": [
+      {
+        "texto": "a) Referencias → Insertar cita → Agregar nueva fuente",
+        "es_correcta": true,
+        "explicacion": "La gestión normalizada de fuentes e inserción de citas bibliográficas académicas se aloja en la pestaña Referencias. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Insertar → Texto → Nota al pie",
+        "es_correcta": false,
+        "explicacion": "El comando de Notas al Pie se ubica formalmente en el bloque de Referencias y no bajo las utilidades básicas de la pestaña Insertar. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Diseño → Referencias → Bibliografía",
+        "es_correcta": false,
+        "explicacion": "La pestaña Diseño se enfoca en la estética global del documento, careciendo de submenús dedicados al aparato de citas bibliográficas. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Archivo → Opciones → Agregar fuente bibliográfica",
+        "es_correcta": false,
+        "explicacion": "El menú Archivo Opciones gobierna los parámetros de configuración global del software, no la edición interna de contenidos del archivo. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "pregunta": "Si quisiéramos traducir automáticamente el documento \"Competencias Digitales\" al inglés, ¿qué opción de Word 365 nos permite hacerlo directamente?",
+    "opciones": [
+      {
+        "texto": "a) Archivo → Idioma → Traducir documento",
+        "es_correcta": false,
+        "explicacion": "El menú de gestión Archivo carece de comandos directos destinados a la manipulación lingüística o traducción de los textos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Revisar → Traducir → Traducir documento",
+        "es_correcta": true,
+        "explicacion": "El motor de traducción integrado de Microsoft se localiza en la pestaña Revisar dentro del grupo de comandos de Idioma. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Word 365 no traduce automáticamente",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que las versiones modernas de Office incorporan servicios inteligentes y automatizados de traducción en la nube. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Referencias → Idioma → Traducción documento",
+        "es_correcta": false,
+        "explicacion": "La pestaña Referencias gestiona índices, notas y citas, delegando la corrección idiomática y traducciones en la cinta de Revisar. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "pregunta": "Mientras preparamos el documento anexo Word queremos rellenar temporalmente una sección con texto simulado para pruebas de formato. ¿Qué función de Word 365 podemos utilizar para generar texto de ejemplo automáticamente?",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Texto → Contenido simulado → Texto de demostración",
+        "es_correcta": false,
+        "explicacion": "No existe ningún comando explícito con esa denominación en la cinta de opciones para inyectar caracteres de relleno. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Vista → Desarrollador → Generar texto simulado",
+        "es_correcta": false,
+        "explicacion": "La pestaña de Programador u origen se destina a macros y controles de formulario, no disponiendo de este asistente visual de relleno. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Escribir lorem() y pulsar Enter para insertar texto de ejemplo",
+        "es_correcta": true,
+        "explicacion": "El procesador de textos interpreta de forma nativa la función matemática '=lorem()' como un disparador para volcar párrafos de prueba. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Diseño → Plantillas → Texto de demostración",
+        "es_correcta": false,
+        "explicacion": "La barra de Diseño edita los estilos visuales cromáticos y fuentes generales, desprovista de generadores automáticos de prosa simulada. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "pregunta": "En el documento anexo Word, para eliminar información como nombres de autores, comentarios, texto oculto, etc. ¿Qué recurso de Word 365 debemos utilizar?",
+    "opciones": [
+      {
+        "texto": "a) Revisar → Panel de control del documento → Configuración de privacidad",
+        "es_correcta": false,
+        "explicacion": "La cinta de opciones no estructura ningún panel de control interno bajo esta nomenclatura en la pestaña de validación. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Revisar → Control de cambios → Eliminar elementos no imprimibles",
+        "es_correcta": false,
+        "explicacion": "El control de cambios audita y registra las modificaciones del texto, pero no realiza el borrado de metadatos profundos del archivo. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Archivo → Información → Comprobar si hay problemas → Inspeccionar documento",
+        "es_correcta": true,
+        "explicacion": "La herramienta Inspeccionar Documento permite auditar y limpiar de forma segura metadatos, autores y propiedades ocultas del archivo. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Diseño → Control de contenido → Borrar metadatos del archivo",
+        "es_correcta": false,
+        "explicacion": "Las funciones de depuración de privacidad se concentran en el backstage de gestión de Archivo y no en los menús de maquetación estética. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "pregunta": "Durante la edición del documento queremos insertar una imagen que muestre una parte de otra ventana abierta en ese momento. ¿Qué recurso de Word 365 debemos utilizar?",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Imagen → Captura de ventana completa desde portapapeles",
+        "es_correcta": false,
+        "explicacion": "El comando Imagen abre el explorador para localizar archivos de almacenamiento locales o en la nube, no gestionando capturas activas. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Diseño → Elementos visuales → Captura activa",
+        "es_correcta": false,
+        "explicacion": "La barra de herramientas de Diseño carece de mecanismos orientados al volcado o captura de pantallas de aplicaciones en ejecución. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Insertar → Ilustraciones → Captura → Recorte de pantalla",
+        "es_correcta": true,
+        "explicacion": "El comando Captura dentro del grupo Ilustraciones aloja la utilidad Recorte de Pantalla para seleccionar áreas de ventanas secundarias. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Insertar → Multimedia → Pantalla compartida → Captura parcial",
+        "es_correcta": false,
+        "explicacion": "El grupo Multimedia está diseñado para incrustar vídeos o audios en línea, careciendo de este menú simulado de compartición. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "pregunta": "En la celda B2 del anexo Excel, se encuentra el identificador del trabajador, compuesto por el número de categoría, seguido del número de nivel y los tres últimos dígitos del número de empleado. ¿Cuál de las siguientes opciones representa la función correcta en Excel 365 para lograr este resultado?",
+    "opciones": [
+      {
+        "texto": "a) =CONCATENAR=O2&P2&DERECHA(A2;3)",
+        "es_correcta": false,
+        "explicacion": "La inclusión de un símbolo de igualdad secundario insertado en el cuerpo de la expresión invalida por completo la sintaxis de la fórmula. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =O2&P2&DERECHA(A2;3)",
+        "es_correcta": true,
+        "explicacion": "El operador de concatenación '&' fusiona directamente los contenidos de las celdas con el segmento extraído mediante la función DERECHA. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =SUMA:O2&P2&DERECHA(A2;3)",
+        "es_correcta": false,
+        "explicacion": "La función SUMA se destina de forma exclusiva al cálculo de valores numéricos, resultando erróneo el uso de dos puntos como prefijo de concatenación. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =AÑADIR:O2&P2&DERECHA (A2;3)",
+        "es_correcta": false,
+        "explicacion": "La expresión matemática 'AÑADIR' no constituye una función nativa válida catalogada dentro del motor de fórmulas de la aplicación. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "pregunta": "En la celda F2 del anexo Excel, se han combinado el nombre y los apellidos de esa fila, convirtiéndolos en mayúsculas y separándoles por un espacio. ¿Cuál de las siguientes opciones representa la función correcta en Excel 365 para lograr este resultado?",
+    "opciones": [
+      {
+        "texto": "a) =(CONCATENAR (\"MAYUSC\"; VERDADERO; C2; D2; E2))",
+        "es_correcta": false,
+        "explicacion": "Dicha estructura anida de forma defectuosa argumentos lógicos incompatibles con la función clásica de agrupación de texto. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =CONVERTMAYUSC (UNIRCADENAS(\" \"; VERDADERO; C2; D2; E2))",
+        "es_correcta": false,
+        "explicacion": "El comando 'CONVERTMAYUSC' es una transcripción errónea de la función estándar de conversión de cajas de texto. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =MAYUSC(UNIRCADENAS(\" \"; VERDADERO; C2; D2; E2))",
+        "es_correcta": true,
+        "explicacion": "La combinación evalúa mediante UNIRCADENAS la unión separada por espacios de las celdas, transformando el todo a caja alta mediante MAYUSC. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =MINUS(CONCATENAR(\" \"; VERDADERO; C2; D2; E2))",
+        "es_correcta": false,
+        "explicacion": "La función MINUS transforma los caracteres a minúsculas, contradiciendo el objetivo explícito del enunciado del problema. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "pregunta": "En la celda H2 del anexo Excel se encuentra el número de DNI que hemos obtenido a partir de la celda G2, reemplazando los cinco números centrales por asteriscos. ¿Cuál de las siguientes funciones es la correcta?",
+    "opciones": [
+      {
+        "texto": "a) =IZQUIERDA(2) & REPETIR(\"*\"; - 5) & DERECHA(3)",
+        "es_correcta": false,
+        "explicacion": "Las funciones IZQUIERDA y DERECHA exigen de forma obligatoria referenciar la celda origen de los datos, siendo inválido un valor negativo en REPETIR. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =TRUNCAR(G2; 2) & REPETIR(\"*\"; LARGO(G2) - 5) & DERECHA(G2; 3)",
+        "es_correcta": false,
+        "explicacion": "La función TRUNCAR opera exclusivamente sobre la parte decimal de valores numéricos, rompiendo la lógica de tratamiento de cadenas. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =OCULTAR(G2; 2) & REPETIR(\"*\"; LARGO(G2) - 5) & DERECHA(G2; 3)",
+        "es_correcta": false,
+        "explicacion": "El comando 'OCULTAR' no existe dentro de las funciones de manipulación de cadenas de caracteres del programa. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =IZQUIERDA(G2; 2) & REPETIR(\"*\"; LARGO(G2) - 5) & DERECHA(G2; 3)",
+        "es_correcta": true,
+        "explicacion": "Extrae los dos primeros dígitos, inyecta asteriscos según la longitud proporcional calculada y remata con los tres caracteres del cierre. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "pregunta": "En la celda M2 calculamos los trienios sin decimales desde la fecha de inicio de contrato de la celda L2. ¿Cuál de las siguientes funciones es correcta?",
+    "opciones": [
+      {
+        "texto": "a) =NATURAL((SIFECHA (L2; (DATE); \"Y\") / 3))",
+        "es_correcta": false,
+        "explicacion": "La función 'NATURAL' no constituye una herramienta de truncamiento u obtención de enteros homóloga en la hoja de cálculo. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =ENTERO((SIFECHA(L2;HOY();\"Y\")/3))",
+        "es_correcta": true,
+        "explicacion": "Calcula los años completos transcurridos mediante SIFECHA con el argumento 'Y', divide por tres e interviene ENTERO para suprimir decimales. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =NATURAL((SIFECHA (L2; (DATE); \"Y\")/3))",
+        "es_correcta": false,
+        "explicacion": "Duplica el error de sintaxis al invocar comandos inexistentes y estructurar referencias temporales ajenas al estándar de funciones. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =ENTERO((DIFERENCIA (L2; HOY(); \"Y\")/3))",
+        "es_correcta": false,
+        "explicacion": "La expresión 'DIFERENCIA' no es una función de cómputo cronológico nativa contemplada por el motor de cálculo. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Cómo se puede configure para que las celdas de la columna M del anexo Excel que contengan valores iguales o mayores de 10 tengan automáticamente un fondo gris, similar a lo observado en las celdas M4 y M14?",
+    "opciones": [
+      {
+        "texto": "a) Con la función =SI(ESTA=>10(GRIS);\"\")",
+        "es_correcta": false,
+        "explicacion": "Las fórmulas ordinarias de celda son incapaces de alterar propiedades estéticas de formato como los colores de fondo de su entorno. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) Desde Inicio → Estilos → Formato condicional y configurar la regla",
+        "es_correcta": true,
+        "explicacion": "La alteración automatizada del aspecto visual sujeta a un criterio lógico se articula mediante la herramienta de Formato Condicional. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) Desde Insertar → Formato → Condicional y configurar =>10 GRIS",
+        "es_correcta": false,
+        "explicacion": "La barra de herramientas de Insertar carece de menús dedicados a la parametrización de formatos condicionales de datos. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) Desde Dato → Filtro Condicional y configurar =>10 GRIS",
+        "es_correcta": false,
+        "explicacion": "El menú Datos y sus filtros aíslan o segregan filas visualmente, pero no aplican estilos de color a las celdas que cumplen criterios. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "pregunta": "En la columna N del anexo Excel, se muestra la fecha en la que los trabajadores cumplirán 30 años de antigüedad en la empresa. Si esta fecha es posterior a la fecha en la que cumplen 65 años, se indicará como \"No procede\". ¿Cuál es la función correcta para que en la celda N2 aparezca este resultado?",
+    "opciones": [
+      {
+        "texto": "a) =SI(DIFERENCIA(L2;360)<K2;L2+360); \"No procede\")",
+        "es_correcta": false,
+        "explicacion": "La sintaxis presenta paréntesis desparejados y operaciones algebraicas de días simples insuficientes para el tratamiento de meses reales. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =SI(FECHA.MES(L2;360)<780M; FECHA.MES (L2;360); \"No procede\")",
+        "es_correcta": false,
+        "explicacion": "La inclusión del carácter literal 'M' junto a los argumentos numéricos rompe la estructura lógica de la condición matemática. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =SI(FECHA.MES(L2;360)<65Y; FECHA.MES (L2;360); \"No procede\")",
+        "es_correcta": false,
+        "explicacion": "El motor de Excel rechaza el sufijo literal 'Y' insertado de forma anómala en la comparación de magnitudes temporales. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =SI(FECHA.MES(L2;360)<K2;FECHA.MES (L2;360); \"No procede\")",
+        "es_correcta": true,
+        "explicacion": "Evalúa si el vencimiento de los 30 años (360 meses) es menor que el tope de la celda de control, ejecutando el salto en caso afirmativo. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "pregunta": "En la celda A9 del anexo Excel se muestran varios '#' en lugar del número que se ha introducido. ¿Cuál de las siguientes opciones explica la aparición de este error?",
+    "opciones": [
+      {
+        "texto": "a) El número introducido excede el límite máximo de dígitos que Excel puede mostrar.",
+        "es_correcta": false,
+        "explicacion": "El programa recurre a la notación científica ante valores numéricos extremadamente largos, no mostrando una cadena de almohadillas por límite absoluto. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) La celda A9 tiene aplicado un formato de fecha y eso lo hace incompatible con el número introducido.",
+        "es_correcta": false,
+        "explicacion": "Un formato de fecha sobre un número entero simplemente proyecta su equivalencia en el calendario informático, sin bloquear la celda. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) El ancho de la columna A es insuficiente para mostrar el número completo.",
+        "es_correcta": true,
+        "explicacion": "La visualización repetida de la almohadilla '#' constituye la alerta visual estándar que indica falta de espacio horizontal en el ancho de la columna. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) La celda A9 contiene una fórmula que hace referencia a una celda vacía.",
+        "es_correcta": false,
+        "explicacion": "La alusión a celdas desprovistas de contenido suele computar como valor cero o disparar alertas específicas de indeterminación. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "pregunta": "En las celdas P28 a la Q33 se muestra una tabla con un resumen de la suma de salarios por categoría. ¿Qué función utilizaremos para que en la celda P28 nos proporcione esta información?",
+    "opciones": [
+      {
+        "texto": "a) =SUMA.SI(Q2:Q19; P28; O2:O19)",
+        "es_correcta": false,
+        "explicacion": "La estructura de los argumentos sitúa de forma errónea los vectores de rango de criterio y el rango de agregación final. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =AGRUPARPOR(O2:O19;Q2:Q19;SUMA)",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del ejercicio ratifica como válida la función de matriz dinámica AGRUPARPOR para consolidar las magnitudes de salario. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "c) =SUMA.SI.CONJUNTO (Q2:Q19; O2:O19; UNICOS (O2:O19))",
+        "es_correcta": false,
+        "explicacion": "La inyección de la matriz UNICOS en el segmento del criterio de una función condicional estándar provoca errores de desbordamiento. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =SUMA(FILTRO(Q2:Q19; O2:O19;MODA.SI.CONJUNTO (O2:O19)))",
+        "es_correcta": false,
+        "explicacion": "Anida funciones de estadística de tendencia central que desvirtúan por completo el fin de adición selectiva simple buscado. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "pregunta": "En el anexo Excel queremos copiar y pegar sólo los valores del rango Q1:Q19 en otra parte de la hoja. ¿Cuál de las siguientes opciones no es correcta después de copiar ese rango?",
+    "opciones": [
+      {
+        "texto": "a) En la cinta de opciones hacer clic en \"Inicio\", a continuación, en \"Portapapeles\" y por último en \"Pegar sin fórmulas\".",
+        "es_correcta": true,
+        "explicacion": "Es la opción no correcta (a marcar), ya que el literal exacto del comando en la interfaz es 'Pegar valores' y no 'Pegar sin fórmulas'. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) En la cinta de opciones hacer clic en \"Inicio\", a continuación, en el desplegable de \"Pegar\", y por último pulsar la tecla \"V\".",
+        "es_correcta": false,
+        "explicacion": "Constituye un método abreviado verídico y plenamente operativo a través de las letras de acceso rápido de los menús. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) MAYUS+CTRL+V",
+        "es_correcta": false,
+        "explicacion": "Representa el atajo de teclado global y verídico incorporado en las versiones actualizadas para el pegado directo de texto plano. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) Hacer clic con el botón derecho sobre la celda de destino, y en las opciones de pegado elegir \"Valores\".",
+        "es_correcta": false,
+        "explicacion": "Es una ruta contextual clásica y verídica para purgar fórmulas y retener exclusivamente las magnitudes numéricas calculadas. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "pregunta": "En la columna Q del anexo Excel calculamos el salario anual sumando el salario de la categoría y el nivel, más el importe del trienio multiplicado por el número de trienios. Los salarios y el importe del trienio están en la hoja Categorías, como se muestra en la figura siguiente. ¿Cuál es la función correcta para la celda Q2 en Excel 365 para obtener este resultado?",
+    "opciones": [
+      {
+        "texto": "a) =BUSCARV(O2;Categorias;2;FALSO)+BUSCARV(P2;Niveles;2;FALSO)+'Categorias'!$B$13*M2",
+        "es_correcta": true,
+        "explicacion": "Usa BUSCARV de forma exacta para recuperar los fijos salariales, sumando el producto de la celda absoluta fija del precio del trienio por la cantidad acumulada. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(O2;Categorias;2;)+SUMA(P2;Niveles;2;+'Categorias'!$B$13*M2)",
+        "es_correcta": false,
+        "explicacion": "La función SUMA no realiza operaciones de localización indexada en tablas, convirtiendo los argumentos posicionales en un error crítico. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =SUMA(BUSCARV (O2; Categorias;2;)+BUSCARV(P2;Niveles;2;)+'Categorias'!$B$13*M2",
+        "es_correcta": false,
+        "explicacion": "La sintaxis carece del paréntesis de cierre obligado para delimitar el campo de actuación del primer bloque de agregación. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =BUSCAR(SUMA(02; Categorias; 2; FALSO); SUMA(P2; Niveles;2; FALSO); 'Categorias'!$B$13*M2",
+        "es_correcta": false,
+        "explicacion": "Combina funciones de búsqueda vectorial e inserciones lógicas incompatibles con la estructura tabular de los anexos del enunciado. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "pregunta": "En el anexo Excel, necesitamos calcular el costo total de los bonos para todos los empleados. La columna Q (Salario Anual) contiene el salario anual de cada empleado, y la columna R (Bono) indica el porcentaje del salario que cada empleado recibirá como bono. ¿Cuál de las siguientes fórmulas, introducida en la celda Q24, calculará correctamente el costo total de los bonos?",
+    "opciones": [
+      {
+        "texto": "a) =SUMA(Q2:Q19) * (PROMEDIO(R2:R19))",
+        "es_correcta": false,
+        "explicacion": "Esta operación multiplicaría la masa salarial global por un porcentaje medio, desvirtuando el cálculo individualizado de cada bono real. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(Q2:Q19;R2:R19)",
+        "es_correcta": false,
+        "explicacion": "La función sumaría de forma agregada los valores monetarios mezclados con los coeficientes porcentuales, arrojando una cifra errónea. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =SUMA(Q2:Q19)+SUMA(R2:R19)",
+        "es_correcta": false,
+        "explicacion": "Adiciona los dos rangos de forma lineal e independiente, sin ejecutar la operación de producto indexado requerida para hallar los bonos. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =SUMAPRODUCTO(Q2:Q19;R2:R19)",
+        "es_correcta": true,
+        "explicacion": "SUMAPRODUCTO multiplica par a par los elementos homólogos de las matrices dadas y calcula la sumatoria consolidada del coste de los bonos. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué ocurre en Word 365 al seleccionar texto, pulsar Ctrl+F3, y luego repetir la acción con otra parte del texto una o varias veces?",
+    "opciones": [
+      {
+        "texto": "a) Se insertan marcadores ocultos que pueden utilizarse como campos de combinación en la correspondencia personalizada.",
+        "es_correcta": false,
+        "explicacion": "La combinación de correspondencia exige orígenes de datos estructurados y campos lógicos, ajenos a este comando de teclado rápido. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Se almacenan en un portapapeles especial llamado \"Spike\" para luego pegarlos todos juntos con Ctrl+Shift+F3.",
+        "es_correcta": true,
+        "explicacion": "La combinación Ctrl+F3 activa la funcionalidad oculta 'Spike' (Especial), cortando de forma acumulativa elementos para su posterior volcado conjunto. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Se cortan y almacenan como elementos independientes en el historial del portapapeles de Windows, accesibles desde cualquier aplicación.",
+        "es_correcta": false,
+        "explicacion": "El historial global de Windows se dispara mediante la combinación nativa Tecla Windows + V, actuando de forma independiente al motor interno de Office. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Se transforman en una lista de entradas rápidas que se pueden reutilizar mediante autocompletar si se activa el modo desarrollador.",
+        "es_correcta": false,
+        "explicacion": "Las funciones de autocompletado y bloques de construcción se administran desde las galerías de elementos rápidos, desvinculadas de este comando. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  }
+]

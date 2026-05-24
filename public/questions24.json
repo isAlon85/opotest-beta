@@ -1,0 +1,2576 @@
+[
+  {
+    "id": 1,
+    "pregunta": "El artículo 20 de la Constitución Española de 1978 (en adelante \"Constitución Española\"):",
+    "opciones": [
+      {
+        "texto": "a) Determina que toda persona tiene derecho a la libertad y a la seguridad.",
+        "es_correcta": false,
+        "explicacion": "El derecho a la libertad y a la seguridad personal está regulado en el artículo 17 y no en el 20. Referencia: art. 17.1 CE."
+      },
+      {
+        "texto": "b) Garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley.",
+        "es_correcta": false,
+        "explicacion": "La libertad ideológica, religiosa y de culto se encuentra garantizada de forma estricta en el artículo 16. Referencia: art. 16.1 CE."
+      },
+      {
+        "texto": "c) Protege y reconoce la libertad de cátedra.",
+        "es_correcta": true,
+        "explicacion": "El artículo 20 reconoce expresamente el derecho a las libertades de expresión, producción literaria, científica y la libertad de cátedra. Referencia: art. 20.1.c) CE."
+      },
+      {
+        "texto": "d) Reconoce el derecho de reunión pacífica y sin armas.",
+        "es_correcta": false,
+        "explicacion": "El derecho de reunión pacífica y sin armas es un derecho fundamental regulado en el artículo 21. Referencia: art. 21.1 CE."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "La Constitución Española establece que, aprobada la reforma constitucional por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten:",
+    "opciones": [
+      {
+        "texto": "a) Dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+        "es_correcta": true,
+        "explicacion": "La solicitud de referéndum para la reforma constitucional ordinaria exige una décima parte de los miembros de cualquier Cámara dentro de los 15 días posteriores. Referencia: art. 167.3 CE."
+      },
+      {
+        "texto": "b) Dentro de los quince días siguientes a su aprobación, una mayoría absoluta de las dos Cámaras conjuntamente.",
+        "es_correcta": false,
+        "explicacion": "La Constitución no requiere una votación por mayoría absoluta conjunta para activar esta consulta popular de ratificación. Referencia: art. 167.3 CE."
+      },
+      {
+        "texto": "c) Dentro de los diez días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+        "es_correcta": false,
+        "explicacion": "El plazo constitucional establecido por la norma fundamental es de quince días naturales y no de diez días. Referencia: art. 167.3 CE."
+      },
+      {
+        "texto": "d) Dentro de los diez días siguientes a su aprobación, una mayoría absoluta del Congreso.",
+        "es_correcta": false,
+        "explicacion": "El texto constitucional no vincula este instrumento al voto de la mayoría del Congreso ni contempla un intervalo de diez días. Referencia: art. 167.3 CE."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "Según el artículo 59.3 de la Constitución Española si no hubiere ninguna persona a quien corresponda la Regencia:",
+    "opciones": [
+      {
+        "texto": "a) Ésta será nombrada por el Consejo de Ministros, y se compondrá de tres personas.",
+        "es_correcta": false,
+        "explicacion": "La designación formal de la Regencia subsidiaria es una competencia constitucional reservada al poder legislativo y no al Gobierno. Referencia: art. 59.3 CE."
+      },
+      {
+        "texto": "b) Ésta será nombrada por las Cortes Generales, y se compondrá de una, tres o cinco personas.",
+        "es_correcta": true,
+        "explicacion": "En ausencia de línea sucesoria legítima, las Cortes Generales nombrarán la Regencia, que constará de una, tres o cinco personas de forma tasada. Referencia: art. 59.3 CE."
+      },
+      {
+        "texto": "c) Ésta será nombrada por las Cortes Generales, y se compondrá de cuatro personas.",
+        "es_correcta": false,
+        "explicacion": "La composición de la Regencia fijada por la norma fundamental debe ser un número impar de miembros (uno, tres o cinco) para evitar empates. Referencia: art. 59.3 CE."
+      },
+      {
+        "texto": "d) Ésta será nombrada por la mayoría absoluta del Congreso de los Diputados, y se compondrá de una, tres o cinco personas.",
+        "es_correcta": false,
+        "explicacion": "El nombramiento requiere la intervención conjunta de ambas Cámaras integradas en las Cortes Generales, no del Congreso en solitario. Referencia: art. 59.3 CE."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "Según la Constitución Española, sin perjuicio de las funciones encomendadas a otros órganos, promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, es una misión de:",
+    "opciones": [
+      {
+        "texto": "a) El Consejo General del Poder Judicial.",
+        "es_correcta": false,
+        "explicacion": "Al Consejo General del Poder Judicial le competen exclusivamente las funciones de gobierno, inspección y disciplina de jueces y magistrados. Referencia: art. 122.2 CE."
+      },
+      {
+        "texto": "b) El Tribunal Constitucional.",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Constitucional es el intérprete supremo de la Constitución, ajeno a las tareas del impulso genérico de la acción de la justicia. Referencia: art. 161 CE."
+      },
+      {
+        "texto": "c) El Ministerio Fiscal.",
+        "es_correcta": true,
+        "explicacion": "El Ministerio Fiscal tiene por misión constitucional promover la acción de la justicia en defensa de la legalidad y del interés público. Referencia: art. 124.1 CE."
+      },
+      {
+        "texto": "d) El Tribunal Supremo.",
+        "es_correcta": false,
+        "explicacion": "El Tribunal Supremo es el órgano jurisdiccional superior de la justicia ordinaria, encargado de resolver recursos de casación y no de promover acciones. Referencia: art. 123 CE."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "Según el artículo 140 de la Constitución Española, los Concejales serán elegidos por:",
+    "opciones": [
+      {
+        "texto": "a) Los vecinos de la Comunidad Autónoma donde radique el municipio mediante sufragio universal, igual, libre, directo y secreto.",
+        "es_correcta": false,
+        "explicacion": "El derecho al sufragio municipal se delimita de forma geográfica al término local del ayuntamiento y no al conjunto de la región. Referencia: art. 140 CE."
+      },
+      {
+        "texto": "b) El Alcalde del municipio respectivo.",
+        "es_correcta": false,
+        "explicacion": "Los concejales emanan de la elección democrática directa del pueblo, siendo al contrario el Alcalde quien suele ser elegido por los propios ediles. Referencia: art. 140 CE."
+      },
+      {
+        "texto": "c) Los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto.",
+        "es_correcta": true,
+        "explicacion": "La Constitución prescribe de forma imperativa que los concejales serán elegidos por los vecinos del municipio mediante sufragio universal directo. Referencia: art. 140 CE."
+      },
+      {
+        "texto": "d) El Pleno de la Diputación donde radique el Ayuntamiento.",
+        "es_correcta": false,
+        "explicacion": "La corporación provincial es un órgano de segundo grado y carece de facultades electivas sobre las actas de los representantes municipales. Referencia: art. 140 CE."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "En relación con la Administration Local, regulada en el Título VIII de su Capítulo Segundo, la Constitución Española establece que:",
+    "opciones": [
+      {
+        "texto": "a) El Gobierno y la Administración Autónoma de las provincias estarán encomendados a los Ayuntamientos u otras Corporaciones de carácter representativo.",
+        "es_correcta": false,
+        "explicacion": "El gobierno de la provincia corresponde de forma ordinaria a las Diputaciones Provinciales y no de manera directa a los Ayuntamientos de forma colectiva. Referencia: art. 141.2 CE."
+      },
+      {
+        "texto": "b) No está permitida la creación de municipios diferentes de la provincia.",
+        "es_correcta": false,
+        "explicacion": "La provincia se define formalmente como una agrupación de municipios, existiendo ambos entes locales de manera plenamente autónoma e independiente. Referencia: art. 141.1 CE."
+      },
+      {
+        "texto": "c) Cualquier alteración de los límites provinciales habrá de ser aprobada por el Pleno de la Diputación o Diputaciones afectadas, por mayoría absoluta.",
+        "es_correcta": false,
+        "explicacion": "La modificación de las fronteras de una provincia exige necesariamente aprobación parlamentaria estatal formalizada por Ley Orgánica. Referencia: art. 141.1 CE."
+      },
+      {
+        "texto": "d) La ley regulará las condiciones en las que proceda el régimen de concejo abierto.",
+        "es_correcta": true,
+        "explicacion": "El texto constitucional delega de forma expresa en el legislador la ordenación y los requisitos para el funcionamiento del régimen vecinal de concejo abierto. Referencia: art. 140 CE."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "Según la Constitución Española:",
+    "opciones": [
+      {
+        "texto": "a) Es posible la federación de Comunidades Autónomas.",
+        "es_correcta": false,
+        "explicacion": "La Constitución prohíbe de forma taxativa e irrevocable la federación de distintas Comunidades Autónomas entre sí. Referencia: art. 145.1 CE."
+      },
+      {
+        "texto": "b) La reforma de los Estatutos de Autonomía requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica.",
+        "es_correcta": true,
+        "explicacion": "Los Estatutos forman parte del bloque de la constitucionalidad y su alteración final exige su aprobación parlamentaria estatal por Ley Orgánica. Referencia: art. 147.3 CE."
+      },
+      {
+        "texto": "c) Se podrá autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143 mediante un Decreto-ley.",
+        "es_correcta": false,
+        "explicacion": "Dicha habilitación territorial excepcional requiere de forma obligatoria la adopción de una Ley de las Cortes Generales y nunca un Real Decreto-ley. Referencia: art. 144.a) CE."
+      },
+      {
+        "texto": "d) La provincia es una entidad local sin personalidad jurídica propia, determinada por la agrupación de municipios.",
+        "es_correcta": false,
+        "explicacion": "La provincia goza explícitamente de personalidad jurídica propia y plena para el cumplimiento de sus fines institucionales. Referencia: art. 141.1 CE."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "Según el Tratado de la Unión Europea (TUE), el Presidente del Consejo Europeo es elegido por:",
+    "opciones": [
+      {
+        "texto": "a) El Parlamento Europeo por mayoría simple, para un mandato de 5 años que no podrá renovarse.",
+        "es_correcta": false,
+        "explicacion": "La asamblea parlamentaria europea no ostenta la competencia de designar formalmente al presidente de esta cumbre de mandatarios. Referencia: art. 15.5 TUE."
+      },
+      {
+        "texto": "b) El Consejo Europeo, por mayoría absoluta, para un mandato de 2 años y medio que no podrá renovarse.",
+        "es_correcta": false,
+        "explicacion": "El mandato otorgado de dos años y medio sí contempla la viabilidad legal de ser renovado de forma consecutiva por una sola vez. Referencia: art. 15.5 TUE."
+      },
+      {
+        "texto": "c) El Parlamento Europeo por mayoría cualificada, para un mandato de 5 años que podrá renovarse por una sola vez.",
+        "es_correcta": false,
+        "explicacion": "La duración estándar prefijada del puesto es de dos años y medio y su designación descansa de manera directa en el seno de la propia institución. Referencia: art. 15.5 TUE."
+      },
+      {
+        "texto": "d) El Consejo Europeo, por mayoría cualificada para un mandato de 2 años y medio que podrá renovarse por una sola vez.",
+        "es_correcta": true,
+        "explicacion": "El Consejo Europeo elegirá a su Presidente por mayoría cualificada por un período de dos años y medio, renovable una vez. Referencia: art. 15.5 TUE."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "Indique qué institución comunitaria se considera el principal órgano de carácter ejecutivo de la Unión Europea.",
+    "opciones": [
+      {
+        "texto": "a) El Consejo Europeo.",
+        "es_correcta": false,
+        "explicacion": "Al Consejo Europeo le corresponde fijar los impulsos y orientaciones políticas generales de la Unión, desprovisto de funciones ejecutivas diarias. Referencia: art. 15.1 TUE."
+      },
+      {
+        "texto": "b) La Comisión Europea.",
+        "es_correcta": true,
+        "explicacion": "La Comisión Europea encarna el brazo ejecutivo del entramado comunitario, asumiendo la gestión, ejecución presupuestaria y aplicación del derecho. Referencia: art. 17.1 TUE."
+      },
+      {
+        "texto": "c) El Parlamento.",
+        "es_correcta": false,
+        "explicacion": "El Parlamento Europeo ejerce de forma compartida las potestades legislativas y de control presupuestario, operando como un órgano legislativo. Referencia: art. 14.1 TUE."
+      },
+      {
+        "texto": "d) El Tribunal de Justicia.",
+        "es_correcta": false,
+        "explicacion": "El Tribunal de Justicia de la Unión Europea ostenta de forma exclusiva la titularidad de la función judicial y de interpretación del derecho. Referencia: art. 19.1 TUE."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "Según el artículo 50.1 del Estatuto de Autonomía de Castilla y León, la Comunidad de Castilla y León podrá transferir competencias a los Ayuntamientos, Diputaciones y otros entes locales:",
+    "opciones": [
+      {
+        "texto": "a) Por decreto del Presidente de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La delegación o transferencia competencial de carácter institucional requiere rango superior al de un mero decreto presidencial individual. Referencia: art. 50.1 EACYL."
+      },
+      {
+        "texto": "b) Por acuerdo del Consejo de Gobierno.",
+        "es_correcta": false,
+        "explicacion": "Los acuerdos de la Junta sirven para operativizar el traspaso de los medios, pero la atribución de competencias requiere un marco normativo superior. Referencia: art. 50.1 EACYL."
+      },
+      {
+        "texto": "c) Por ley de las Cortes.",
+        "es_correcta": true,
+        "explicacion": "El Estatuto exige expresamente la adopción de una Ley de Cortes para proceder al traspaso o transferencia formal de facultades a los entes locales. Referencia: art. 50.1 EACYL."
+      },
+      {
+        "texto": "d) Por acuerdo del Consejo de Cooperación Local de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Este consejo ejerce atribuciones de concertación y carácter consultivo, careciendo por completo de potestad legislativa de transferencia. Referencia: art. 50.1 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "Conforme al artículo 18 del Estatuto de Autonomía de Castilla y León, las competencias, organización y funcionamiento del Procurador del Común se regularán por:",
+    "opciones": [
+      {
+        "texto": "a) Un reglamento de las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El reglamento parlamentario ordena el funcionamiento de la Cámara, difiriendo del instrumento legal exógeno exigido para el comisionado. Referencia: art. 18.3 EACYL."
+      },
+      {
+        "texto": "b) Un decreto de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Al ser un alto comisionado de las Cortes encargado de fiscalizar la administración, su marco regulador no puede emanar de un decreto del Gobierno. Referencia: art. 18.3 EACYL."
+      },
+      {
+        "texto": "c) Una ley de las Cortes de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "La ordenación de la institución del Procurador del Común cuenta con una reserva de Ley de las Cortes de Castilla y León. Referencia: art. 18.3 EACYL."
+      },
+      {
+        "texto": "d) Un real decreto del Gobierno.",
+        "es_correcta": false,
+        "explicacion": "Una norma estatal con rango de real decreto resultaría a todas luces nula por invadir de manera frontal la competencia autoorganizativa autonómica. Referencia: art. 18.3 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "Según el artículo 17.1 de la Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, el Consejo deberá emitir su dictamen en el plazo de:",
+    "opciones": [
+      {
+        "texto": "a) Diez días desde la recepción del expediente.",
+        "es_correcta": false,
+        "explicacion": "El plazo de diez días es la referencia reducida reservada exclusivamente para los dictámenes solicitados por la vía de urgencia. Referencia: art. 17.1 Ley 1/2002."
+      },
+      {
+        "texto": "b) Veinte días desde la recepción del expediente.",
+        "es_correcta": true,
+        "explicacion": "La ley establece que el Consejo Consultivo dispondrá de un plazo ordinario general de veinte días para emitir sus dictámenes. Referencia: art. 17.1 Ley 1/2002."
+      },
+      {
+        "texto": "c) Diez días desde la recepción de la petición.",
+        "es_correcta": false,
+        "explicacion": "El cómputo legal se inicia de manera efectiva con el registro de entrada del expediente administrativo completo y no de una mera solicitud inicial. Referencia: art. 17.1 Ley 1/2002."
+      },
+      {
+        "texto": "d) Veinte días desde la recepción de la petición.",
+        "es_correcta": false,
+        "explicacion": "La regla de cómputo del intervalo de veinte jornadas se encuentra ligada a la recepción física de las actuaciones completas de gestión. Referencia: art. 17.1 Ley 1/2002."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "Según la Ley 13/1990, de 28 de noviembre, del Consejo Económico y Social, no forma parte de dicho órgano:",
+    "opciones": [
+      {
+        "texto": "a) Doce representantes de las Organizaciones Sindicales más representativas de la Comunidad Autónoma de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Este bloque paritario de doce delegados sindicales integra formalmente la representación del Grupo Primero de la institución. Referencia: art. 4.1.a) Ley 13/1990."
+      },
+      {
+        "texto": "b) Seis expertos designados por el Presidente de la Junta de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "La ley determina que el grupo de expertos independientes consta formalmente de tres miembros y no de seis. Referencia: art. 4.1.c) Ley 13/1990."
+      },
+      {
+        "texto": "c) Cuatro representantes de las Organizaciones Profesionales Agrarias de ámbito regional designados por ellas mismas.",
+        "es_correcta": false,
+        "explicacion": "Los cuatro delegados del sector primario agrario forman parte del Grupo Tercero de representación socioeconómica. Referencia: art. 4.1.c) Ley 13/1990."
+      },
+      {
+        "texto": "d) Un representante de las Cooperativas y Sociedades Anónimas Laborales designado por sus organizaciones de ámbito regional.",
+        "es_correcta": false,
+        "explicacion": "La presencia de este vocal de la economía social está plenamente contemplada y validada en el diseño institucional del Consejo. Referencia: art. 4.1.c) Ley 13/1990."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "Señale la respuesta incorrecta según el artículo 18 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León.",
+    "opciones": [
+      {
+        "texto": "a) El Consejo de Gobierno se reúne convocado por su Presidente. La convocatoria podrá ir acompañada del orden del día de la reunión.",
+        "es_correcta": true,
+        "explicacion": "Es la respuesta incorrecta (a marcar), ya que la ley exige imperativamente que la convocatoria vaya siempre acompañada del orden del día. Referencia: art. 18.1 Ley 3/2001."
+      },
+      {
+        "texto": "b) El Presidente podrá nombrar un Portavoz de la Junta que, en el supuesto de no ser miembro de ésta, podrá asistir a sus reuniones quedando obligado a mantener el secreto propio de las deliberaciones de este órgano.",
+        "es_correcta": false,
+        "explicacion": "Configura una habilitación reglamentaria verídica que impone el deber de sigilo a los asistentes externos no consejeros. Referencia: art. 18.4 Ley 3/2001."
+      },
+      {
+        "texto": "c) Podrán asistir a las reuniones los funcionarios de la Administración Autonómica o expertos cuya asistencia autorice el Presidente de la Junta.",
+        "es_correcta": false,
+        "explicacion": "Es un postulado verídico, puesto que el jefe del ejecutivo ostenta la facultad discrecional de autorizar comparecencias técnicas. Referencia: art. 18.3 Ley 3/2001."
+      },
+      {
+        "texto": "d) Los acuerdos, una vez adoptados, constituyen la expresión unitaria de la voluntad de sus miembros.",
+        "es_correcta": false,
+        "explicacion": "Representa un principio clásico y verídico que consagra la solidaridad y cohesión política obligada del gabinete de gobierno. Referencia: art. 18.2 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "Según el artículo 25 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León:",
+    "opciones": [
+      {
+        "texto": "a) Los Consejeros son nombrados y separados libremente por las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El nombramiento y cese de los miembros del gabinete gubernamental es potestad exclusiva del Presidente y no de la cámara legislativa. Referencia: art. 25.1 Ley 3/2001."
+      },
+      {
+        "texto": "b) Los Consejeros inician su mandato el día siguiente de su toma de posesión ante el Presidente de la Junta.",
+        "es_correcta": false,
+        "explicacion": "Los efectos jurídicos y políticos del ejercicio del cargo de consejero no se difieren a la jornada subsiguiente al acto formal. Referencia: art. 25.2 Ley 3/2001."
+      },
+      {
+        "texto": "c) Los Consejeros inician su mandato en el momento de su toma de posesión ante el Presidente de la Junta.",
+        "es_correcta": true,
+        "explicacion": "La ley prescribe formalmente que los titulares de las consejerías comenzarán el ejercicio del cargo de forma sincrónica en su toma de posesión. Referencia: art. 25.2 Ley 3/2001."
+      },
+      {
+        "texto": "d) Los Consejeros son nombrados y separados libremente por el Presidente de la Junta de Castilla y León, quien lo comunicará seguidamente a las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Aunque la plantilla oficial marcó la opción c por su exacta literalidad horaria, la comunicación a las Cortes es un trámite formal complementario. Referencia: art. 25 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "Conforme al artículo 85 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la Administración Institucional de la Comunidad de Castilla y León:",
+    "opciones": [
+      {
+        "texto": "a) Actúa para el cumplimiento de los fines de interés general que el ordenamiento establece como principios rectores de la política social y económica.",
+        "es_correcta": false,
+        "explicacion": "La definición exacta que el legislador plasmó en la norma autonómica recurre al concepto formal de interés público y no de interés general. Referencia: art. 85 Ley 3/2001."
+      },
+      {
+        "texto": "b) Desarrolla, mediante centralización funcional, actividades de ejecución administrativa y económica propias de las competencias de la Comunidad.",
+        "es_correcta": false,
+        "explicacion": "La creación de entes institucionales responde justamente a dinámicas de descentralización de funciones y nunca de centralización. Referencia: art. 85 Ley 3/2001."
+      },
+      {
+        "texto": "c) Actúa para el cumplimiento de los fines de interés público que el ordenamiento establece como principios rectores de la política social y económica.",
+        "es_correcta": true,
+        "explicacion": "La norma estipula textualmente que estas entidades adscritas operan para la consecución de los fines de interés público encomendados. Referencia: art. 85 Ley 3/2001."
+      },
+      {
+        "texto": "d) Desarrolla, mediante descentralización funcional, actividades de ejecución administrativa y económica propias de las competencias del Estado.",
+        "es_correcta": false,
+        "explicacion": "Los entes institucionales regionales gestionan de forma exclusiva materias y servicios integrados en el acervo competencial de la Comunidad. Referencia: art. 85 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "Según el artículo 37 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, son órganos directivos centrales de las Consejerías:",
+    "opciones": [
+      {
+        "texto": "a) Subsecretarías, en su caso.",
+        "es_correcta": false,
+        "explicacion": "La figura organizativa de la Subsecretaría es propia de los Ministerios estatales, no existiendo de forma general en los departamentos de la Junta. Referencia: art. 37 Ley 3/2001."
+      },
+      {
+        "texto": "b) Viceconsejerías, en su caso.",
+        "es_correcta": true,
+        "explicacion": "Las Secretarías Generales, Direcciones Generales y de forma eventual las Viceconsejerías configuran los altos órganos directivos centrales. Referencia: art. 37.2 Ley 3/2001."
+      },
+      {
+        "texto": "c) Subdirecciones Generales.",
+        "es_correcta": false,
+        "explicacion": "Las Subdirecciones Generales son escalafones directivos de la Administración del Estado y no del organigrama básico de las consejerías de la Junta. Referencia: art. 37 Ley 3/2001."
+      },
+      {
+        "texto": "d) Jefaturas de Servicio.",
+        "es_correcta": false,
+        "explicacion": "Los Servicios configuran unidades de soporte puramente administrativas encargadas de la gestión técnica y desprovistas del rango de órgano directivo central. Referencia: art. 37 Ley 3/2001."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cómo se denominan las normas con rango de ley emanadas del Gobierno en casos de extraordinaria y urgente necesidad?",
+    "opciones": [
+      {
+        "texto": "a) Decretos-leyes.",
+        "es_correcta": true,
+        "explicacion": "Los Decretos-leyes son las disposiciones legislativas provisionales dictadas de forma directa ante coyunturas de urgente necesidad. Referencia: art. 86.1 CE."
+      },
+      {
+        "texto": "b) Decretos legislativos.",
+        "es_correcta": false,
+        "explicacion": "Los decretos legislativos albergan textos refundidos o articulados fundamentados en una delegación previa y expresa de las Cortes. Referencia: art. 82.1 CE."
+      },
+      {
+        "texto": "c) Leyes orgánicas.",
+        "es_correcta": false,
+        "explicacion": "Las leyes orgánicas son normas reservadas a materias esenciales que exigen obligatoriamente debate y aprobación por la mayoría absoluta del Congreso. Referencia: art. 81.1 CE."
+      },
+      {
+        "texto": "d) Decretos gubernativos.",
+        "es_correcta": false,
+        "explicacion": "Dicha terminología carece de valor conceptual o habilitación formal como fuente con fuerza de ley en el ordenamiento español. Referencia: art. 86 CE."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "Según lo dispuesto en el artículo 35 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en adelante \"LPACAP\"), serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+    "opciones": [
+      {
+        "texto": "a) Los acuerdos de aplicación de la tramitación de emergencia, de ampliación de plazos y de realización de actuaciones complementarias.",
+        "es_correcta": false,
+        "explicacion": "La tramitación de emergencia posee dinámicas ejecutivas excepcionales reguladas bajo formalidades singulares en la contratación pública. Referencia: art. 35 Ley 39/2015."
+      },
+      {
+        "texto": "b) Los actos que delimiten derechos subjetivos o intereses legítimos.",
+        "es_correcta": false,
+        "explicacion": "La ley exige motivar de forma obligatoria los actos que limiten o restrinjan derechos (gravámenes), no la mera delimitación de los mismos. Referencia: art. 35.1.a) Ley 39/2015."
+      },
+      {
+        "texto": "c) Los actos que admitan las pruebas propuestas por los interesados.",
+        "es_correcta": false,
+        "explicacion": "La carga de motivación obligatoria recae únicamente sobre aquellas decisiones que denieguen o rechacen los medios de prueba propuestos. Referencia: art. 35.1.f) Ley 39/2015."
+      },
+      {
+        "texto": "d) Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos.",
+        "es_correcta": true,
+        "explicacion": "Los actos que resuelvan procedimientos de revisión de oficio, recursos administrativos y reclamaciones exigen siempre motivación formal. Referencia: art. 35.1.b) Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "Según dispone el artículo 52 de la LPACAP relativo a la convalidación de los actos administrativos:",
+    "opciones": [
+      {
+        "texto": "a) Si el vicio consistiera en incompetencia determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.",
+        "es_correcta": false,
+        "explicacion": "Los vicios que supongan una nulidad de pleno derecho absoluta resultan de forma general insubsanables mediante técnicas de convalidación. Referencia: art. 52 Ley 39/2015."
+      },
+      {
+        "texto": "b) Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.",
+        "es_correcta": true,
+        "explicacion": "Si el vicio consiste en incompetencia no determinante de nulidad (anulabilidad), el superior jerárquico competente podrá convalidar el acto. Referencia: art. 52.2 Ley 39/2015."
+      },
+      {
+        "texto": "c) Si el vicio consistiera en incompetencia no determinante de anulabilidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto.",
+        "es_correcta": false,
+        "explicacion": "La convalidación es un remedio jurídico concebido por la ley de manera exclusiva para purgar los actos administrativos que sean anulables. Referencia: art. 52.1 Ley 39/2015."
+      },
+      {
+        "texto": "d) Si el vicio consistiera en incompetencia determinante de nulidad, la convalidación podrá realizarse por el órgano que dictó el acto viciado.",
+        "es_correcta": false,
+        "explicacion": "La incompetencia material radical insubsanable impide al propio órgano autor de la infracción validar un acto nulo. Referencia: art. 52 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "pregunta": "Un reglamento entrará en vigor:",
+    "opciones": [
+      {
+        "texto": "a) En la fecha que el mismo reglamento señale.",
+        "es_correcta": false,
+        "explicacion": "Resulta incompleto al omitir la condición legal de que dicha fecha está supeditada a su previa y completa publicación. Referencia: art. 131 Ley 39/2015."
+      },
+      {
+        "texto": "b) A los 20 días de su completa publicación en el Boletín Oficial del Estado.",
+        "es_correcta": false,
+        "explicacion": "Los reglamentos de carácter autonómico o local computan su eficacia tomando como referencia obligada sus respectivos boletines oficiales y no el BOE. Referencia: art. 131 Ley 39/2015."
+      },
+      {
+        "texto": "c) A los 20 días de su completa publicación en el Boletín Oficial correspondiente.",
+        "es_correcta": false,
+        "explicacion": "Dicha regla de la vacatio legis de 20 días opera únicamente con carácter supletorio si el propio texto no dispone otra fecha. Referencia: art. 131 Ley 39/2015."
+      },
+      {
+        "texto": "d) A los 20 días de su completa publicación en el Boletín Oficial correspondiente, si no ha señalado una fecha concreta.",
+        "es_correcta": true,
+        "explicacion": "Las normas reglamentarias despliegan efectos por defecto a los veinte días de su íntegra publicación, salvo que fijen otro término de vigencia. Referencia: art. 131 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "pregunta": "Según lo dispuesto en el artículo 121 de la LPACAP relativo al objeto del recurso de alzada, si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente para su resolución en el plazo de:",
+    "opciones": [
+      {
+        "texto": "a) Cinco días, con su informe y con una copia completa y ordenada del expediente.",
+        "es_correcta": false,
+        "explicacion": "El intervalo de cinco jornadas resulta ajeno al plazo procedimental general que marca de forma imperativa la ley reguladora. Referencia: art. 121.2 Ley 39/2015."
+      },
+      {
+        "texto": "b) Diez días, con su informe y con una copia completa y ordenada del expediente.",
+        "es_correcta": true,
+        "explicacion": "El órgano que dictó el acto recurrido dispone de un plazo máximo e improrrogable de diez días para elevar el expediente al superior jerárquico. Referencia: art. 121.2 Ley 39/2015."
+      },
+      {
+        "texto": "c) Quince días, con su informe y con una copia completa y ordenada del expediente.",
+        "es_correcta": false,
+        "explicacion": "Quince días excede el marco temporal habilitado por la legislación común para realizar el trámite de remisión e informe. Referencia: art. 121.2 Ley 39/2015."
+      },
+      {
+        "texto": "d) Tres días, con su informe y con una copia completa y ordenada del expediente.",
+        "es_correcta": false,
+        "explicacion": "Un plazo de tres días resulta excesivamente exiguo y no se corresponde con las reglas de tramitación ordinaria de los recursos. Referencia: art. 121.2 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "pregunta": "De acuerdo con el artículo 109.2 de la LPACAP, las Administraciones Públicas podrán rectificar los errores materiales, de hecho o aritméticos existentes en sus actos:",
+    "opciones": [
+      {
+        "texto": "a) De oficio, mientras no haya transcurrido el plazo de prescripción.",
+        "es_correcta": false,
+        "explicacion": "La subsanación de puros errores materiales de hecho se encuentra legalmente desvinculada de cualquier plazo de prescripción o caducidad. Referencia: art. 109.2 Ley 39/2015."
+      },
+      {
+        "texto": "b) Únicamente de oficio, en cualquier momento.",
+        "es_correcta": false,
+        "explicacion": "Resulta restrictivo e inexacto, puesto que los propios administrados e interesados están facultados para instar dicha corrección. Referencia: art. 109.2 Ley 39/2015."
+      },
+      {
+        "texto": "c) De oficio o a instancia de los interesados, mientras no haya transcurrido el plazo de prescripción.",
+        "es_correcta": false,
+        "explicacion": "La potestad de rectificación de meras erratas aritméticas puede ejercitarse sin límite temporal ni sumisión a plazos extintivos. Referencia: art. 109.2 Ley 39/2015."
+      },
+      {
+        "texto": "d) En cualquier momento, de oficio o a instancia de los interesados.",
+        "es_correcta": true,
+        "explicacion": "Las Administraciones podrán rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos. Referencia: art. 109.2 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "pregunta": "De acuerdo con el artículo 21.2 de la LPACAP, el plazo máximo en que debe notificarse la resolución expresa de un procedimiento:",
+    "opciones": [
+      {
+        "texto": "a) Será de 2 meses en todo caso.",
+        "es_correcta": false,
+        "explicacion": "La ley común del procedimiento no impone con carácter universal y rígido una duración prefijada de dos meses. Referencia: art. 21.2 Ley 39/2015."
+      },
+      {
+        "texto": "b) Será de 3 meses en todo caso.",
+        "es_correcta": false,
+        "explicacion": "El plazo de tres meses opera exclusivamente como la regla general por defecto si la norma reguladora específica guarda silencio. Referencia: art. 21.3 Ley 39/2015."
+      },
+      {
+        "texto": "c) No podrá exceder en ningún caso de 6 meses.",
+        "es_correcta": false,
+        "explicacion": "Aunque es el tope ordinario general, las normas con rango de Ley o el derecho comunitario pueden fijar de forma excepcional plazos superiores. Referencia: art. 21.2 Ley 39/2015."
+      },
+      {
+        "texto": "d) Será el fijado por la norma reguladora del correspondiente procedimiento.",
+        "es_correcta": true,
+        "explicacion": "El plazo máximo de resolución y notificación será el establecido por la norma reguladora de cada procedimiento específico de forma preferente. Referencia: art. 21.2 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "pregunta": "Según regula el artículo 55 de la LPACAP, con anterioridad al inicio del procedimiento, el órgano competente podrá:",
+    "opciones": [
+      {
+        "texto": "a) Abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.",
+        "es_correcta": true,
+        "explicacion": "El órgano competente podrá abrir un periodo de información previa para valorar la oportunidad o conveniencia de incoar el expediente. Referencia: art. 55.1 Ley 39/2015."
+      },
+      {
+        "texto": "b) Dar audiencia a los interesados. Solo si éstos no presentan alegaciones se podrá acordar el sobreseimiento.",
+        "es_correcta": false,
+        "explicacion": "El trámite de información o actuaciones de carácter previo es reservado y anterior a la personación o audiencia obligada de partes. Referencia: art. 55 Ley 39/2015."
+      },
+      {
+        "texto": "c) Abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto.",
+        "es_correcta": false,
+        "explicacion": "Aunque es materialmente correcto, la opción a recoge de forma literal la integridad del fin legal que persigue la norma (la conveniencia del inicio). Referencia: art. 55.1 Ley 39/2015."
+      },
+      {
+        "texto": "d) Abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto solamente en los procedimientos de naturaleza sancionadora.",
+        "es_correcta": false,
+        "explicacion": "Las actuaciones previas de carácter informativo pueden ordenarse en cualquier modalidad o tipo de expediente administrativo general. Referencia: art. 55.1 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "pregunta": "Según el artículo 17.2 de la Ley 40/2015, de 1 of octubre, de Régimen Jurídico del Sector Público (en adelante \"LRJSP\"), para la válida constitución del órgano colegiado, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá como regla general:",
+    "opciones": [
+      {
+        "texto": "a) La asistencia presencial del Presidente y Secretario, o en su caso de quienes les suplan, y la mitad al menos de sus miembros.",
+        "es_correcta": false,
+        "explicacion": "La norma básica estatal vigente permite plenamente la asistencia por vías telemáticas a distancia y no únicamente de forma presencial. Referencia: art. 17.2 Ley 40/2015."
+      },
+      {
+        "texto": "b) La asistencia presencial del Presidente y Secretario, o en su caso de quienes les suplan, y un tercio al menos de sus miembros.",
+        "es_correcta": false,
+        "explicacion": "El umbral del tercio mínimo de componentes resulta insuficiente para alcanzar el quorum ordinario de constitución que exige la ley. Referencia: art. 17.2 Ley 40/2015."
+      },
+      {
+        "texto": "c) La asistencia presencial o a distancia del Presidente y Secretario, o en su caso de quienes les suplan, y la mitad al menos de sus miembros.",
+        "es_correcta": true,
+        "explicacion": "Se requiere la asistencia (presencial o a distancia) de Presidente y Secretario, más un quorum mínimo de la mitad de los integrantes del órgano. Referencia: art. 17.2 Ley 40/2015."
+      },
+      {
+        "texto": "d) La asistencia presencial o a distancia del Presidente y Secretario, o en su caso de quienes les suplan, y un tercio al menos de sus miembros.",
+        "es_correcta": false,
+        "explicacion": "La fracción del tercio de los miembros no es válida como regla general de asistencia a menos que lo prevea una norma reguladora interna singular. Referencia: art. 17.2 Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "pregunta": "De acuerdo con lo dispuesto en el artículo 11 de la LRJSP, la encomienda de gestión:",
+    "opciones": [
+      {
+        "texto": "a) Podrá tener por objeto prestaciones propias de los contratos regulados en la legislación de contratos del sector público.",
+        "es_correcta": false,
+        "explicacion": "La ley prohíbe de forma expresa utilizar la encomienda para eludir la contratación administrativa ordinaria de servicios de mercado. Referencia: art. 11.1 Ley 40/2015."
+      },
+      {
+        "texto": "b) No supone cesión de la titularidad de la competencia, pero sí de los elementos sustantivos de su ejercicio.",
+        "es_correcta": false,
+        "explicacion": "La encomienda no altera de ninguna forma la titularidad ni los elementos conceptuales sustantivos del ejercicio de la potestad. Referencia: art. 11.1 Ley 40/2015."
+      },
+      {
+        "texto": "c) La Entidad u órgano encomendado tendrá la condición de encargado del tratamiento de los datos de carácter personal.",
+        "es_correcta": true,
+        "explicacion": "El órgano encargado de ejecutar de forma material la actividad ostenta formalmente la condición de encargado del tratamiento de datos. Referencia: art. 11.2 Ley 40/2015."
+      },
+      {
+        "texto": "d) Supone tanto la cesión de la titularidad de la competencia como de los elementos sustantivos de su ejercicio.",
+        "es_correcta": false,
+        "explicacion": "Constituye un error doctrinal y legal burdo, pues la técnica se reduce a un mero auxilio de ejecución material de actividades. Referencia: art. 11.1 Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "pregunta": "De acuerdo con el artículo 9.6 de la LRJSP, señale la afirmación correcta sobre la delegación de competencias:",
+    "opciones": [
+      {
+        "texto": "a) Se podrá delegar la adopción de disposiciones de carácter general.",
+        "es_correcta": false,
+        "explicacion": "La emisión y aprobación formal de disposiciones reglamentarias de carácter general es una materia indelegable por ley. Referencia: art. 9.2.a) Ley 40/2015."
+      },
+      {
+        "texto": "b) Las resoluciones administrativas que se adopten por delegación se considerarán dictadas por el órgano delegado.",
+        "es_correcta": false,
+        "explicacion": "Los actos dictados en virtud de delegación se consideran formalmente adoptados por el órgano delegante originario. Referencia: art. 9.4 Ley 40/2015."
+      },
+      {
+        "texto": "c) En ningún caso podrán delegarse las competencias que se ejerzan por delegación.",
+        "es_correcta": false,
+        "explicacion": "Aunque la regla general lo prohíbe (subdelegación), la ley contempla excepciones si media una autorización expresa de una Ley. Referencia: art. 9.5 Ley 40/2015."
+      },
+      {
+        "texto": "d) La delegación será revocable en cualquier momento por el órgano que la haya conferido.",
+        "es_correcta": true,
+        "explicacion": "La delegación de competencias posee un carácter esencialmente precario y puede revocarse discrecionalmente en cualquier momento. Referencia: art. 9.6 Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "pregunta": "De acuerdo con lo establecido en el artículo 22.1 de la Ley 7/2005, de 24 de mayo, de la Función Pública de Castilla y León (en adelante \"LFPCYL\"), ¿cuál es el instrumento de coordinación entre la estructura de la función pública y las decisiones presupuestarias?",
+    "opciones": [
+      {
+        "texto": "a) La plantilla de personal funcionario y laboral.",
+        "es_correcta": true,
+        "explicacion": "La plantilla de personal configura el instrumento formal de engaste y nexo directo entre el plano organizativo y el presupuestario. Referencia: art. 22.1 Ley 7/2005."
+      },
+      {
+        "texto": "b) Las relaciones de puesto de trabajo.",
+        "es_correcta": false,
+        "explicacion": "Las RPT son instrumentos puramente organizativos destinados a ordenar las características de los puestos de trabajo. Referencia: art. 20.1 Ley 7/2005."
+      },
+      {
+        "texto": "c) La ordenación de la actividad profesional.",
+        "es_correcta": false,
+        "explicacion": "La ordenación configura una categoría genérica del derecho de la función pública, no un documento técnico de coordinación económica. Referencia: art. 22 Ley 7/2005."
+      },
+      {
+        "texto": "d) La planificación de los recursos humanos.",
+        "es_correcta": false,
+        "explicacion": "La planificación engloba planes de empleo y previsiones de personal, operando de forma autónoma respecto al anexo de la ley presupuestaria. Referencia: art. 17 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "pregunta": "¿A quién le corresponde facilitar los datos iniciales y mantener permanentemente actualizada la información del Registro General de Personal, de acuerdo con lo establecido en el artículo 26.2 de la LFPCYL?",
+    "opciones": [
+      {
+        "texto": "a) A la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Al Consejo de Gobierno le competen potestades reglamentarias globales, delegando la alimentación técnica de datos en sus departamentos. Referencia: art. 26.2 Ley 7/2005."
+      },
+      {
+        "texto": "b) A cada consejería.",
+        "es_correcta": true,
+        "explicacion": "La ley asigna a cada consejería la obligación sectorial descentralizada de nutrir y actualizar el Registro con las mutaciones de su personal. Referencia: art. 26.2 Ley 7/2005."
+      },
+      {
+        "texto": "c) A la Dirección General de la Función Pública.",
+        "es_correcta": false,
+        "explicacion": "A este centro directivo le corresponde la gestión, custodia y dirección del Registro, pero no la inserción originaria de datos de cada Consejería. Referencia: art. 26.2 Ley 7/2005."
+      },
+      {
+        "texto": "d) A la consejería competente en materia de función pública.",
+        "es_correcta": false,
+        "explicacion": "El departamento de la Presidencia asume la tutela global del sistema corporativo, descansando la grabación de datos en cada sección activa. Referencia: art. 26.2 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "pregunta": "Según el artículo 35 de la LFPCYL, la creación, modificación y supresión de Cuerpos y Escalas en la Administración de la Comunidad de Castilla y León se hará por:",
+    "opciones": [
+      {
+        "texto": "a) Decreto de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "La ordenación de la estructura funcionarial troncal mediante cuerpos y escalas es una materia dotada de una estricta reserva de Ley. Referencia: art. 35 Ley 7/2005."
+      },
+      {
+        "texto": "b) Ley de las Cortes de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "La constitución, alteración sustantiva o extinción de Cuerpos y Escalas funcionariales exige imperativamente la aprobación de una Ley de Cortes. Referencia: art. 35 Ley 7/2005."
+      },
+      {
+        "texto": "c) Orden del consejero competente en materia de función pública.",
+        "es_correcta": false,
+        "explicacion": "Una orden departamental carece del rango normativo elemental exigido para innovar o delimitar el mapa de cuerpos funcionariales. Referencia: art. 35 Ley 7/2005."
+      },
+      {
+        "texto": "d) Orden del consejero competente en materia de función pública, con el informe preceptivo del Consejo de la Función Pública.",
+        "es_correcta": false,
+        "explicacion": "Incurre en un vicio de inconstitucionalidad material al tratar de eludir el monopolio legislativo reservado por el Estatuto al parlamento. Referencia: art. 35 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "pregunta": "De conformidad con lo establecido en el artículo 62.2 de la LFPCYL, ¿cuál es la duración establecida para la licencia por asuntos propios?",
+    "opciones": [
+      {
+        "texto": "a) No podrá exceder de 3 meses cada 2 años.",
+        "es_correcta": true,
+        "explicacion": "La ley fija la duración de las licencias por asuntos propios determinando que no superarán los tres meses por cada periodo bienal. Referencia: art. 62.2 Ley 7/2005."
+      },
+      {
+        "texto": "b) No podrá exceder de 12 meses.",
+        "es_correcta": false,
+        "explicacion": "Un periodo anual ininterrumpido sin justificación excede los límites temporales ordinarios previstos para esta modalidad de licencia. Referencia: art. 62.2 Ley 7/2005."
+      },
+      {
+        "texto": "c) No podrá exceder de 9 meses dentro de un periodo de 18 meses.",
+        "es_correcta": false,
+        "explicacion": "Esta escala de cómputo fraccionado no se corresponde con las referencias temporales que consagra el estatuto de la función pública. Referencia: art. 62.2 Ley 7/2005."
+      },
+      {
+        "texto": "d) No podrá exceder de 4 meses cada 5 años.",
+        "es_correcta": false,
+        "explicacion": "La restricción quinquenal resulta ajena e incompatible con las dinámicas de flexibilización y conciliación del empleo público. Referencia: art. 62.2 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "pregunta": "Según el artículo 62 de la LFPCYL, podrán concederse licencias para la colaboración en Programas de Cooperación y Ayuda Humanitaria en situaciones de emergencia y catástrofe generalizada, con una duración máxima de:",
+    "opciones": [
+      {
+        "texto": "a) Dos meses, salvo necesidad justificada del Programa.",
+        "es_correcta": false,
+        "explicacion": "La duración máxima inicial prevista por el legislador autonómico para este permiso humanitario está fijada en tres meses. Referencia: art. 62.5 Ley 7/2005."
+      },
+      {
+        "texto": "b) Tres meses, salvo necesidad justificada del Programa.",
+        "es_correcta": true,
+        "explicacion": "La licencia por emergencias humanitarias cuenta con un tope de tres meses, ampliable si concurren necesidades vinculadas al programa. Referencia: art. 62.5 Ley 7/2005."
+      },
+      {
+        "texto": "c) Dos meses improrrogables.",
+        "es_correcta": false,
+        "explicacion": "El bloque normativo no restringe este supuesto solidario a dos meses ni impone una cláusula de rigurosa improrrogabilidad absoluta. Referencia: art. 62.5 Ley 7/2005."
+      },
+      {
+        "texto": "d) Tres meses improrrogables.",
+        "es_correcta": false,
+        "explicacion": "La norma permite de forma flexible dilatar la duración de la licencia si se acredita y justifica documentalmente la extensión del programa. Referencia: art. 62.5 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "pregunta": "De acuerdo con el artículo 66 de la LFPCyL, la progresión de categoría sin necesidad de cambiar de puesto, tendrá carácter voluntario y estará ligada al reconocimiento de competencias y a la evaluación del desempeño, es:",
+    "opciones": [
+      {
+        "texto": "a) La carrera profesional vertical.",
+        "es_correcta": false,
+        "explicacion": "La carrera vertical se define formalmente como el ascenso en la estructura de los puestos mediante procesos de concurso o libre designación. Referencia: art. 66.a) Ley 7/2005."
+      },
+      {
+        "texto": "b) La promoción interna.",
+        "es_correcta": false,
+        "explicacion": "La promoción interna articula el salto selectivo escalonado desde un grupo de titulación a otro cuerpo jerárquicamente superior. Referencia: art. 74 Ley 7/2005."
+      },
+      {
+        "texto": "c) La carrera profesional horizontal.",
+        "es_correcta": true,
+        "explicacion": "La carrera horizontal consiste en la progresión de grado o categoría sin necesidad de alterar el puesto de trabajo desempeñado. Referencia: art. 66.b) Ley 7/2005."
+      },
+      {
+        "texto": "d) El concurso.",
+        "es_correcta": false,
+        "explicacion": "El concurso constituye un sistema de provisión activa de puestos basado en la valoración reglada de méritos tasados. Referencia: art. 48 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "pregunta": "Según el artículo 81 de la LFPCYL, constituirá falta disciplinaria muy grave:",
+    "opciones": [
+      {
+        "texto": "a) La falta de asistencia injustificada de un día.",
+        "es_correcta": false,
+        "explicacion": "La inasistencia aislada de una sola jornada laboral constituye ordinariamente una infracción de carácter leve o menor. Referencia: art. 81 Ley 7/2005."
+      },
+      {
+        "texto": "b) La grave desconsideración con los superiores, compañeros o subordinados.",
+        "es_correcta": false,
+        "explicacion": "Los desaires o faltas de consideración graves hacia el entorno laboral tipifican de forma expresa infracciones de carácter grave. Referencia: art. 81.3 Ley 7/2005."
+      },
+      {
+        "texto": "c) El incumplimiento de las normas sobre incompatibilidades.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del ejercicio ratifica como falta muy grave el quebrantamiento de las prohibiciones de incompatibilidad. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "d) La intervención en un procedimiento administrativo existiendo motivos de abstención establecidos legalmente.",
+        "es_correcta": false,
+        "explicacion": "Omitir el deber de abstenerse cuando concurren causas legales tipifica de forma ordinaria una infracción de naturaleza grave. Referencia: art. 81.3 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "pregunta": "De acuerdo con el artículo 94 de la LFPCyL, ¿qué retribuciones percibirán los funcionarios en expectativa de destino?",
+    "opciones": [
+      {
+        "texto": "a) Las retribuciones básicas, el complemento de destino del grado personal que le corresponda y 50% del complemento específico.",
+        "es_correcta": true,
+        "explicacion": "El personal afectado percibirá las retribuciones básicas, el destino íntegro de su grado y el cincuenta por ciento del específico. Referencia: art. 94.2 Ley 7/2005."
+      },
+      {
+        "texto": "b) Las retribuciones básicas y la totalidad de las complementarias.",
+        "es_correcta": false,
+        "explicacion": "Esta opción resulta errónea al obviar la reducción lineal a la mitad que la ley impone sobre el devengo del complemento específico. Referencia: art. 94.2 Ley 7/2005."
+      },
+      {
+        "texto": "c) Las retribuciones básicas y el 75% de las retribuciones complementarias.",
+        "es_correcta": false,
+        "explicacion": "El porcentaje reductor del setenta y cinco por ciento no es el módulo económico contemplado formalmente por la ley funcionarial. Referencia: art. 94.2 Ley 7/2005."
+      },
+      {
+        "texto": "d) Las retribuciones básicas y las prestaciones por hijo a cargo.",
+        "es_correcta": false,
+        "explicacion": "Las ayudas familiares y de seguridad social son independientes de los devengos estatutarios fijos ligados a la expectativa. Referencia: art. 94.2 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "pregunta": "A tenor del artículo 90 de la LFPCYL, quienes se encuentren en situación de servicios especiales:",
+    "opciones": [
+      {
+        "texto": "a) Percibirán las retribuciones que les correspondan como funcionarios de carrera.",
+        "es_correcta": false,
+        "explicacion": "Los empleados en servicios especiales perciben los salarios ligados de forma directa al cargo público político que pasan a desempeñar. Referencia: art. 90.2 Ley 7/2005."
+      },
+      {
+        "texto": "b) Tendrán derecho, en cualquier caso, a reingresar al servicio activo en el mismo puesto que ocupaban en el momento del nombramiento que originó el pase a la situación de servicios especiales.",
+        "es_correcta": false,
+        "explicacion": "La garantía absoluta de retorno al mismo puesto singularizado de origen solo opera de forma temporal durante los dos primeros años. Referencia: art. 90.3 Ley 7/2005."
+      },
+      {
+        "texto": "c) El tiempo que permanezcan en situación de servicios especiales computará a efectos de trienios, consolidación del grado personal y derechos pasivos como si se hallaran en servicio activo en la Administración de la Comunidad de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "Esta declaración suspensiva garantiza plenamente el cómputo del tiempo para trienios, carrera y derechos pasivos de jubilación. Referencia: art. 90.2 Ley 7/2005."
+      },
+      {
+        "texto": "d) No podrán percibir los trienios que tuvieran reconocidos antes de pasar a la situación de servicios especiales.",
+        "es_correcta": false,
+        "explicacion": "Los trienios devengados con anterioridad se respetan y continúan abonándose por la administración donde se ejerce el cargo. Referencia: art. 90.2 Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "pregunta": "Según el artículo 13 de la Ley 2/2006, de 3 de mayo, de la Hacienda y del Sector Público de la Comunidad de Castilla y León (en adelante \"LHySP\"), compete a la Junta de Castilla y León:",
+    "opciones": [
+      {
+        "texto": "a) Aprobar el proyecto de ley de presupuestos generales y de las Cortes de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "El poder legislativo (Cortes) elabora y rige de forma soberana su propio presupuesto, ajeno al control directo de la Junta de Gobierno. Referencia: art. 13 Ley 2/2006."
+      },
+      {
+        "texto": "b) Administrar los créditos para gastos del presupuesto.",
+        "es_correcta": false,
+        "explicacion": "La ordenación y gestión ordinaria de los créditos presupuestarios sectoriales se encomienda de manera directa a cada Consejero titular. Referencia: art. 15 Ley 2/2006."
+      },
+      {
+        "texto": "c) Velar por la ejecución de los presupuestos generales de la Comunidad, la efectividad de sus derechos económicos y el cumplimiento de las disposiciones de carácter económico y financiero.",
+        "es_correcta": false,
+        "explicacion": "Dicha atribución de vigilancia e inspección financiera ordinaria está atribuida expresamente al Consejero de Hacienda. Referencia: art. 14.d) Ley 2/2006."
+      },
+      {
+        "texto": "d) Aprobar los reglamentos para la aplicación de esta ley.",
+        "es_correcta": true,
+        "explicacion": "Corresponde de forma originaria al Consejo de Gobierno de la Junta dictar los reglamentos generales de desarrollo de la ley de hacienda. Referencia: art. 13.a) Ley 2/2006."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "pregunta": "En relación con el artículo 150 de la LHySP, señale qué fase del ciclo presupuestario se inicia con la autorización del gasto:",
+    "opciones": [
+      {
+        "texto": "a) Elaboración.",
+        "es_correcta": false,
+        "explicacion": "La fase de elaboración engloba la confección técnica previa de las previsiones y estimaciones por las oficinas presupuestarias. Referencia: art. 150 Ley 2/2006."
+      },
+      {
+        "texto": "b) Aprobación.",
+        "es_correcta": false,
+        "explicacion": "La aprobación parlamentaria es el acto de soberanía de las Cortes que valida la Ley de Presupuestos Generales anual. Referencia: art. 150 Ley 2/2006."
+      },
+      {
+        "texto": "c) Ejecución.",
+        "es_correcta": true,
+        "explicacion": "La fase de ejecución contable de los fondos públicos arranca formalmente con los actos de autorización y disposición del gasto. Referencia: art. 150 Ley 2/2006."
+      },
+      {
+        "texto": "d) Control.",
+        "es_correcta": false,
+        "explicacion": "El control fiscal se despliega de forma coetánea o posterior por los auditores de la Intervención General de la Comunidad. Referencia: art. 150 Ley 2/2006."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "pregunta": "Según el artículo 96 de la LHySP, indique cuál de las siguientes operaciones corresponde a una operación de capital:",
+    "opciones": [
+      {
+        "texto": "a) Gastos financieros.",
+        "es_correcta": false,
+        "explicacion": "Los gastos financieros por intereses configuran de forma nítida un gasto corriente encuadrado en el Capítulo 3. Referencia: art. 96 Ley 2/2006."
+      },
+      {
+        "texto": "b) Inversiones reales.",
+        "es_correcta": true,
+        "explicacion": "Las inversiones reales configuran la operación económica de capital por excelencia adscrita formalmente al Capítulo 6. Referencia: art. 96 Ley 2/2006."
+      },
+      {
+        "texto": "c) Gastos de personal.",
+        "es_correcta": false,
+        "explicacion": "Las retribuciones del personal integran de forma clásica el bloque de operaciones corrientes del Capítulo 1. Referencia: art. 96 Ley 2/2006."
+      },
+      {
+        "texto": "d) Transferencias corrientes.",
+        "es_correcta": false,
+        "explicacion": "Las aportaciones finalistas destinadas a financiar gastos corrientes integran el Capítulo 4 de los estados económicos. Referencia: art. 96 Ley 2/2006."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "pregunta": "De acuerdo con el artículo 7.1 de la Ley 1/2003, de 3 de marzo, de Igualdad de Oportunidades entre Mujeres y Hombres en Castilla y León, el órgano colegiado de coordinación interdepartamental de las políticas y medidas dirigidas a conseguir la igualdad de oportunidades, a propuesta de la consejería competente en la materia en Castilla y León es:",
+    "opciones": [
+      {
+        "texto": "a) Consejo Regional de la Mujer.",
+        "es_correcta": false,
+        "explicacion": "El Consejo Regional de la Mujer opera como un ente de carácter representativo y consultivo para el asociacionismo femenino exógeno. Referencia: art. 7 Ley 1/2003."
+      },
+      {
+        "texto": "b) Consejo de Gobierno.",
+        "es_correcta": false,
+        "explicacion": "La Junta encarna el mando político general superior de la región, delegando las tareas de engaste interdepartamental en entes técnicos. Referencia: art. 7 Ley 1/2003."
+      },
+      {
+        "texto": "c) Comisión de Secretarios Generales.",
+        "es_correcta": false,
+        "explicacion": "La reunión técnica de los Secretarios Generales prepara los asuntos ordinarios del Consejo de Gobierno, sin exclusividad en igualdad. Referencia: art. 7 Ley 1/2003."
+      },
+      {
+        "texto": "d) Comisión Interconsejerías para la Igualdad de Oportunidades entre Mujeres y Hombres.",
+        "es_correcta": true,
+        "explicacion": "La ley instituye formalmente esta Comisión Interconsejerías como el nodo de articulación transversal de políticas de género de la Junta. Referencia: art. 7.1 Ley 1/2003."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "pregunta": "Según el artículo 14.3 de la LPACAP, las administraciones podrán establecer, reglamentariamente:",
+    "opciones": [
+      {
+        "texto": "a) La obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas.",
+        "es_correcta": true,
+        "explicacion": "Las Administraciones podrán imponer reglamentariamente la relación digital a personas físicas si acreditan capacidad técnica y de acceso. Referencia: art. 14.3 Ley 39/2015."
+      },
+      {
+        "texto": "b) La obligación de relacionarse con ellas a través de medios electrónicos para ciertos colectivos de personas jurídicas.",
+        "es_correcta": false,
+        "explicacion": "Las personas jurídicas están obligadas de forma directa y universal por mandato directo de la Ley, sin requerir habilitación de un reglamento. Referencia: art. 14.2.a) Ley 39/2015."
+      },
+      {
+        "texto": "c) La obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos.",
+        "es_correcta": false,
+        "explicacion": "La imposición reglamentaria exige de forma obligatoria e indisoluble ligar el trámite concreto a las condiciones del colectivo concernido. Referencia: art. 14.3 Ley 39/2015."
+      },
+      {
+        "texto": "d) La obligación de relacionarse con ellas a través de medios electrónicos para todos los procedimientos y para todos los colectivos de personas físicas.",
+        "es_correcta": false,
+        "explicacion": "Una exclusión radical y universal del canal presencial para toda persona física conculcaría las garantías elementales de la ley. Referencia: art. 14.3 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "pregunta": "Según el artículo 16 de la LPACAP, en relación con los registros, ¿cuál de las siguientes afirmaciones no es correcta?",
+    "opciones": [
+      {
+        "texto": "a) El Registro Electrónico General de cada administración funcionará como un portal que facilitará el acceso a los registros electrónicos de cada organismo.",
+        "es_correcta": false,
+        "explicacion": "Constituye un postulado verídico que define de forma exacta el rol de ventanilla única de interoperabilidad que asume el sistema. Referencia: art. 16.1 Ley 39/2015."
+      },
+      {
+        "texto": "b) En la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden finalizarse en el mismo.",
+        "es_correcta": true,
+        "explicacion": "Es la opción falsa (a marcar), porque la ley exige publicar los trámites que pueden *iniciarse* en el registro y no los que finalizan en él. Referencia: art. 16.1 Ley 39/2015."
+      },
+      {
+        "texto": "c) Los organismos públicos vinculados o dependientes de cada administración podrán disponer de su propio registro electrónico.",
+        "es_correcta": false,
+        "explicacion": "Es un postulado verídico, ya que las agencias y entes públicos institucionales pueden contar con oficinas registrales digitales propias. Referencia: art. 16.1 Ley 39/2015."
+      },
+      {
+        "texto": "d) Cada administración dispondrá de un Registro Electrónico General.",
+        "es_correcta": false,
+        "explicacion": "Representa una obligación corporativa verídica exigida de forma estricta por el marco común de la legislación pública. Referencia: art. 16.1 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "pregunta": "Según el Estatuto de Autonomía de Castilla y León, la prevención, atención e inserción social de los colectivos afectados por la discapacidad, la dependencia o la exclusión social es una competencia:",
+    "opciones": [
+      {
+        "texto": "a) De desarrollo normativo y de ejecución de la Comunidad de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Dicho encuadre rebasa e infravalora el rango competencial pleno y de autogobierno que el Estatuto reserva a estas políticas. Referencia: art. 70.1 EACYL."
+      },
+      {
+        "texto": "b) Exclusiva del Estado.",
+        "es_correcta": false,
+        "explicacion": "La asistencia social configura una materia descentralizada sobre la cual las autonomías ostentan las máximas prerrogativas ordinarias. Referencia: art. 70.1 EACYL."
+      },
+      {
+        "texto": "c) Exclusiva de la Comunidad de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "La Comunidad ostenta competencia exclusiva en materia de asistencia social, prevención e inserción de colectivos con discapacidad o exclusión. Referencia: art. 70.1.10º EACYL."
+      },
+      {
+        "texto": "d) Que podrá asumir la Comunidad de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "No es una mera facultad o cláusula dispositiva eventual; es una atribución de titularidad plena consagrada en el Estatuto. Referencia: art. 70.1.10º EACYL."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "pregunta": "Según el artículo 11 del Decreto 24/2022, de 16 de junio, por el que se regula el acceso de las personas con discapacidad al empleo público, a la provisión de puestos de trabajo y a la formación en la Administración de Castilla y León, si una vez adjudicado un puesto de trabajo éste no fuese adecuado para su desempeño por la persona con discapacidad a la que se le ha adjudicado, se procederá a realizar las adaptaciones funcionales necesarias y ajustes razonables. ¿A qué órgano le corresponde la tramitación de dichas adaptaciones?",
+    "opciones": [
+      {
+        "texto": "a) A la consejería competente en materia de función pública.",
+        "es_correcta": false,
+        "explicacion": "El departamento central de la Presidencia dicta las pautas globales, pero la gestión material del puesto recae en el centro de destino. Referencia: art. 11 Decreto 24/2022."
+      },
+      {
+        "texto": "b) A la consejería u organismo al que se encuentre adscrito el puesto de trabajo.",
+        "es_correcta": true,
+        "explicacion": "La tramitación ordinaria del expediente de adaptación funcional del puesto compete a la Consejería u organismo autónomo donde radique la plaza. Referencia: art. 11.2 Decreto 24/2022."
+      },
+      {
+        "texto": "c) A la Gerencia de Servicios Sociales.",
+        "es_correcta": false,
+        "explicacion": "La Gerencia de Servicios Sociales asume roles de valoración técnica y de dictamen pericial del grado, desvinculada de la reforma del mobiliario. Referencia: art. 11 Decreto 24/2022."
+      },
+      {
+        "texto": "d) A la Consejería de Familia e Igualdad de Oportunidades.",
+        "es_correcta": false,
+        "explicacion": "Este departamento ejerce las políticas sectoriales globales de bienestar, declinando la gestión de recursos de personal en cada sección activa. Referencia: art. 11 Decreto 24/2022."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "pregunta": "Según el artículo 16 del Decreto 13/2021, de 20 de mayo, por el que se regulan las oficinas de asistencia en materia de registros de la Administración de la Comunidad de Castilla y León, la información administrativa general:",
+    "opciones": [
+      {
+        "texto": "a) Se facilitará obligatoriamente a las personas sin exigir para ello la acreditación de la personalidad o legitimación alguna.",
+        "es_correcta": true,
+        "explicacion": "Al versar sobre aspectos generales de la estructura y trámites, la información general se presta de forma anónima y libre de acreditaciones. Referencia: art. 16.2 Decreto 13/2021."
+      },
+      {
+        "texto": "b) Se facilitará electrónicamente en todo caso.",
+        "es_correcta": false,
+        "explicacion": "Los ciudadanos retienen de forma plena el derecho a ser atendidos e informados por canales presenciales físicos o telefónicos. Referencia: art. 16 Decreto 13/2021."
+      },
+      {
+        "texto": "c) Se podrá facilitar a las personas, previa petición.",
+        "es_correcta": false,
+        "explicacion": "La redacción formal impone una obligación activa de carácter imperativo ('se facilitará') desprovista de potestades discrecionales. Referencia: art. 16.2 Decreto 13/2021."
+      },
+      {
+        "texto": "d) Se facilitará a las personas, previa acreditación de la personalidad.",
+        "es_correcta": false,
+        "explicacion": "Exigir el DNI o acreditar un interés legítimo es una cautela jurídica restringida de forma exclusiva a la información de carácter particular. Referencia: art. 16.2 Decreto 13/2021."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "pregunta": "Según el Decreto 13/2021, de 20 de mayo, por el que se regulan las oficinas de asistencia en materia de registros de la Administración de la Comunidad de Castilla y León, la identificación de las autoridades y personal al servicio de la Administración Autonómica, se corresponde con:",
+    "opciones": [
+      {
+        "texto": "a) La información administrativa electrónica.",
+        "es_correcta": false,
+        "explicacion": "Define exclusivamente el soporte o canal empleado para canalizar el dato, no catalogando conceptualmente la naturaleza de la información. Referencia: Decreto 13/2021."
+      },
+      {
+        "texto": "b) La información administrativa particular.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del proceso selectivo unifica de forma oficial el volcado asignando la naturaleza particular a esta opción. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "c) La información administrativa general.",
+        "es_correcta": false,
+        "explicacion": "La información general versa sobre fines, organigramas y trámites de los departamentos, sin descender a los nombres de los funcionarios. Referencia: art. 16 Decreto 13/2021."
+      },
+      {
+        "texto": "d) La información administrativa pública.",
+        "es_correcta": false,
+        "explicacion": "Representa una categoría genérica del derecho que no responde a la clasificación sistemática de las oficinas de registro. Referencia: Decreto 13/2021."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "pregunta": "Según el artículo 5 del anteriormente citado Decreto 13/2021, las oficinas departamentales:",
+    "opciones": [
+      {
+        "texto": "a) Están localizadas en las dependencias administrativas de las delegaciones territoriales y estarán adscritas orgánicamente a la respectiva delegación.",
+        "es_correcta": false,
+        "explicacion": "Las oficinas situadas en las dependencias provinciales territoriales configuran las denominadas Oficinas Territoriales de Registro. Referencia: art. 5.1.b) Decreto 13/2021."
+      },
+      {
+        "texto": "b) Están localizadas en la sede de las consejerías y estarán adscritas orgánicamente a la correspondiente consejería.",
+        "es_correcta": true,
+        "explicacion": "Las Oficinas Departamentales se ubican físicamente en la sede central de cada Consejería, dependiendo de su organigrama interno. Referencia: art. 5.1.a) Decreto 13/2021."
+      },
+      {
+        "texto": "c) Están localizadas en las dependencias administrativas pertenecientes a las delegaciones territoriales.",
+        "es_correcta": false,
+        "explicacion": "Dicha ubicación territorial es ajena a la estructura de servicios centrales que caracteriza a los departamentos de las Consejerías. Referencia: art. 5.1.b) Decreto 13/2021."
+      },
+      {
+        "texto": "d) Están localizadas en la sede de las delegaciones territoriales y estarán adscritas orgánicamente a la correspondiente consejería.",
+        "es_correcta": false,
+        "explicacion": "Las oficinas de las delegaciones territoriales dependen de la Delegación Territorial de cada provincia en el plano orgánico ordinario. Referencia: art. 5.1.b) Decreto 13/2021."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "pregunta": "Según el artículo 39 de la LRJSP, el punto de acceso electrónico cuya titularidad corresponde a una administración pública, organismo público o entidad de derecho público, se denomina:",
+    "opciones": [
+      {
+        "texto": "a) Página web.",
+        "es_correcta": false,
+        "explicacion": "La página web es un concepto informático laxo y de carácter comercial que carece de la rigurosa protección formal de la ley sectorial. Referencia: art. 38 Ley 40/2015."
+      },
+      {
+        "texto": "b) Sede electrónica.",
+        "es_correcta": false,
+        "explicacion": "La sede electrónica es la dirección digital formalizada que ampara la tramitación administrativa con plenas garantías jurídicas de seguridad. Referencia: art. 38.1 Ley 40/2015."
+      },
+      {
+        "texto": "c) Portal de internet.",
+        "es_correcta": true,
+        "explicacion": "La ley define textualmente al portal de internet como el punto de acceso electrónico cuya titularidad corresponde a una Administración. Referencia: art. 39.1 Ley 40/2015."
+      },
+      {
+        "texto": "d) Punto de Acceso General.",
+        "es_correcta": false,
+        "explicacion": "El Punto de Acceso General es una plataforma institucional concreta que unifica las sedes, no la definición conceptual del elemento. Referencia: art. 39 Ley 40/2015."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "pregunta": "El artículo 22 del Decreto 22/2021, de 30 de septiembre, por el que se aprueba la política de seguridad de la información y protección de datos de la Administración de la Comunidad de Castilla y León, en relación con el uso de los medios digitales expone que:",
+    "opciones": [
+      {
+        "texto": "a) La Administración de la Comunidad no podrá acceder a los contenidos de las comunicaciones que estén cifradas.",
+        "es_correcta": false,
+        "explicacion": "El protocolo de seguridad corporativo faculta bajo supuestos habilitados la auditoría y desencriptado técnico de tráfico sospechoso. Referencia: Decreto 22/2021."
+      },
+      {
+        "texto": "b) Los medios digitales puestos a disposición del personal empleado público se destinarán exclusivamente al cumplimento de sus obligaciones laborales o estatutarias.",
+        "es_correcta": true,
+        "explicacion": "La norma prescribe que las herramientas informáticas públicas tienen una afectación exclusiva ligada a los fines y tareas del puesto. Referencia: art. 22 Decreto 22/2021."
+      },
+      {
+        "texto": "c) Las medidas adoptadas para acceder a la información deben ser idóneas, necesarias y confidenciales.",
+        "es_correcta": false,
+        "explicacion": "Los cánones de intervención exigen la concurrencia de los principios de idoneidad, necesidad y proporcionalidad de la medida. Referencia: art. 22 Decreto 22/2021."
+      },
+      {
+        "texto": "d) La Administración de la Comunidad podrá acceder a los contenidos de los medios digitales de titularidad pública y privada.",
+        "es_correcta": false,
+        "explicacion": "La capacidad inspectora y de control de seguridad se limita estrictamente a los activos informáticos y redes de propiedad pública. Referencia: art. 22 Decreto 22/2021."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "pregunta": "En el artículo 5 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, se encuentran contenidos los principios relativos al tratamiento de datos personales. Indique cual no es uno de estos principios:",
+    "opciones": [
+      {
+        "texto": "a) El principio de licitud, lealtad y transparencia.",
+        "es_correcta": false,
+        "explicacion": "Representa el axioma verídico inicial que condiciona la validez jurídica de cualquier tratamiento automatizado de datos. Referencia: art. 5.1.a) RGPD."
+      },
+      {
+        "texto": "b) El principio de integridad y confidencialidad.",
+        "es_correcta": false,
+        "explicacion": "Constituye un requisito de seguridad verídico destinado a proteger la información contra accesos o tratamientos no autorizados. Referencia: art. 5.1.f) RGPD."
+      },
+      {
+        "texto": "c) El principio de limitación del plazo de conservación.",
+        "es_correcta": false,
+        "explicacion": "Es una directriz verídica que prohíbe archivar datos personales más allá del tiempo necesario para los fines del tratamiento. Referencia: art. 5.1.e) RGPD."
+      },
+      {
+        "texto": "d) El principio de derecho de acceso del interesado.",
+        "es_correcta": true,
+        "explicacion": "El derecho de acceso es una facultad o derecho subjetivo ARCO del ciudadano, no un principio rector del tratamiento. Referencia: art. 15 RGPD."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Qué tipo de documento es un certificado?",
+    "opciones": [
+      {
+        "texto": "a) De decisión.",
+        "es_correcta": false,
+        "explicacion": "Los documentos de decisión albergan actos de voluntad que resuelven o dictaminan el fondo de un expediente (ej. Resoluciones). Referencia: Manuales de Documentación Administrativa."
+      },
+      {
+        "texto": "b) De transmisión.",
+        "es_correcta": false,
+        "explicacion": "Los escritos de transmisión canalizan o comunican datos entre dependencias u órganos (ej. Oficios, Notificaciones). Referencia: Manuales de Documentación Administrativa."
+      },
+      {
+        "texto": "c) De constancia.",
+        "es_correcta": true,
+        "explicacion": "El certificado es el documento administrativo de constancia por antonomasia encargado de acreditar la veracidad de hechos o derechos. Referencia: Manuales de Documentación Administrativa."
+      },
+      {
+        "texto": "d) De juicio.",
+        "es_correcta": false,
+        "explicacion": "Los textos de juicio incorporan valoraciones técnicas o dictámenes periciales especializados (ej. Informes técnicos). Referencia: Manuales de Documentación Administrativa."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "pregunta": "Según el artículo 17.3 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, con respecto a la solicitud de acceso a la información, indique la respuesta correcta:",
+    "opciones": [
+      {
+        "texto": "a) El solicitante deberá exponer siempre los motivos por los que solicita la información.",
+        "es_correcta": false,
+        "explicacion": "El libre acceso a la información pública dispensa al ciudadano de la obligación general de justificar el interés de su solicitud. Referencia: art. 17.3 Ley 19/2013."
+      },
+      {
+        "texto": "b) Los motivos de la solicitud constarán obligatoriamente en la resolución que se dicte.",
+        "es_correcta": false,
+        "explicacion": "Al no requerirse motivación previa, el acto resolutorio no tiene la carga legal de plasmar justificaciones subjetivas del peticionario. Referencia: art. 17.3 Ley 19/2013."
+      },
+      {
+        "texto": "c) La ausencia de motivación no será por si sola causa de rechazo de la solicitud.",
+        "es_correcta": true,
+        "explicacion": "La ley ampara de forma expresa que la falta de expresión de motivos no fundamenta de ninguna forma la inadmisión de la solicitud. Referencia: art. 17.3 Ley 19/2013."
+      },
+      {
+        "texto": "d) El solicitante está obligado a motivar su solicitud de acceso a la información.",
+        "es_correcta": false,
+        "explicacion": "El ejercicio del derecho de acceso a la información de los archivos públicos es libre y ajeno a motivaciones obligadas. Referencia: art. 17.3 Ley 19/2013."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "pregunta": "Señale la respuesta incorrecta, según el artículo 17.2 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. La solicitud podrá presentarse por cualquier medio que permita tener constancia de:",
+    "opciones": [
+      {
+        "texto": "a) El teléfono de contacto y la dirección de correo.",
+        "es_correcta": true,
+        "explicacion": "Es la respuesta incorrecta (a marcar), porque la ley exige una dirección de contacto *a efectos de notificaciones*, sin imponer el teléfono. Referencia: art. 17.2.c) Ley 19/2013."
+      },
+      {
+        "texto": "b) La identidad del solicitante.",
+        "es_correcta": false,
+        "explicacion": "Es una exigencia verídica indispensable para dotar de seriedad procedimental e identificar formalmente al peticionario. Referencia: art. 17.2.a) Ley 19/2013."
+      },
+      {
+        "texto": "c) En su caso, la modalidad que se prefiera para acceder a la información solicitada.",
+        "es_correcta": false,
+        "explicacion": "Constituye una facultad optativa verídica concedida para seleccionar el formato de entrega (ej. copia digital o papel). Referencia: art. 17.2.d) Ley 19/2013."
+      },
+      {
+        "texto": "d) La información que solicita.",
+        "es_correcta": false,
+        "explicacion": "Representa el núcleo sustantivo verídico e imprescindible de la solicitud, requiriendo precisar el objeto del ruego. Referencia: art. 17.2.b) Ley 19/2013."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "pregunta": "En Windows 10, ¿cómo puedes acceder rápidamente a la herramienta de limpieza de disco para liberar espacio en el disco duro?",
+    "opciones": [
+      {
+        "texto": "a) Panel de Control > Administrador de Tareas > Limpieza de Disco.",
+        "es_correcta": false,
+        "explicacion": "El Administrador de Tareas monitoriza procesos y rendimiento en tiempo real, careciendo de asistentes de depuración de archivos. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "b) Escribir en la caja de búsqueda \"Liberador de espacio en disco\" en la barra de búsqueda > Seleccionar la herramienta.",
+        "es_correcta": true,
+        "explicacion": "Teclear la denominación de la aplicación en la caja de búsqueda del menú de inicio abre el acceso indexado directo a la utilidad. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "c) Configuración > Actualización y Seguridad > Recuperación > Limpieza de Disco.",
+        "es_correcta": false,
+        "explicacion": "El panel de Recuperación aloja opciones de restauración de fábrica y arranque avanzado, ajeno al borrado de temporales. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "d) Panel de Control > Sistema y Seguridad > Limpieza de Disco.",
+        "es_correcta": false,
+        "explicacion": "Aunque guarda proximidad, la ruta clásica indexada en las herramientas administrativas se estructura bajo la denominación exacta de Herramientas de Windows. Referencia: Entorno operativo Windows 10."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "pregunta": "Queremos que el explorador de archivos en Windows 10 nos muestre los archivos con la fecha de creación, el tamaño, y nos permita añadir otras columnas con diferentes características a la vista. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Inicio > Añadir columna.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Inicio centraliza comandos de gestión de archivos (copiar, pegar, mover) y no la parametrización visual del contenedor. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "b) Vista > Contenido.",
+        "es_correcta": false,
+        "explicacion": "La disposición de Contenido muestra los elementos en filas horizontales con metadatos reducidos fijados por defecto y sin columnas editables. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "c) Vista > Detalles.",
+        "es_correcta": true,
+        "explicacion": "La vista Detalles organiza los archivos en una tabla ordenada cuyas columnas de atributos (tamaño, tipo, fechas) son plenamente configurables. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "d) Vista > Lista.",
+        "es_correcta": false,
+        "explicacion": "La opción Lista despliega los nombres de los archivos en columnas verticales compactas, desprovistas de campos informativos complementarios. Referencia: Entorno operativo Windows 10."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "pregunta": "Queremos bloquear un equipo con Windows 10. Indique cuál de las siguientes combinaciones de teclas lo realiza.",
+    "opciones": [
+      {
+        "texto": "a) Tecla del logotipo de Windows + L",
+        "es_correcta": true,
+        "explicacion": "La combinación rápida abreviada Windows + L activa de forma inmediata el bloqueo seguro de la sesión del usuario del equipo. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "b) Tecla del logotipo de Windows + W",
+        "es_correcta": false,
+        "explicacion": "Esta pulsación abre el área de trabajo de Windows Ink o el panel flotante de widgets del sistema operativo. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "c) Alt + F4",
+        "es_correcta": false,
+        "explicacion": "El comando Alt + F4 fuerza el cierre ordenado de la ventana activa o despliega el menú de apagado del equipo. Referencia: Entorno operativo Windows 10."
+      },
+      {
+        "texto": "d) Ctrl + T",
+        "es_correcta": false,
+        "explicacion": "Esta combinación abre una pestaña en navegadores web y exploradores de archivos actualizados, sin vinculación con el bloqueo del sistema. Referencia: Entorno operativo Windows 10."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "pregunta": "Si en Outlook 2013 queremos que cuando nos llegue un correo de un determinado remitente vaya automáticamente a una carpeta ¿desde dónde lo configuramos?",
+    "opciones": [
+      {
+        "texto": "a) Enviar y recibir > Cambiar carpeta de correo.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Enviar y Recibir comanda la sincronización con los servidores postales, ajena al enrutamiento automatizado de mensajes. Referencia: Microsoft Outlook 2013."
+      },
+      {
+        "texto": "b) Enviar y recibir > Crear regla.",
+        "es_correcta": false,
+        "explicacion": "No se aloja en ese bloque de sincronización de datos la herramienta de reglas automatizadas del gestor de correo. Referencia: Microsoft Outlook 2013."
+      },
+      {
+        "texto": "c) Carpeta > Configurar autoarchivar.",
+        "es_correcta": false,
+        "explicacion": "El autoarchivado gestiona la depuración por antigüedad y el almacenamiento histórico local, sin enrutar correo entrante en tiempo real. Referencia: Microsoft Outlook 2013."
+      },
+      {
+        "texto": "d) Inicio > Reglas.",
+        "es_correcta": true,
+        "explicacion": "La automatización del desvío de mensajes según el remitente se parametriza desde el menú Reglas de la pestaña Inicio. Referencia: Microsoft Outlook 2013."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué pasos debes seguir para programar el envío de un correo electrónico en Outlook 2013?",
+    "opciones": [
+      {
+        "texto": "a) Esta función no está disponible en Outlook 2013. Microsoft la incorporó por primera vez en las versiones de Office 365.",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que las versiones de escritorio de Outlook gestionan desde hace décadas la postergación diferida de mensajes. Referencia: Microsoft Outlook 2013."
+      },
+      {
+        "texto": "b) Opciones > Retrasar entrega > No entregar antes de",
+        "es_correcta": true,
+        "explicacion": "La programación horaria del tráfico de salida se parametriza activando la casilla 'No entregar antes de' en la cinta Opciones. Referencia: Microsoft Outlook 2013."
+      },
+      {
+        "texto": "c) Mensaje > Posponer entrega > Enviar a las",
+        "es_correcta": false,
+        "explicacion": "Dicha secuencia confunde la nomenclatura de las herramientas del menú contextual con los comandos reales del software. Referencia: Microsoft Outlook 2013."
+      },
+      {
+        "texto": "d) Enviar y Recibir > Opciones avanzadas > Retrasar envío",
+        "es_correcta": false,
+        "explicacion": "Las opciones avanzadas configuran conexiones globales y puertos de red, desvinculadas de la programación de un mensaje concreto. Referencia: Microsoft Outlook 2013."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "pregunta": "Según lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, corresponde la función de la vigilancia y control de la normativa sobre prevención de riesgos laborales a:",
+    "opciones": [
+      {
+        "texto": "a) La Consejería de Economía y Hacienda.",
+        "es_correcta": false,
+        "explicacion": "Este departamento gestiona presupuestos e impuestos de carácter general, ajeno a la labor policial e inspectora de las condiciones de trabajo. Referencia: art. 9 Ley 31/1995."
+      },
+      {
+        "texto": "b) La Inspección de Trabajo y Seguridad Social.",
+        "es_correcta": true,
+        "explicacion": "La función pública de vigilancia, control y sanción del marco preventivo laboral está encomendada a la Inspección de Trabajo. Referencia: art. 9.1 Ley 31/1995."
+      },
+      {
+        "texto": "c) El Secretario General de cada consejería.",
+        "es_correcta": false,
+        "explicacion": "El Secretario General ejerce la jefatura interna de personal de su ramo, subordinado a la labor fiscalizadora externa del cuerpo inspector. Referencia: art. 9 Ley 31/1995."
+      },
+      {
+        "texto": "d) El Director General de Trabajo.",
+        "es_correcta": false,
+        "explicacion": "La Dirección General encarna la autoridad administrativa decisoria en expedientes, delegando la fiscalización de campo en la Inspección. Referencia: art. 9 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "pregunta": "Según el artículo 70 del Estatuto de Autonomía de Castilla y León, la Comunidad de Castilla y León tiene competencias exclusivas sobre:",
+    "opciones": [
+      {
+        "texto": "a) Promoción de la igualdad de trato y de oportunidades entre hombres y mujeres, con particular atención a las mujeres víctimas de la violencia de género.",
+        "es_correcta": true,
+        "explicacion": "La Comunidad asume competencias de titularidad exclusiva en el diseño e implantación de políticas de igualdad y violencia de género. Referencia: art. 70.1.11º EACYL."
+      },
+      {
+        "texto": "b) Protección de datos de carácter personal que estén bajo responsabilidad de las instituciones de la Comunidad, de los entes locales y de cualquier entidad pública o privada dependiente de aquéllas.",
+        "es_correcta": false,
+        "explicacion": "La legislación en materia de protección de datos se encuadra como una competencia compartida sujeta a las leyes orgánicas estatales. Referencia: art. 71 EACYL."
+      },
+      {
+        "texto": "c) Instalaciones de almacenamiento, producción, de distribución y de transporte de cualesquiera energías, cuando se circunscriban al territorio de la Comunidad, aunque su aprovechamiento afecte a otra Comunidad Autónoma.",
+        "es_correcta": false,
+        "explicacion": "Si el aprovechamiento energético genera efectos o afecta a territorios extraautonómicos, la competencia se desplaza al plano estatal. Referencia: art. 70 EACYL."
+      },
+      {
+        "texto": "d) Sanidad agraria y animal.",
+        "es_correcta": false,
+        "explicacion": "La ordenación de las bases generales de la sanidad e higiene agraria configura una materia de coordinación básica del Estado. Referencia: art. 149.1.16ª CE."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "pregunta": "Según dispone el artículo 106 de la LPACAP en relación con la revisión de oficio:",
+    "opciones": [
+      {
+        "texto": "a) Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de tres meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo.",
+        "es_correcta": false,
+        "explicacion": "El plazo máximo de resolución para evitar la caducidad o el silencio en la revisión de oficio es de seis meses y no de tres. Referencia: art. 106.5 Ley 39/2015."
+      },
+      {
+        "texto": "b) Cuando el procedimiento se hubiera iniciado a instancia del interesado, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo a todos los efectos.",
+        "es_correcta": false,
+        "explicacion": "La falta de respuesta en procedimientos instados a solicitud de parte opera como silencio desestimatorio y nunca como caducidad. Referencia: art. 106.5 Ley 39/2015."
+      },
+      {
+        "texto": "c) Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de un mes desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo.",
+        "es_correcta": false,
+        "explicacion": "Un intervalo limitado a un solo mes resulta materialmente inviable según los plazos ordinarios mínimos de tramitación legal. Referencia: art. 106.5 Ley 39/2015."
+      },
+      {
+        "texto": "d) Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo.",
+        "es_correcta": true,
+        "explicacion": "El transcurso de seis meses sin resolución determina la caducidad si el expediente es de oficio o el silencio negativo si es a instancia de parte. Referencia: art. 106.5 Ley 39/2015."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "pregunta": "La LFPCYL, establece en el artículo 56 bis, que con carácter excepcional se podrá atribuir a los funcionarios el desempeño de funciones, tareas o responsabilidades distintas a las que correspondan al puesto de trabajo que desempeñen, siempre que resulten adecuadas a su clasificación, grado o categoría. Tendrá una duración de:",
+    "opciones": [
+      {
+        "texto": "a) Dos años pudiendo ser prorrogado por otro.",
+        "es_correcta": false,
+        "explicacion": "La linde temporal básica fijada por el legislador autonómico para el acuerdo de inicio es de un año y no de dos años enteros. Referencia: art. 56 bis Ley 7/2005."
+      },
+      {
+        "texto": "b) Un año pudiendo ser prorrogado por otro. En todo caso, la atribución de funciones decaerá al cumplirse los dos años desde el acuerdo inicial, salvo en el caso que el funcionario manifieste su voluntad de continuar con la atribución encomendada y se mantenga la situación que dio origen a la atribución.",
+        "es_correcta": true,
+        "explicacion": "La asignación extraordinaria dura un año prorrogable por otro, decayendo a los dos años salvo aceptación del trabajador y persistencia de la causa. Referencia: art. 56 bis Ley 7/2005."
+      },
+      {
+        "texto": "c) Dos años decayendo una vez terminados salvo que el funcionario manifieste su voluntad de continuar con la atribución.",
+        "es_correcta": false,
+        "explicacion": "La estructura de prórrogas exige evaluar de forma anual las necesidades del servicio antes de consolidar la duración provisional. Referencia: art. 56 bis Ley 7/2005."
+      },
+      {
+        "texto": "d) Un año, decayendo una vez terminado salvo que el funcionario manifieste su voluntad de continuar con la atribución encomendada y se mantenga la situación que dio origen a la atribución.",
+        "es_correcta": false,
+        "explicacion": "Omite el derecho a la prórroga anual intermedia contemplado de forma expresa por la ley de la función pública para dar estabilidad. Referencia: art. 56 bis Ley 7/2005."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "pregunta": "Indique cuál de los siguientes no está reconocido como un objetivo de desarrollo sostenible:",
+    "opciones": [
+      {
+        "texto": "a) Erradicar la pobreza en todas sus formas en todo el mundo.",
+        "es_correcta": false,
+        "explicacion": "Constituye el ODS Número 1 de la Agenda internacional, lo que lo descarta como la opción ajena buscada. Referencia: Agenda 2030 ONU."
+      },
+      {
+        "texto": "b) Poner fin al hambre, conseguir la seguridad alimentaria y una mejor nutrición, y promover la agricultura sostenible.",
+        "es_correcta": false,
+        "explicacion": "Representa de forma verídica el ODS Número 2 (Hambre Cero) del documento estratégico internacional de Naciones Unidas. Referencia: Agenda 2030 ONU."
+      },
+      {
+        "texto": "c) Garantizar una educación de calidad inclusiva y equitativa, y promover las oportunidades de aprendizaje permanente para todos.",
+        "es_correcta": false,
+        "explicacion": "Se corresponde con el ODS Número 4 enfocado en el blindaje de la calidad y el acceso a la formación. Referencia: Agenda 2030 ONU."
+      },
+      {
+        "texto": "d) Lograr la igualdad de género y empoderar a todos los hombres y mujeres.",
+        "es_correcta": true,
+        "explicacion": "Es el enunciado incorrecto (a marcar), porque el ODS 5 reza textualmente 'empoderar a todas las *mujeres y niñas*', no a los hombres. Referencia: ODS 5 Agenda 2030."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "pregunta": "Señale la respuesta incorrecta según el artículo 89 del Estatuto de Autonomía de Castilla y León.",
+    "opciones": [
+      {
+        "texto": "a) Los Presupuestos Generales de la Comunidad constituirán la expresión cifrada conjunta y sistemática de las obligaciones que como máximo pueden reconocer y de los derechos que prevean liquidar durante el correspondiente ejercicio.",
+        "es_correcta": false,
+        "explicacion": "Constituye una definición académica y legal plenamente verídica recogida en el apartado primero del precepto estatutario. Referencia: art. 89.1 EACYL."
+      },
+      {
+        "texto": "b) Las obligaciones económicas que, como máximo, pueden reconocer la Administración General de la Comunidad, los organismos autónomos, los entes públicos de derecho privado y aquellas otras entidades u órganos con presupuesto limitativo y los derechos que se prevea reconocer durante el correspondiente ejercicio.",
+        "es_correcta": true,
+        "explicacion": "Es el redactado incorrecto (a marcar) al alterar el concepto presupuestario de derechos que se prevén *liquidar* por el término reconocer. Referencia: art. 89.1 EACYL."
+      },
+      {
+        "texto": "c) Los Presupuestos de la Comunidad se presentarán equilibrados, se orientarán al cumplimiento de los objetivos de política económica, cumplirán los objetivos de estabilidad presupuestaria establecidos para el ejercicio por los principios y la normativa estatal, y su elaboración y gestión se efectuará con criterios homogéneos a los del Estado, de forma que sea posible su consolidación.",
+        "es_correcta": false,
+        "explicacion": "Es un postulado verídico que consagra constitucionalmente las obligaciones de estabilidad e integración de las cuentas de la región. Referencia: art. 89.2 EACYL."
+      },
+      {
+        "texto": "d) Corresponderá a la Junta de Castilla y León la elaboración de los Presupuestos de Castilla y León y a las Cortes de Castilla y León su examen, enmienda, aprobación y control. La Junta presentará el proyecto de Presupuestos a las Cortes de Castilla y León antes del 15 de octubre de cada año. Si no fuera aprobado antes del primer día del ejercicio económico correspondiente, quedarán automáticamente prorrogados los del año anterior hasta la aprobación del nuevo.",
+        "es_correcta": false,
+        "explicacion": "Describe de manera verídica y exacta las atribuciones del ejecutivo y el parlamento en el iter de la ley presupuestaria autonómica. Referencia: art. 89.3 EACYL."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "pregunta": "Según el artículo 12 del Decreto 13/2021, de 20 de mayo, por el que se regulan las oficinas de asistencia en materia de registros de la Administración de la Comunidad de Castilla y León ¿cuál no es una función de las oficinas de asistencia en materia de registros?",
+    "opciones": [
+      {
+        "texto": "a) Exposición pública en el tablón de anuncios de cuantos actos y resoluciones sean remitidos por los órganos de gestión.",
+        "es_correcta": false,
+        "explicacion": "La publicación formal en carteleras y tablones de anuncios corporativos configura una tarea material ordinaria de las oficinas. Referencia: art. 12 Decreto 13/2021."
+      },
+      {
+        "texto": "b) Recepción y registro de documentos a las personas no obligadas a relacionarse electrónicamente con la administración.",
+        "es_correcta": false,
+        "explicacion": "Representa la labor registral verídica por excelencia concebida para amparar el canal físico de los ciudadanos tradicionales. Referencia: art. 12 Decreto 13/2021."
+      },
+      {
+        "texto": "c) Expedición de recibo que acredite la fecha y hora de presentación de documentos a registro.",
+        "es_correcta": false,
+        "explicacion": "Garantiza de forma verídica el derecho del interesado a retener un justificante formal de la transacción de entrada. Referencia: art. 12 Decreto 13/2021."
+      },
+      {
+        "texto": "d) Información a la persona interesada sobre el estado del expediente administrativo.",
+        "es_correcta": true,
+        "explicacion": "Es la función no aplicable (a marcar), porque informar sobre el fondo de un expediente en curso compete al órgano instructor y no al registro. Referencia: art. 12 Decreto 13/2021."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Cuál es el procedimiento correcto en Word 2013 para insertar la letra que está al comienzo del párrafo, que señala el marcador Nº 1 del supuesto Word?",
+    "opciones": [
+      {
+        "texto": "a) Insertar > Elementos rápidos > Letra capital.",
+        "es_correcta": false,
+        "explicacion": "Los elementos rápidos gestionan propiedades del documento y autotextos, desvinculados del formateo tipográfico capital. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Insertar > Objeto > Microsoft Graph.",
+        "es_correcta": false,
+        "explicacion": "Microsoft Graph es una herramienta obsoleta destinada a confeccionar gráficos de datos a partir de tablas integradas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Insertar > Fuentes > Letra capital.",
+        "es_correcta": false,
+        "explicacion": "El grupo Fuentes edita colores y tamaños de letra ordinarios, no alojando el comando específico del diseño de capitulares. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Insertar > Texto > Letra capital.",
+        "es_correcta": true,
+        "explicacion": "El comando para aplicar este formato estético de letra agrandada de inicio de párrafo se aloja en el grupo Texto de la barra Insertar. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "pregunta": "Dentro del supuesto Word, para dar formato a todo el texto que comienza en \"El Plan Estratégico\" y finaliza en \"diferenciadas por género\". ¿Cuál de las opciones siguientes es la correcta?",
+    "opciones": [
+      {
+        "texto": "a) Diseño > Formato texto > Columnas.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Diseño coordina temas estilísticos generales y colores de fondo, delegando la maquetación geométrica de las páginas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Diseño > Formato texto > Cuadro texto.",
+        "es_correcta": false,
+        "explicacion": "Los cuadros de texto configuran objetos flotantes independientes que rompen el flujo normal y continuo de la prosa del manuscrito. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Diseño de página > Configurar página > Columnas.",
+        "es_correcta": true,
+        "explicacion": "La división formal de un bloque de texto en columnas periodísticas se articula desde el grupo Configurar Página de Diseño de Página. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Diseño de página > Configurar página > Cuadro texto.",
+        "es_correcta": false,
+        "explicacion": "El menú de Configurar Página gobierna márgenes, orientaciones y columnas, careciendo de asistentes para insertar contenedores de formas. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Qué opción se utiliza en Word 2013 para realizar el elemento marcado con el Nº 3 en el supuesto Word?",
+    "opciones": [
+      {
+        "texto": "a) Diseño > Fuentes > Superíndice.",
+        "es_correcta": false,
+        "explicacion": "El superíndice es un mero formato estético de fuente alojado en la pestaña Inicio, incapaz de anclar una nota vinculada al cierre de la página. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Inicio > Formato texto > Insertar cita.",
+        "es_correcta": false,
+        "explicacion": "La inyección formal de citas y referencias académicas no reside en los comandos de edición del menú básico de Inicio. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Referencias > Notas al pie > Insertar nota al pie.",
+        "es_correcta": true,
+        "explicacion": "Para habilitar una llamada numérica superíndice indexada a una anotación en la linde inferior se usa Insertar Nota al Pie. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Revisar > Comentarios > Mostrar marcas.",
+        "es_correcta": false,
+        "explicacion": "Mostrar marcas es un comando de control de cambios destinado a visualizar ediciones en el margen derecho, ajeno a las notas estables. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "pregunta": "Para crear el elemento marcado con el Nº 4 en el supuesto Word, ¿qué opción se utiliza en Word 2013?",
+    "opciones": [
+      {
+        "texto": "a) Insertar > Formas > Diagrama de flujo.",
+        "es_correcta": false,
+        "explicacion": "Las formas exigen dibujar y enlazar rectángulos o flechas uno a uno de forma estática, careciendo de la cohesión dinámica del anexo. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Insertar > WordArt > Ciclo.",
+        "es_correcta": false,
+        "explicacion": "WordArt se limita de forma exclusiva a estilizar textos mediante efectos volumétricos cromáticos o siluetas decorativas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Insertar > SmartArt > Ciclo.",
+        "es_correcta": true,
+        "explicacion": "La infografía circular dinámica que ilustra el supuesto se confecciona mediante un objeto SmartArt seleccionando la categoría Ciclo. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Insertar > Gráfico > Ciclo.",
+        "es_correcta": false,
+        "explicacion": "La herramienta Gráfico se destina a representar magnitudes estadísticas numéricas alimentadas por tablas (ej. sectores o barras). Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "pregunta": "Para realizar la suma de valores en la celda marcada con el º 5 de la columna \"CyL\" en la tabla situada al final de la página del supuesto Word, ¿qué opción se utiliza en Word 2013?",
+    "opciones": [
+      {
+        "texto": "a) Herramientas de tabla > Diseño > Filas de totales.",
+        "es_correcta": false,
+        "explicacion": "La opción Fila de Totales en la pestaña de Diseño aplica un formato estético de doble línea a la celda inferior, sin calcular operaciones. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Herramientas de tabla > Presentación > Fórmula.",
+        "es_correcta": true,
+        "explicacion": "Para inyectar sumatorias u operaciones lógicas dentro de una celda de tabla en Word se utiliza el comando Fórmula de Presentación. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) No se pueden insertar fórmulas en Word 2013.",
+        "es_correcta": false,
+        "explicacion": "Es falso, ya que el procesador de textos incluye desde versiones antiguas un motor de fórmulas básicas de campo como '=SUM(ABOVE)'. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Insertamos la función =SUMAR (B2:B10) desde Excel.",
+        "es_correcta": false,
+        "explicacion": "La sintaxis propuesta mezcla erronéamente comandos y rompe las rutas de edición directa sobre la tabla nativa del supuesto de Word. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "pregunta": "Al abrir el documento del supuesto Word nos aparece este mensaje: ¿Qué significa?",
+    "opciones": [
+      {
+        "texto": "a) Indica la presencia de un software malicioso en el archivo, por lo que no se debe abrir.",
+        "es_correcta": false,
+        "explicacion": "El aviso corresponde a un mensaje de control ordinario del sistema y no a una alerta epidemiológica de virus informático de Windows Defender. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) El archivo está abierto por otro usuario, confirmando aceptaremos los cambios.",
+        "es_correcta": false,
+        "explicacion": "Los bloqueos por concurrencia multiusuario se anuncian con ventanas informativas de modo de lectura o de archivos de propietario. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Este documento obtiene datos de un archivo externo, en los campos insertados.",
+        "es_correcta": true,
+        "explicacion": "El aviso de comando SQL confirma que el texto está enlazado a un origen de datos externo (ej. base de datos de correspondencia). Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) No debemos continuar y contactar con el administrador del sistema.",
+        "es_correcta": false,
+        "explicacion": "El mensaje solicita una confirmación afirmativa del usuario para reactivar el enlace de datos legítimo previamente configurado. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "pregunta": "Indicar cómo se puede crear el elemento que aparece marcado con el Nº 2 en el supuesto Word.",
+    "opciones": [
+      {
+        "texto": "a) Insertar tabla de 2 filas por 7 columnas. Combinar celdas de la primera fila, incluir texto, y en dirección de texto, modificar la orientación y aplicar formato de letra cursiva. Seleccionar celdas de la fila 2, párrafo numeración crear lista numerada.",
+        "es_correcta": false,
+        "explicacion": "Dicha secuencia estructuraría la tabla de forma horizontal, invirtiendo la disposición vertical por columnas observable en el anexo. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Crear cuadro de texto. Dividir cuadro de texto en 7. Insertar párrafo numeración, crear lista numerada. Crear nuevo cuadro de texto. Cambiar orientación cuadro de texto. Cambiar fuente texto cursiva. Pegar cuadros de texto.",
+        "es_correcta": false,
+        "explicacion": "El uso de cuadros de texto múltiples dificulta el alineamiento geométrico exacto de las celdas y los flujos estables de información. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Insertar tabla de 7 filas por 2 columnas. Combinar celdas de la primera columna, incluir texto, y en dirección de texto, modificar la orientación. Seleccionar celdas de la columna 2, párrafo numeración, crear lista numerada.",
+        "es_correcta": true,
+        "explicacion": "Modela de forma exacta la cuadrícula de 7 filas y 2 columnas con la primera celda fusionada y el texto volteado verticalmente 90 grados. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Crear cuadro de texto. Combinar cuadro de texto. Insertar viñetas numeración. Crear nuevo cuadro de texto. Cambiar orientación cuadro de texto. Cambiar fuente texto cursiva. Pegar ambos cuadros de texto.",
+        "es_correcta": false,
+        "explicacion": "La terminología 'combinar cuadros de texto' carece de sentido operativo o de comandos funcionales homólogos en la aplicación. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Cómo se ha añadido el texto \"COPIA FALSA\" en el supuesto Word?",
+    "opciones": [
+      {
+        "texto": "a) Diseño > Fondo de página > Imagen de fondo, y eligiendo una imagen con el texto \"COPIA FALSA\".",
+        "es_correcta": false,
+        "explicacion": "La ruta confunde las herramientas de marca de agua tipográficas estables con la inyección genérica de lienzos de imágenes en el tapiz. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Insertando un cuadro de texto con ese texto y formateándolo.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora unificada valida la inyección del texto 'COPIA FALSA' mediante el recurso de un cuadro de texto formateado en segundo plano. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "c) Únicamente se puede añadir como una imagen creada con un programa externo.",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que el propio procesador de textos implementa de forma nativa asistentes de marcas de agua y de edición de formas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Insertando un texto con esa fuente y color, seleccionándolo y eligiendo la opción \"Enviar detrás\".",
+        "es_correcta": false,
+        "explicacion": "El texto ordinario de párrafo no puede desplazarse libremente entre planos tridimensionales de profundidad a menos que flote en un objeto. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "pregunta": "Durante la redacción del supuesto Word tenemos que rehacer una edición en el texto. ¿Qué combinación de teclas, de entre las siguientes, es el atajo de teclado de \"Rehacer\"?",
+    "opciones": [
+      {
+        "texto": "a) Control + Y",
+        "es_correcta": true,
+        "explicacion": "La combinación rápida abreviada Ctrl + Y restaura de forma directa la última acción revertida por el comando deshacer. Referencia: Atajos de teclado de Microsoft Word."
+      },
+      {
+        "texto": "b) Control + R",
+        "es_correcta": false,
+        "explicacion": "El comando Ctrl + R ejecuta la recarga o refresco de datos en entornos web o se asocia a la alineación derecha en ciertas versiones. Referencia: Atajos de teclado de Microsoft Word."
+      },
+      {
+        "texto": "c) Control + S",
+        "es_correcta": false,
+        "explicacion": "La combinación Ctrl + S aplica un subrayado continuo al texto seleccionado en la suite ofimática en español. Referencia: Atajos de teclado de Microsoft Word."
+      },
+      {
+        "texto": "d) Mayúsculas + R",
+        "es_correcta": false,
+        "explicacion": "Esta pulsación combinada simplemente imprime de forma directa el carácter de la letra 'R' en caja alta o mayúscula. Referencia: Atajos de teclado de Microsoft Word."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué de podemos habilitar o deshabilitar las macros en Word 2013 en este supuesto Word?",
+    "opciones": [
+      {
+        "texto": "a) No se pueden deshabilitar ya que no funcionaría Word correctamente.",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que desactivar la ejecución de automatizaciones de código macro es la pauta básica recomendada de ciberseguridad. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Desde la configuración del centro de confianza.",
+        "es_correcta": true,
+        "explicacion": "La administración avanzada de los permisos de ejecución de macros se localiza en el Centro de Confianza dentro de Opciones. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Desde la configuración de seguridad.",
+        "es_correcta": false,
+        "explicacion": "Dicha nomenclatura no se corresponde de forma literal con los menús internos de la aplicación. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Desde la opción de Cuenta.",
+        "es_correcta": false,
+        "explicacion": "El panel de Cuenta administra las credenciales del usuario, las licencias del software y los temas visuales del entorno ofimático. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "pregunta": "Se desea ordenar los datos de las tablas del supuesto Word por filas. Señale la respuesta correcta para realizarlo en Word 2013.",
+    "opciones": [
+      {
+        "texto": "a) Hacer clic con el botón derecho en la tabla, seleccionar \"Ordenar\", elegir \"Ordenar por filas\" en el cuadro de diálogo y especificar el criterio de ordenación.",
+        "es_correcta": false,
+        "explicacion": "El menú contextual del botón derecho no indexa el comando avanzado de reordenación matricial de tablas de forma directa. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Seleccionar la tabla, ir a \"Herramientas de tabla\" > \"Presentación\", elegir \"Ordenar\" y \"Ordenar por columnas\" y luego especificar la columna y el criterio de ordenación.",
+        "es_correcta": false,
+        "explicacion": "Dicha ruta describe la ordenación vertical estándar por columnas, solución contraria al requerimiento por filas solicitado. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) No es posible ordenar una tabla por filas en Word; esta funcionalidad está limitada a la ordenación por columnas.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del ejercicio ratifica como correcta la opción c debido a las limitaciones del motor de tablas nativo de Word. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "d) Seleccionar la tabla, ir a \"Herramientas de tabla\" > \"Presentación\", elegir \"Ordenar\" y \"Ordenar por filas\" y luego especificar la fila y el criterio de ordenación.",
+        "es_correcta": false,
+        "explicacion": "El cuadro de diálogo del procesador carece de un conmutador nativo para alterar el sentido de ordenación horizontal por filas. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "pregunta": "Varias personas trabajan en el supuesto de Word 2013 y dejan sugerencias, comentarios o notas para otros colaboradores, ¿Qué procedimiento han de seguir?",
+    "opciones": [
+      {
+        "texto": "a) Word 2013 no permite agregar comentarios en documentos; esta función solo está disponible en versiones más recientes.",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que las anotaciones y comentarios colaborativos en el margen constituyen una herramienta troncal desde versiones antiguas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) En la pestaña \"Inicio\", seleccionar \"Comentario\" y escribir el comentario en el margen del documento.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Inicio no aloja las utilidades de revisión de textos ni de inserción de acotaciones marginales. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Utilizar la pestaña \"Vista\" para activar el modo \"Revisión\" y dejar comentarios en la barra lateral.",
+        "es_correcta": false,
+        "explicacion": "La barra de Vista comanda zooms, diseños de impresión y ventanas, declinando el aparato de revisión en otra cinta dedicada. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Ir a la pestaña \"Revisar\" y seleccionar \"Nuevo comentario\" después de resaltar el texto sobre el cual se quiere comentar.",
+        "es_correcta": true,
+        "explicacion": "La inserción ordenada de acotaciones marginales de edición se ejecuta pulsando 'Nuevo comentario' dentro de la pestaña Revisar. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "pregunta": "En el supuesto Word se requiere visualizar y editar simultáneamente dos secciones diferentes del mismo, ¿cuál es el método adecuado para realizarlo dentro de la misma ventana en Word 2013?",
+    "opciones": [
+      {
+        "texto": "a) Utilizar la opción \"Ver en paralelo\" en la pestaña \"Vista\" para comparar dos documentos diferentes.",
+        "es_correcta": false,
+        "explicacion": "La comparación en paralelo exige abrir obligatoriamente dos archivos independientes e individuales en ventanas secundarias. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Abrir una nueva instancia del documento usando \"Nueva Ventana\" en la pestaña \"Vista\" y ajustar las ventanas manualmente.",
+        "es_correcta": false,
+        "explicacion": "Esta acción duplica la interfaz abriendo una segunda ventana completa de la aplicación, rompiendo la condición de usar una sola ventana. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Seleccionar \"Dividir\" en la pestaña \"Vista\", lo que permite trabajar en dos secciones del mismo documento en una sola ventana.",
+        "es_correcta": true,
+        "explicacion": "El comando Dividir fractura horizontalmente el tapiz de la ventana única en dos paneles con barras de desplazamiento autónomas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Seleccionar \"Revisar panel\" en la pestaña \"Revisar\", lo que permite trabajar en dos paneles del mismo documento en una sola ventana.",
+        "es_correcta": false,
+        "explicacion": "El panel de revisión lista de forma lineal las modificaciones y comentarios textuales, incapaz de ofrecer un lienzo completo de edición duplicado. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "pregunta": "En la elaboración del supuesto Word, utilizamos frecuentemente \"Castilla y León\". Señale la respuesta correcta para crear un bloque de \"Autotexto\" con este texto.",
+    "opciones": [
+      {
+        "texto": "a) Copiar el texto a un nuevo documento, guardarlo como una plantilla (.dot) y usarlo como base para nuevos informes.",
+        "es_correcta": false,
+        "explicacion": "Esta acción genera un archivo maestro estructural estático, alejándose de las propiedades dinámicas de los bloques de autotexto. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Utilizar \"Archivo\" > \"Opciones\" > \"Complementos\" > \"Autotexto\" para crear un nuevo complemento que incluya el texto.",
+        "es_correcta": false,
+        "explicacion": "Los complementos cargan librerías y extensiones externas (.dll o .dotm), desvinculados del diccionario de bloques del usuario. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Ir a \"Revisar\" > \"Comparar\" y utilizar la opción \"Autotexto\" para insertar el texto en nuevos documentos.",
+        "es_correcta": false,
+        "explicacion": "El comando Comparar contrasta analíticamente dos versiones de archivos para resaltar diferencias, careciendo de estas funciones de autocompletado. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Seleccionar el texto, ir a \"Insertar\" > \"Elementos rápidos\" > \"Autotexto\" y elegir \"Guardar selección en galería de autotexto\".",
+        "es_correcta": true,
+        "explicacion": "La indexación permanente de un término recurrente exige almacenarlo en los Elementos Rápidos bajo el comando Autotexto. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "pregunta": "Al realizar la combinación de correspondencia en el supuesto Word, ¿cómo podemos asegurarnos de que los campos combinados como Campo_de_dirección_1 se rellenen correctamente con la información de nuestra base de datos?",
+    "opciones": [
+      {
+        "texto": "a) Correspondencia > Comprobar errores.",
+        "es_correcta": false,
+        "explicacion": "La comprobación de errores simula el volcado definitivo para capturar fallos de formato o conexión, sin ofrecer una previsualización interactiva. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Correspondencia > Vista previa de resultados.",
+        "es_correcta": true,
+        "explicacion": "Pulsar 'Vista previa de resultados' sustituye de forma dinámica los campos técnicos por los valores reales de la primera fila de datos. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Correspondencia > Previsualizar y combinar.",
+        "es_correcta": false,
+        "explicacion": "Dicha terminología agrupa de forma inexacta dos fases operativas diferenciadas de la barra de combinación de correspondencia. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Revisar > Comprobar errores.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Revisar aloja el corrector ortográfico e idiomático, ajena por completo a las herramientas de combinación postal. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "pregunta": "En la celda B3 del supuesto Excel 2013 teníamos este texto: \"1-nov.-2023 23-nov.-2023 U E España 18.103 4.330 9.704 4.069 8.640 9.463 72.412 2.534.420 22\". Para incorporarlo en diferentes celdas y columnas, tal y como se observa en el supuesto, debemos seguir una de las siguientes rutas. Señale la correcta:",
+    "opciones": [
+      {
+        "texto": "a) Menú Revisar Actualizar todo → Datos.",
+        "es_correcta": false,
+        "explicacion": "La actualización general recompila conexiones externas y tablas dinámicas, incapaz de fracturar cadenas de texto complejas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Menú Datos → Texto en columnas → Delimitados.",
+        "es_correcta": true,
+        "explicacion": "La herramienta Texto en Columnas con la opción Delimitados trocea un texto largo distribuyendo las palabras separadas por espacios en celdas anexas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Menú Insertar → Texto → Datos.",
+        "es_correcta": false,
+        "explicacion": "El bloque de inserción de textos inyecta objetos flotantes de diseño como WordArt, ajeno a las transformaciones lógicas de registros de datos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) No es posible realizar esta tarea desde Excel 2013.",
+        "es_correcta": false,
+        "explicacion": "Es falso, pues el asistente de conversión de texto plano en matrices de celdas es una función básica de gestión de datos del software. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Cómo crear la lista desplegable en Excel 2013 tal y como se observa en las celdas de la columna \"Zona\" en el supuesto?",
+    "opciones": [
+      {
+        "texto": "a) Revisar → Relleno rápido → Mensaje de entrada \"Lista\" → Origen: Seleccionar celdas con los datos de la lista.",
+        "es_correcta": false,
+        "explicacion": "El relleno rápido predice patrones de escritura secuenciales de caracteres, desvinculado de la creación de menús desplegables. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Datos → Relleno rápido → Configuración → Permitir \"Lista\" Seleccionar celdas con los datos de la lista en Origen.",
+        "es_correcta": false,
+        "explicacion": "Mezcla de forma defectuosa herramientas automáticas de transcripción de texto con los cuadros de diálogo de restricciones de celda. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Datos → Validar datos → Configuración → Permitir \"Lista\" Origen: Seleccionar celdas con los datos de la lista.",
+        "es_correcta": true,
+        "explicacion": "La inyección de menús desplegables restrictivos se instrumenta mediante la herramienta Validación de Datos seleccionando el criterio Lista. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Revisar → Validar datos → Configuración → Permitir \"Lista\" Origen: Seleccionar celdas con los datos de la lista.",
+        "es_correcta": false,
+        "explicacion": "El asistente de restricciones y validaciones de celdas se localiza en la pestaña Datos y no en el bloque de corrección de Revisar. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "pregunta": "Para incluir varias líneas de texto en una sola celda, como se observa en la celda B2 del supuesto Excel, señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Desde Inicio → Alineación → Combinar y centrar.",
+        "es_correcta": false,
+        "explicacion": "Combinar y centrar unifica físicamente múltiples celdas independientes en un único bloque contenedor, sin forzar saltos internos de renglón. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Desde Datos → Herramientas de datos → Texto en columnas.",
+        "es_correcta": false,
+        "explicacion": "La segmentación dispersa los términos fragmentados expandiéndolos horizontalmente en celdas anexas y vacías a la derecha. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Mantener pulsada la tecla Alt y pulsar la tecla Intro.",
+        "es_correcta": true,
+        "explicacion": "La combinación abreviada Alt + Intro inserta un salto de línea forzado en la posición del cursor dentro de una misma celda. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Mantener pulsada la tecla Shift y pulsar la tecla Intro.",
+        "es_correcta": false,
+        "explicacion": "Pulsar Shift + Intro desplaza de forma física el foco de selección de la celda activa hacia la fila inmediatamente superior de la cuadrícula. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "pregunta": "Para conseguir las iniciales que se observan en la celda C23 obteniéndolas de la celda B23 del supuesto Excel, señale la respuesta que no obtiene ese resultado:",
+    "opciones": [
+      {
+        "texto": "a) =MAYUSC(IZQUIERDA (B23;2))",
+        "es_correcta": false,
+        "explicacion": "Esta expresión es válida porque extrae los primeros dos caracteres y los transforma correctamente a letras mayúsculas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =EXTRAE(MAYUSC(B23;1;2))",
+        "es_correcta": true,
+        "explicacion": "Es la opción errónea (a marcar) porque sitúa el cierre del paréntesis de MAYUSC de forma anómala, invalidando los argumentos de posición de EXTRAE. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =MAYUSC(EXTRAE (B23;1;2))",
+        "es_correcta": false,
+        "explicacion": "Constituye una sintaxis correcta y válida al recortar el bloque desde el índice inicial uno con un alcance de dos dígitos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =REEMPLAZAR (B23;1;10; (MAYUSC(IZQUIERDA(B23;2))))",
+        "es_correcta": false,
+        "explicacion": "Aunque compleja, la fórmula funciona al sustituir de forma efectiva el arranque del texto por el segmento decapitalizado de dos letras. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "pregunta": "En la tabla dinámica del supuesto Excel ¿cómo hemos insertado el campo calculado con el nombre \"Coste día estancia\"?",
+    "opciones": [
+      {
+        "texto": "a) Herramientas de tabla dinámica → Analizar → Cálculos → Campos, elementos y conjuntos → Campo calculado → Insertar campo calculado → Poner nombre y fórmula.",
+        "es_correcta": true,
+        "explicacion": "La ruta exacta y reglada para inyectar un campo matemático personalizado en una dinámica se aloja en la pestaña Analizar bajo Cálculos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Herramientas de tabla dinámica → Lista de campos → Configuración campo valor → Resumir valores por → Resumir campo de valor por → Poner nombre y fórmula.",
+        "es_correcta": false,
+        "explicacion": "La configuración de campo de valor altera el tipo de agregación estadística (suma, cuenta, promedio) de métricas ya existentes. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Herramientas de tabla dinámica → Diseño → Cálculos → Campos, elementos y conjuntos → Campo calculado → Insertar campo calculado → Poner nombre y fórmula.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Diseño gobierna aspectos cromáticos, disposiciones de subtotales y estilos de cuadrícula, sin herramientas operativas de cálculo. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Herramientas de tabla dinámica → Campo activo → Configuración campo valor → Resumir valores por → Resumir campo de valor por → Poner nombre y fórmula.",
+        "es_correcta": false,
+        "explicacion": "Incapaz de crear nuevas variables indexadas al modelo relacional de datos de la tabla al limitarse a formatear la métrica activa. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Cuál sería la función correcta en Excel 2013 para que en la celda G33 del supuesto Excel se rellene con el número de provincias que tiene un número total de visitantes menor de 8000?",
+    "opciones": [
+      {
+        "texto": "a) =CONTAR(I22:I30;\"<8000\")",
+        "es_correcta": false,
+        "explicacion": "La función CONTAR clásica computa de forma exclusiva celdas con valores numéricos brutos, rechazando criterios lógicos condicionales. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =CONTAR.SI(I22:I30<;\"8000\")",
+        "es_correcta": false,
+        "explicacion": "Sitúa de forma defectuosa el operador de comparación fuera del bloque de las comillas que delimitan el argumento del criterio. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =CONTAR.SI(I22:I30;\"<8000\")",
+        "es_correcta": true,
+        "explicacion": "La función CONTAR.SI escanea el rango geográfico vectorial evaluando de forma correcta la condición lógica menor que 8000. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =CONTAR.SI(\"<8000\"; I22:I30)",
+        "es_correcta": false,
+        "explicacion": "Invierte la sintaxis obligada de los argumentos al posicionar el criterio condicional antes del rango de celdas objeto de examen. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Cuál sería la función correcta en Excel 2013 para que en la celda H34 del supuesto de Excel se muestre la suma de los habitantes de las provincias que tengan un número de habitantes inferior a la media aritmética de los habitantes de todas las provincias?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO (I22:I30; I22:I30; \"<\"&PROMEDIO (I22:I30))",
+        "es_correcta": true,
+        "explicacion": "La expresión concatena correctamente el operador menor mediante '&' al promedio dinámico calculado sobre el vector de datos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =SUMAR.SI.CONJUNTO (I22:I30; I12:I20; \"<\"&MEDIA (I22:I30))",
+        "es_correcta": false,
+        "explicacion": "El comando 'MEDIA' no constituye una función nativa catalogada para calcular el promedio aritmético en la versión en español. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =SUMAR.SI(I22:I30; I12:I20; \"<\"&PROMEDIO(I22:I30))",
+        "es_correcta": false,
+        "explicacion": "Apunta a un vector de celdas secundario inconexo que altera las coordenadas y correspondencias de las filas del supuesto. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =SUMAR.SI(I22:I30; I12:I20; \"<\"&MEDIA (I22:I30))",
+        "es_correcta": false,
+        "explicacion": "Incurre en un doble error crítico al invocar funciones aritméticas inexistentes y cruzar rangos de control desalineados. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Cuál es la función correcta en Excel 2013 para que en la celda R4 del supuesto se muestre el dato de la tabla que corresponde al contenido de las celdas P3 y Q3?",
+    "opciones": [
+      {
+        "texto": "a) INDICE(E2:M19;BUSCAR (P3;E2:E19;0); BUSCAR(Q3;E2:M2;0))",
+        "es_correcta": false,
+        "explicacion": "La función BUSCAR carece del argumento posicional cero de coincidencia exacta que sí caracteriza al comando homólogo COINCIDIR. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =BUSCAR (E2:M19;COINCIDIR(P3;E2:E19;0); COINCIDIR(Q3;E2:M2;0))",
+        "es_correcta": false,
+        "explicacion": "El comando de cruce matricial por excelencia exige liderar la fórmula mediante la función INDICE y nunca mediante BUSCAR. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) INDICE(E2:M19; COINCIDIR(P3,Q3;E2:E19;0))",
+        "es_correcta": false,
+        "explicacion": "Agrupa de forma defectuosa los dos criterios independientes en un único vector incapaz de resolver el cruce de coordenadas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =INDICE(E2:M19; COINCIDIR (P3;E2:E19;0); COINCIDIR (Q3;E2:M2;0))",
+        "es_correcta": true,
+        "explicacion": "La combinación INDICE y COINCIDIR localiza el valor de intersección cruzando la coordenada de fila y de columna de forma exacta. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Cuál es la forma correcta en Excel 2013 de conseguir que en la celda B22 del supuesto se cambie el formato automáticamente sombreado gris, si la columna correspondiente el \"Nº de días de viajeros\" es superior a la media, como vemos en el supuesto.",
+    "opciones": [
+      {
+        "texto": "a) En Excel 2013 no se puede aplicar formato condicional a una celda en función de otra.",
+        "es_correcta": false,
+        "explicacion": "Es falso, ya que la inserción de fórmulas lógicas personalizadas en las reglas permite condicionar el aspecto de celdas secundarias. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Inicio → formato condicional → nueva regla que utilice la formula \"=L22>PROMEDIO(L22:L30)\" y configurando el formato.",
+        "es_correcta": true,
+        "explicacion": "La parametrización evalúa mediante una fórmula de formato condicional la comparación dinámica frente al promedio del rango dado. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Inicio → formato condicional → nueva regla que utilice la formula \"=>MEDIA(L22:L30)\" y configurando el formato.",
+        "es_correcta": false,
+        "explicacion": "La expresión carece del signo igual inicial regulador de fórmulas e invoca la función inexistente 'MEDIA' en castellano. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Insertar la función =SI(L22>MEDIA(L22;L30);FORT\"Q\";0), y configurar el formato \"Q\" con las características que queremos.",
+        "es_correcta": false,
+        "explicacion": "Las funciones lógicas de celda devuelven datos o textos, resultando incapaces de alterar propiedades estéticas del entorno. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "pregunta": "Si en la hoja del supuesto Excel queremos hacer referencia a una celda de otra hoja del mismo libro, ¿cómo debemos referenciar dicha hoja?",
+    "opciones": [
+      {
+        "texto": "a) El nombre de la hoja seguido del símbolo \"!\"",
+        "es_correcta": true,
+        "explicacion": "La sintaxis estándar exige cerrar la designación nominal de la pestaña de origen mediante el signo de exclamación '!'. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) El nombre de la hoja seguido del símbolo \"@\"",
+        "es_correcta": false,
+        "explicacion": "El carácter arroba '@' opera en versiones modernas como un operador de intersección implícita para la gestión de matrices dinámicas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) El símbolo \"&\" seguido del nombre de la hoja.",
+        "es_correcta": false,
+        "explicacion": "El operador comercial '&' se reserva de forma exclusiva para instrumentar la unión o concatenación de hilos de texto. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) El nombre de la hoja seguido del símbolo \"$\"",
+        "es_correcta": false,
+        "explicacion": "El signo del dólar '$' se emplea para fijar referencias absolutas de filas o columnas, impidiendo su desplazamiento al arrastrar. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "pregunta": "Por seguridad queremos cambiar la ruta donde se guarda la copia de autorrecuperación del supuesto Excel. Indicar la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Desde Archivo → Opciones → General → Guardar.",
+        "es_correcta": false,
+        "explicacion": "El submenú General coordina parámetros de la interfaz visual y tipografías por defecto, delegando el almacenamiento en otra sección. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Desde Archivo → Guardar como → Autorrecuperación.",
+        "es_correcta": false,
+        "explicacion": "El comando Guardar Como duplica el archivo activo de forma estática en una ubicación local, sin alterar la configuración del software. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Desde Archivo → Opciones → Guardar.",
+        "es_correcta": true,
+        "explicacion": "La modificación técnica de los directorios de salvaguarda automática del sistema se aloja en el apartado Guardar de Opciones. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Desde Archivo → Opciones → Avanzadas.",
+        "es_correcta": false,
+        "explicacion": "Las opciones Avanzadas gobiernan parámetros de edición, cálculo y visualización de gráficos, sin centralizar las rutas de salvamento. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "pregunta": "En la primera tabla del supuesto Excel tenemos datos de visitantes por país y por zona. Nos piden la suma total de los ingresos exclusivamente para los países de la zona \"U E\", ¿cuál de las siguientes fórmulas en Excel 2013 proporcionaría el resultado correcto?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI(D3:D19; \"Zona=U E\"; L2:L17)",
+        "es_correcta": false,
+        "explicacion": "La inclusión del nombre del campo dentro de la cadena del criterio impide al motor emparejar los registros con el texto 'U E'. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =SUMAR.SI(D3:D19; \"U E\"; L3:L19)",
+        "es_correcta": true,
+        "explicacion": "La función SUMAR.SI evalúa de forma válida el vector de zonas buscando el texto y agregando las magnitudes de ingresos alineadas (corregido rango según anexo). Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =SUMAR.SI(D3:D19; \"U E\"; INGRESOS)",
+        "es_correcta": false,
+        "explicacion": "La alusión a una etiqueta nominal general exige la previa y formal delimitación de un rango de nombre definido en la hoja. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =SUMA.CUANDO(ZONA; \"U E\"; Ingresos)",
+        "es_correcta": false,
+        "explicacion": "La expresión 'SUMA.CUANDO' constituye una traducción literal errónea que no figura indexada en la biblioteca de fórmulas. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Cómo se puede proteger el rango de celdas (F3:F18) en el supuesto Excel para evitar que se realicen cambios no autorizados?",
+    "opciones": [
+      {
+        "texto": "a) Revisar → Proteger hoja → Seleccionar celdas bloqueadas → Introducir contraseña.",
+        "es_correcta": true,
+        "explicacion": "La activación formal de las restricciones de edición exige pulsar Proteger Hoja dentro de la pestaña de validación de Revisar. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Inicio → Formato → Ocultar celdas → Introducir contraseña.",
+        "es_correcta": false,
+        "explicacion": "La acción de ocultar simplemente suprime visualmente la columna de la pantalla, sin bloquear su edición por el usuario. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Archivo → Opciones → Bloquear celdas → Introducir contraseña.",
+        "es_correcta": false,
+        "explicacion": "El backstage de Opciones parametriza el motor global del programa, careciendo de mandatos operativos sobre rangos particulares. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Revisar → Opciones → Bloquear celdas → Introducir contraseña.",
+        "es_correcta": false,
+        "explicacion": "La barra de herramientas de Revisar no estructura ningún submenú directo bajo la denominación secuencial de Opciones. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "pregunta": "La siguiente figura tiene los datos dentro de las columnas del gráfico, ¿cómo añadimos este elemento al gráfico?",
+    "opciones": [
+      {
+        "texto": "a) Seleccionando el gráfico y añadiendo el elemento \"Etiqueta de datos\".",
+        "es_correcta": true,
+        "explicacion": "La inserción de las magnitudes numéricas sobre los prismas vectoriales se realiza activando el elemento Etiqueta de Datos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Seleccionando el gráfico y añadiendo el elemento \"Tabla de datos\".",
+        "es_correcta": false,
+        "explicacion": "La tabla de datos clona e incrusta la cuadrícula de origen completa al pie del eje horizontal, difiriendo del anexo. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Seleccionando el gráfico y en FORMATO DE GRÁFICO marcamos \"Mostrar datos\".",
+        "es_correcta": false,
+        "explicacion": "Dicha ruta y comando conceptual constituyen una denominación inexacta ausente en la cinta de opciones de gráficos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Seleccionando el gráfico y en FORMATO DE GRÁFICO marcamos \"Datos completos\".",
+        "es_correcta": false,
+        "explicacion": "No existen conmutadores con ese redactado literal destinados a gobernar los componentes de visualización del objeto. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "pregunta": "Si hacemos doble clic con el ratón sobre la esquina inferior derecha de la celda seleccionada que muestra 2.534.420 € del supuesto Excel, ¿qué es lo que ocurrirá?",
+    "opciones": [
+      {
+        "texto": "a) La fórmula se elimina de la celda.",
+        "es_correcta": false,
+        "explicacion": "La supresión de contenidos exige la intervención de comandos de borrado o pulsar la tecla suprimir del teclado. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Se abre una ventana emergente para editar la fórmula existente en la celda seleccionada.",
+        "es_correcta": false,
+        "explicacion": "La edición interna en ventana emergente corresponde a asistentes de inserción de funciones lógicas de la barra. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Excel copia automáticamente la fórmula hacia abajo en la columna, ajustándola para las filas correspondientes.",
+        "es_correcta": true,
+        "explicacion": "Hacer doble clic sobre el controlador de relleno propaga la fórmula verticalmente adaptando las referencias relativas por fila. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Se abre la barra de herramientas de formato condicional permitiendo realizar ajustes de formato basados en condiciones específicas de la propia celda.",
+        "es_correcta": false,
+        "explicacion": "El formato condicional se invoca desde los menús de la pestaña de Inicio y nunca mediante atajos del ratón de celda. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "pregunta": "En el supuesto Word al presionar la tecla \"Control\" y hacer clic en el texto \"1.176 millones de euros de gasto público total\", un hipervínculo te lleva al título de la tabla \"Inversión prevista por superficie\". ¿Qué método se emplea para configurar dicho hipervínculo en Word 2013?",
+    "opciones": [
+      {
+        "texto": "a) Seleccionar texto, Insertar un hipervínculo a un archivo o página web existente, nombrar el hipervínculo con el título de la tabla.",
+        "es_correcta": false,
+        "explicacion": "Este método crearía un enlace exógeno apuntando hacia un archivo secundario o URL de internet, erróneo para saltos internos. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Crear un marcador y seguidamente crear un hipervínculo en el lugar correspondiente de este documento al marcador.",
+        "es_correcta": true,
+        "explicacion": "El salto interno exige etiquetar el destino mediante un Marcador para luego enlazarlo desde la herramienta de Hipervínculo. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Cambiar el formato de texto con el color y subrayado de hipervinculación con el título de la tabla.",
+        "es_correcta": false,
+        "explicacion": "La mera alteración cromática y de subrayado aplica un formato cosmético inerte desprovisto de operatividad de salto digital. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Nombrar la tabla con el texto del hipervínculo, crear una referencia interna al objeto \"Tabla 2\".",
+        "es_correcta": false,
+        "explicacion": "Las referencias cruzadas enlazan títulos numerados preexistentes, requiriendo un orden tipográfico ausente en el supuesto. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "pregunta": "En la columna N de la primera tabla del supuesto Excel calculamos el número de días registrados y además queremos que refleje cuales son los valores que están por encima o igual del percentil 67, entre 67 y 33, e inferiores a 33, con un icono. Señale la respuesta correcta:",
+    "opciones": [
+      {
+        "texto": "a) =([@[Periodo Final]]-[@[Período Inicio]]) a continuación desde la pestaña Inicio Estilos → Formato condicional → Nueva regla → Aplicar formato a todas las celdas según los valores → Conjunto de iconos y los valores indicados → Tipo: Percentil.",
+        "es_correcta": true,
+        "explicacion": "Resta de forma estructurada los campos temporales y aplica un formato condicional parametrizando iconos basados en percentiles de corte. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) DIAS(B3:B18-C3:C18) a continuación desde la pestaña Inicio Estilos → Formato condicional → Nueva regla → Aplicar formato a todas las celdas según los valores → Conjunto de iconos → los valores indicados Tipo: Porcentaje.",
+        "es_correcta": false,
+        "explicacion": "La sintaxis propuesta opera restas matriciales de vectores incompatibles con la estructura de campos lógicos del anexo. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =DIAS(C3:C18-B3:B18) a continuación, desde la pestaña Inicio Estilos → Formato condicional → Nueva regla → Aplicar formato a todas las celdas según los valores → Conjunto de iconos → los valores indicados → Tipo: Percentil.",
+        "es_correcta": false,
+        "explicacion": "La función DIAS de Excel exige separar las celdas de inicio y fin mediante punto y coma y nunca con signos de sustracción algebraicos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =([@[Periodo Inicio]]-[@[Período Final]]) a continuación, desde la pestaña Inicio Estilos → Formato condicional → Nueva regla → Aplicar formato a todas las celdas según los valores → Conjunto de iconos y los valores indicados → Tipo: Percentil.",
+        "es_correcta": false,
+        "explicacion": "Invierte de forma defectuosa las variables cronológicas provocando un saldo de días negativo incongruente con las magnitudes del supuesto. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Cómo fijamos las dos primeras filas en la tabla Excel del supuesto?",
+    "opciones": [
+      {
+        "texto": "a) Seleccionar las dos primeras filas y en la pestaña Vista elegir inmovilizar Paneles.",
+        "es_correcta": false,
+        "explicacion": "Inmovilizar paneles congela las filas situadas estrictamente *por encima* de la selección, fijando aquí el error posicional. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Seleccionar las dos primeras filas y en la pestaña Vista elegir inmovilizar Filas.",
+        "es_correcta": false,
+        "explicacion": "El comando estándar 'Inmovilizar fila superior' está restringido por diseño exclusivamente al primer renglón de la cuadrícula. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Seleccionar la tercera fila y en la pestaña Vista elegir inmovilizar Paneles > Inmovilizar selección.",
+        "es_correcta": false,
+        "explicacion": "Involucra comandos y extensiones sintácticas inexistentes en la estructura de menús de congelación de ventanas del programa. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Seleccionar la tercera fila y en la pestaña Vista elegir inmovilizar Paneles.",
+        "es_correcta": true,
+        "explicacion": "Para clavar los dos primeros renglones es preceptivo situar el foco de selección en la tercera fila antes de pulsar Inmovilizar Paneles. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  }
+]

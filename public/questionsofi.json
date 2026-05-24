@@ -1,0 +1,1406 @@
+[
+  {
+    "id": 67,
+    "pregunta": "Para describir las imágenes de los logos del encabezado del anexo Word con un texto alternativo, seguiremos la siguiente ruta. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Desde Insertar → Marcador → Texto alternativo",
+        "es_correcta": false,
+        "explicacion": "Los marcadores en Word se destinan a indexar ubicaciones de salto textual y no a parametrizar la accesibilidad gráfica del archivo. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Desde Formato de imagen → Accesibilidad → Texto alternativo",
+        "es_correcta": true,
+        "explicacion": "La adición de descripciones de accesibilidad en elementos gráficos se aloja en la pestaña contextual Formato de Imagen bajo Accesibilidad. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Desde Formato de imagen → Ajustar texto → Texto alternativo",
+        "es_correcta": false,
+        "explicacion": "La opción Ajustar Texto regula la disposición y fluidez del párrafo alrededor de la imagen, desvinculada de metadatos alternativos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Desde Insertar → Encabezado → Texto alternativo",
+        "es_correcta": false,
+        "explicacion": "El menú Insertar Encabezado habilita la edición del lienzo superior del folio, requiriendo seleccionar el objeto para editar su accesibilidad. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "pregunta": "Las cuatro primeras frases del supuesto del anexo Word, contienen hipervínculos a los títulos de los párrafos correspondientes. Este recurso se realiza en Word 365 a través de una de estas rutas. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Referencias → Referencia cruzada → Elemento numerado → Número de párrafo",
+        "es_correcta": false,
+        "explicacion": "El volcado indexado mediante referencia cruzada permite vincular marcadores o títulos, variando el destino final según la opción elegida. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Referencias → Insertar Índice → Elemento numerado → Número de párrafo",
+        "es_correcta": false,
+        "explicacion": "La inserción de índices alfabéticos compila palabras clave del manuscrito, no asumiendo el rol operativo de hipervínculos dinámicos internos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Referencias → Tabla de contenido → Tabla de contenido personalizada → No mostrar números de página",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del ejercicio único dictamina de forma oficial como válida la ruta c para instrumentar estos hipervínculos de bloque. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "d) Insertar → Vínculos → Marcador → Elemento numerado → No mostrar números de página",
+        "es_correcta": false,
+        "explicacion": "La herramienta Marcador genera etiquetas internas invisibles de posicionamiento, careciendo de este menú anidado de visualización de páginas. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "pregunta": "En el primer párrafo del anexo Word que comienza por \"Se trata de...\" y termina en \"...en áreas\", se observa que hay un número en la expresión (DIGital COMPetences), para conseguir esto en Word 365 se utiliza uno de los siguientes recursos. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Pie de página → Incluir un marcador, insertar el texto",
+        "es_correcta": false,
+        "explicacion": "El pie de página es un bloque estructural que se repite al final de las páginas, no una llamada puntual indexada al texto. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Pulsando a la vez Alt+Ctrl+O insertar el texto",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora oficial asigna la validez de la acción a la secuencia b dentro de las utilidades de anotación del procesador de textos. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "c) Referencias → Insertar cita → Agregar nuevo marcador de posición, insertar el texto",
+        "es_correcta": false,
+        "explicacion": "Los marcadores de posición de cita reservan un espacio formal para fuentes bibliográficas estructuradas según estilos como APA. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Insertar → Referencia cruzada → Elemento numerado, insertar el texto",
+        "es_correcta": false,
+        "explicacion": "La referencia cruzada se limita a enlazar elementos ya existentes en el documento, requiriendo su previa inserción y numeración. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "pregunta": "Hemos introducido la fecha de realización del documento anexo Word, que se actualiza cada vez que abrimos el documento. Señale la única respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Texto → Elementos rápidos → Campo → Date → Formatos de fecha",
+        "es_correcta": true,
+        "explicacion": "La inserción automatizada de una fecha dinámica autoactualizable se canaliza mediante el campo especial DATE en Elementos Rápidos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Inicio → Texto → Fecha y hora → Formatos disponibles",
+        "es_correcta": false,
+        "explicacion": "La pestaña Inicio no aloja los comandos dinámicos avanzados de inyección de metadatos de campos u objetos del sistema. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Inicio → Texto → Elementos rápidos → Campo → Date → Formatos de fecha",
+        "es_correcta": false,
+        "explicacion": "El menú de Elementos Rápidos y sus herramientas de automatización de campos pertenecen de forma exclusiva a la pestaña Insertar. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Insertar → Texto → Objeto → Date → Formatos disponibles",
+        "es_correcta": false,
+        "explicacion": "El comando Objeto incrusta archivos o aplicaciones externas independientes, difiriendo de la lógica interna de campos lógicos como Date. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "pregunta": "En la parte inferior del documento anexo Word se han incluido un gráfico y una tabla que se actualiza de su documento de origen en Excel 365. Para que se pueda realizar esta operación, estos elementos han sido incluidos siguiendo una de las rutas siguientes. Señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Objeto → Crear desde un archivo → Vincular al archivo",
+        "es_correcta": true,
+        "explicacion": "La inserción de un objeto externo activando la casilla 'Vincular al archivo' garantiza la sincronización dinámica bidireccional entre Word y Excel. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Seleccionar los elementos en el archivo de origen → Copiar → Situarse en el archivo de destino → Pegar → Mantener formato de origen",
+        "es_correcta": false,
+        "explicacion": "El pegado estándar con formato de origen clona los datos de manera estática, rompiendo cualquier enlace de actualización automática posterior. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Insertar → Objeto → Microsoft Excel → Seleccionar → Vincular y mantener formato de origen",
+        "es_correcta": false,
+        "explicacion": "Dicha ruta no describe los comandos y los pasos literales que la interfaz de la aplicación despliega en su cuadro de diálogo de objetos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Seleccionar los elementos en el archivo de origen → Copiar → Situarse en el archivo de destino → Pegar → Mantener formato de origen",
+        "es_correcta": false,
+        "explicacion": "Duplica conceptualmente el error del volcado estático de portapapeles, incapaz de anclar vínculos funcionales de actualización de datos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "pregunta": "Para insertar una cita bibliográfica sobre el Marco Europeo de competencias digitales DIGCOMP, ¿cuál es la ruta correcta en Word 365?",
+    "opciones": [
+      {
+        "texto": "a) Referencias → Insertar cita → Agregar nueva fuente",
+        "es_correcta": true,
+        "explicacion": "La gestión normalizada de fuentes e inserción de citas bibliográficas académicas se aloja en la pestaña Referencias. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Insertar → Texto → Nota al pie",
+        "es_correcta": false,
+        "explicacion": "El comando de Notas al Pie se ubica formalmente en el bloque de Referencias y no bajo las utilidades básicas de la pestaña Insertar. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Diseño → Referencias → Bibliografía",
+        "es_correcta": false,
+        "explicacion": "La pestaña Diseño se enfoca en la estética global del documento, careciendo de submenús dedicados al aparato de citas bibliográficas. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Archivo → Opciones → Agregar fuente bibliográfica",
+        "es_correcta": false,
+        "explicacion": "El menú Archivo Opciones gobierna los parámetros de configuración global del software, no la edición interna de contenidos del archivo. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "pregunta": "Si quisiéramos traducir automáticamente el documento \"Competencias Digitales\" al inglés, ¿qué opción de Word 365 nos permite hacerlo directamente?",
+    "opciones": [
+      {
+        "texto": "a) Archivo → Idioma → Traducir documento",
+        "es_correcta": false,
+        "explicacion": "El menú de gestión Archivo carece de comandos directos destinados a la manipulación lingüística o traducción de los textos. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Revisar → Traducir → Traducir documento",
+        "es_correcta": true,
+        "explicacion": "El motor de traducción integrado de Microsoft se localiza en la pestaña Revisar dentro del grupo de comandos de Idioma. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Word 365 no traduce automáticamente",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que las versiones modernas de Office incorporan servicios inteligentes y automatizados de traducción en la nube. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Referencias → Idioma → Traducción documento",
+        "es_correcta": false,
+        "explicacion": "La pestaña Referencias gestiona índices, notas y citas, delegando la corrección idiomática y traducciones en la cinta de Revisar. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "pregunta": "Mientras preparamos el documento anexo Word queremos rellenar temporalmente una sección con texto simulado para pruebas de formato. ¿Qué función de Word 365 podemos utilizar para generar texto de ejemplo automáticamente?",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Texto → Contenido simulado → Texto de demostración",
+        "es_correcta": false,
+        "explicacion": "No existe ningún comando explícito con esa denominación en la cinta de opciones para inyectar caracteres de relleno. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Vista → Desarrollador → Generar texto simulado",
+        "es_correcta": false,
+        "explicacion": "La pestaña de Programador u origen se destina a macros y controles de formulario, no disponiendo de este asistente visual de relleno. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Escribir lorem() y pulsar Enter para insertar texto de ejemplo",
+        "es_correcta": true,
+        "explicacion": "El procesador de textos interpreta de forma nativa la función matemática '=lorem()' como un disparador para volcar párrafos de prueba. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Diseño → Plantillas → Texto de demostración",
+        "es_correcta": false,
+        "explicacion": "La barra de Diseño edita los estilos visuales cromáticos y fuentes generales, desprovista de generadores automáticos de prosa simulada. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "pregunta": "En el documento anexo Word, para eliminar información como nombres de autores, comentarios, texto oculto, etc. ¿Qué recurso de Word 365 debemos utilizar?",
+    "opciones": [
+      {
+        "texto": "a) Revisar → Panel de control del documento → Configuración de privacidad",
+        "es_correcta": false,
+        "explicacion": "La cinta de opciones no estructura ningún panel de control interno bajo esta nomenclatura en la pestaña de validación. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Revisar → Control de cambios → Eliminar elementos no imprimibles",
+        "es_correcta": false,
+        "explicacion": "El control de cambios audita y registra las modificaciones del texto, pero no realiza el borrado de metadatos profundos del archivo. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Archivo → Información → Comprobar si hay problemas → Inspeccionar documento",
+        "es_correcta": true,
+        "explicacion": "La herramienta Inspeccionar Documento permite auditar y limpiar de forma segura metadatos, autores y propiedades ocultas del archivo. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Diseño → Control de contenido → Borrar metadatos del archivo",
+        "es_correcta": false,
+        "explicacion": "Las funciones de depuración de privacidad se concentran en el backstage de gestión de Archivo y no en los menús de maquetación estética. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "pregunta": "Durante la edición del documento queremos insertar una imagen que muestre una parte de otra ventana abierta en ese momento. ¿Qué recurso de Word 365 debemos utilizar?",
+    "opciones": [
+      {
+        "texto": "a) Insertar → Imagen → Captura de ventana completa desde portapapeles",
+        "es_correcta": false,
+        "explicacion": "El comando Imagen abre el explorador para localizar archivos de almacenamiento locales o en la nube, no gestionando capturas activas. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Diseño → Elementos visuales → Captura activa",
+        "es_correcta": false,
+        "explicacion": "La barra de herramientas de Diseño carece de mecanismos orientados al volcado o captura de pantallas de aplicaciones en ejecución. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Insertar → Ilustraciones → Captura → Recorte de pantalla",
+        "es_correcta": true,
+        "explicacion": "El comando Captura dentro del grupo Ilustraciones aloja la utilidad Recorte de Pantalla para seleccionar áreas de ventanas secundarias. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Insertar → Multimedia → Pantalla compartida → Captura parcial",
+        "es_correcta": false,
+        "explicacion": "El grupo Multimedia está diseñado para incrustar vídeos o audios en línea, careciendo de este menú simulado de compartición. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "pregunta": "En la celda B2 del anexo Excel, se encuentra el identificador del trabajador, compuesto por el número de categoría, seguido del número de nivel y los tres últimos dígitos del número de empleado. ¿Cuál de las siguientes opciones representa la función correcta en Excel 365 para lograr este resultado?",
+    "opciones": [
+      {
+        "texto": "a) =CONCATENAR=O2&P2&DERECHA(A2;3)",
+        "es_correcta": false,
+        "explicacion": "La inclusión de un símbolo de igualdad secundario insertado en el cuerpo de la expresión invalida por completo la sintaxis de la fórmula. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =O2&P2&DERECHA(A2;3)",
+        "es_correcta": true,
+        "explicacion": "El operador de concatenación '&' fusiona directamente los contenidos de las celdas con el segmento extraído mediante la función DERECHA. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =SUMA:O2&P2&DERECHA(A2;3)",
+        "es_correcta": false,
+        "explicacion": "La función SUMA se destina de forma exclusiva al cálculo de valores numéricos, resultando erróneo el uso de dos puntos como prefijo de concatenación. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =AÑADIR:O2&P2&DERECHA (A2;3)",
+        "es_correcta": false,
+        "explicacion": "La expresión matemática 'AÑADIR' no constituye una función nativa válida catalogada dentro del motor de fórmulas de la aplicación. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "pregunta": "En la celda F2 del anexo Excel, se han combinado el nombre y los apellidos de esa fila, convirtiéndolos en mayúsculas y separándoles por un espacio. ¿Cuál de las siguientes opciones representa la función correcta en Excel 365 para lograr este resultado?",
+    "opciones": [
+      {
+        "texto": "a) =(CONCATENAR (\"MAYUSC\"; VERDADERO; C2; D2; E2))",
+        "es_correcta": false,
+        "explicacion": "Dicha estructura anida de forma defectuosa argumentos lógicos incompatibles con la función clásica de agrupación de texto. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =CONVERTMAYUSC (UNIRCADENAS(\" \"; VERDADERO; C2; D2; E2))",
+        "es_correcta": false,
+        "explicacion": "El comando 'CONVERTMAYUSC' es una transcripción errónea de la función estándar de conversión de cajas de texto. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =MAYUSC(UNIRCADENAS(\" \"; VERDADERO; C2; D2; E2))",
+        "es_correcta": true,
+        "explicacion": "La combinación evalúa mediante UNIRCADENAS la unión separada por espacios de las celdas, transformando el todo a caja alta mediante MAYUSC. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =MINUS(CONCATENAR(\" \"; VERDADERO; C2; D2; E2))",
+        "es_correcta": false,
+        "explicacion": "La función MINUS transforma los caracteres a minúsculas, contradiciendo el objetivo explícito del enunciado del problema. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "pregunta": "En la celda H2 del anexo Excel se encuentra el número de DNI que hemos obtenido a partir de la celda G2, reemplazando los cinco números centrales por asteriscos. ¿Cuál de las siguientes funciones es la correcta?",
+    "opciones": [
+      {
+        "texto": "a) =IZQUIERDA(2) & REPETIR(\"*\"; - 5) & DERECHA(3)",
+        "es_correcta": false,
+        "explicacion": "Las funciones IZQUIERDA y DERECHA exigen de forma obligatoria referenciar la celda origen de los datos, siendo inválido un valor negativo en REPETIR. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =TRUNCAR(G2; 2) & REPETIR(\"*\"; LARGO(G2) - 5) & DERECHA(G2; 3)",
+        "es_correcta": false,
+        "explicacion": "La función TRUNCAR opera exclusivamente sobre la parte decimal de valores numéricos, rompiendo la lógica de tratamiento de cadenas. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =OCULTAR(G2; 2) & REPETIR(\"*\"; LARGO(G2) - 5) & DERECHA(G2; 3)",
+        "es_correcta": false,
+        "explicacion": "El comando 'OCULTAR' no existe dentro de las funciones de manipulación de cadenas de caracteres del programa. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =IZQUIERDA(G2; 2) & REPETIR(\"*\"; LARGO(G2) - 5) & DERECHA(G2; 3)",
+        "es_correcta": true,
+        "explicacion": "Extrae los dos primeros dígitos, inyecta asteriscos según la longitud proporcional calculada y remata con los tres caracteres del cierre. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "pregunta": "En la celda M2 calculamos los trienios sin decimales desde la fecha de inicio de contrato de la celda L2. ¿Cuál de las siguientes funciones es correcta?",
+    "opciones": [
+      {
+        "texto": "a) =NATURAL((SIFECHA (L2; (DATE); \"Y\") / 3))",
+        "es_correcta": false,
+        "explicacion": "La función 'NATURAL' no constituye una herramienta de truncamiento u obtención de enteros homóloga en la hoja de cálculo. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =ENTERO((SIFECHA(L2;HOY();\"Y\")/3))",
+        "es_correcta": true,
+        "explicacion": "Calcula los años completos transcurridos mediante SIFECHA con el argumento 'Y', divide por tres e interviene ENTERO para suprimir decimales. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =NATURAL((SIFECHA (L2; (DATE); \"Y\")/3))",
+        "es_correcta": false,
+        "explicacion": "Duplica el error de sintaxis al invocar comandos inexistentes y estructurar referencias temporales ajenas al estándar de funciones. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =ENTERO((DIFERENCIA (L2; HOY(); \"Y\")/3))",
+        "es_correcta": false,
+        "explicacion": "La expresión 'DIFERENCIA' no es una función de cómputo cronológico nativa contemplada por el motor de cálculo. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Cómo se puede configure para que las celdas de la columna M del anexo Excel que contengan valores iguales o mayores de 10 tengan automáticamente un fondo gris, similar a lo observado en las celdas M4 y M14?",
+    "opciones": [
+      {
+        "texto": "a) Con la función =SI(ESTA=>10(GRIS);\"\")",
+        "es_correcta": false,
+        "explicacion": "Las fórmulas ordinarias de celda son incapaces de alterar propiedades estéticas de formato como los colores de fondo de su entorno. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) Desde Inicio → Estilos → Formato condicional y configurar la regla",
+        "es_correcta": true,
+        "explicacion": "La alteración automatizada del aspecto visual sujeta a un criterio lógico se articula mediante la herramienta de Formato Condicional. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) Desde Insertar → Formato → Condicional y configurar =>10 GRIS",
+        "es_correcta": false,
+        "explicacion": "La barra de herramientas de Insertar carece de menús dedicados a la parametrización de formatos condicionales de datos. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) Desde Dato → Filtro Condicional y configurar =>10 GRIS",
+        "es_correcta": false,
+        "explicacion": "El menú Datos y sus filtros aíslan o segregan filas visualmente, pero no aplican estilos de color a las celdas que cumplen criterios. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "pregunta": "En la columna N del anexo Excel, se muestra la fecha en la que los trabajadores cumplirán 30 años de antigüedad en la empresa. Si esta fecha es posterior a la fecha en la que cumplen 65 años, se indicará como \"No procede\". ¿Cuál es la función correcta para que en la celda N2 aparezca este resultado?",
+    "opciones": [
+      {
+        "texto": "a) =SI(DIFERENCIA(L2;360)<K2;L2+360); \"No procede\")",
+        "es_correcta": false,
+        "explicacion": "La sintaxis presenta paréntesis desparejados y operaciones algebraicas de días simples insuficientes para el tratamiento de meses reales. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =SI(FECHA.MES(L2;360)<780M; FECHA.MES (L2;360); \"No procede\")",
+        "es_correcta": false,
+        "explicacion": "La inclusión del carácter literal 'M' junto a los argumentos numéricos rompe la estructura lógica de la condición matemática. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =SI(FECHA.MES(L2;360)<65Y; FECHA.MES (L2;360); \"No procede\")",
+        "es_correcta": false,
+        "explicacion": "El motor de Excel rechaza el sufijo literal 'Y' insertado de forma anómala en la comparación de magnitudes temporales. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =SI(FECHA.MES(L2;360)<K2;FECHA.MES (L2;360); \"No procede\")",
+        "es_correcta": true,
+        "explicacion": "Evalúa si el vencimiento de los 30 años (360 meses) es menor que el tope de la celda de control, ejecutando el salto en caso afirmativo. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "pregunta": "En la celda A9 del anexo Excel se muestran varios '#' en lugar del número que se ha introducido. ¿Cuál de las siguientes opciones explica la aparición de este error?",
+    "opciones": [
+      {
+        "texto": "a) El número introducido excede el límite máximo de dígitos que Excel puede mostrar.",
+        "es_correcta": false,
+        "explicacion": "El programa recurre a la notación científica ante valores numéricos extremadamente largos, no mostrando una cadena de almohadillas por límite absoluto. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) La celda A9 tiene aplicado un formato de fecha y eso lo hace incompatible con el número introducido.",
+        "es_correcta": false,
+        "explicacion": "Un formato de fecha sobre un número entero simplemente proyecta su equivalencia en el calendario informático, sin bloquear la celda. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) El ancho de la columna A es insuficiente para mostrar el número completo.",
+        "es_correcta": true,
+        "explicacion": "La visualización repetida de la almohadilla '#' constituye la alerta visual estándar que indica falta de espacio horizontal en el ancho de la columna. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) La celda A9 contiene una fórmula que hace referencia a una celda vacía.",
+        "es_correcta": false,
+        "explicacion": "La alusión a celdas desprovistas de contenido suele computar como valor cero o disparar alertas específicas de indeterminación. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "pregunta": "En las celdas P28 a la Q33 se muestra una tabla con un resumen de la suma de salarios por categoría. ¿Qué función utilizaremos para que en la celda P28 nos proporcione esta información?",
+    "opciones": [
+      {
+        "texto": "a) =SUMA.SI(Q2:Q19; P28; O2:O19)",
+        "es_correcta": false,
+        "explicacion": "La estructura de los argumentos sitúa de forma errónea los vectores de rango de criterio y el rango de agregación final. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =AGRUPARPOR(O2:O19;Q2:Q19;SUMA)",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del ejercicio ratifica como válida la función de matriz dinámica AGRUPARPOR para consolidar las magnitudes de salario. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "c) =SUMA.SI.CONJUNTO (Q2:Q19; O2:O19; UNICOS (O2:O19))",
+        "es_correcta": false,
+        "explicacion": "La inyección de la matriz UNICOS en el segmento del criterio de una función condicional estándar provoca errores de desbordamiento. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =SUMA(FILTRO(Q2:Q19; O2:O19;MODA.SI.CONJUNTO (O2:O19)))",
+        "es_correcta": false,
+        "explicacion": "Anida funciones de estadística de tendencia central que desvirtúan por completo el fin de adición selectiva simple buscado. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "pregunta": "En el anexo Excel queremos copiar y pegar sólo los valores del rango Q1:Q19 en otra parte de la hoja. ¿Cuál de las siguientes opciones no es correcta después de copiar ese rango?",
+    "opciones": [
+      {
+        "texto": "a) En la cinta de opciones hacer clic en \"Inicio\", a continuación, en \"Portapapeles\" y por último en \"Pegar sin fórmulas\".",
+        "es_correcta": true,
+        "explicacion": "Es la opción no correcta (a marcar), ya que el literal exacto del comando en la interfaz es 'Pegar valores' y no 'Pegar sin fórmulas'. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) En la cinta de opciones hacer clic en \"Inicio\", a continuación, en el desplegable de \"Pegar\", y por último pulsar la tecla \"V\".",
+        "es_correcta": false,
+        "explicacion": "Constituye un método abreviado verídico y plenamente operativo a través de las letras de acceso rápido de los menús. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) MAYUS+CTRL+V",
+        "es_correcta": false,
+        "explicacion": "Representa el atajo de teclado global y verídico incorporado en las versiones actualizadas para el pegado directo de texto plano. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) Hacer clic con el botón derecho sobre la celda de destino, y en las opciones de pegado elegir \"Valores\".",
+        "es_correcta": false,
+        "explicacion": "Es una ruta contextual clásica y verídica para purgar fórmulas y retener exclusivamente las magnitudes numéricas calculadas. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "pregunta": "En la columna Q del anexo Excel calculamos el salario anual sumando el salario de la categoría y el nivel, más el importe del trienio multiplicado por el número de trienios. Los salarios y el importe del trienio están en la hoja Categorías, como se muestra en la figura siguiente. ¿Cuál es la función correcta para la celda Q2 en Excel 365 para obtener este resultado?",
+    "opciones": [
+      {
+        "texto": "a) =BUSCARV(O2;Categorias;2;FALSO)+BUSCARV(P2;Niveles;2;FALSO)+'Categorias'!$B$13*M2",
+        "es_correcta": true,
+        "explicacion": "Usa BUSCARV de forma exacta para recuperar los fijos salariales, sumando el producto de la celda absoluta fija del precio del trienio por la cantidad acumulada. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(O2;Categorias;2;)+SUMA(P2;Niveles;2;+'Categorias'!$B$13*M2)",
+        "es_correcta": false,
+        "explicacion": "La función SUMA no realiza operaciones de localización indexada en tablas, convirtiendo los argumentos posicionales en un error crítico. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =SUMA(BUSCARV (O2; Categorias;2;)+BUSCARV(P2;Niveles;2;)+'Categorias'!$B$13*M2",
+        "es_correcta": false,
+        "explicacion": "La sintaxis carece del paréntesis de cierre obligado para delimitar el campo de actuación del primer bloque de agregación. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =BUSCAR(SUMA(02; Categorias; 2; FALSO); SUMA(P2; Niveles;2; FALSO); 'Categorias'!$B$13*M2",
+        "es_correcta": false,
+        "explicacion": "Combina funciones de búsqueda vectorial e inserciones lógicas incompatibles con la estructura tabular de los anexos del enunciado. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "pregunta": "En el anexo Excel, necesitamos calcular el costo total de los bonos para todos los empleados. La columna Q (Salario Anual) contiene el salario anual de cada empleado, y la columna R (Bono) indica el porcentaje del salario que cada empleado recibirá como bono. ¿Cuál de las siguientes fórmulas, introducida en la celda Q24, calculará correctamente el costo total de los bonos?",
+    "opciones": [
+      {
+        "texto": "a) =SUMA(Q2:Q19) * (PROMEDIO(R2:R19))",
+        "es_correcta": false,
+        "explicacion": "Esta operación multiplicaría la masa salarial global por un porcentaje medio, desvirtuando el cálculo individualizado de cada bono real. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(Q2:Q19;R2:R19)",
+        "es_correcta": false,
+        "explicacion": "La función sumaría de forma agregada los valores monetarios mezclados con los coeficientes porcentuales, arrojando una cifra errónea. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "c) =SUMA(Q2:Q19)+SUMA(R2:R19)",
+        "es_correcta": false,
+        "explicacion": "Adiciona los dos rangos de forma lineal e independiente, sin ejecutar la operación de producto indexado requerida para hallar los bonos. Referencia: Entorno y funciones de Microsoft Excel 365."
+      },
+      {
+        "texto": "d) =SUMAPRODUCTO(Q2:Q19;R2:R19)",
+        "es_correcta": true,
+        "explicacion": "SUMAPRODUCTO multiplica par a par los elementos homólogos de las matrices dadas y calcula la sumatoria consolidada del coste de los bonos. Referencia: Entorno y funciones de Microsoft Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué ocurre en Word 365 al seleccionar texto, pulsar Ctrl+F3, y luego repetir la acción con otra parte del texto una o varias veces?",
+    "opciones": [
+      {
+        "texto": "a) Se insertan marcadores ocultos que pueden utilizarse como campos de combinación en la correspondencia personalizada.",
+        "es_correcta": false,
+        "explicacion": "La combinación de correspondencia exige orígenes de datos estructurados y campos lógicos, ajenos a este comando de teclado rápido. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "b) Se almacenan en un portapapeles especial llamado \"Spike\" para luego pegarlos todos juntos con Ctrl+Shift+F3.",
+        "es_correcta": true,
+        "explicacion": "La combinación Ctrl+F3 activa la funcionalidad oculta 'Spike' (Especial), cortando de forma acumulativa elementos para su posterior volcado conjunto. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "c) Se cortan y almacenan como elementos independientes en el historial del portapapeles de Windows, accesibles desde cualquier aplicación.",
+        "es_correcta": false,
+        "explicacion": "El historial global de Windows se dispara mediante la combinación nativa Tecla Windows + V, actuando de forma independiente al motor interno de Office. Referencia: Interfaz y funciones de Microsoft Word 365."
+      },
+      {
+        "texto": "d) Se transforman en una lista de entradas rápidas que se pueden reutilizar mediante autocompletar si se activa el modo desarrollador.",
+        "es_correcta": false,
+        "explicacion": "Las funciones de autocompletado y bloques de construcción se administran desde las galerías de elementos rápidos, desvinculadas de este comando. Referencia: Interfaz y funciones de Microsoft Word 365."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "pregunta": "Dentro del supuesto Word, para dar formato a todo el texto que comienza en \"El Plan Estratégico\" y finaliza en \"diferenciadas por género\". ¿Cuál de las opciones siguientes es la correcta?",
+    "opciones": [
+      {
+        "texto": "a) Diseño > Formato texto > Columnas.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Diseño coordina temas estilísticos generales y colores de fondo, delegando la maquetación geométrica de las páginas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Diseño > Formato texto > Cuadro texto.",
+        "es_correcta": false,
+        "explicacion": "Los cuadros de texto configuran objetos flotantes independientes que rompen el flujo normal y continuo de la prosa del manuscrito. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Diseño de página > Configurar página > Columnas.",
+        "es_correcta": true,
+        "explicacion": "La división formal de un bloque de texto en columnas periodísticas se articula desde el grupo Configurar Página de Diseño de Página. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Diseño de página > Configurar página > Cuadro texto.",
+        "es_correcta": false,
+        "explicacion": "El menú de Configurar Página gobierna márgenes, orientaciones y columnas, careciendo de asistentes para insertar contenedores de formas. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Qué opción se utiliza en Word 2013 para realizar el elemento marcado con el Nº 3 en el supuesto Word?",
+    "opciones": [
+      {
+        "texto": "a) Diseño > Fuentes > Superíndice.",
+        "es_correcta": false,
+        "explicacion": "El superíndice es un mero formato estético de fuente alojado en la pestaña Inicio, incapaz de anclar una nota vinculada al cierre de la página. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Inicio > Formato texto > Insertar cita.",
+        "es_correcta": false,
+        "explicacion": "La inyección formal de citas y referencias académicas no reside en los comandos de edición del menú básico de Inicio. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Referencias > Notas al pie > Insertar nota al pie.",
+        "es_correcta": true,
+        "explicacion": "Para habilitar una llamada numérica superíndice indexada a una anotación en la linde inferior se usa Insertar Nota al Pie. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Revisar > Comentarios > Mostrar marcas.",
+        "es_correcta": false,
+        "explicacion": "Mostrar marcas es un comando de control de cambios destinado a visualizar ediciones en el margen derecho, ajeno a las notas estables. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "pregunta": "Para crear el elemento marcado con el Nº 4 en el supuesto Word, ¿qué opción se utiliza en Word 2013?",
+    "opciones": [
+      {
+        "texto": "a) Insertar > Formas > Diagrama de flujo.",
+        "es_correcta": false,
+        "explicacion": "Las formas exigen dibujar y enlazar rectángulos o flechas uno a uno de forma estática, careciendo de la cohesión dinámica del anexo. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Insertar > WordArt > Ciclo.",
+        "es_correcta": false,
+        "explicacion": "WordArt se limita de forma exclusiva a estilizar textos mediante efectos volumétricos cromáticos o siluetas decorativas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Insertar > SmartArt > Ciclo.",
+        "es_correcta": true,
+        "explicacion": "La infografía circular dinámica que ilustra el supuesto se confecciona mediante un objeto SmartArt seleccionando la categoría Ciclo. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Insertar > Gráfico > Ciclo.",
+        "es_correcta": false,
+        "explicacion": "La herramienta Gráfico se destina a representar magnitudes estadísticas numéricas alimentadas por tablas (ej. sectores o barras). Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "pregunta": "Para realizar la suma de valores en la celda marcada con el º 5 de la columna \"CyL\" en la tabla situada al final de la página del supuesto Word, ¿qué opción se utiliza en Word 2013?",
+    "opciones": [
+      {
+        "texto": "a) Herramientas de tabla > Diseño > Filas de totales.",
+        "es_correcta": false,
+        "explicacion": "La opción Fila de Totales en la pestaña de Diseño aplica un formato estético de doble línea a la celda inferior, sin calcular operaciones. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Herramientas de tabla > Presentación > Fórmula.",
+        "es_correcta": true,
+        "explicacion": "Para inyectar sumatorias u operaciones lógicas dentro de una celda de tabla en Word se utiliza el comando Fórmula de Presentación. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) No se pueden insertar fórmulas en Word 2013.",
+        "es_correcta": false,
+        "explicacion": "Es falso, ya que el procesador de textos incluye desde versiones antiguas un motor de fórmulas básicas de campo como '=SUM(ABOVE)'. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Insertamos la función =SUMAR (B2:B10) desde Excel.",
+        "es_correcta": false,
+        "explicacion": "La sintaxis propuesta mezcla erronéamente comandos y rompe las rutas de edición directa sobre la tabla nativa del supuesto de Word. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "pregunta": "Al abrir el documento del supuesto Word nos aparece este mensaje: ¿Qué significa?",
+    "opciones": [
+      {
+        "texto": "a) Indica la presencia de un software malicioso en el archivo, por lo que no se debe abrir.",
+        "es_correcta": false,
+        "explicacion": "El aviso corresponde a un mensaje de control ordinario del sistema y no a una alerta epidemiológica de virus informático de Windows Defender. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) El archivo está abierto por otro usuario, confirmando aceptaremos los cambios.",
+        "es_correcta": false,
+        "explicacion": "Los bloqueos por concurrencia multiusuario se anuncian con ventanas informativas de modo de lectura o de archivos de propietario. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Este documento obtiene datos de un archivo externo, en los campos insertados.",
+        "es_correcta": true,
+        "explicacion": "El aviso de comando SQL confirma que el texto está enlazado a un origen de datos externo (ej. base de datos de correspondencia). Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) No debemos continuar y contactar con el administrador del sistema.",
+        "es_correcta": false,
+        "explicacion": "El mensaje solicita una confirmación afirmativa del usuario para reactivar el enlace de datos legítimo previamente configurado. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "pregunta": "Indicar cómo se puede crear el elemento que aparece marcado con el Nº 2 en el supuesto Word.",
+    "opciones": [
+      {
+        "texto": "a) Insertar tabla de 2 filas por 7 columnas. Combinar celdas de la primera fila, incluir texto, y en dirección de texto, modificar la orientación y aplicar formato de letra cursiva. Seleccionar celdas de la fila 2, párrafo numeración crear lista numerada.",
+        "es_correcta": false,
+        "explicacion": "Dicha secuencia estructuraría la tabla de forma horizontal, invirtiendo la disposición vertical por columnas observable en el anexo. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Crear cuadro de texto. Dividir cuadro de texto en 7. Insertar párrafo numeración, crear lista numerada. Crear nuevo cuadro de texto. Cambiar orientación cuadro de texto. Cambiar fuente texto cursiva. Pegar cuadros de texto.",
+        "es_correcta": false,
+        "explicacion": "El uso de cuadros de texto múltiples dificulta el alineamiento geométrico exacto de las celdas y los flujos estables de información. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Insertar tabla de 7 filas por 2 columnas. Combinar celdas de la primera columna, incluir texto, y en dirección de texto, modificar la orientación. Seleccionar celdas de la columna 2, párrafo numeración, crear lista numerada.",
+        "es_correcta": true,
+        "explicacion": "Modela de forma exacta la cuadrícula de 7 filas y 2 columnas con la primera celda fusionada y el texto volteado verticalmente 90 grados. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Crear cuadro de texto. Combinar cuadro de texto. Insertar viñetas numeración. Crear nuevo cuadro de texto. Cambiar orientación cuadro de texto. Cambiar fuente texto cursiva. Pegar ambos cuadros de texto.",
+        "es_correcta": false,
+        "explicacion": "La terminología 'combinar cuadros de texto' carece de sentido operativo o de comandos funcionales homólogos en la aplicación. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Cómo se ha añadido el texto \"COPIA FALSA\" en el supuesto Word?",
+    "opciones": [
+      {
+        "texto": "a) Diseño > Fondo de página > Imagen de fondo, y eligiendo una imagen con el texto \"COPIA FALSA\".",
+        "es_correcta": false,
+        "explicacion": "La ruta confunde las herramientas de marca de agua tipográficas estables con la inyección genérica de lienzos de imágenes en el tapiz. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Insertando un cuadro de texto con ese texto y formateándolo.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora unificada valida la inyección del texto 'COPIA FALSA' mediante el recurso de un cuadro de texto formateado en segundo plano. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "c) Únicamente se puede añadir como una imagen creada con un programa externo.",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que el propio procesador de textos implementa de forma nativa asistentes de marcas de agua y de edición de formas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Insertando un texto con esa fuente y color, seleccionándolo y eligiendo la opción \"Enviar detrás\".",
+        "es_correcta": false,
+        "explicacion": "El texto ordinario de párrafo no puede desplazarse libremente entre planos tridimensionales de profundidad a menos que flote en un objeto. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "pregunta": "Durante la redacción del supuesto Word tenemos que rehacer una edición en el texto. ¿Qué combinación de teclas, de entre las siguientes, es el atajo de teclado de \"Rehacer\"?",
+    "opciones": [
+      {
+        "texto": "a) Control + Y",
+        "es_correcta": true,
+        "explicacion": "La combinación rápida abreviada Ctrl + Y restaura de forma directa la última acción revertida por el comando deshacer. Referencia: Atajos de teclado de Microsoft Word."
+      },
+      {
+        "texto": "b) Control + R",
+        "es_correcta": false,
+        "explicacion": "El comando Ctrl + R ejecuta la recarga o refresco de datos en entornos web o se asocia a la alineación derecha en ciertas versiones. Referencia: Atajos de teclado de Microsoft Word."
+      },
+      {
+        "texto": "c) Control + S",
+        "es_correcta": false,
+        "explicacion": "La combinación Ctrl + S aplica un subrayado continuo al texto seleccionado en la suite ofimática en español. Referencia: Atajos de teclado de Microsoft Word."
+      },
+      {
+        "texto": "d) Mayúsculas + R",
+        "es_correcta": false,
+        "explicacion": "Esta pulsación combinada simplemente imprime de forma directa el carácter de la letra 'R' en caja alta o mayúscula. Referencia: Atajos de teclado de Microsoft Word."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué de podemos habilitar o deshabilitar las macros en Word 2013 en este supuesto Word?",
+    "opciones": [
+      {
+        "texto": "a) No se pueden deshabilitar ya que no funcionaría Word correctamente.",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que desactivar la ejecución de automatizaciones de código macro es la pauta básica recomendada de ciberseguridad. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Desde la configuración del centro de confianza.",
+        "es_correcta": true,
+        "explicacion": "La administración avanzada de los permisos de ejecución de macros se localiza en el Centro de Confianza dentro de Opciones. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Desde la configuración de seguridad.",
+        "es_correcta": false,
+        "explicacion": "Dicha nomenclatura no se corresponde de forma literal con los menús internos de la aplicación. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Desde la opción de Cuenta.",
+        "es_correcta": false,
+        "explicacion": "El panel de Cuenta administra las credenciales del usuario, las licencias del software y los temas visuales del entorno ofimático. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "pregunta": "Se desea ordenar los datos de las tablas del supuesto Word por filas. Señale la respuesta correcta para realizarlo en Word 2013.",
+    "opciones": [
+      {
+        "texto": "a) Hacer clic con el botón derecho en la tabla, seleccionar \"Ordenar\", elegir \"Ordenar por filas\" en el cuadro de diálogo y especificar el criterio de ordenación.",
+        "es_correcta": false,
+        "explicacion": "El menú contextual del botón derecho no indexa el comando avanzado de reordenación matricial de tablas de forma directa. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Seleccionar la tabla, ir a \"Herramientas de tabla\" > \"Presentación\", elegir \"Ordenar\" y \"Ordenar por columnas\" y luego especificar la columna y el criterio de ordenación.",
+        "es_correcta": false,
+        "explicacion": "Dicha ruta describe la ordenación vertical estándar por columnas, solución contraria al requerimiento por filas solicitado. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) No es posible ordenar una tabla por filas en Word; esta funcionalidad está limitada a la ordenación por columnas.",
+        "es_correcta": true,
+        "explicacion": "La plantilla correctora del ejercicio ratifica como correcta la opción c debido a las limitaciones del motor de tablas nativo de Word. Referencia: Plantilla Oficial Examen."
+      },
+      {
+        "texto": "d) Seleccionar la tabla, ir a \"Herramientas de tabla\" > \"Presentación\", elegir \"Ordenar\" y \"Ordenar por filas\" y luego especificar la fila y el criterio de ordenación.",
+        "es_correcta": false,
+        "explicacion": "El cuadro de diálogo del procesador carece de un conmutador nativo para alterar el sentido de ordenación horizontal por filas. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "pregunta": "Varias personas trabajan en el supuesto de Word 2013 y dejan sugerencias, comentarios o notas para otros colaboradores, ¿Qué procedimiento han de seguir?",
+    "opciones": [
+      {
+        "texto": "a) Word 2013 no permite agregar comentarios en documentos; esta función solo está disponible en versiones más recientes.",
+        "es_correcta": false,
+        "explicacion": "Es falso, puesto que las anotaciones y comentarios colaborativos en el margen constituyen una herramienta troncal desde versiones antiguas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) En la pestaña \"Inicio\", seleccionar \"Comentario\" y escribir el comentario en el margen del documento.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Inicio no aloja las utilidades de revisión de textos ni de inserción de acotaciones marginales. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Utilizar la pestaña \"Vista\" para activar el modo \"Revisión\" y dejar comentarios en la barra lateral.",
+        "es_correcta": false,
+        "explicacion": "La barra de Vista comanda zooms, diseños de impresión y ventanas, declinando el aparato de revisión en otra cinta dedicada. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Ir a la pestaña \"Revisar\" y seleccionar \"Nuevo comentario\" después de resaltar el texto sobre el cual se quiere comentar.",
+        "es_correcta": true,
+        "explicacion": "La inserción ordenada de acotaciones marginales de edición se ejecuta pulsando 'Nuevo comentario' dentro de la pestaña Revisar. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "pregunta": "En el supuesto Word se requiere visualizar y editar simultáneamente dos secciones diferentes del mismo, ¿cuál es el método adecuado para realizarlo dentro de la misma ventana en Word 2013?",
+    "opciones": [
+      {
+        "texto": "a) Utilizar la opción \"Ver en paralelo\" en la pestaña \"Vista\" para comparar dos documentos diferentes.",
+        "es_correcta": false,
+        "explicacion": "La comparación en paralelo exige abrir obligatoriamente dos archivos independientes e individuales en ventanas secundarias. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Abrir una nueva instancia del documento usando \"Nueva Ventana\" en la pestaña \"Vista\" y ajustar las ventanas manualmente.",
+        "es_correcta": false,
+        "explicacion": "Esta acción duplica la interfaz abriendo una segunda ventana completa de la aplicación, rompiendo la condición de usar una sola ventana. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Seleccionar \"Dividir\" en la pestaña \"Vista\", lo que permite trabajar en dos secciones del mismo documento en una sola ventana.",
+        "es_correcta": true,
+        "explicacion": "El comando Dividir fractura horizontalmente el tapiz de la ventana única en dos paneles con barras de desplazamiento autónomas. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Seleccionar \"Revisar panel\" en la pestaña \"Revisar\", lo que permite trabajar en dos paneles del mismo documento en una sola ventana.",
+        "es_correcta": false,
+        "explicacion": "El panel de revisión lista de forma lineal las modificaciones y comentarios textuales, incapaz de ofrecer un lienzo completo de edición duplicado. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "pregunta": "En la elaboración del supuesto Word, utilizamos frecuentemente \"Castilla y León\". Señale la respuesta correcta para crear un bloque de \"Autotexto\" con este texto.",
+    "opciones": [
+      {
+        "texto": "a) Copiar el texto a un nuevo documento, guardarlo como una plantilla (.dot) y usarlo como base para nuevos informes.",
+        "es_correcta": false,
+        "explicacion": "Esta acción genera un archivo maestro estructural estático, alejándose de las propiedades dinámicas de los bloques de autotexto. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Utilizar \"Archivo\" > \"Opciones\" > \"Complementos\" > \"Autotexto\" para crear un nuevo complemento que incluya el texto.",
+        "es_correcta": false,
+        "explicacion": "Los complementos cargan librerías y extensiones externas (.dll o .dotm), desvinculados del diccionario de bloques del usuario. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Ir a \"Revisar\" > \"Comparar\" y utilizar la opción \"Autotexto\" para insertar el texto en nuevos documentos.",
+        "es_correcta": false,
+        "explicacion": "El comando Comparar contrasta analíticamente dos versiones de archivos para resaltar diferencias, careciendo de estas funciones de autocompletado. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Seleccionar el texto, ir a \"Insertar\" > \"Elementos rápidos\" > \"Autotexto\" y elegir \"Guardar selección en galería de autotexto\".",
+        "es_correcta": true,
+        "explicacion": "La indexación permanente de un término recurrente exige almacenarlo en los Elementos Rápidos bajo el comando Autotexto. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "pregunta": "Al realizar la combinación de correspondencia en el supuesto Word, ¿cómo podemos asegurarnos de que los campos combinados como Campo_de_dirección_1 se rellenen correctamente con la información de nuestra base de datos?",
+    "opciones": [
+      {
+        "texto": "a) Correspondencia > Comprobar errores.",
+        "es_correcta": false,
+        "explicacion": "La comprobación de errores simula el volcado definitivo para capturar fallos de formato o conexión, sin ofrecer una previsualización interactiva. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Correspondencia > Vista previa de resultados.",
+        "es_correcta": true,
+        "explicacion": "Pulsar 'Vista previa de resultados' sustituye de forma dinámica los campos técnicos por los valores reales de la primera fila de datos. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Correspondencia > Previsualizar y combinar.",
+        "es_correcta": false,
+        "explicacion": "Dicha terminología agrupa de forma inexacta dos fases operativas diferenciadas de la barra de combinación de correspondencia. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Revisar > Comprobar errores.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Revisar aloja el corrector ortográfico e idiomático, ajena por completo a las herramientas de combinación postal. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "pregunta": "En la celda B3 del supuesto Excel 2013 teníamos este texto: \"1-nov.-2023 23-nov.-2023 U E España 18.103 4.330 9.704 4.069 8.640 9.463 72.412 2.534.420 22\". Para incorporarlo en diferentes celdas y columnas, tal y como se observa en el supuesto, debemos seguir una de las siguientes rutas. Señale la correcta:",
+    "opciones": [
+      {
+        "texto": "a) Menú Revisar Actualizar todo → Datos.",
+        "es_correcta": false,
+        "explicacion": "La actualización general recompila conexiones externas y tablas dinámicas, incapaz de fracturar cadenas de texto complejas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Menú Datos → Texto en columnas → Delimitados.",
+        "es_correcta": true,
+        "explicacion": "La herramienta Texto en Columnas con la opción Delimitados trocea un texto largo distribuyendo las palabras separadas por espacios en celdas anexas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Menú Insertar → Texto → Datos.",
+        "es_correcta": false,
+        "explicacion": "El bloque de inserción de textos inyecta objetos flotantes de diseño como WordArt, ajeno a las transformaciones lógicas de registros de datos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) No es posible realizar esta tarea desde Excel 2013.",
+        "es_correcta": false,
+        "explicacion": "Es falso, pues el asistente de conversión de texto plano en matrices de celdas es una función básica de gestión de datos del software. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Cómo crear la lista desplegable en Excel 2013 tal y como se observa en las celdas de la columna \"Zona\" en el supuesto?",
+    "opciones": [
+      {
+        "texto": "a) Revisar → Relleno rápido → Mensaje de entrada \"Lista\" → Origen: Seleccionar celdas con los datos de la lista.",
+        "es_correcta": false,
+        "explicacion": "El relleno rápido predice patrones de escritura secuenciales de caracteres, desvinculado de la creación de menús desplegables. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Datos → Relleno rápido → Configuración → Permitir \"Lista\" Seleccionar celdas con los datos de la lista en Origen.",
+        "es_correcta": false,
+        "explicacion": "Mezcla de forma defectuosa herramientas automáticas de transcripción de texto con los cuadros de diálogo de restricciones de celda. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Datos → Validar datos → Configuración → Permitir \"Lista\" Origen: Seleccionar celdas con los datos de la lista.",
+        "es_correcta": true,
+        "explicacion": "La inyección de menús desplegables restrictivos se instrumenta mediante la herramienta Validación de Datos seleccionando el criterio Lista. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Revisar → Validar datos → Configuración → Permitir \"Lista\" Origen: Seleccionar celdas con los datos de la lista.",
+        "es_correcta": false,
+        "explicacion": "El asistente de restricciones y validaciones de celdas se localiza en la pestaña Datos y no en el bloque de corrección de Revisar. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "pregunta": "Para incluir varias líneas de texto en una sola celda, como se observa en la celda B2 del supuesto Excel, señale la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Desde Inicio → Alineación → Combinar y centrar.",
+        "es_correcta": false,
+        "explicacion": "Combinar y centrar unifica físicamente múltiples celdas independientes en un único bloque contenedor, sin forzar saltos internos de renglón. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Desde Datos → Herramientas de datos → Texto en columnas.",
+        "es_correcta": false,
+        "explicacion": "La segmentación dispersa los términos fragmentados expandiéndolos horizontalmente en celdas anexas y vacías a la derecha. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Mantener pulsada la tecla Alt y pulsar la tecla Intro.",
+        "es_correcta": true,
+        "explicacion": "La combinación abreviada Alt + Intro inserta un salto de línea forzado en la posición del cursor dentro de una misma celda. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Mantener pulsada la tecla Shift y pulsar la tecla Intro.",
+        "es_correcta": false,
+        "explicacion": "Pulsar Shift + Intro desplaza de forma física el foco de selección de la celda activa hacia la fila inmediatamente superior de la cuadrícula. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "pregunta": "Para conseguir las iniciales que se observan en la celda C23 obteniéndolas de la celda B23 del supuesto Excel, señale la respuesta que no obtiene ese resultado:",
+    "opciones": [
+      {
+        "texto": "a) =MAYUSC(IZQUIERDA (B23;2))",
+        "es_correcta": false,
+        "explicacion": "Esta expresión es válida porque extrae los primeros dos caracteres y los transforma correctamente a letras mayúsculas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =EXTRAE(MAYUSC(B23;1;2))",
+        "es_correcta": true,
+        "explicacion": "Es la opción errónea (a marcar) porque sitúa el cierre del paréntesis de MAYUSC de forma anómala, invalidando los argumentos de posición de EXTRAE. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =MAYUSC(EXTRAE (B23;1;2))",
+        "es_correcta": false,
+        "explicacion": "Constituye una sintaxis correcta y válida al recortar el bloque desde el índice inicial uno con un alcance de dos dígitos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =REEMPLAZAR (B23;1;10; (MAYUSC(IZQUIERDA(B23;2))))",
+        "es_correcta": false,
+        "explicacion": "Aunque compleja, la fórmula funciona al sustituir de forma efectiva el arranque del texto por el segmento decapitalizado de dos letras. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "pregunta": "En la tabla dinámica del supuesto Excel ¿cómo hemos insertado el campo calculado con el nombre \"Coste día estancia\"?",
+    "opciones": [
+      {
+        "texto": "a) Herramientas de tabla dinámica → Analizar → Cálculos → Campos, elementos y conjuntos → Campo calculado → Insertar campo calculado → Poner nombre y fórmula.",
+        "es_correcta": true,
+        "explicacion": "La ruta exacta y reglada para inyectar un campo matemático personalizado en una dinámica se aloja en la pestaña Analizar bajo Cálculos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Herramientas de tabla dinámica → Lista de campos → Configuración campo valor → Resumir valores por → Resumir campo de valor por → Poner nombre y fórmula.",
+        "es_correcta": false,
+        "explicacion": "La configuración de campo de valor altera el tipo de agregación estadística (suma, cuenta, promedio) de métricas ya existentes. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Herramientas de tabla dinámica → Diseño → Cálculos → Campos, elementos y conjuntos → Campo calculado → Insertar campo calculado → Poner nombre y fórmula.",
+        "es_correcta": false,
+        "explicacion": "La pestaña Diseño gobierna aspectos cromáticos, disposiciones de subtotales y estilos de cuadrícula, sin herramientas operativas de cálculo. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Herramientas de tabla dinámica → Campo activo → Configuración campo valor → Resumir valores por → Resumir campo de valor por → Poner nombre y fórmula.",
+        "es_correcta": false,
+        "explicacion": "Incapaz de crear nuevas variables indexadas al modelo relacional de datos de la tabla al limitarse a formatear la métrica activa. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Cuál sería la función correcta en Excel 2013 para que en la celda G33 del supuesto Excel se rellene con el número de provincias que tiene un número total de visitantes menor de 8000?",
+    "opciones": [
+      {
+        "texto": "a) =CONTAR(I22:I30;\"<8000\")",
+        "es_correcta": false,
+        "explicacion": "La función CONTAR clásica computa de forma exclusiva celdas con valores numéricos brutos, rechazando criterios lógicos condicionales. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =CONTAR.SI(I22:I30<;\"8000\")",
+        "es_correcta": false,
+        "explicacion": "Sitúa de forma defectuosa el operador de comparación fuera del bloque de las comillas que delimitan el argumento del criterio. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =CONTAR.SI(I22:I30;\"<8000\")",
+        "es_correcta": true,
+        "explicacion": "La función CONTAR.SI escanea el rango geográfico vectorial evaluando de forma correcta la condición lógica menor que 8000. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =CONTAR.SI(\"<8000\"; I22:I30)",
+        "es_correcta": false,
+        "explicacion": "Invierte la sintaxis obligada de los argumentos al posicionar el criterio condicional antes del rango de celdas objeto de examen. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Cuál sería la función correcta en Excel 2013 para que en la celda H34 del supuesto de Excel se muestre la suma de los habitantes de las provincias que tengan un número de habitantes inferior a la media aritmética de los habitantes de todas las provincias?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO (I22:I30; I22:I30; \"<\"&PROMEDIO (I22:I30))",
+        "es_correcta": true,
+        "explicacion": "La expresión concatena correctamente el operador menor mediante '&' al promedio dinámico calculado sobre el vector de datos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =SUMAR.SI.CONJUNTO (I22:I30; I12:I20; \"<\"&MEDIA (I22:I30))",
+        "es_correcta": false,
+        "explicacion": "El comando 'MEDIA' no constituye una función nativa catalogada para calcular el promedio aritmético en la versión en español. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =SUMAR.SI(I22:I30; I12:I20; \"<\"&PROMEDIO(I22:I30))",
+        "es_correcta": false,
+        "explicacion": "Apunta a un vector de celdas secundario inconexo que altera las coordenadas y correspondencias de las filas del supuesto. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =SUMAR.SI(I22:I30; I12:I20; \"<\"&MEDIA (I22:I30))",
+        "es_correcta": false,
+        "explicacion": "Incurre en un doble error crítico al invocar funciones aritméticas inexistentes y cruzar rangos de control desalineados. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Cuál es la función correcta en Excel 2013 para que en la celda R4 del supuesto se muestre el dato de la tabla que corresponde al contenido de las celdas P3 y Q3?",
+    "opciones": [
+      {
+        "texto": "a) INDICE(E2:M19;BUSCAR (P3;E2:E19;0); BUSCAR(Q3;E2:M2;0))",
+        "es_correcta": false,
+        "explicacion": "La función BUSCAR carece del argumento posicional cero de coincidencia exacta que sí caracteriza al comando homólogo COINCIDIR. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =BUSCAR (E2:M19;COINCIDIR(P3;E2:E19;0); COINCIDIR(Q3;E2:M2;0))",
+        "es_correcta": false,
+        "explicacion": "El comando de cruce matricial por excelencia exige liderar la fórmula mediante la función INDICE y nunca mediante BUSCAR. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) INDICE(E2:M19; COINCIDIR(P3,Q3;E2:E19;0))",
+        "es_correcta": false,
+        "explicacion": "Agrupa de forma defectuosa los dos criterios independientes en un único vector incapaz de resolver el cruce de coordenadas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =INDICE(E2:M19; COINCIDIR (P3;E2:E19;0); COINCIDIR (Q3;E2:M2;0))",
+        "es_correcta": true,
+        "explicacion": "La combinación INDICE y COINCIDIR localiza el valor de intersección cruzando la coordenada de fila y de columna de forma exacta. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Cuál es la forma correcta en Excel 2013 de conseguir que en la celda B22 del supuesto se cambie el formato automáticamente sombreado gris, si la columna correspondiente el \"Nº de días de viajeros\" es superior a la media, como vemos en el supuesto.",
+    "opciones": [
+      {
+        "texto": "a) En Excel 2013 no se puede aplicar formato condicional a una celda en función de otra.",
+        "es_correcta": false,
+        "explicacion": "Es falso, ya que la inserción de fórmulas lógicas personalizadas en las reglas permite condicionar el aspecto de celdas secundarias. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Inicio → formato condicional → nueva regla que utilice la formula \"=L22>PROMEDIO(L22:L30)\" y configurando el formato.",
+        "es_correcta": true,
+        "explicacion": "La parametrización evalúa mediante una fórmula de formato condicional la comparación dinámica frente al promedio del rango dado. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Inicio → formato condicional → nueva regla que utilice la formula \"=>MEDIA(L22:L30)\" y configurando el formato.",
+        "es_correcta": false,
+        "explicacion": "La expresión carece del signo igual inicial regulador de fórmulas e invoca la función inexistente 'MEDIA' en castellano. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Insertar la función =SI(L22>MEDIA(L22;L30);FORT\"Q\";0), y configurar el formato \"Q\" con las características que queremos.",
+        "es_correcta": false,
+        "explicacion": "Las funciones lógicas de celda devuelven datos o textos, resultando incapaces de alterar propiedades estéticas del entorno. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "pregunta": "Si en la hoja del supuesto Excel queremos hacer referencia a una celda de otra hoja del mismo libro, ¿cómo debemos referenciar dicha hoja?",
+    "opciones": [
+      {
+        "texto": "a) El nombre de la hoja seguido del símbolo \"!\"",
+        "es_correcta": true,
+        "explicacion": "La sintaxis estándar exige cerrar la designación nominal de la pestaña de origen mediante el signo de exclamación '!'. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) El nombre de la hoja seguido del símbolo \"@\"",
+        "es_correcta": false,
+        "explicacion": "El carácter arroba '@' opera en versiones modernas como un operador de intersección implícita para la gestión de matrices dinámicas. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) El símbolo \"&\" seguido del nombre de la hoja.",
+        "es_correcta": false,
+        "explicacion": "El operador comercial '&' se reserva de forma exclusiva para instrumentar la unión o concatenación de hilos de texto. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) El nombre de la hoja seguido del símbolo \"$\"",
+        "es_correcta": false,
+        "explicacion": "El signo del dólar '$' se emplea para fijar referencias absolutas de filas o columnas, impidiendo su desplazamiento al arrastrar. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "pregunta": "Por seguridad queremos cambiar la ruta donde se guarda la copia de autorrecuperación del supuesto Excel. Indicar la respuesta correcta.",
+    "opciones": [
+      {
+        "texto": "a) Desde Archivo → Opciones → General → Guardar.",
+        "es_correcta": false,
+        "explicacion": "El submenú General coordina parámetros de la interfaz visual y tipografías por defecto, delegando el almacenamiento en otra sección. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Desde Archivo → Guardar como → Autorrecuperación.",
+        "es_correcta": false,
+        "explicacion": "El comando Guardar Como duplica el archivo activo de forma estática en una ubicación local, sin alterar la configuración del software. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Desde Archivo → Opciones → Guardar.",
+        "es_correcta": true,
+        "explicacion": "La modificación técnica de los directorios de salvaguarda automática del sistema se aloja en el apartado Guardar de Opciones. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Desde Archivo → Opciones → Avanzadas.",
+        "es_correcta": false,
+        "explicacion": "Las opciones Avanzadas gobiernan parámetros de edición, cálculo y visualización de gráficos, sin centralizar las rutas de salvamento. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "pregunta": "En la primera tabla del supuesto Excel tenemos datos de visitantes por país y por zona. Nos piden la suma total de los ingresos exclusivamente para los países de la zona \"U E\", ¿cuál de las siguientes fórmulas en Excel 2013 proporcionaría el resultado correcto?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI(D3:D19; \"Zona=U E\"; L2:L17)",
+        "es_correcta": false,
+        "explicacion": "La inclusión del nombre del campo dentro de la cadena del criterio impide al motor emparejar los registros con el texto 'U E'. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) =SUMAR.SI(D3:D19; \"U E\"; L3:L19)",
+        "es_correcta": true,
+        "explicacion": "La función SUMAR.SI evalúa de forma válida el vector de zonas buscando el texto y agregando las magnitudes de ingresos alineadas (corregido rango según anexo). Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =SUMAR.SI(D3:D19; \"U E\"; INGRESOS)",
+        "es_correcta": false,
+        "explicacion": "La alusión a una etiqueta nominal general exige la previa y formal delimitación de un rango de nombre definido en la hoja. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =SUMA.CUANDO(ZONA; \"U E\"; Ingresos)",
+        "es_correcta": false,
+        "explicacion": "La expresión 'SUMA.CUANDO' constituye una traducción literal errónea que no figura indexada en la biblioteca de fórmulas. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Cómo se puede proteger el rango de celdas (F3:F18) en el supuesto Excel para evitar que se realicen cambios no autorizados?",
+    "opciones": [
+      {
+        "texto": "a) Revisar → Proteger hoja → Seleccionar celdas bloqueadas → Introducir contraseña.",
+        "es_correcta": true,
+        "explicacion": "La activación formal de las restricciones de edición exige pulsar Proteger Hoja dentro de la pestaña de validación de Revisar. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Inicio → Formato → Ocultar celdas → Introducir contraseña.",
+        "es_correcta": false,
+        "explicacion": "La acción de ocultar simplemente suprime visualmente la columna de la pantalla, sin bloquear su edición por el usuario. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Archivo → Opciones → Bloquear celdas → Introducir contraseña.",
+        "es_correcta": false,
+        "explicacion": "El backstage de Opciones parametriza el motor global del programa, careciendo de mandatos operativos sobre rangos particulares. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Revisar → Opciones → Bloquear celdas → Introducir contraseña.",
+        "es_correcta": false,
+        "explicacion": "La barra de herramientas de Revisar no estructura ningún submenú directo bajo la denominación secuencial de Opciones. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "pregunta": "La siguiente figura tiene los datos dentro de las columnas del gráfico, ¿cómo añadimos este elemento al gráfico?",
+    "opciones": [
+      {
+        "texto": "a) Seleccionando el gráfico y añadiendo el elemento \"Etiqueta de datos\".",
+        "es_correcta": true,
+        "explicacion": "La inserción de las magnitudes numéricas sobre los prismas vectoriales se realiza activando el elemento Etiqueta de Datos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Seleccionando el gráfico y añadiendo el elemento \"Tabla de datos\".",
+        "es_correcta": false,
+        "explicacion": "La tabla de datos clona e incrusta la cuadrícula de origen completa al pie del eje horizontal, difiriendo del anexo. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Seleccionando el gráfico y en FORMATO DE GRÁFICO marcamos \"Mostrar datos\".",
+        "es_correcta": false,
+        "explicacion": "Dicha ruta y comando conceptual constituyen una denominación inexacta ausente en la cinta de opciones de gráficos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Seleccionando el gráfico y en FORMATO DE GRÁFICO marcamos \"Datos completos\".",
+        "es_correcta": false,
+        "explicacion": "No existen conmutadores con ese redactado literal destinados a gobernar los componentes de visualización del objeto. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "pregunta": "Si hacemos doble clic con el ratón sobre la esquina inferior derecha de la celda seleccionada que muestra 2.534.420 € del supuesto Excel, ¿qué es lo que ocurrirá?",
+    "opciones": [
+      {
+        "texto": "a) La fórmula se elimina de la celda.",
+        "es_correcta": false,
+        "explicacion": "La supresión de contenidos exige la intervención de comandos de borrado o pulsar la tecla suprimir del teclado. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Se abre una ventana emergente para editar la fórmula existente en la celda seleccionada.",
+        "es_correcta": false,
+        "explicacion": "La edición interna en ventana emergente corresponde a asistentes de inserción de funciones lógicas de la barra. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Excel copia automáticamente la fórmula hacia abajo en la columna, ajustándola para las filas correspondientes.",
+        "es_correcta": true,
+        "explicacion": "Hacer doble clic sobre el controlador de relleno propaga la fórmula verticalmente adaptando las referencias relativas por fila. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Se abre la barra de herramientas de formato condicional permitiendo realizar ajustes de formato basados en condiciones específicas de la propia celda.",
+        "es_correcta": false,
+        "explicacion": "El formato condicional se invoca desde los menús de la pestaña de Inicio y nunca mediante atajos del ratón de celda. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "pregunta": "En el supuesto Word al presionar la tecla \"Control\" y hacer clic en el texto \"1.176 millones de euros de gasto público total\", un hipervínculo te lleva al título de la tabla \"Inversión prevista por superficie\". ¿Qué método se emplea para configurar dicho hipervínculo en Word 2013?",
+    "opciones": [
+      {
+        "texto": "a) Seleccionar texto, Insertar un hipervínculo a un archivo o página web existente, nombrar el hipervínculo con el título de la tabla.",
+        "es_correcta": false,
+        "explicacion": "Este método crearía un enlace exógeno apuntando hacia un archivo secundario o URL de internet, erróneo para saltos internos. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "b) Crear un marcador y seguidamente crear un hipervínculo en el lugar correspondiente de este documento al marcador.",
+        "es_correcta": true,
+        "explicacion": "El salto interno exige etiquetar el destino mediante un Marcador para luego enlazarlo desde la herramienta de Hipervínculo. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "c) Cambiar el formato de texto con el color y subrayado de hipervinculación con el título de la tabla.",
+        "es_correcta": false,
+        "explicacion": "La mera alteración cromática y de subrayado aplica un formato cosmético inerte desprovisto de operatividad de salto digital. Referencia: Interfaz de Microsoft Word 2013."
+      },
+      {
+        "texto": "d) Nombrar la tabla con el texto del hipervínculo, crear una referencia interna al objeto \"Tabla 2\".",
+        "es_correcta": false,
+        "explicacion": "Las referencias cruzadas enlazan títulos numerados preexistentes, requiriendo un orden tipográfico ausente en el supuesto. Referencia: Interfaz de Microsoft Word 2013."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "pregunta": "En la columna N de la primera tabla del supuesto Excel calculamos el número de días registrados y además queremos que refleje cuales son los valores que están por encima o igual del percentil 67, entre 67 y 33, e inferiores a 33, con un icono. Señale la respuesta correcta:",
+    "opciones": [
+      {
+        "texto": "a) =([@[Periodo Final]]-[@[Período Inicio]]) a continuación desde la pestaña Inicio Estilos → Formato condicional → Nueva regla → Aplicar formato a todas las celdas según los valores → Conjunto de iconos y los valores indicados → Tipo: Percentil.",
+        "es_correcta": true,
+        "explicacion": "Resta de forma estructurada los campos temporales y aplica un formato condicional parametrizando iconos basados en percentiles de corte. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) DIAS(B3:B18-C3:C18) a continuación desde la pestaña Inicio Estilos → Formato condicional → Nueva regla → Aplicar formato a todas las celdas según los valores → Conjunto de iconos → los valores indicados Tipo: Porcentaje.",
+        "es_correcta": false,
+        "explicacion": "La sintaxis propuesta opera restas matriciales de vectores incompatibles con la estructura de campos lógicos del anexo. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) =DIAS(C3:C18-B3:B18) a continuación, desde la pestaña Inicio Estilos → Formato condicional → Nueva regla → Aplicar formato a todas las celdas según los valores → Conjunto de iconos → los valores indicados → Tipo: Percentil.",
+        "es_correcta": false,
+        "explicacion": "La función DIAS de Excel exige separar las celdas de inicio y fin mediante punto y coma y nunca con signos de sustracción algebraicos. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) =([@[Periodo Inicio]]-[@[Período Final]]) a continuación, desde la pestaña Inicio Estilos → Formato condicional → Nueva regla → Aplicar formato a todas las celdas según los valores → Conjunto de iconos y los valores indicados → Tipo: Percentil.",
+        "es_correcta": false,
+        "explicacion": "Invierte de forma defectuosa las variables cronológicas provocando un saldo de días negativo incongruente con las magnitudes del supuesto. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Cómo fijamos las dos primeras filas en la tabla Excel del supuesto?",
+    "opciones": [
+      {
+        "texto": "a) Seleccionar las dos primeras filas y en la pestaña Vista elegir inmovilizar Paneles.",
+        "es_correcta": false,
+        "explicacion": "Inmovilizar paneles congela las filas situadas estrictamente *por encima* de la selección, fijando aquí el error posicional. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "b) Seleccionar las dos primeras filas y en la pestaña Vista elegir inmovilizar Filas.",
+        "es_correcta": false,
+        "explicacion": "El comando estándar 'Inmovilizar fila superior' está restringido por diseño exclusivamente al primer renglón de la cuadrícula. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "c) Seleccionar la tercera fila y en la pestaña Vista elegir inmovilizar Paneles > Inmovilizar selección.",
+        "es_correcta": false,
+        "explicacion": "Involucra comandos y extensiones sintácticas inexistentes en la estructura de menús de congelación de ventanas del programa. Referencia: Manual de Microsoft Excel 2013."
+      },
+      {
+        "texto": "d) Seleccionar la tercera fila y en la pestaña Vista elegir inmovilizar Paneles.",
+        "es_correcta": true,
+        "explicacion": "Para clavar los dos primeros renglones es preceptivo situar el foco de selección en la tercera fila antes de pulsar Inmovilizar Paneles. Referencia: Manual de Microsoft Excel 2013."
+      }
+    ]
+  }
+]

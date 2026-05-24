@@ -30753,5 +30753,4789 @@
         "explicacion": "Abre accesibilidad. Referencia: Windows 11."
       }
     ]
+  },
+  {
+    "id": 1,
+    "pregunta": "¿Qué fórmula devuelve el número de caracteres de A2 sin contar espacios?",
+    "opciones": [
+      {
+        "texto": "a) =LARGO(SUSTITUIR(A2;\" \";\"\"))",
+        "es_correcta": true,
+        "explicacion": "Elimina espacios y luego cuenta caracteres. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =LARGO(A2)",
+        "es_correcta": false,
+        "explicacion": "Cuenta también los espacios. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =ESPACIOS(A2)",
+        "es_correcta": false,
+        "explicacion": "Solo ajusta espacios, no cuenta caracteres. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =CONTARA(A2)",
+        "es_correcta": false,
+        "explicacion": "Cuenta celdas, no caracteres. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué fórmula devuelve el valor medio de Q2:Q19 ignorando celdas vacías y errores?",
+    "opciones": [
+      {
+        "texto": "a) =AGREGAR(1;6;Q2:Q19)",
+        "es_correcta": true,
+        "explicacion": "AGREGAR con función 1 calcula la media ignorando errores. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =PROMEDIO(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "No ignora errores de forma específica. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SUMA(Q2:Q19)/CONTAR(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Puede fallar con errores. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI(Q2:Q19;\"<>#N/A\")",
+        "es_correcta": false,
+        "explicacion": "No es una sintaxis válida para errores. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 solo para registros cuya fecha en L2:L19 esté en el mismo mes que L2?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;L2:L19;\">=\"&FECHA(AÑO(L2);MES(L2);1);L2:L19;\"<\"&FECHA(AÑO(L2);MES(L2)+1;1))",
+        "es_correcta": true,
+        "explicacion": "Delimita el mes con dos fechas encadenadas. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;L2:L19;MES(L2))",
+        "es_correcta": false,
+        "explicacion": "No aplica el criterio de mes correctamente. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;L2:L19;MES(L2))",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma, y la sintaxis es incorrecta. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;L2:L19;MES(L2))",
+        "es_correcta": false,
+        "explicacion": "No filtra por mes de esa forma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué fórmula devuelve el segundo texto más largo de F2:F19?",
+    "opciones": [
+      {
+        "texto": "a) =INDICE(F2:F19;COINCIDIR(K.ESIMO.MAYOR(LARGO(F2:F19);2);LARGO(F2:F19);0))",
+        "es_correcta": true,
+        "explicacion": "Combina LARGO, K.ESIMO.MAYOR, COINCIDIR e INDICE. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SEGUNDO(F2:F19)",
+        "es_correcta": false,
+        "explicacion": "No existe esa función estándar. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAX(F2:F19;2)",
+        "es_correcta": false,
+        "explicacion": "MAX no devuelve el segundo texto más largo. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =INDICE(F2:F19;2)",
+        "es_correcta": false,
+        "explicacion": "Devuelve la segunda fila, no el segundo texto más largo. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué fórmula devuelve el importe total de Q2:Q19 redondeando cada valor a 2 decimales antes de sumar?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAPRODUCTO(REDONDEAR(Q2:Q19;2))",
+        "es_correcta": true,
+        "explicacion": "Redondea cada elemento y después suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =REDONDEAR(SUMA(Q2:Q19);2)",
+        "es_correcta": false,
+        "explicacion": "Redondea el total, no cada valor. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SUMA(REDONDEAR(Q2:Q19;2))",
+        "es_correcta": false,
+        "explicacion": "No es la forma más correcta sin evaluación matricial en este contexto. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO(REDONDEAR(Q2:Q19;2))",
+        "es_correcta": false,
+        "explicacion": "Calcula una media, no el total. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si el texto de O2 empieza por 'Aux'?",
+    "opciones": [
+      {
+        "texto": "a) =SI(IZQUIERDA(O2;3)=\"Aux\";Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Evalúa el prefijo con IZQUIERDA. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(DERECHA(O2;3)=\"Aux\";Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Comprueba el sufijo, no el prefijo. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(HALLAR(\"Aux\";O2);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "HALLAR devuelve posición, no verdadero/falso directamente. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(LARGO(O2)=3;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa el contenido. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 solo para los valores mayores que el promedio de Q2:Q19 y menores que el máximo?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;Q2:Q19;\">\"&PROMEDIO(Q2:Q19);Q2:Q19;\"<\"&MAX(Q2:Q19))",
+        "es_correcta": true,
+        "explicacion": "Aplica dos límites dinámicos sobre el mismo rango. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;\">\"&PROMEDIO(Q2:Q19);\"<\"&MAX(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "SUMAR.SI no admite dos criterios así. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;\">\"&PROMEDIO(Q2:Q19);\"<\"&MAX(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Cuenta pero no suma, y la sintaxis es incompleta. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;\">\"&PROMEDIO(Q2:Q19);\"<\"&MAX(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 si el nombre de F2 tiene más de 8 caracteres?",
+    "opciones": [
+      {
+        "texto": "a) =SI(LARGO(F2)>8;Q2;0)",
+        "es_correcta": true,
+        "explicacion": "LARGO mide la longitud del nombre. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(CONTARA(F2)>8;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "CONTARA no mide caracteres. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(IZQUIERDA(F2;8)>0;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Comparación incorrecta. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(HALLAR(F2;\"8\");Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Sintaxis incorrecta. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 para las filas marcadas con 'Sí' en O2:O19?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;O2:O19;\"Sí\")",
+        "es_correcta": true,
+        "explicacion": "Suma solo las filas con Sí. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;O2:O19;\"Sí\")",
+        "es_correcta": false,
+        "explicacion": "SUMAR.SI no usa esa estructura de argumento. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;O2:O19;\"Sí\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;O2:O19;\"Sí\")",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué fórmula devuelve el último valor no vacío de F2:F19?",
+    "opciones": [
+      {
+        "texto": "a) =BUSCAR(2;1/(F2:F19<>\"\");F2:F19)",
+        "es_correcta": true,
+        "explicacion": "BUSCAR con 2 y división lógica devuelve el último no vacío. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =INDICE(F2:F19;CONTARA(F2:F19))",
+        "es_correcta": false,
+        "explicacion": "Puede fallar si hay huecos intermedios. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =COINCIDIR(2;F2:F19;0)",
+        "es_correcta": false,
+        "explicacion": "No localiza el último no vacío. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAX(F2:F19)",
+        "es_correcta": false,
+        "explicacion": "No funciona con texto. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué fórmula devuelve el número de filas con salario mayor que 1500 y nivel menor que 5?",
+    "opciones": [
+      {
+        "texto": "a) =CONTAR.SI.CONJUNTO(Q2:Q19;\">1500\";P2:P19;\"<5\")",
+        "es_correcta": true,
+        "explicacion": "Aplica dos criterios numéricos a distintos rangos. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI.CONJUNTO(Q2:Q19;\">1500\";P2:P19;\"<5\")",
+        "es_correcta": false,
+        "explicacion": "Suma valores, no cuenta filas. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(Q2:Q19;\">1500\";P2:P19;\"<5\")",
+        "es_correcta": false,
+        "explicacion": "CONTAR.SI no admite dos criterios así. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;\">1500\";P2:P19;\"<5\")",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no conteo. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué fórmula devuelve la fecha de nacimiento L2 más 18 años?",
+    "opciones": [
+      {
+        "texto": "a) =FECHA(AÑO(L2)+18;MES(L2);DIA(L2))",
+        "es_correcta": true,
+        "explicacion": "Suma 18 años manteniendo mes y día. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =L2+18",
+        "es_correcta": false,
+        "explicacion": "Suma 18 días, no años. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =AÑO(L2)+18",
+        "es_correcta": false,
+        "explicacion": "Devuelve solo el año numérico. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MES(L2)+18",
+        "es_correcta": false,
+        "explicacion": "Devuelve un mes, no una fecha completa. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 con la primera letra de cada palabra en mayúscula y el resto en minúscula?",
+    "opciones": [
+      {
+        "texto": "a) =NOMPROPIO(MINUSC(A2))",
+        "es_correcta": true,
+        "explicacion": "Normaliza primero a minúsculas y luego aplica formato título. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MAYUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "Convierte todo a mayúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MINUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "Convierte todo a minúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =ESPACIOS(A2)",
+        "es_correcta": false,
+        "explicacion": "Solo elimina espacios sobrantes. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 solo cuando O2:O19 es distinto de A2?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;O2:O19;\"<>\"&A2)",
+        "es_correcta": true,
+        "explicacion": "Usa el operador de distinto concatenado al criterio. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;O2:O19;\"<>\"&A2)",
+        "es_correcta": false,
+        "explicacion": "SUMAR.SI no admite esta estructura completa. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(Q2:Q19;\"<>\"&A2)",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI(Q2:Q19;\"<>\"&A2)",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 para filas cuya cadena en F2:F19 contiene 'ANA' en cualquier posición?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;F2:F19;\"*ANA*\")",
+        "es_correcta": true,
+        "explicacion": "Los comodines permiten coincidencia parcial en cualquier posición. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;F2:F19;\"*ANA*\")",
+        "es_correcta": false,
+        "explicacion": "SUMAR.SI no admite ese patrón con dos rangos así. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;F2:F19;\"*ANA*\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;F2:F19;\"*ANA*\")",
+        "es_correcta": false,
+        "explicacion": "Promedia, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 si es mayor que R2 multiplicado por 1.1?",
+    "opciones": [
+      {
+        "texto": "a) =SI(Q2>R2*1,1;Q2;R2)",
+        "es_correcta": true,
+        "explicacion": "Compara Q2 con R2 incrementado un 10 por ciento. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(Q2>R2+1,1;Q2;R2)",
+        "es_correcta": false,
+        "explicacion": "No calcula el 10 por ciento. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(Q2>R2;Q2*1,1;R2)",
+        "es_correcta": false,
+        "explicacion": "Devuelve un cálculo distinto del solicitado. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAX(Q2;R2*1,1)",
+        "es_correcta": false,
+        "explicacion": "No usa la condición pedida. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué fórmula devuelve el valor más pequeño entre Q2:Q19 ignorando ceros?",
+    "opciones": [
+      {
+        "texto": "a) =MIN.SI.CONJUNTO(Q2:Q19;Q2:Q19;\"<>0\")",
+        "es_correcta": true,
+        "explicacion": "MIN.SI.CONJUNTO devuelve el mínimo no cero. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MIN(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Incluye ceros. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAYOR(Q2:Q19;1)",
+        "es_correcta": false,
+        "explicacion": "Devuelve el mayor, no el menor. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =AGREGAR(14;6;Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "14 corresponde al k-ésimo mayor, no al menor. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 sin contar los valores duplicados?",
+    "opciones": [
+      {
+        "texto": "a) =SUMA(UNICOS(Q2:Q19))",
+        "es_correcta": true,
+        "explicacion": "UNICOS extrae valores únicos y SUMA los agrega. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =UNICOS(SUMA(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Invierte el orden y no funciona así. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SUMAR.SI(Q2:Q19;\"<>0\")",
+        "es_correcta": false,
+        "explicacion": "No elimina duplicados. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =CONTAR(UNICOS(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Cuenta únicos, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 invertido carácter a carácter?",
+    "opciones": [
+      {
+        "texto": "a) =TEXTO.UNIR(\"\";VERDADERO;EXTRAE(A2;LARGO(A2)-FILA(INDIRECTO(\"1:\"&LARGO(A2)))+1;1))",
+        "es_correcta": true,
+        "explicacion": "Extrae caracteres en orden inverso y los une. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =EXTRAE(A2;1;LARGO(A2))",
+        "es_correcta": false,
+        "explicacion": "Devuelve el texto normal. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =DERECHA(A2;LARGO(A2))",
+        "es_correcta": false,
+        "explicacion": "Devuelve el texto normal. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAYUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "No invierte el texto. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 ajustado al alza al siguiente múltiplo de 5?",
+    "opciones": [
+      {
+        "texto": "a) =REDONDEAR.MAS(Q2/5;0)*5",
+        "es_correcta": true,
+        "explicacion": "Divide por 5, redondea al alza y multiplica por 5. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =REDONDEAR(Q2;5)",
+        "es_correcta": false,
+        "explicacion": "No ajusta al múltiplo de 5. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =TRUNCAR(Q2/5;0)*5",
+        "es_correcta": false,
+        "explicacion": "Ajusta a la baja. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =ENTERO(Q2;5)",
+        "es_correcta": false,
+        "explicacion": "ENTERO no usa este patrón. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué fórmula devuelve el porcentaje de Q2 respecto a la suma de Q2:Q19?",
+    "opciones": [
+      {
+        "texto": "a) =Q2/SUMA(Q2:Q19)",
+        "es_correcta": true,
+        "explicacion": "Divide el valor entre el total del rango. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(Q2:Q19)/Q2",
+        "es_correcta": false,
+        "explicacion": "Es la inversión de la relación. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =PROMEDIO(Q2:Q19)/Q2",
+        "es_correcta": false,
+        "explicacion": "No calcula porcentaje de participación. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =Q2*SUMA(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Multiplica en lugar de dividir. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué fórmula devuelve el texto de F2 si su longitud es igual a 6?",
+    "opciones": [
+      {
+        "texto": "a) =SI(LARGO(F2)=6;F2;\"\")",
+        "es_correcta": true,
+        "explicacion": "Comprueba la longitud exacta. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(CONTARA(F2)=6;F2;\"\")",
+        "es_correcta": false,
+        "explicacion": "CONTARA no mide longitud. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(ESBLANCO(F2);F2;\"\")",
+        "es_correcta": false,
+        "explicacion": "Comprueba vacío, no longitud. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(HALLAR(\"6\";F2);F2;\"\")",
+        "es_correcta": false,
+        "explicacion": "Busca el carácter 6, no la longitud. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué fórmula devuelve el promedio de Q2:Q19 sin considerar el mayor ni el menor de todos?",
+    "opciones": [
+      {
+        "texto": "a) =PROMEDIO(FILTRAR(Q2:Q19;(Q2:Q19<>MAX(Q2:Q19))*(Q2:Q19<>MIN(Q2:Q19))))",
+        "es_correcta": true,
+        "explicacion": "Filtra extremos y promedia el resultado. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =PROMEDIO(Q2:Q19)-MAX(Q2:Q19)-MIN(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "No excluye correctamente los extremos. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SUMA(Q2:Q19)/CONTAR(Q2:Q19)-MAX(Q2:Q19)-MIN(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "La fórmula está mal estructurada. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI(Q2:Q19;\"<>\"&MAX(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "No excluye ambos extremos. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si la fecha de L2 es posterior a HOY()?",
+    "opciones": [
+      {
+        "texto": "a) =SI(L2>HOY();Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Compara la fecha con la fecha actual. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(L2<HOY();Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Invierte la condición. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(DIA(L2)>HOY();Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Compara día del mes con fecha completa, incorrecto. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(FECHA(L2)>HOY();Q2;0)",
+        "es_correcta": false,
+        "explicacion": "FECHA no se usa así. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 solo para celdas con un número par?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAPRODUCTO(Q2:Q19*(RESIDUO(Q2:Q19;2)=0))",
+        "es_correcta": true,
+        "explicacion": "RESIDUO identifica pares y SUMAPRODUCTO suma los valores. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(RESIDUO(Q2:Q19;2)=0)",
+        "es_correcta": false,
+        "explicacion": "Devuelve lógico, no total. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(Q2:Q19;\"=0\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta ceros, no pares. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO(Q2:Q19*(RESIDUO(Q2:Q19;2)=0))",
+        "es_correcta": false,
+        "explicacion": "No es la formulación pedida. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué fórmula devuelve el apellido en A2 si el nombre completo está separado por dos espacios?",
+    "opciones": [
+      {
+        "texto": "a) =DERECHA(A2;LARGO(A2)-HALLAR(\"  \";A2)-1)",
+        "es_correcta": true,
+        "explicacion": "Busca dos espacios y extrae la parte derecha. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =IZQUIERDA(A2;HALLAR(\"  \";A2))",
+        "es_correcta": false,
+        "explicacion": "Devuelve la parte izquierda. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =LARGO(A2;HALLAR(\"  \";A2))",
+        "es_correcta": false,
+        "explicacion": "No extrae apellido. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =EXTRAE(A2;1;2)",
+        "es_correcta": false,
+        "explicacion": "Solo devuelve dos caracteres. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 excluyendo los valores iguales a la mediana?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;Q2:Q19;\"<>\"&MEDIANA(Q2:Q19))",
+        "es_correcta": true,
+        "explicacion": "Excluye la mediana usando un criterio dinámico. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;\"<>\"&MEDIANA(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "No usa correctamente el criterio en este contexto. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(Q2:Q19;\"<>\"&MEDIANA(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI(Q2:Q19;\"<>\"&MEDIANA(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Calcula media, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué fórmula devuelve la primera coincidencia de un texto que empiece por 'Jefe' en F2:F19?",
+    "opciones": [
+      {
+        "texto": "a) =COINCIDIR(\"Jefe*\";F2:F19;0)",
+        "es_correcta": true,
+        "explicacion": "Busca una coincidencia por prefijo con comodín. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =BUSCARV(\"Jefe*\";F2:F19;1;FALSO)",
+        "es_correcta": false,
+        "explicacion": "BUSCARV no es adecuado sobre una sola columna así. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =INDICE(F2:F19;\"Jefe*\")",
+        "es_correcta": false,
+        "explicacion": "INDICE no admite texto comodín como fila. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAX(F2:F19)",
+        "es_correcta": false,
+        "explicacion": "No funciona con texto. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 con un descuento del 7 por ciento?",
+    "opciones": [
+      {
+        "texto": "a) =SUMA(Q2:Q19)*0,93",
+        "es_correcta": true,
+        "explicacion": "Aplica el descuento al total. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(Q2:Q19)+0,93",
+        "es_correcta": false,
+        "explicacion": "Suma un porcentaje fijo, no descuenta. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =PROMEDIO(Q2:Q19)*0,93",
+        "es_correcta": false,
+        "explicacion": "Usa el promedio, no el total. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SUMAPRODUCTO(Q2:Q19;0,93)",
+        "es_correcta": false,
+        "explicacion": "No expresa el descuento total de forma clara. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 convertido a minúsculas?",
+    "opciones": [
+      {
+        "texto": "a) =MINUSC(A2)",
+        "es_correcta": true,
+        "explicacion": "MINUSC convierte el texto a minúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MAYUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "Convierte a mayúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =NOMPROPIO(A2)",
+        "es_correcta": false,
+        "explicacion": "Capitaliza palabras. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =ESPACIOS(A2)",
+        "es_correcta": false,
+        "explicacion": "No cambia el caso. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si es menor que el promedio de Q2:Q19 y mayor que 0?",
+    "opciones": [
+      {
+        "texto": "a) =SI(Y(Q2<PROMEDIO(Q2:Q19);Q2>0);Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Combina dos condiciones sobre Q2 con Y. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(O(Q2<PROMEDIO(Q2:Q19);Q2>0);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "O no exige que ambas condiciones se cumplan. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(Q2<PROMEDIO(Q2:Q19);Q2>0;0)",
+        "es_correcta": false,
+        "explicacion": "Sintaxis incorrecta. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAX(Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa la media. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 redondeado hacia arriba a 0 decimales?",
+    "opciones": [
+      {
+        "texto": "a) =REDONDEAR.MAS(Q2;0)",
+        "es_correcta": true,
+        "explicacion": "REDONDEAR.MAS redondea al alza. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =REDONDEAR.QUIZÁS(Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No existe esa función. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =REDONDEAR(Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Redondea al entero más cercano, no necesariamente hacia arriba. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =ENTERO(Q2)",
+        "es_correcta": false,
+        "explicacion": "Redondea hacia abajo. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 donde O2:O19 no contenga la palabra 'temporal'?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;O2:O19;\"<>*temporal*\")",
+        "es_correcta": true,
+        "explicacion": "Excluye textos con el patrón indicado. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;O2:O19;\"<>*temporal*\")",
+        "es_correcta": false,
+        "explicacion": "No sigue la sintaxis adecuada. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;O2:O19;\"<>*temporal*\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;O2:O19;\"<>*temporal*\")",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué fórmula devuelve la posición del primer valor en Q2:Q19 igual a 0?",
+    "opciones": [
+      {
+        "texto": "a) =COINCIDIR(0;Q2:Q19;0)",
+        "es_correcta": true,
+        "explicacion": "Busca la primera coincidencia exacta con 0. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MAX(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Devuelve valor, no posición. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(Q2:Q19;0)",
+        "es_correcta": false,
+        "explicacion": "Cuenta ceros, no su posición. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =INDICE(Q2:Q19;0)",
+        "es_correcta": false,
+        "explicacion": "No devuelve una posición válida. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 solo para filas cuyo texto en F2:F19 tenga exactamente 4 letras?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAPRODUCTO(Q2:Q19*(LARGO(F2:F19)=4))",
+        "es_correcta": true,
+        "explicacion": "LARGO filtra por longitud y SUMAPRODUCTO suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(F2:F19;4;Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "No aplica la longitud del texto. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(F2:F19;4)",
+        "es_correcta": false,
+        "explicacion": "Cuenta celdas con el valor 4, no letras. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO(F2:F19;4)",
+        "es_correcta": false,
+        "explicacion": "No filtra por longitud. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si R2 es mayor o igual que 0, y el doble si R2 es negativo?",
+    "opciones": [
+      {
+        "texto": "a) =SI(R2>=0;Q2;Q2*2)",
+        "es_correcta": true,
+        "explicacion": "Aplica dos resultados según el signo de R2. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(R2>0;Q2*2;Q2)",
+        "es_correcta": false,
+        "explicacion": "La lógica está invertida. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(R2>=0;Q2*2;Q2)",
+        "es_correcta": false,
+        "explicacion": "Duplica en el caso incorrecto. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAX(Q2;Q2*2)",
+        "es_correcta": false,
+        "explicacion": "No evalúa el signo de R2. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 excluyendo el valor medio exacto?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;Q2:Q19;\"<>\"&PROMEDIO(Q2:Q19))",
+        "es_correcta": true,
+        "explicacion": "Excluye el valor igual a la media. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(Q2:Q19)-PROMEDIO(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Resta la media, no el valor medio exacto de los registros. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(Q2:Q19;PROMEDIO(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO(Q2:Q19)-SUMA(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Es una resta, no una suma filtrada. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Qué fórmula devuelve la fecha actual con formato 'dd mmmm aaaa'?",
+    "opciones": [
+      {
+        "texto": "a) =TEXTO(HOY();\"dd mmmm aaaa\")",
+        "es_correcta": true,
+        "explicacion": "TEXTO da formato textual a la fecha actual. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =HOY(\"dd mmmm aaaa\")",
+        "es_correcta": false,
+        "explicacion": "HOY no acepta formato. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =FECHA(HOY();\"dd mmmm aaaa\")",
+        "es_correcta": false,
+        "explicacion": "FECHA no funciona así. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAYUSC(HOY())",
+        "es_correcta": false,
+        "explicacion": "No formatea fechas. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 si el texto de O2 termina en '2024'?",
+    "opciones": [
+      {
+        "texto": "a) =SI(DERECHA(O2;4)=\"2024\";Q2;0)",
+        "es_correcta": true,
+        "explicacion": "DERECHA comprueba el sufijo 2024. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(IZQUIERDA(O2;4)=\"2024\";Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Comprueba prefijo, no sufijo. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(HALLAR(\"2024\";O2);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "HALLAR devuelve posición, no un valor lógico directo. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(LARGO(O2)=2024;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "La longitud no identifica el sufijo. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 solo para filas cuyo nivel P2:P19 esté entre 3 y 7, ambos inclusive?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;P2:P19;\">=3\";P2:P19;\"<=7\")",
+        "es_correcta": true,
+        "explicacion": "Aplica intervalo cerrado con dos criterios sobre el mismo rango. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;P2:P19;\">=3\";\"<=7\")",
+        "es_correcta": false,
+        "explicacion": "SUMAR.SI no admite dos límites así. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;P2:P19;\">=3\";P2:P19;\"<=7\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;P2:P19;\">=3\";P2:P19;\"<=7\")",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 omitiendo todos los caracteres que no sean letras usando una función estándar simple?",
+    "opciones": [
+      {
+        "texto": "a) =SUSTITUIR(A2;\"-\";\"\")",
+        "es_correcta": false,
+        "explicacion": "Solo quita guiones, no todos los no alfabéticos. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =ESLETRAS(A2)",
+        "es_correcta": false,
+        "explicacion": "No es una función estándar. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =LIMPIAR(A2)",
+        "es_correcta": false,
+        "explicacion": "LIMPIAR no elimina todos los no alfabéticos. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =NO HAY OPCIÓN SIMPLE ESTÁNDAR",
+        "es_correcta": true,
+        "explicacion": "Excel no dispone de una función estándar única para eliminar todos los caracteres no alfabéticos. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 donde F2:F19 empiece por 'A' y termine por 'Z'?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;F2:F19;\"A*Z\")",
+        "es_correcta": true,
+        "explicacion": "El patrón con comodines combina prefijo y sufijo. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;F2:F19;\"A*Z\")",
+        "es_correcta": false,
+        "explicacion": "Sintaxis incorrecta. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;F2:F19;\"A*Z\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;F2:F19;\"A*Z\")",
+        "es_correcta": false,
+        "explicacion": "Promedia, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si su centésima parte es mayor que 10?",
+    "opciones": [
+      {
+        "texto": "a) =SI(Q2/100>10;Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Evalúa el cociente respecto al umbral. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(Q2>1000;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Puede ser equivalente en parte, pero no expresa la centésima parte. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(REDONDEAR(Q2;2)>10;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa la centésima parte. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(MOD(Q2;100)>10;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "MOD no calcula la centésima parte. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué fórmula devuelve el menor valor positivo de Q2:Q19?",
+    "opciones": [
+      {
+        "texto": "a) =MIN.SI.CONJUNTO(Q2:Q19;Q2:Q19;\">0\")",
+        "es_correcta": true,
+        "explicacion": "Filtra positivos y devuelve el mínimo. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MIN(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Incluye negativos y ceros. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAYOR(Q2:Q19;1)",
+        "es_correcta": false,
+        "explicacion": "Devuelve el mayor. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =AGREGAR(15;6;Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "No expresa el mínimo positivo de forma clara. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 con un 5 por ciento adicional de recargo?",
+    "opciones": [
+      {
+        "texto": "a) =SUMA(Q2:Q19)*1,05",
+        "es_correcta": true,
+        "explicacion": "Aplica el recargo al total. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(Q2:Q19)+0,05",
+        "es_correcta": false,
+        "explicacion": "Suma un importe fijo, no un porcentaje. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =PROMEDIO(Q2:Q19)*1,05",
+        "es_correcta": false,
+        "explicacion": "Calcula la media, no el total. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SUMAPRODUCTO(Q2:Q19;1,05)",
+        "es_correcta": false,
+        "explicacion": "No muestra la operación pedida con claridad. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué fórmula devuelve el texto de F2 eliminando mayúsculas y convirtiéndolo todo a minúsculas?",
+    "opciones": [
+      {
+        "texto": "a) =MINUSC(F2)",
+        "es_correcta": true,
+        "explicacion": "Convierte todo el texto a minúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MAYUSC(F2)",
+        "es_correcta": false,
+        "explicacion": "Convierte todo a mayúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =NOMPROPIO(F2)",
+        "es_correcta": false,
+        "explicacion": "Usa formato título. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =LARGO(F2)",
+        "es_correcta": false,
+        "explicacion": "No cambia el texto. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si es menor que el promedio de Q2:Q19 y mayor que 0?",
+    "opciones": [
+      {
+        "texto": "a) =SI(Y(Q2<PROMEDIO(Q2:Q19);Q2>0);Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Combina dos condiciones sobre Q2 con Y. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(O(Q2<PROMEDIO(Q2:Q19);Q2>0);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "O no exige que ambas condiciones se cumplan. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(Q2<PROMEDIO(Q2:Q19);Q2>0;0)",
+        "es_correcta": false,
+        "explicacion": "Sintaxis incorrecta. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAX(Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa la media. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 donde O2:O19 sea exactamente 'NUEVO'?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;O2:O19;\"NUEVO\")",
+        "es_correcta": true,
+        "explicacion": "Suma con criterio de igualdad exacta. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;\"NUEVO\";O2:O19)",
+        "es_correcta": false,
+        "explicacion": "Argumentos en orden incorrecto. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(Q2:Q19;\"NUEVO\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI(Q2:Q19;\"NUEVO\")",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 si la celda F2 comienza y termina por la misma letra?",
+    "opciones": [
+      {
+        "texto": "a) =SI(IZQUIERDA(F2;1)=DERECHA(F2;1);Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Compara el primer y último carácter. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(LARGO(F2)=1;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "La longitud no evalúa ambos extremos. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(HALLAR(IZQUIERDA(F2;1);F2);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "La condición no comprueba ambos extremos. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(MAYUSC(F2)=MINUSC(F2);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa el principio y fin del texto. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 aplicando un factor variable en R2:R19?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAPRODUCTO(Q2:Q19;R2:R19)",
+        "es_correcta": true,
+        "explicacion": "Multiplica fila a fila y suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMA(Q2:Q19;R2:R19)",
+        "es_correcta": false,
+        "explicacion": "Solo suma rangos. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =PROMEDIO(Q2:Q19;R2:R19)",
+        "es_correcta": false,
+        "explicacion": "Calcula media de ambos rangos, no ponderación. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =CONTAR(Q2:Q19;R2:R19)",
+        "es_correcta": false,
+        "explicacion": "Cuenta números, no multiplica. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 con espacios eliminados y todo en mayúsculas?",
+    "opciones": [
+      {
+        "texto": "a) =MAYUSC(ESPACIOS(A2))",
+        "es_correcta": true,
+        "explicacion": "Primero limpia espacios y después convierte a mayúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =ESPACIOS(MAYUSC(A2))",
+        "es_correcta": false,
+        "explicacion": "El orden no es el más adecuado para el objetivo. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MINUSC(ESPACIOS(A2))",
+        "es_correcta": false,
+        "explicacion": "Convierte a minúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =NOMPROPIO(ESPACIOS(A2))",
+        "es_correcta": false,
+        "explicacion": "Capitaliza palabras, no todo en mayúsculas. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si es un número primo?",
+    "opciones": [
+      {
+        "texto": "a) =NO HAY FUNCION ESTANDAR SIMPLIFICADA",
+        "es_correcta": true,
+        "explicacion": "Excel no tiene una función estándar simple para probar primalidad. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =ESPRIMO(Q2)",
+        "es_correcta": false,
+        "explicacion": "No existe esa función estándar. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =PRIMO(Q2)",
+        "es_correcta": false,
+        "explicacion": "No existe esa función. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PRIMO.SI(Q2)",
+        "es_correcta": false,
+        "explicacion": "No existe esa función. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 para las filas cuyo texto en F2:F19 tenga al menos 5 caracteres?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAPRODUCTO(Q2:Q19*(LARGO(F2:F19)>=5))",
+        "es_correcta": true,
+        "explicacion": "Filtra por longitud y suma con SUMAPRODUCTO. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(F2:F19;\">=5\";Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "No evalúa la longitud del texto. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(F2:F19;\">=5\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta celdas, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO(F2:F19;\">=5\")",
+        "es_correcta": false,
+        "explicacion": "No filtra por longitud. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 solo si es mayor que la mediana de Q2:Q19?",
+    "opciones": [
+      {
+        "texto": "a) =SI(Q2>MEDIANA(Q2:Q19);Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Compara Q2 con la mediana del rango. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(Q2>MAX(Q2:Q19);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Compara con el máximo, no con la mediana. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(Q2>PROMEDIO(Q2:Q19);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Usa la media, no la mediana. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(MEDIANA(Q2:Q19);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Sintaxis incorrecta. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Qué fórmula devuelve el texto de F2 recortando los espacios iniciales y finales?",
+    "opciones": [
+      {
+        "texto": "a) =ESPACIOS(F2)",
+        "es_correcta": true,
+        "explicacion": "ESPACIOS elimina espacios sobrantes exteriores y repetidos. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =LIMPIAR(F2)",
+        "es_correcta": false,
+        "explicacion": "LIMPIAR elimina caracteres no imprimibles, no espacios exteriores. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SUSTITUIR(F2;\" \";\"\")",
+        "es_correcta": false,
+        "explicacion": "Elimina todos los espacios, no solo exteriores. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAYUSC(F2)",
+        "es_correcta": false,
+        "explicacion": "No recorta espacios. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 solo para filas con O2:O19 igual a la celda B1?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;O2:O19;B1)",
+        "es_correcta": true,
+        "explicacion": "Suma con un criterio enlazado a otra celda. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;B1;O2:O19)",
+        "es_correcta": false,
+        "explicacion": "Argumentos invertidos. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;O2:O19;B1)",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;O2:O19;B1)",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si el número de letras en F2 es mayor que 3?",
+    "opciones": [
+      {
+        "texto": "a) =SI(LARGO(F2)>3;Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Evalúa la longitud del texto. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(CONTARA(F2)>3;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "CONTARA no cuenta letras. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(IZQUIERDA(F2;3)>0;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No verifica longitud total. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(HALLAR(\"3\";F2);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Busca el carácter 3, no la longitud. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 sin contar los ceros?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI(Q2:Q19;\"<>0\")",
+        "es_correcta": true,
+        "explicacion": "Suma valores distintos de 0. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =CONTAR.SI(Q2:Q19;\"<>0\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =PROMEDIO(Q2:Q19;\"<>0\")",
+        "es_correcta": false,
+        "explicacion": "No aplica así. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SUMA(Q2:Q19;\"<>0\")",
+        "es_correcta": false,
+        "explicacion": "Sintaxis incorrecta. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 con cada palabra inicial en mayúscula?",
+    "opciones": [
+      {
+        "texto": "a) =NOMPROPIO(A2)",
+        "es_correcta": true,
+        "explicacion": "Aplica formato título a cada palabra. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MAYUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "Convierte todo a mayúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MINUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "Convierte todo a minúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =ESPACIOS(A2)",
+        "es_correcta": false,
+        "explicacion": "Solo limpia espacios. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 solo para filas cuyo nivel P2:P19 sea múltiplo de 3?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAPRODUCTO(Q2:Q19*(RESIDUO(P2:P19;3)=0))",
+        "es_correcta": true,
+        "explicacion": "Filtra por múltiplos de 3 y suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(P2:P19;\"=3\";Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Solo selecciona el valor 3 exacto. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(P2:P19;\"=3\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO(P2:P19;Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "No evalúa múltiplos. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 si el texto de O2 contiene exactamente 5 caracteres?",
+    "opciones": [
+      {
+        "texto": "a) =SI(LARGO(O2)=5;Q2;0)",
+        "es_correcta": true,
+        "explicacion": "LARGO evalúa la longitud exacta. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(CONTARA(O2)=5;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "CONTARA cuenta celdas, no caracteres. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(MAYUSC(O2)=5;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No compara longitud. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(DERECHA(O2;5);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No es una condición válida. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Qué fórmula devuelve el menor valor de Q2:Q19 ignorando celdas vacías?",
+    "opciones": [
+      {
+        "texto": "a) =MIN(Q2:Q19)",
+        "es_correcta": true,
+        "explicacion": "MIN ya ignora celdas vacías. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MAX(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Devuelve el máximo. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =PROMEDIO(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Devuelve la media. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =CONTAR(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Cuenta números, no devuelve mínimo. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué fórmula devuelve el texto de F2 sin las vocales usando sustituciones encadenadas?",
+    "opciones": [
+      {
+        "texto": "a) =SUSTITUIR(SUSTITUIR(SUSTITUIR(SUSTITUIR(SUSTITUIR(F2;\"a\";\"\");\"e\";\"\");\"i\";\"\");\"o\";\"\");\"u\";\"\")",
+        "es_correcta": true,
+        "explicacion": "Encadena sustituciones para eliminar vocales. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =ESPACIOS(F2)",
+        "es_correcta": false,
+        "explicacion": "No elimina vocales. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAYUSC(F2)",
+        "es_correcta": false,
+        "explicacion": "No elimina vocales. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =LARGO(F2)",
+        "es_correcta": false,
+        "explicacion": "Solo cuenta caracteres. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Qué fórmula devuelve la posición del último 1 en Q2:Q19?",
+    "opciones": [
+      {
+        "texto": "a) =COINCIDIR(2;1/(Q2:Q19=1);1)",
+        "es_correcta": true,
+        "explicacion": "Busca la última coincidencia del valor 1. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =COINCIDIR(1;Q2:Q19;0)",
+        "es_correcta": false,
+        "explicacion": "Devuelve la primera coincidencia exacta. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAX(Q2:Q19)",
+        "es_correcta": false,
+        "explicacion": "Devuelve el mayor valor, no su posición. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =CONTAR.SI(Q2:Q19;1)",
+        "es_correcta": false,
+        "explicacion": "Cuenta 1s, no su posición. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 solo si la suma supera 10000?",
+    "opciones": [
+      {
+        "texto": "a) =SI(SUMA(Q2:Q19)>10000;SUMA(Q2:Q19);0)",
+        "es_correcta": true,
+        "explicacion": "Evalúa la suma total y la devuelve si supera el umbral. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(PROMEDIO(Q2:Q19)>10000;SUMA(Q2:Q19);0)",
+        "es_correcta": false,
+        "explicacion": "Usa la media en lugar de la suma total. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SUMAR.SI(Q2:Q19;\">10000\")",
+        "es_correcta": false,
+        "explicacion": "No expresa esta condición sobre el total agregado. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =CONTAR.SI(Q2:Q19;\">10000\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta valores, no suma total. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 convirtiendo primero a minúsculas y luego capitalizando?",
+    "opciones": [
+      {
+        "texto": "a) =NOMPROPIO(MINUSC(A2))",
+        "es_correcta": true,
+        "explicacion": "La combinación produce formato tipo nombre propio. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MINUSC(NOMPROPIO(A2))",
+        "es_correcta": false,
+        "explicacion": "No mantiene el capitalizado correcto. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAYUSC(MINUSC(A2))",
+        "es_correcta": false,
+        "explicacion": "Termina todo en mayúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =ESPACIOS(A2)",
+        "es_correcta": false,
+        "explicacion": "No modifica el caso. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 para las filas cuyo texto en O2:O19 sea una cadena vacía?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;O2:O19;\"\")",
+        "es_correcta": true,
+        "explicacion": "Suma solo cuando O2:O19 está vacía. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =CONTAR.SI.CONJUNTO(Q2:Q19;O2:O19;\"\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SUMAR.SI(Q2:Q19;O2:O19;\"\")",
+        "es_correcta": false,
+        "explicacion": "Sintaxis no adecuada. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI(Q2:Q19;O2:O19;\"\")",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si P2 es igual a 4 o 6?",
+    "opciones": [
+      {
+        "texto": "a) =SI(O(P2=4;P2=6);Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Usa O para aceptar cualquiera de los dos valores. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(Y(P2=4;P2=6);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Y no permite que un valor sea 4 y 6 a la vez. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(P2=4;6;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Sintaxis incorrecta. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAX(P2;4;6)",
+        "es_correcta": false,
+        "explicacion": "No evalúa la condición. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Qué fórmula devuelve el promedio de Q2:Q19 solo para valores positivos y pares?",
+    "opciones": [
+      {
+        "texto": "a) =PROMEDIO(FILTRAR(Q2:Q19;(Q2:Q19>0)*(RESIDUO(Q2:Q19;2)=0)))",
+        "es_correcta": true,
+        "explicacion": "FILTRAR combina positivdad y paridad antes del promedio. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =PROMEDIO(Q2:Q19*(RESIDUO(Q2:Q19;2)=0))",
+        "es_correcta": false,
+        "explicacion": "No es la formulación filtrada adecuada. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SUMAPRODUCTO(Q2:Q19;RESIDUO(Q2:Q19;2)=0)",
+        "es_correcta": false,
+        "explicacion": "No calcula la media. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =CONTAR.SI.CONJUNTO(Q2:Q19;\">0\";Q2:Q19;\"=0\")",
+        "es_correcta": false,
+        "explicacion": "Condiciones incompatibles. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 si el valor de R2 es exactamente 1?",
+    "opciones": [
+      {
+        "texto": "a) =SI(R2=1;Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Evalúa una igualdad simple. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(R2>1;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No comprueba igualdad. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(R2<1;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No comprueba igualdad. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(Q2=1;R2;0)",
+        "es_correcta": false,
+        "explicacion": "Evalúa la celda equivocada. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 para filas donde F2:F19 empiece por una vocal?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAPRODUCTO(Q2:Q19*--(O(NO(IZQUIERDA(F2:F19;1)=\"A\";IZQUIERDA(F2:F19;1)=\"E\";IZQUIERDA(F2:F19;1)=\"I\";IZQUIERDA(F2:F19;1)=\"O\";IZQUIERDA(F2:F19;1)=\"U\"))) )",
+        "es_correcta": false,
+        "explicacion": "La expresión no es válida tal y como está escrita."
+      },
+      {
+        "texto": "b) =SUMAR.SI.CONJUNTO(Q2:Q19;F2:F19;\"A*\")",
+        "es_correcta": false,
+        "explicacion": "Solo cubre la vocal A. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =NO HAY UNA FORMULA SIMPLE ESTANDAR UNICA",
+        "es_correcta": true,
+        "explicacion": "Para varias vocales se requiere una combinación más compleja o suma de varios criterios. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =CONTAR.SI(F2:F19;\"[AEIOU]*\")",
+        "es_correcta": false,
+        "explicacion": "No es un patrón estándar de Excel en este contexto."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 en formato de fecha si A2 contiene una fecha serial?",
+    "opciones": [
+      {
+        "texto": "a) =TEXTO(A2;\"dd/mm/aaaa\")",
+        "es_correcta": true,
+        "explicacion": "Convierte el serial a una cadena con formato fecha. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =FECHA(A2;\"dd/mm/aaaa\")",
+        "es_correcta": false,
+        "explicacion": "FECHA no transforma un serial así. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAYUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "No da formato fecha. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =HOY(A2)",
+        "es_correcta": false,
+        "explicacion": "HOY no recibe argumentos. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 excluyendo valores mayores que la media?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;Q2:Q19;\"<=\"&PROMEDIO(Q2:Q19))",
+        "es_correcta": true,
+        "explicacion": "Suma los valores menores o iguales a la media. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;\"<=\"&PROMEDIO(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "No es la formulación más adecuada de suma condicional. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI(Q2:Q19;\"<=\"&PROMEDIO(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI(Q2:Q19;\"<=\"&PROMEDIO(Q2:Q19))",
+        "es_correcta": false,
+        "explicacion": "Calcula media, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si F2 contiene al menos una vocal?",
+    "opciones": [
+      {
+        "texto": "a) =SI(O(ESNUMERO(HALLAR(\"A\";F2));ESNUMERO(HALLAR(\"E\";F2));ESNUMERO(HALLAR(\"I\";F2));ESNUMERO(HALLAR(\"O\";F2));ESNUMERO(HALLAR(\"U\";F2)));Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Combina varias búsquedas con O para detectar vocales. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(HALLAR(\"AEIOU\";F2);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No busca así varias vocales. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(LARGO(F2)>0;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa vocales. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(CONTARA(F2)>0;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa vocales. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 redondeado al múltiplo de 10 más cercano?",
+    "opciones": [
+      {
+        "texto": "a) =REDONDEAR(SUMA(Q2:Q19);-1)",
+        "es_correcta": true,
+        "explicacion": "Redondea el total a decenas. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =REDONDEAR(Q2:Q19;10)",
+        "es_correcta": false,
+        "explicacion": "No aplica al total agregado. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =ENTERO(SUMA(Q2:Q19)/10)",
+        "es_correcta": false,
+        "explicacion": "No redondea al múltiplo más cercano. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SUMAPRODUCTO(Q2:Q19;10)",
+        "es_correcta": false,
+        "explicacion": "Multiplica en lugar de redondear. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 con el primer y último carácter intercambiados?",
+    "opciones": [
+      {
+        "texto": "a) =DERECHA(A2;1)&EXTRAE(A2;2;LARGO(A2)-2)&IZQUIERDA(A2;1)",
+        "es_correcta": true,
+        "explicacion": "Construye el texto con extremos intercambiados. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =IZQUIERDA(A2;1)&EXTRAE(A2;2;LARGO(A2)-2)&DERECHA(A2;1)",
+        "es_correcta": false,
+        "explicacion": "Deja el texto en el orden original. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAYUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "No intercambia caracteres. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =LARGO(A2)",
+        "es_correcta": false,
+        "explicacion": "Solo cuenta caracteres. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 si O2 contiene la palabra 'final' en cualquier parte?",
+    "opciones": [
+      {
+        "texto": "a) =SI(ESNUMERO(HALLAR(\"final\";O2));Q2;0)",
+        "es_correcta": true,
+        "explicacion": "HALLAR detecta la palabra en cualquier posición. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(IZQUIERDA(O2;5)=\"final\";Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Solo comprueba el inicio. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(DERECHA(O2;5)=\"final\";Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Solo comprueba el final. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(LARGO(O2)=5;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa contenido. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 solo si todas las celdas O2:O19 son iguales a A2?",
+    "opciones": [
+      {
+        "texto": "a) =SI(CONTAR.SI(O2:O19;A2)=CONTARA(O2:O19);SUMA(Q2:Q19);0)",
+        "es_correcta": true,
+        "explicacion": "Compara el número de coincidencias con el total no vacío. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI.CONJUNTO(Q2:Q19;O2:O19;A2)",
+        "es_correcta": false,
+        "explicacion": "Suma por filas, no verifica que todas cumplan. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;O2:O19;A2)",
+        "es_correcta": false,
+        "explicacion": "Cuenta filas, no comprueba que todas sean iguales. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;O2:O19;A2)",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no la condición universal. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si es par y positivo?",
+    "opciones": [
+      {
+        "texto": "a) =SI(Y(Q2>0;RESIDUO(Q2;2)=0);Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Combina positividad y paridad. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(O(Q2>0;RESIDUO(Q2;2)=0);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "O no exige ambas condiciones. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(RESIDUO(Q2;2)=0;Q2*2;0)",
+        "es_correcta": false,
+        "explicacion": "Duplica el valor en vez de devolverlo. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(Q2>0;RESIDUO(Q2;2);0)",
+        "es_correcta": false,
+        "explicacion": "Devuelve el resto, no el valor. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 sin el último carácter?",
+    "opciones": [
+      {
+        "texto": "a) =IZQUIERDA(A2;LARGO(A2)-1)",
+        "es_correcta": true,
+        "explicacion": "IZQUIERDA con LARGO menos 1 elimina el último carácter. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =DERECHA(A2;LARGO(A2)-1)",
+        "es_correcta": false,
+        "explicacion": "Devuelve la parte final, no quita el último. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =EXTRAE(A2;2;LARGO(A2))",
+        "es_correcta": false,
+        "explicacion": "Quita el primero, no el último. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =HALLAR(\"\";A2)",
+        "es_correcta": false,
+        "explicacion": "Sintaxis incorrecta. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Qué fórmula devuelve el total de Q2:Q19 donde la fecha de L2:L19 sea posterior al 1 de enero de 2024?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;L2:L19;\">\"&FECHA(2024;1;1))",
+        "es_correcta": true,
+        "explicacion": "Compara con una fecha construida. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;L2:L19;\">01/01/2024\")",
+        "es_correcta": false,
+        "explicacion": "La sintaxis no es la adecuada. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;L2:L19;\">\"&FECHA(2024;1;1))",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;L2:L19;\">\"&FECHA(2024;1;1))",
+        "es_correcta": false,
+        "explicacion": "Calcula promedio, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Qué fórmula devuelve el importe de Q2 si F2 comienza con la letra M y termina con la letra S?",
+    "opciones": [
+      {
+        "texto": "a) =SI(Y(IZQUIERDA(F2;1)=\"M\";DERECHA(F2;1)=\"S\");Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Evalúa prefijo y sufijo conjuntamente. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(O(IZQUIERDA(F2;1)=\"M\";DERECHA(F2;1)=\"S\");Q2;0)",
+        "es_correcta": false,
+        "explicacion": "O no exige ambas condiciones. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(LARGO(F2)=2;Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No evalúa extremos. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SI(HALLAR(\"MS\";F2);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No verifica ambos extremos. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 aplicando un coeficiente fijo de 0,85?",
+    "opciones": [
+      {
+        "texto": "a) =SUMA(Q2:Q19)*0,85",
+        "es_correcta": true,
+        "explicacion": "Aplica el coeficiente al total. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAPRODUCTO(Q2:Q19;0,85)",
+        "es_correcta": false,
+        "explicacion": "No expresa de forma tan clara el coeficiente fijo total. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =PROMEDIO(Q2:Q19)*0,85",
+        "es_correcta": false,
+        "explicacion": "Usa media, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =SUMA(Q2:Q19;0,85)",
+        "es_correcta": false,
+        "explicacion": "Suma un fijo, no multiplica. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 convertido a título y luego sin espacios sobrantes?",
+    "opciones": [
+      {
+        "texto": "a) =ESPACIOS(NOMPROPIO(A2))",
+        "es_correcta": true,
+        "explicacion": "Primero formatea y luego limpia espacios sobrantes. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =NOMPROPIO(ESPACIOS(A2))",
+        "es_correcta": false,
+        "explicacion": "También puede funcionar, pero no es la formulación pedida. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =MAYUSC(ESPACIOS(A2))",
+        "es_correcta": false,
+        "explicacion": "Convierte todo a mayúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MINUSC(ESPACIOS(A2))",
+        "es_correcta": false,
+        "explicacion": "Convierte a minúsculas. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Qué fórmula devuelve la suma de Q2:Q19 con valores estrictamente entre 100 y 1000?",
+    "opciones": [
+      {
+        "texto": "a) =SUMAR.SI.CONJUNTO(Q2:Q19;Q2:Q19;\">100\";Q2:Q19;\"<1000\")",
+        "es_correcta": true,
+        "explicacion": "Aplica ambos límites excluyentes. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SUMAR.SI(Q2:Q19;\">100\";\"<1000\")",
+        "es_correcta": false,
+        "explicacion": "Sintaxis inválida. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =CONTAR.SI.CONJUNTO(Q2:Q19;\">100\";Q2:Q19;\"<1000\")",
+        "es_correcta": false,
+        "explicacion": "Cuenta, no suma. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =PROMEDIO.SI.CONJUNTO(Q2:Q19;\">100\";Q2:Q19;\"<1000\")",
+        "es_correcta": false,
+        "explicacion": "Promedia, no suma. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Qué fórmula devuelve el valor de Q2 si Q2 es el mayor del rango Q2:Q19?",
+    "opciones": [
+      {
+        "texto": "a) =SI(Q2=MAX(Q2:Q19);Q2;0)",
+        "es_correcta": true,
+        "explicacion": "Comprueba si Q2 coincide con el máximo del rango. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =SI(Q2=MIN(Q2:Q19);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "Comprueba el mínimo, no el máximo. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =SI(Q2>PROMEDIO(Q2:Q19);Q2;0)",
+        "es_correcta": false,
+        "explicacion": "No exige ser el mayor. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =MAX(Q2:Q19;Q2)",
+        "es_correcta": false,
+        "explicacion": "No devuelve condicionalmente Q2. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Qué fórmula devuelve el texto de A2 sin vocales y en minúsculas?",
+    "opciones": [
+      {
+        "texto": "a) =MINUSC(SUSTITUIR(SUSTITUIR(SUSTITUIR(SUSTITUIR(SUSTITUIR(A2;\"a\";\"\");\"e\";\"\");\"i\";\"\");\"o\";\"\");\"u\";\"\"))",
+        "es_correcta": true,
+        "explicacion": "Elimina vocales con sustituciones y luego pasa a minúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "b) =MAYUSC(A2)",
+        "es_correcta": false,
+        "explicacion": "Convierte a mayúsculas. Referencia: Excel 365."
+      },
+      {
+        "texto": "c) =ESPACIOS(A2)",
+        "es_correcta": false,
+        "explicacion": "Solo limpia espacios. Referencia: Excel 365."
+      },
+      {
+        "texto": "d) =NOMPROPIO(A2)",
+        "es_correcta": false,
+        "explicacion": "No elimina vocales. Referencia: Excel 365."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué ruta permite insertar un pie de página distinto en la primera página?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Encabezado y pie de página->Primera página distinta",
+        "es_correcta": true,
+        "explicacion": "Permite personalizar la primera página del documento. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Primera página distinta",
+        "es_correcta": false,
+        "explicacion": "No es la ruta habitual. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Primera página distinta",
+        "es_correcta": false,
+        "explicacion": "No corresponde a esa función. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Primera página distinta",
+        "es_correcta": false,
+        "explicacion": "Vista no gestiona esa configuración. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Qué combinación abre el cuadro de diálogo de fuente?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + D",
+        "es_correcta": true,
+        "explicacion": "Abre el cuadro de diálogo Fuente. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + F",
+        "es_correcta": false,
+        "explicacion": "Abre búsqueda. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + H",
+        "es_correcta": false,
+        "explicacion": "Abre buscar y reemplazar. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + K",
+        "es_correcta": false,
+        "explicacion": "Inserta hipervínculo. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué combinación centra el texto seleccionado?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + E",
+        "es_correcta": true,
+        "explicacion": "Alinea el párrafo al centro. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + L",
+        "es_correcta": false,
+        "explicacion": "Alinea a la izquierda. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + R",
+        "es_correcta": false,
+        "explicacion": "Alinea a la derecha. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + J",
+        "es_correcta": false,
+        "explicacion": "Justifica el texto. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué combinación justifica el párrafo seleccionado?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + J",
+        "es_correcta": true,
+        "explicacion": "Justifica el texto en Word. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + E",
+        "es_correcta": false,
+        "explicacion": "Centra el párrafo. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + K",
+        "es_correcta": false,
+        "explicacion": "Crea un vínculo. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + D",
+        "es_correcta": false,
+        "explicacion": "Abre el cuadro de fuente. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "pregunta": "¿Qué ruta permite insertar una nota al pie?",
+    "opciones": [
+      {
+        "texto": "a) =REFERENCIAS->Insertar nota al pie",
+        "es_correcta": true,
+        "explicacion": "Inserta una nota al pie en la posición actual. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Nota al pie",
+        "es_correcta": false,
+        "explicacion": "No es la ruta principal. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Nota al pie",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Nota al pie",
+        "es_correcta": false,
+        "explicacion": "No inserta notas al pie. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Qué ruta permite insertar un salto de página manual?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Salto de página",
+        "es_correcta": true,
+        "explicacion": "Permite forzar un salto de página. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Salto de página",
+        "es_correcta": false,
+        "explicacion": "No es la ruta estándar. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Salto de página",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Salto de página",
+        "es_correcta": false,
+        "explicacion": "No es la ruta correcta. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Qué combinación abre el corrector ortográfico y gramatical?",
+    "opciones": [
+      {
+        "texto": "a) =F7",
+        "es_correcta": true,
+        "explicacion": "Abre la revisión ortográfica y gramatical. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + F7",
+        "es_correcta": false,
+        "explicacion": "No es el atajo estándar. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Alt + F7",
+        "es_correcta": false,
+        "explicacion": "No es el principal. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Shift + F7",
+        "es_correcta": false,
+        "explicacion": "Abre sinónimos, no el corrector. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Qué combinación abre sinónimos para la palabra seleccionada?",
+    "opciones": [
+      {
+        "texto": "a) =Shift + F7",
+        "es_correcta": true,
+        "explicacion": "Abre el diccionario de sinónimos. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =F7",
+        "es_correcta": false,
+        "explicacion": "Abre corrección ortográfica. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + F7",
+        "es_correcta": false,
+        "explicacion": "No es la combinación principal. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Alt + F7",
+        "es_correcta": false,
+        "explicacion": "No es la habitual. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Qué ruta permite insertar un hipervínculo a una página web?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Vínculo",
+        "es_correcta": true,
+        "explicacion": "Permite crear un hipervínculo. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Vínculo",
+        "es_correcta": false,
+        "explicacion": "No es la ruta principal. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Vínculo",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Vínculo",
+        "es_correcta": false,
+        "explicacion": "No inserta hipervínculos. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Qué ruta permite numerar automáticamente todos los párrafos seleccionados?",
+    "opciones": [
+      {
+        "texto": "a) =INICIO->Párrafo->Numeración",
+        "es_correcta": true,
+        "explicacion": "Aplica una lista numerada al texto. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Numeración",
+        "es_correcta": false,
+        "explicacion": "No es la ruta estándar. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REFERENCIAS->Numeración",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Numeración",
+        "es_correcta": false,
+        "explicacion": "No aplica numeración. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Qué ruta permite aplicar viñetas a un texto?",
+    "opciones": [
+      {
+        "texto": "a) =INICIO->Párrafo->Viñetas",
+        "es_correcta": true,
+        "explicacion": "Aplica viñetas a la selección. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Viñetas",
+        "es_correcta": false,
+        "explicacion": "No es la ruta estándar. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Viñetas",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Viñetas",
+        "es_correcta": false,
+        "explicacion": "No inserta viñetas. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué ruta permite crear un estilo nuevo basado en la selección?",
+    "opciones": [
+      {
+        "texto": "a) =INICIO->Estilos->Crear un estilo",
+        "es_correcta": true,
+        "explicacion": "Permite crear un estilo nuevo en Word. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Estilos",
+        "es_correcta": false,
+        "explicacion": "No es la ruta adecuada. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REFERENCIAS->Estilos",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =REVISAR->Estilos",
+        "es_correcta": false,
+        "explicacion": "No es la ruta estándar. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Qué combinación selecciona todo el documento?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + E",
+        "es_correcta": false,
+        "explicacion": "Centra el texto, no selecciona todo. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + A",
+        "es_correcta": true,
+        "explicacion": "Selecciona todo el contenido del documento. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + S",
+        "es_correcta": false,
+        "explicacion": "Guarda el documento. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + Z",
+        "es_correcta": false,
+        "explicacion": "Deshace la última acción. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "pregunta": "¿Qué combinación guarda el documento?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + S",
+        "es_correcta": true,
+        "explicacion": "Guarda el documento activo. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + A",
+        "es_correcta": false,
+        "explicacion": "Selecciona todo. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + P",
+        "es_correcta": false,
+        "explicacion": "Abre imprimir. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + N",
+        "es_correcta": false,
+        "explicacion": "Crea un nuevo documento. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Qué combinación abre Imprimir?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + P",
+        "es_correcta": true,
+        "explicacion": "Abre el cuadro de impresión. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + S",
+        "es_correcta": false,
+        "explicacion": "Guarda. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + N",
+        "es_correcta": false,
+        "explicacion": "Nuevo documento. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + O",
+        "es_correcta": false,
+        "explicacion": "Abrir. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Qué combinación abre un nuevo documento en blanco?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + N",
+        "es_correcta": true,
+        "explicacion": "Crea un documento nuevo. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + O",
+        "es_correcta": false,
+        "explicacion": "Abre un documento existente. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + S",
+        "es_correcta": false,
+        "explicacion": "Guarda. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + P",
+        "es_correcta": false,
+        "explicacion": "Imprimir. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "pregunta": "¿Qué combinación abre un documento existente?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + O",
+        "es_correcta": true,
+        "explicacion": "Abre el cuadro de diálogo Abrir. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + N",
+        "es_correcta": false,
+        "explicacion": "Nuevo documento. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + S",
+        "es_correcta": false,
+        "explicacion": "Guardar. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + P",
+        "es_correcta": false,
+        "explicacion": "Imprimir. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Qué ruta permite insertar un cuadro de texto?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Cuadro de texto",
+        "es_correcta": true,
+        "explicacion": "Inserta un cuadro de texto en el documento. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Cuadro de texto",
+        "es_correcta": false,
+        "explicacion": "No es la ruta estándar. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Cuadro de texto",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Cuadro de texto",
+        "es_correcta": false,
+        "explicacion": "No inserta cuadros de texto. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Qué ruta permite insertar una imagen desde el dispositivo?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Imágenes->Este dispositivo",
+        "es_correcta": true,
+        "explicacion": "Permite insertar una imagen local. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Imágenes",
+        "es_correcta": false,
+        "explicacion": "No es la ruta adecuada. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Imágenes",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Imágenes",
+        "es_correcta": false,
+        "explicacion": "No inserta imágenes. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "pregunta": "¿Qué combinación deshace la última acción?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + Z",
+        "es_correcta": true,
+        "explicacion": "Deshace la última acción realizada. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + Y",
+        "es_correcta": false,
+        "explicacion": "Rehace la acción. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + X",
+        "es_correcta": false,
+        "explicacion": "Corta. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + C",
+        "es_correcta": false,
+        "explicacion": "Copia. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Qué combinación rehace la última acción deshecha?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + Y",
+        "es_correcta": true,
+        "explicacion": "Rehace la última acción deshecha. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + Z",
+        "es_correcta": false,
+        "explicacion": "Deshace. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + A",
+        "es_correcta": false,
+        "explicacion": "Selecciona todo. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + D",
+        "es_correcta": false,
+        "explicacion": "Abre fuente. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Qué combinación corta el texto seleccionado?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + X",
+        "es_correcta": true,
+        "explicacion": "Corta la selección al portapapeles. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + C",
+        "es_correcta": false,
+        "explicacion": "Copia. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + V",
+        "es_correcta": false,
+        "explicacion": "Pega. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + Z",
+        "es_correcta": false,
+        "explicacion": "Deshace. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Qué combinación copia el texto seleccionado?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + C",
+        "es_correcta": true,
+        "explicacion": "Copia la selección. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + X",
+        "es_correcta": false,
+        "explicacion": "Corta. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + V",
+        "es_correcta": false,
+        "explicacion": "Pega. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + Z",
+        "es_correcta": false,
+        "explicacion": "Deshace. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "pregunta": "¿Qué combinación pega el contenido del portapapeles?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + V",
+        "es_correcta": true,
+        "explicacion": "Pega el contenido copiado o cortado. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + C",
+        "es_correcta": false,
+        "explicacion": "Copia. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + X",
+        "es_correcta": false,
+        "explicacion": "Corta. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + Z",
+        "es_correcta": false,
+        "explicacion": "Deshace. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Qué ruta permite cambiar la orientación de página a horizontal?",
+    "opciones": [
+      {
+        "texto": "a) =DISPOSICIÓN->Orientación->Horizontal",
+        "es_correcta": true,
+        "explicacion": "Cambia la orientación de la página. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Orientación",
+        "es_correcta": false,
+        "explicacion": "No es la ruta correcta. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REFERENCIAS->Orientación",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =REVISAR->Orientación",
+        "es_correcta": false,
+        "explicacion": "No cambia orientación. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "pregunta": "¿Qué ruta permite cambiar los márgenes de página?",
+    "opciones": [
+      {
+        "texto": "a) =DISPOSICIÓN->Márgenes",
+        "es_correcta": true,
+        "explicacion": "Permite ajustar márgenes del documento. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Márgenes",
+        "es_correcta": false,
+        "explicacion": "No es la ruta adecuada. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REFERENCIAS->Márgenes",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =REVISAR->Márgenes",
+        "es_correcta": false,
+        "explicacion": "No cambia márgenes. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Qué ruta permite insertar un número de página?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Número de página",
+        "es_correcta": true,
+        "explicacion": "Inserta numeración automática. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Número de página",
+        "es_correcta": false,
+        "explicacion": "No es la ruta principal. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Número de página",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Número de página",
+        "es_correcta": false,
+        "explicacion": "No inserta numeración. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "pregunta": "¿Qué combinación abre 'Buscar'?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + F",
+        "es_correcta": true,
+        "explicacion": "Abre el panel de búsqueda. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + H",
+        "es_correcta": false,
+        "explicacion": "Abre Buscar y reemplazar. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + G",
+        "es_correcta": false,
+        "explicacion": "Ir a. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + R",
+        "es_correcta": false,
+        "explicacion": "Alinear a la derecha. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Qué combinación abre 'Ir a'?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + G",
+        "es_correcta": true,
+        "explicacion": "Abre Ir a para moverse por páginas o elementos. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + F",
+        "es_correcta": false,
+        "explicacion": "Buscar. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + H",
+        "es_correcta": false,
+        "explicacion": "Buscar y reemplazar. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + D",
+        "es_correcta": false,
+        "explicacion": "Fuente. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Qué ruta permite insertar una tabla en el documento?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Tabla",
+        "es_correcta": true,
+        "explicacion": "Inserta una tabla. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Tabla",
+        "es_correcta": false,
+        "explicacion": "No es la ruta adecuada. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Tabla",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Tabla",
+        "es_correcta": false,
+        "explicacion": "No inserta tablas. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "pregunta": "¿Qué ruta permite insertar símbolos especiales?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Símbolo",
+        "es_correcta": true,
+        "explicacion": "Permite insertar símbolos y caracteres especiales. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Símbolo",
+        "es_correcta": false,
+        "explicacion": "No es la ruta principal. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Símbolo",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Símbolo",
+        "es_correcta": false,
+        "explicacion": "No inserta símbolos. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "pregunta": "¿Qué ruta permite crear una portada?",
+    "opciones": [
+      {
+        "texto": "a) =INSERTAR->Portada",
+        "es_correcta": true,
+        "explicacion": "Inserta una portada prediseñada. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =REFERENCIAS->Portada",
+        "es_correcta": false,
+        "explicacion": "No es la ruta correcta. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Portada",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Portada",
+        "es_correcta": false,
+        "explicacion": "No inserta portadas. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Qué combinación centra el párrafo y lo deja alineado?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + E",
+        "es_correcta": true,
+        "explicacion": "Centra el párrafo seleccionado. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + J",
+        "es_correcta": false,
+        "explicacion": "Justifica. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + L",
+        "es_correcta": false,
+        "explicacion": "Alinea a la izquierda. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + R",
+        "es_correcta": false,
+        "explicacion": "Alinea a la derecha. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Qué ruta permite insertar un comentario?",
+    "opciones": [
+      {
+        "texto": "a) =REVISAR->Nuevo comentario",
+        "es_correcta": true,
+        "explicacion": "Inserta un comentario en el documento. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Nuevo comentario",
+        "es_correcta": false,
+        "explicacion": "No es la ruta principal. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REFERENCIAS->Nuevo comentario",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Nuevo comentario",
+        "es_correcta": false,
+        "explicacion": "No inserta comentarios. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Qué ruta permite revisar la ortografía manualmente?",
+    "opciones": [
+      {
+        "texto": "a) =REVISAR->Ortografía y gramática",
+        "es_correcta": true,
+        "explicacion": "Lanza la revisión manual. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Ortografía y gramática",
+        "es_correcta": false,
+        "explicacion": "No es la ruta correcta. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REFERENCIAS->Ortografía y gramática",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Ortografía y gramática",
+        "es_correcta": false,
+        "explicacion": "No revisa ortografía. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "pregunta": "¿Qué combinación abre el cuadro de diálogo Buscar y reemplazar?",
+    "opciones": [
+      {
+        "texto": "a) =Ctrl + H",
+        "es_correcta": true,
+        "explicacion": "Abre Buscar y reemplazar. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =Ctrl + F",
+        "es_correcta": false,
+        "explicacion": "Solo buscar. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =Ctrl + G",
+        "es_correcta": false,
+        "explicacion": "Ir a. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =Ctrl + D",
+        "es_correcta": false,
+        "explicacion": "Fuente. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "pregunta": "¿Qué ruta permite crear una tabla de contenido a partir de títulos con estilos?",
+    "opciones": [
+      {
+        "texto": "a) =REFERENCIAS->Tabla de contenido",
+        "es_correcta": true,
+        "explicacion": "Genera la tabla a partir de estilos de encabezado. Referencia: Word 365."
+      },
+      {
+        "texto": "b) =INSERTAR->Tabla de contenido",
+        "es_correcta": false,
+        "explicacion": "No es la ruta principal. Referencia: Word 365."
+      },
+      {
+        "texto": "c) =REVISAR->Tabla de contenido",
+        "es_correcta": false,
+        "explicacion": "No corresponde. Referencia: Word 365."
+      },
+      {
+        "texto": "d) =VISTA->Tabla de contenido",
+        "es_correcta": false,
+        "explicacion": "No genera tablas de contenido. Referencia: Word 365."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "pregunta": "Según el artículo 4 de la Ley 31/1995, de Prevención de Riesgos Laborales, ¿cómo se define el 'riesgo laboral'?",
+    "opciones": [
+      {
+        "texto": "a) Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+        "es_correcta": false,
+        "explicacion": "Esta es la definición legal de 'daños derivados del trabajo' recogida en el art. 4.3, no la de riesgo laboral."
+      },
+      {
+        "texto": "b) La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+        "es_correcta": true,
+        "explicacion": "El art. 4.2 de la Ley 31/1995 define expresamente el riesgo laboral como la posibilidad de que un trabajador sufra un daño."
+      },
+      {
+        "texto": "c) Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+        "es_correcta": false,
+        "explicacion": "Esto define el concepto de 'equipo de trabajo' (art. 4.6), no el de riesgo."
+      },
+      {
+        "texto": "d) El conjunto de actividades o medidas adoptadas con el fin de evitar o disminuir los riesgos.",
+        "es_correcta": false,
+        "explicacion": "Esta opción corresponde a la definición legal de 'prevención' del artículo 4.1."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "De acuerdo con el artículo 15 de la Ley 31/1995, ¿cuál de los siguientes NO es un principio general de la acción preventiva?",
+    "opciones": [
+      {
+        "texto": "a) Evitar los riesgos.",
+        "es_correcta": false,
+        "explicacion": "Evitar los riesgos es el primero de los principios de la acción preventiva previstos en la Ley."
+      },
+      {
+        "texto": "b) Adaptar el trabajo a la persona.",
+        "es_correcta": false,
+        "explicacion": "Adaptar el trabajo a la persona (ergonomía) es un principio fundamental recogido en el art. 15.1.d."
+      },
+      {
+        "texto": "c) Sustituir lo peligroso por lo que entrañe poco o ningún peligro.",
+        "es_correcta": false,
+        "explicacion": "Es uno de los principios rectores de prevención dictados por la normativa (art. 15.1.f)."
+      },
+      {
+        "texto": "d) Anteponer la protección individual a la colectiva.",
+        "es_correcta": true,
+        "explicacion": "El principio legal es exactamente el contrario: se deben adoptar medidas que antepongan la protección colectiva a la individual (art. 15.1.h)."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Sobre quién recaerá el coste de las medidas relativas a la seguridad y la salud en el trabajo según la Ley 31/1995?",
+    "opciones": [
+      {
+        "texto": "a) Será compartido a partes iguales entre empresario y trabajador.",
+        "es_correcta": false,
+        "explicacion": "La normativa prohíbe taxativamente que el coste recaiga sobre el trabajador."
+      },
+      {
+        "texto": "b) Recaerá sobre el trabajador si la situación de riesgo se debió a su negligencia.",
+        "es_correcta": false,
+        "explicacion": "No hay excepciones de cobro al trabajador en la dotación de medidas preventivas de seguridad y salud."
+      },
+      {
+        "texto": "c) En ningún modo deberá recaer sobre los trabajadores.",
+        "es_correcta": true,
+        "explicacion": "El artículo 14.5 de la Ley 31/1995 establece tajantemente que el coste de estas medidas no deberá recaer en modo alguno sobre los trabajadores."
+      },
+      {
+        "texto": "d) Estará subvencionado obligatoriamente por la Administración Pública competente.",
+        "es_correcta": false,
+        "explicacion": "La responsabilidad de asumir el coste corresponde al empresario, sin perjuicio de ayudas externas, pero no recae sobre la Administración directamente como norma general."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "En cuanto a los Equipos de Protección Individual (EPI), el artículo 17 establece que:",
+    "opciones": [
+      {
+        "texto": "a) Deben utilizarse siempre como primera medida preventiva en el ámbito administrativo.",
+        "es_correcta": false,
+        "explicacion": "La protección individual se usará únicamente cuando las medidas colectivas no sean suficientes."
+      },
+      {
+        "texto": "b) Solo deberán utilizarse cuando los riesgos no se puedan evitar o limitar suficientemente por medios técnicos de protección colectiva.",
+        "es_correcta": true,
+        "explicacion": "El uso de EPIs es siempre subsidiario frente a la protección colectiva y los procedimientos de organización del trabajo (art. 17.2)."
+      },
+      {
+        "texto": "c) Su uso es completamente voluntario para el personal estatutario y funcionario.",
+        "es_correcta": false,
+        "explicacion": "Si están prescritos, su uso es una obligación del empleado público según el art. 29 de la Ley 31/1995."
+      },
+      {
+        "texto": "d) Sustituyen siempre a la formación en prevención de riesgos laborales.",
+        "es_correcta": false,
+        "explicacion": "La formación es un derecho y obligación independiente y transversal, no se suple con EPIs."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "Según el artículo 19 de la Ley 31/1995, la formación de los trabajadores en materia preventiva:",
+    "opciones": [
+      {
+        "texto": "a) Se impartirá siempre fuera de la jornada de trabajo para no afectar el servicio.",
+        "es_correcta": false,
+        "explicacion": "La ley promueve que la formación se integre en la jornada ordinaria."
+      },
+      {
+        "texto": "b) Deberá impartirse, siempre que sea posible, dentro de la jornada de trabajo.",
+        "es_correcta": true,
+        "explicacion": "El art. 19.2 especifica que la formación deberá impartirse, dentro de lo posible, en la jornada de trabajo o, en su defecto, en otras horas con el descuento en aquélla del tiempo invertido."
+      },
+      {
+        "texto": "c) Su coste recaerá de forma proporcional sobre el salario del trabajador.",
+        "es_correcta": false,
+        "explicacion": "El tiempo de formación computa como tiempo efectivo y su coste no puede recaer sobre el empleado."
+      },
+      {
+        "texto": "d) Solamente es obligatoria en el momento de la contratación.",
+        "es_correcta": false,
+        "explicacion": "Debe repetirse periódicamente, si fuera necesario, y cuando haya cambios de funciones o nuevas tecnologías."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué derecho asiste a los trabajadores en caso de riesgo grave e inminente según el art. 21 de la Ley 31/1995?",
+    "opciones": [
+      {
+        "texto": "a) Tienen derecho a interrumpir su actividad y abandonar el lugar de trabajo.",
+        "es_correcta": true,
+        "explicacion": "El art. 21.2 garantiza que el trabajador pueda interrumpir su actividad y abandonar el puesto sin sufrir perjuicio alguno cuando considere que existe un riesgo grave e inminente."
+      },
+      {
+        "texto": "b) Solo pueden interrumpir su labor si lo autoriza por escrito el jefe del servicio.",
+        "es_correcta": false,
+        "explicacion": "El trabajador puede actuar por iniciativa propia ante el peligro inmediato si no puede contactar con un superior."
+      },
+      {
+        "texto": "c) Deben permanecer en su puesto e intentar neutralizar la amenaza obligatoriamente.",
+        "es_correcta": false,
+        "explicacion": "La ley prioriza la integridad física, ordenando el abandono o interrupción si hay gravedad e inminencia."
+      },
+      {
+        "texto": "d) Únicamente la Inspección de Trabajo tiene potestad para paralizar la actividad.",
+        "es_correcta": false,
+        "explicacion": "La Inspección puede paralizar la actividad (art. 44), pero el trabajador y los representantes sindicales también tienen potestad de interrupción inmediata."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "La vigilancia de la salud de los trabajadores (art. 22):",
+    "opciones": [
+      {
+        "texto": "a) Es de carácter estrictamente obligatorio para todos los empleados de la Administración.",
+        "es_correcta": false,
+        "explicacion": "Como norma general, tiene carácter voluntario, existiendo solo excepciones muy tasadas."
+      },
+      {
+        "texto": "b) Sólo podrá llevarse a cabo cuando el trabajador preste su consentimiento, salvo excepciones previstas legalmente.",
+        "es_correcta": true,
+        "explicacion": "El art. 22.1 marca el principio de voluntariedad, exceptuando casos donde sea imprescindible para evaluar los efectos de las condiciones de trabajo sobre la salud o haya riesgo para terceros."
+      },
+      {
+        "texto": "c) Genera informes médicos que el empleador puede consultar detalladamente.",
+        "es_correcta": false,
+        "explicacion": "Los resultados médicos son confidenciales y al empleador solo se le comunican las conclusiones sobre aptitud (apto, no apto, etc.)."
+      },
+      {
+        "texto": "d) Puede utilizarse válidamente con fines de sanción o despido.",
+        "es_correcta": false,
+        "explicacion": "La ley prohíbe expresamente el uso de la vigilancia de la salud con fines discriminatorios o perjudiciales."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "De conformidad con el artículo 29 de la Ley 31/1995, ¿cuál de las siguientes NO es una obligación de los trabajadores en materia preventiva?",
+    "opciones": [
+      {
+        "texto": "a) Usar adecuadamente las máquinas, aparatos y herramientas.",
+        "es_correcta": false,
+        "explicacion": "Esta es una de las obligaciones explícitas recogidas en el art. 29.2."
+      },
+      {
+        "texto": "b) Informar de inmediato a su superior jerárquico acerca de cualquier situación de riesgo para la seguridad.",
+        "es_correcta": false,
+        "explicacion": "Es un deber del empleado público y privado informar de situaciones peligrosas (art. 29.2.4º)."
+      },
+      {
+        "texto": "c) Elaborar y aprobar la evaluación inicial de riesgos de su centro de trabajo.",
+        "es_correcta": true,
+        "explicacion": "La evaluación de riesgos es una obligación del empresario (la Administración en este caso), nunca del empleado base."
+      },
+      {
+        "texto": "d) Utilizar correctamente los medios y equipos de protección facilitados por el empresario.",
+        "es_correcta": false,
+        "explicacion": "Es una obligación principal de cumplimiento exigible al trabajador."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Quiénes son los Delegados de Prevención según el art. 35 de la Ley 31/1995?",
+    "opciones": [
+      {
+        "texto": "a) Son designados unilateralmente por el titular de la Consejería correspondiente.",
+        "es_correcta": false,
+        "explicacion": "Son elegidos por y entre los representantes del personal, no por la dirección."
+      },
+      {
+        "texto": "b) Son los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo.",
+        "es_correcta": true,
+        "explicacion": "Esta es la definición exacta que aporta el art. 35.1 de la Ley 31/1995."
+      },
+      {
+        "texto": "c) Son inspectores pertenecientes al Cuerpo Nacional de Inspección de Trabajo.",
+        "es_correcta": false,
+        "explicacion": "La Inspección de Trabajo es un órgano externo, mientras que los delegados son empleados representantes."
+      },
+      {
+        "texto": "d) Representan exclusivamente a los técnicos del servicio de prevención propio.",
+        "es_correcta": false,
+        "explicacion": "Representan al conjunto de los trabajadores frente al empresario."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "El Comité de Seguridad y Salud (art. 38 de la LPRL) es el órgano paritario y colegiado de participación, que se constituirá:",
+    "opciones": [
+      {
+        "texto": "a) En todas las empresas y administraciones públicas, con independencia de su tamaño.",
+        "es_correcta": false,
+        "explicacion": "El Comité solo se exige a partir de un umbral mínimo de empleados."
+      },
+      {
+        "texto": "b) En todas las empresas o centros de trabajo que cuenten con 50 o más trabajadores.",
+        "es_correcta": true,
+        "explicacion": "El art. 38.2 estipula que este órgano se constituirá en centros a partir de 50 trabajadores."
+      },
+      {
+        "texto": "c) Exclusivamente en aquellos centros donde la actividad principal sea industrial o de riesgo químico.",
+        "es_correcta": false,
+        "explicacion": "Es de aplicación transversal a cualquier sector, incluido el trabajo administrativo y de oficinas, si se llega al cupo de 50 empleados."
+      },
+      {
+        "texto": "d) Únicamente en los Ministerios del Estado, quedando exentas las CCAA.",
+        "es_correcta": false,
+        "explicacion": "La Ley 31/1995 se aplica plomizamente a las administraciones autonómicas en virtud de su art. 3."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "Atendiendo al RD 486/1997 sobre lugares de trabajo, ¿cuál es la temperatura recomendada en locales donde se realicen trabajos sedentarios (oficinas)?",
+    "opciones": [
+      {
+        "texto": "a) Estará comprendida entre 14 y 25 ºC.",
+        "es_correcta": false,
+        "explicacion": "Ese rango corresponde a trabajos ligeros, no a trabajos sedentarios propios de una oficina."
+      },
+      {
+        "texto": "b) Estará comprendida entre 17 y 27 ºC.",
+        "es_correcta": true,
+        "explicacion": "El Anexo III del RD 486/1997 fija estrictamente que los locales de oficinas (sedentarios) deben estar entre 17 y 27 ºC."
+      },
+      {
+        "texto": "c) Estará comprendida entre 20 y 30 ºC.",
+        "es_correcta": false,
+        "explicacion": "Temperatura demasiado elevada normativamente; máximo es 27 ºC."
+      },
+      {
+        "texto": "d) No existe límite térmico legal, rigiendo el sentido común de los presentes.",
+        "es_correcta": false,
+        "explicacion": "Existen parámetros estrictos regulados por el RD 486/1997."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "Según el RD 486/1997, la humedad relativa en un local de trabajo de oficina donde no existen riesgos por electricidad estática deberá estar:",
+    "opciones": [
+      {
+        "texto": "a) Comprendida entre el 30 y el 70 por 100.",
+        "es_correcta": true,
+        "explicacion": "El Anexo III estipula una humedad relativa entre el 30% y el 70%. (Si existiera riesgo de electricidad estática, el mínimo sería 50%)."
+      },
+      {
+        "texto": "b) Comprendida entre el 50 y el 80 por 100.",
+        "es_correcta": false,
+        "explicacion": "Rango incorrecto."
+      },
+      {
+        "texto": "c) No inferior al 80 por 100 para evitar sequedad ocular.",
+        "es_correcta": false,
+        "explicacion": "Una humedad tan alta incumpliría la normativa ambiental general."
+      },
+      {
+        "texto": "d) Por debajo del 20 por 100 obligatoriamente.",
+        "es_correcta": false,
+        "explicacion": "Eso generaría problemas respiratorios severos y va en contra de la norma."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "Para prevenir riesgos en el puesto de auxiliar administrativo, el RD 488/1997 sobre equipos con Pantallas de Visualización de Datos (PVD) determina que la pantalla deberá:",
+    "opciones": [
+      {
+        "texto": "a) Estar fijada sólidamente a la mesa, sin posibilidad de inclinación.",
+        "es_correcta": false,
+        "explicacion": "Eso forzaría malas posturas en el usuario."
+      },
+      {
+        "texto": "b) Ser orientable e inclinable a voluntad, con facilidad para adaptarse a las necesidades del usuario.",
+        "es_correcta": true,
+        "explicacion": "El Anexo del RD 488/1997 establece que la pantalla debe ser ajustable para garantizar la ergonomía y salud visual/postural del usuario."
+      },
+      {
+        "texto": "c) Emitir obligatoriamente destellos continuos para mantener la atención.",
+        "es_correcta": false,
+        "explicacion": "La norma exige exactamente lo contrario: la imagen debe ser estable, sin destellos ni centelleos."
+      },
+      {
+        "texto": "d) Situarse a menos de 30 centímetros de la cara del operario.",
+        "es_correcta": false,
+        "explicacion": "La distancia recomendada es, como mínimo, de 40 cm para no causar fatiga ocular."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "De acuerdo con las disposiciones mínimas para PVD (RD 488/1997), el teclado utilizado en el puesto de trabajo:",
+    "opciones": [
+      {
+        "texto": "a) Debe estar integrado físicamente en la pantalla, formando una sola pieza (tipo terminal fijo antiguo).",
+        "es_correcta": false,
+        "explicacion": "La norma prohíbe que estén fijos para permitir a los trabajadores adoptar una postura cómoda."
+      },
+      {
+        "texto": "b) Deberá ser inclinable e independiente de la pantalla para permitir que el trabajador adopte una postura cómoda.",
+        "es_correcta": true,
+        "explicacion": "El teclado independiente e inclinable evita los riesgos biomecánicos en brazos y muñecas (Anexo RD 488/1997)."
+      },
+      {
+        "texto": "c) Tendrá una superficie reflectante y brillante para facilitar la localización de teclas.",
+        "es_correcta": false,
+        "explicacion": "El teclado debe tener una superficie mate para evitar los reflejos molestos."
+      },
+      {
+        "texto": "d) Se situará al ras del borde de la mesa, sin dejar espacio delante.",
+        "es_correcta": false,
+        "explicacion": "Debe haber espacio suficiente delante del teclado para que el usuario pueda apoyar los brazos y las manos."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "Entre los riesgos asociados al puesto de auxiliar administrativo figuran los trastornos musculoesqueléticos. ¿Cómo debe ser el asiento de trabajo según el RD 488/1997?",
+    "opciones": [
+      {
+        "texto": "a) Una silla rígida de cuatro patas sin regulación de altura.",
+        "es_correcta": false,
+        "explicacion": "Favorecería lesiones lumbares y estáticas, incumpliendo la ley."
+      },
+      {
+        "texto": "b) Estable, proporcionando al usuario libertad de movimiento, con altura regulable y respaldo reclinable.",
+        "es_correcta": true,
+        "explicacion": "El diseño ergonómico de la silla es imperativo en la normativa para asegurar la adaptación antropométrica al usuario (Anexo RD 488/1997)."
+      },
+      {
+        "texto": "c) Obligatoriamente provisto de sistema de masaje eléctrico y calor lumbar.",
+        "es_correcta": false,
+        "explicacion": "Esas son características comerciales ajenas a los mínimos preventivos que fija la ley."
+      },
+      {
+        "texto": "d) Preferiblemente un taburete alto sin respaldo para mantener la tensión muscular de la espalda.",
+        "es_correcta": false,
+        "explicacion": "Esto provocaría fatiga y patologías vertebrales a corto plazo."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "El reposapiés en un puesto administrativo con Pantalla de Visualización de Datos (PVD):",
+    "opciones": [
+      {
+        "texto": "a) Debe instalarse de manera obligatoria para absolutamente todos los trabajadores.",
+        "es_correcta": false,
+        "explicacion": "Solamente es necesario cuando no se alcance el suelo con comodidad."
+      },
+      {
+        "texto": "b) Se pondrá a disposición de quienes lo deseen o lo necesiten para mantener una postura correcta.",
+        "es_correcta": true,
+        "explicacion": "La Guía Técnica del INSST aclara que se debe facilitar un reposapiés a aquellos trabajadores que, una vez ajustada la silla a la altura de la mesa, no puedan apoyar los pies cómodamente en el suelo."
+      },
+      {
+        "texto": "c) Está terminantemente prohibido por suponer un riesgo de caída por tropiezo.",
+        "es_correcta": false,
+        "explicacion": "Por el contrario, es un elemento preventivo recomendado."
+      },
+      {
+        "texto": "d) Sólo es exigible si el trabajador presenta una discapacidad física certificada.",
+        "es_correcta": false,
+        "explicacion": "Su uso atiende a criterios antropométricos (altura del individuo frente a la mesa), no a la discapacidad."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "Para evitar deslumbramientos y reflejos en la pantalla en un despacho administrativo, ¿qué medida preventiva de diseño de iluminación es la correcta?",
+    "opciones": [
+      {
+        "texto": "a) Colocar la pantalla justo delante de la ventana, de forma que el trabajador mire hacia el sol.",
+        "es_correcta": false,
+        "explicacion": "Esto causa deslumbramiento directo severo y un alto contraste indeseable."
+      },
+      {
+        "texto": "b) Instalar la pantalla de espaldas a la ventana para que la luz natural impacte de lleno en el monitor.",
+        "es_correcta": false,
+        "explicacion": "Esto genera reflejos insoportables que borran el contenido y causan fatiga visual."
+      },
+      {
+        "texto": "c) Acondicionar los puestos de trabajo de manera que las fuentes de luz caigan paralelas a la dirección de la visión (pantalla perpendicular a las ventanas).",
+        "es_correcta": true,
+        "explicacion": "La disposición perpendicular a las vías de luz natural es la principal medida que indica el RD 488/1997 para eludir deslumbramientos."
+      },
+      {
+        "texto": "d) Eliminar cualquier tipo de luz natural, cerrando permanentemente las persianas en horario laboral.",
+        "es_correcta": false,
+        "explicacion": "El RD 486/1997 prioriza la luz natural siempre que sea posible, solo complementándola con iluminación artificial."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cuál es la postura y colocación recomendada respecto al ángulo visual de la pantalla en un puesto de auxiliar administrativo?",
+    "opciones": [
+      {
+        "texto": "a) El borde superior de la pantalla debe quedar a la altura de los ojos del usuario o ligeramente por debajo.",
+        "es_correcta": true,
+        "explicacion": "Esta posición asegura un ángulo de visión de unos 10 a 60 grados hacia abajo, que es la inclinación fisiológica normal del ojo en reposo, evitando forzar las cervicales."
+      },
+      {
+        "texto": "b) El centro de la pantalla debe estar por encima del nivel horizontal de los ojos.",
+        "es_correcta": false,
+        "explicacion": "Obligaría al trabajador a extender el cuello hacia arriba, causando dolor cervical continuo."
+      },
+      {
+        "texto": "c) La pantalla debe estar ladeada y descentrada respecto al teclado, formando un ángulo de 45 grados.",
+        "es_correcta": false,
+        "explicacion": "Debe colocarse en posición frontal para evitar la torsión del cuello."
+      },
+      {
+        "texto": "d) El borde inferior de la pantalla debe situarse exactamente a la altura del pecho del usuario.",
+        "es_correcta": false,
+        "explicacion": "Esta no es una medida estandarizada. La pauta general marca la altura del borde superior respecto a los ojos."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "En cuanto a la organización del trabajo frente a pantallas (PVD), para minimizar la fatiga visual y mental, el empresario y el trabajador deben aplicar la siguiente premisa:",
+    "opciones": [
+      {
+        "texto": "a) Evitar realizar cualquier pausa hasta completar las tareas asignadas.",
+        "es_correcta": false,
+        "explicacion": "La sobreexposición continua incrementa el riesgo de accidentes y patologías."
+      },
+      {
+        "texto": "b) Acumular los descansos a última hora del día para poder abandonar el centro antes.",
+        "es_correcta": false,
+        "explicacion": "Las pausas tienen finalidad recuperadora en el momento de la fatiga, no se pueden acumular al final de la jornada."
+      },
+      {
+        "texto": "c) Establecer pausas cortas y frecuentes, que resultan más eficaces que las pausas largas y escasas.",
+        "es_correcta": true,
+        "explicacion": "El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) enfatiza en sus guías que las micropausas o cambios de actividad frecuentes previenen con mayor eficacia la fatiga."
+      },
+      {
+        "texto": "d) Durante las pausas, el trabajador debe seguir concentrado mirando a un plano cercano, como un libro.",
+        "es_correcta": false,
+        "explicacion": "En las pausas se recomienda relajar el músculo ciliar ocular mirando a distancias lejanas (más de 6 metros)."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál de los siguientes riesgos se considera impropio o atípico en el desempeño del puesto de Auxiliar Administrativo de la Junta de Castilla y León?",
+    "opciones": [
+      {
+        "texto": "a) Trastornos musculoesqueléticos por posturas estáticas prolongadas.",
+        "es_correcta": false,
+        "explicacion": "Es el riesgo ergonómico número uno asociado al trabajo en oficina."
+      },
+      {
+        "texto": "b) Fatiga mental o carga psicosocial debido a la atención al público y plazos administrativos.",
+        "es_correcta": false,
+        "explicacion": "La carga mental es un riesgo psicosocial altamente evaluado en labores burocráticas."
+      },
+      {
+        "texto": "c) Exposición y contagio por agentes biológicos del grupo 4 (riesgo de propagación grave sin tratamiento).",
+        "es_correcta": true,
+        "explicacion": "Estos agentes (como el virus del Ébola) están confinados a laboratorios de alta contención e industrias especializadas, siendo ajenos a un entorno de administración general."
+      },
+      {
+        "texto": "d) Fatiga visual (astenopía) por el uso continuado de Pantallas de Visualización de Datos.",
+        "es_correcta": false,
+        "explicacion": "Es otro de los riesgos inherentes y más extendidos al operar con un ordenador permanentemente."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "pregunta": "De conformidad con el artículo 2 del Decreto 80/2013, de 26 de diciembre, el ámbito de aplicación de esta norma de adaptación en materia de prevención de riesgos laborales se extiende a:",
+    "opciones": [
+      {
+        "texto": "a) Exclusivamente al personal funcionario de carrera e interino de la Administración General de la Comunidad.",
+        "es_correcta": false,
+        "explicacion": "El ámbito es más amplio; no se limita al personal funcionario, sino que abarca a todo el personal con independencia de su vínculo jurídico. Referencia: art. 2.1 Decreto 80/2013."
+      },
+      {
+        "texto": "b) A la Administración General de la Comunidad de Castilla y León así como a sus Organismos Autónomos, con independencia de la naturaleza del vínculo jurídico de su personal.",
+        "es_correcta": true,
+        "explicacion": "El decreto determina expresamente su aplicación tanto a la Administración General como a sus Organismos Autónomos para todo tipo de personal (funcionario, laboral, etc.). Referencia: art. 2.1 Decreto 80/2013."
+      },
+      {
+        "texto": "c) Únicamente al personal laboral regulado por el Convenio Colectivo Único para el personal laboral de la Junta de Castilla y León.",
+        "es_correcta": false,
+        "explicacion": "Aplica por igual a los empleados con relaciones tanto administrativas como laborales. Referencia: art. 2.1 Decreto 80/2013."
+      },
+      {
+        "texto": "d) A la Administración General de la Comunidad, quedando excluidos los Organismos Autónomos por contar con normativa de adaptación específica.",
+        "es_correcta": false,
+        "explicacion": "Los Organismos Autónomos están expresamente incluidos dentro del ámbito de aplicación subjetivo del decreto. Referencia: art. 2.1 Decreto 80/2013."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "Según el artículo 3 del Decreto 80/2013, de 26 de diciembre, ¿cuál es el instrumento básico de gestión y aplicación del sistema de prevención de riesgos laborales en la Administración de la Comunidad de Castilla y León?",
+    "opciones": [
+      {
+        "texto": "a) El Plan de Prevención de Riesgos Laborales.",
+        "es_correcta": true,
+        "explicacion": "El Plan de Prevención es el instrumento básico a través del cual se integra la actividad preventiva de la Administración General y sus Organismos Autónomos. Referencia: art. 3.2 Decreto 80/2013."
+      },
+      {
+        "texto": "b) La Evaluación de Riesgos de cada Consejería.",
+        "es_correcta": false,
+        "explicacion": "La evaluación de riesgos es un elemento que forma parte de la planificación general, pero el instrumento matriz es el propio Plan. Referencia: art. 3.2 Decreto 80/2013."
+      },
+      {
+        "texto": "c) La Memoria Anual del Servicio de Prevención.",
+        "es_correcta": false,
+        "explicacion": "La memoria es un instrumento de control e información posterior, no la herramienta básica de gestión e integración. Referencia: art. 3.2 Decreto 80/2013."
+      },
+      {
+        "texto": "d) La Auditoría de Prevención Externa efectuada por la Consejería de Presidencia.",
+        "es_correcta": false,
+        "explicacion": "Las auditorías evalúan el sistema, pero el instrumento fundamental exigido legalmente para su aplicación diaria es el Plan de Prevención. Referencia: art. 3.2 Decreto 80/2013."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "Al amparo del artículo 14 de la Ley 31/1995, de Prevención de Riesgos Laborales, el derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo supone:",
+    "opciones": [
+      {
+        "texto": "a) Un derecho programático supeditado a las disponibilidades presupuestarias anuales de la Administración.",
+        "es_correcta": false,
+        "explicacion": "Es un derecho de carácter obligatorio y deudor de seguridad, no programático ni condicionado en su núcleo esencial por razones presupuestarias. Referencia: art. 14.1 Ley 31/1995."
+      },
+      {
+        "texto": "b) La existencia de un correlativo deber de la Administración pública de protección de los empleados públicos frente a los riesgos laborales.",
+        "es_correcta": true,
+        "explicacion": "La ley configura el derecho a la protección eficaz como la contrapartida de un deber de seguridad ineludible para el empleador (en este caso, la Administración). Referencia: art. 14.1 Ley 31/1995."
+      },
+      {
+        "texto": "c) Una facultad meramente consultiva articulada a través de los órganos de representación de personal.",
+        "es_correcta": false,
+        "explicacion": "Se trata de un derecho subjetivo y efectivo de cada trabajador, no de una mera atribución de consulta. Referencia: art. 14.1 Ley 31/1995."
+      },
+      {
+        "texto": "d) La obligación del trabajador de costear de forma compartida los Equipos de Protección Individual (EPI).",
+        "es_correcta": false,
+        "explicacion": "El coste de las medidas preventivas no puede recaer en ningún caso sobre los trabajadores. Referencia: art. 14.5 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Cuál de los siguientes enunciados NO constituye uno de los principios de la acción preventiva contenidos en el artículo 15 de la Ley 31/1995, de Prevención de Riesgos Laborales?",
+    "opciones": [
+      {
+        "texto": "a) Evaluar los riesgos que no se puedan evitar.",
+        "es_correcta": false,
+        "explicacion": "Este enunciado sí es un principio preventivo expresamente tipificado en la norma. Referencia: art. 15.1.b Ley 31/1995."
+      },
+      {
+        "texto": "b) Combatir los riesgos en su origen.",
+        "es_correcta": false,
+        "explicacion": "Es uno de los pilares básicos de la acción preventiva del artículo 15. Referencia: art. 15.1.c Ley 31/1995."
+      },
+      {
+        "texto": "c) Suppeditar la adopción de medidas de protección colectiva a las de protección individual por razones de economía procesal.",
+        "es_correcta": true,
+        "explicacion": "El principio legal es justamente el contrario: se debe anteponer siempre la protección colectiva a la individual. Referencia: art. 15.1.h Ley 31/1995."
+      },
+      {
+        "texto": "d) Planificar la prevención, buscando un conjunto coherente que integre la técnica, la organización del trabajo y las condiciones de trabajo.",
+        "es_correcta": false,
+        "explicacion": "La planificación integrada constituye un principio fundamental contemplado en el texto legal. Referencia: art. 15.1.g Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "En relación con la formación en materia preventiva de los empleados públicos, el artículo 19 de la Ley 31/1995 estipula que:",
+    "opciones": [
+      {
+        "texto": "a) Deberá impartirse obligatoriamente fuera de la jornada de trabajo para no alterar el rendimiento del servicio público.",
+        "es_correcta": false,
+        "explicacion": "La norma exige que se imparta, siempre que sea posible, dentro de la jornada de trabajo. Referencia: art. 19.2 Ley 31/1995."
+      },
+      {
+        "texto": "b) El coste de la formación será sufragado a partes iguales entre la Administración y el empleado público mediante retención en nómina.",
+        "es_correcta": false,
+        "explicacion": "El coste de la formación preventiva no podrá recaer en ningún caso sobre los trabajadores. Referencia: art. 19.2 Ley 31/1995."
+      },
+      {
+        "texto": "c) Deberá impartirse, siempre que sea posible, dentro de la jornada de trabajo y su coste no podrá recaer en ningún caso sobre los trabajadores.",
+        "es_correcta": true,
+        "explicacion": "El precepto legal garantiza la gratuidad absoluta para el trabajador y la preferencia horaria dentro de su jornada laboral. Referencia: art. 19.2 Ley 31/1995."
+      },
+      {
+        "texto": "d) Solo será obligatoria para el personal de nuevo ingreso, quedando exento el personal con más de cinco años de antigüedad.",
+        "es_correcta": false,
+        "explicacion": "Debe centrarse en el puesto de trabajo y repetirse si cambian las funciones o se introducen nuevas tecnologías. Referencia: art. 19.1 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "A efectos del Real Decreto 488/1997, relativo al trabajo con equipos que incluyen pantallas de visualización de datos (PVD), se considera 'trabajador usuario' a aquel que:",
+    "opciones": [
+      {
+        "texto": "a) Utiliza pantallas de forma esporádica u ocasional en el desempeño de tareas de archivo físico.",
+        "es_correcta": false,
+        "explicacion": "El uso esporádico u ocasional excluye al trabajador de la consideración técnica de usuario conforme a esta normativa. Referencia: art. 2.c RD 488/1997."
+      },
+      {
+        "texto": "b) Habitualmente y durante una parte relevante de su jornada normal de trabajo utiliza un equipo con pantalla de visualización.",
+        "es_correcta": true,
+        "explicacion": "La definición técnico-legal exige habitualidad y que el uso represente una porción significativa o relevante de la jornada. Referencia: art. 2.c RD 488/1997."
+      },
+      {
+        "texto": "c) Maneja exclusivamente calculadoras o pantallas de pequeños indicadores numéricos de control de acceso.",
+        "es_correcta": false,
+        "explicacion": "Las calculadoras y pequeños displays de datos están excluidos del ámbito de aplicación de este Real Decreto. Referencia: art. 1.2 RD 488/1997."
+      },
+      {
+        "texto": "d) Únicamente aquel personal informático dedicado al desarrollo y programación de software en los Servicios Centrales.",
+        "es_correcta": false,
+        "explicacion": "Cualquier puesto administrativo (como un Auxiliar Administrativo) que cumpla con los requisitos temporales entra en la definición de usuario. Referencia: art. 2.c RD 488/1997."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "Según el Anexo del Real Decreto 488/1997, para garantizar unas condiciones ergonómicas adecuadas en un puesto de oficina con PVD, el asiento de trabajo debe:",
+    "opciones": [
+      {
+        "texto": "a) Tener un respaldo fijo y un asiento de material totalmente rígido para favorecer la higiene postural rígida.",
+        "es_correcta": false,
+        "explicacion": "El estatismo rígido es perjudicial; se exigen componentes regulables y adaptables ergonómicamente. Referencia: Anexo RD 488/1997."
+      },
+      {
+        "texto": "b) Ser estable, regulable en altura, y disponer de un respaldo reclinable y ajustable en altura.",
+        "es_correcta": true,
+        "explicacion": "Estas características permiten adaptar el mobiliario a la antropometría específica de cada auxiliar administrativo, previniendo lesiones musculoesqueléticas. Referencia: Anexo RD 488/1997."
+      },
+      {
+        "texto": "c) Disponer obligatoriamente de ruedas autofrenantes únicamente cuando el suelo sea de moqueta texturizada.",
+        "es_correcta": false,
+        "explicacion": "Las especificaciones ergonómicas generales de estabilidad no se limitan de manera exclusiva a un tipo de suelo específico. Referencia: Anexo RD 488/1997."
+      },
+      {
+        "texto": "d) Ser regulable únicamente en profundidad, quedando prohibida la oscilación lumbar.",
+        "es_correcta": false,
+        "explicacion": "El soporte lumbar y la inclinación/regulación del respaldo son requisitos mínimos recogidos normativamente. Referencia: Anexo RD 488/1997."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "En el entorno de un Auxiliar Administrativo que trabaja de forma continua con PVD, la prevención de la fatiga visual y mental se gestionará prioritariamente mediante:",
+    "opciones": [
+      {
+        "texto": "a) La reducción proporcional del salario base por disminución efectiva del tiempo de presencia frente al monitor.",
+        "es_correcta": false,
+        "explicacion": "La aplicación de medidas de salud laboral jamás puede menoscabar los derechos retributivos del empleado. Referencia: art. 14.5 Ley 31/1995."
+      },
+      {
+        "texto": "b) El uso obligatorio de filtros opacos de protección que anulen el contraste de caracteres en la pantalla.",
+        "es_correcta": false,
+        "explicacion": "Los caracteres deben ser nítidos y con contraste adecuado; anularlo aumentaría la fatiga visual. Referencia: Anexo RD 488/1997."
+      },
+      {
+        "texto": "c) La organización del trabajo de forma que se alternen las tareas de pantalla con otras labores de oficina, o en su defecto, mediante la introducción de pausas periódicas.",
+        "es_correcta": true,
+        "explicacion": "La alternancia de tareas o la inserción de pausas pautadas rompe la carga visual y musculoesquelética continuada. Referencia: art. 4 RD 488/1997."
+      },
+      {
+        "texto": "d) La concesión de un día de descanso compensatorio por cada diez horas acumuladas de grabación de datos.",
+        "es_correcta": false,
+        "explicacion": "La normativa no establece ese tipo de compensación de descansos por días, sino medidas organizativas de diseño diario del puesto. Referencia: art. 4 RD 488/1997."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "Conforme al Real Decreto 486/1997, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo, la temperatura de los locales donde se realicen trabajos sedentarios propios de oficinas debe mantenerse de forma general entre:",
+    "opciones": [
+      {
+        "texto": "a) 14 °C y 22 °C.",
+        "es_correcta": false,
+        "explicacion": "Ese rango de temperatura es excesivamente bajo para locales donde se ejecutan trabajos de tipo sedentario. Referencia: Anexo VI RD 486/1997."
+      },
+      {
+        "texto": "b) 17 °C y 27 °C.",
+        "es_correcta": true,
+        "explicacion": "Es el intervalo de temperatura legalmente establecido para trabajos sedentarios (oficinas, despachos, atención al público) para evitar el estrés térmico. Referencia: Anexo VI RD 486/1997."
+      },
+      {
+        "texto": "c) 20 °C y 30 °C.",
+        "es_correcta": false,
+        "explicacion": "Superar los 27 °C en trabajos de oficina produce disconfort y somnolencia, afectando a la salud y rendimiento. Referencia: Anexo VI RD 486/1997."
+      },
+      {
+        "texto": "d) Al tratarse de dependencias de la Administración Pública, se rige por la normativa de eficiencia energética, fijándose un rango invariable de 22 °C a 24 °C.",
+        "es_correcta": false,
+        "explicacion": "La normativa de seguridad y salud laboral fija los umbrales mínimos y máximos por razones de protección de la salud de los trabajadores. Referencia: Anexo VI RD 486/1997."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "En los locales cerrados destinados a trabajos de oficina, la humedad relativa del aire debe estar comprendida, con carácter general, entre:",
+    "opciones": [
+      {
+        "texto": "a) El 10% y el 40%.",
+        "es_correcta": false,
+        "explicacion": "Una humedad inferior al 30% causa problemas de sequedad en las mucosas, ojos y vías respiratorias. Referencia: Anexo VI RD 486/1997."
+      },
+      {
+        "texto": "b) El 30% y el 70%.",
+        "es_correcta": true,
+        "explicacion": "Este es el rango general de humedad relativa prescrito para locales cerrados de trabajo, protegiendo frente a la sequedad ambiental o el exceso de humedad. Referencia: Anexo VI RD 486/1997."
+      },
+      {
+        "texto": "c) El 50% y el 90% en cualquier tipo de circunstancia ambiental.",
+        "es_correcta": false,
+        "explicacion": "Un 90% de humedad es excesivo y propicia la proliferación de hongos y problemas de confort higrotérmico. Referencia: Anexo VI RD 486/1997."
+      },
+      {
+        "texto": "d) Exactamente en el 45%, admitiéndose únicamente una oscilación del 1% arriba o abajo.",
+        "es_correcta": false,
+        "explicacion": "La norma ofrece una horquilla amplia (30%-70%) para flexibilizar la adaptación de los sistemas de climatización. Referencia: Anexo VI RD 486/1997."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "Respecto a las condiciones de iluminación en un puesto administrativo con pantallas de visualización de datos, ¿cuál es la disposición más recomendada para evitar deslumbramientos y reflejos molestos?",
+    "opciones": [
+      {
+        "texto": "a) Orientar la pantalla directamente de frente a una ventana sin persianas para aprovechar al máximo el haz lumínico.",
+        "es_correcta": false,
+        "explicacion": "Provocaría un fuerte deslumbramiento directo en los ojos del trabajador al contrastar la pantalla con la luminosidad exterior. Referencia: Anexo RD 488/1997."
+      },
+      {
+        "texto": "b) Colocar la pantalla de espaldas a las ventanas de forma que la luz natural incida de manera directa sobre la superficie del monitor.",
+        "es_correcta": false,
+        "explicacion": "Esto generaría reflejos indirectos en la pantalla que dificultarían enormemente la lectura de caracteres, aumentando la fatiga visual. Referencia: Anexo RD 488/1997."
+      },
+      {
+        "texto": "c) Situar los puestos de trabajo de forma que las pantallas queden en posición paralela a las ventanas y fuentes de luz natural.",
+        "es_correcta": true,
+        "explicacion": "La iluminación lateral o paralela minimiza tanto los reflejos en la pantalla como el deslumbramiento directo del operador. Referencia: Anexo RD 488/1997."
+      },
+      {
+        "texto": "d) Eliminar por completo la iluminación natural, permitiéndose únicamente el uso de flexos individuales enfocados al teclado.",
+        "es_correcta": false,
+        "explicacion": "Se debe privilegiar la luz natural siempre que sea posible, requiriéndose además una iluminación general equilibrada. Referencia: Anexo VI RD 486/1997."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "De acuerdo con el artículo 22 de la Ley 31/1995, las medidas de vigilancia de la salud de los empleados públicos frente a los riesgos laborales se caracterizan por:",
+    "opciones": [
+      {
+        "texto": "a) Su absoluta obligatoriedad en todo caso, siendo sancionable administrativamente la negativa del empleado a someterse al reconocimiento médico.",
+        "es_correcta": false,
+        "explicacion": "La regla general es la voluntariedad, no la obligatoriedad sistemática. Referencia: art. 22.1 Ley 31/1995."
+      },
+      {
+        "texto": "b) Su voluntariedad para el trabajador, salvo en supuestos excepcionales previo informe de los representantes de los trabajadores.",
+        "es_correcta": true,
+        "explicacion": "Es voluntario salvo que sea imprescindible para evaluar los efectos de las condiciones laborales, para verificar si el estado de salud puede constituir un peligro para terceros o cuando esté establecido en una disposición legal. Referencia: art. 22.1 Ley 31/1995."
+      },
+      {
+        "texto": "c) Ser de carácter público, pudiendo cualquier compañero de unidad administrativa consultar el historial médico del empleado.",
+        "es_correcta": false,
+        "explicacion": "Los datos de salud están sujetos al principio de confidencialidad y estricto secreto médico. Referencia: art. 22.2 Ley 31/1995."
+      },
+      {
+        "texto": "d) Ser financiadas íntegramente por las mutualidades privadas elegidas voluntariamente por los funcionarios.",
+        "es_correcta": false,
+        "explicacion": "Los costes derivados de la vigilancia de la salud corren a cargo directo de la Administración empleadora. Referencia: art. 22.5 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "Conforme al artículo 9 del Decreto 80/2013, de 26 de diciembre, en la estructura periférica de la Junta de Castilla y León, ¿dónde se adscribirán orgánicamente los servicios de prevención propios?",
+    "opciones": [
+      {
+        "texto": "a) A cada una de las Oficinas de Empleo de la localidad respectiva.",
+        "es_correcta": false,
+        "explicacion": "Las oficinas de empleo gestionan políticas activas de empleo, no la prevención interna de los servicios periféricos de la Junta. Referencia: art. 9.1.b Decreto 80/2013."
+      },
+      {
+        "texto": "b) A cada una de las Delegaciones Territoriales de la Junta de Castilla y León.",
+        "es_correcta": true,
+        "explicacion": "El decreto determina que en los servicios periféricos los recursos propios de prevención se adscribirán a las Delegaciones Territoriales e incluirán al personal técnico superior e intermedio. Referencia: art. 9.1.b Decreto 80/2013."
+      },
+      {
+        "texto": "c) Directamente a los Ayuntamientos de las capitales de provincia de la Comunidad.",
+        "es_correcta": false,
+        "explicacion": "Los Ayuntamientos son corporaciones locales de distinta Administración pública, sin competencias sobre los servicios propios de la Junta. Referencia: art. 9.1.b Decreto 80/2013."
+      },
+      {
+        "texto": "d) Al Servicio de Salud de Castilla y León (SACYL) de manera exclusiva y centralizada.",
+        "es_correcta": false,
+        "explicacion": "El SACYL cuenta con su propia organización, pero los servicios periféricos generales se adscriben en el ámbito territorial a las Delegaciones de la Junta. Referencia: art. 9.1.b Decreto 80/2013."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "Según el artículo 21 de la Ley 31/1995, ante la constatación de un riesgo grave e inminente en el desarrollo de la actividad laboral, la Administración/empresario está obligada a:",
+    "opciones": [
+      {
+        "texto": "a) Continuar con las labores administrativas hasta finalizar la tramitación urgente de los expedientes del día.",
+        "es_correcta": false,
+        "explicacion": "La protección de la vida y la salud prima sobre la continuidad formal de la tramitación administrativa. Referencia: art. 21.1 Ley 31/1995."
+      },
+      {
+        "texto": "b) Informar lo antes posible a todos los trabajadores afectados y adoptar las medidas necesarias para interrumpir la actividad y, si fuera necesario, evacuar el lugar de trabajo.",
+        "es_correcta": true,
+        "explicacion": "Frente a un peligro grave e inminente, el deber del empleador exige informar, paralizar la actividad dañina y proceder a la evacuación segura. Referencia: art. 21.1.a Ley 31/1995."
+      },
+      {
+        "texto": "c) Solicitar un dictamen vinculante al Consejo de Gobierno de la Junta en el plazo máximo de 15 días.",
+        "es_correcta": false,
+        "explicacion": "La gravedad e inmediatez del riesgo exige una respuesta fáctica en el acto, incompatible con plazos consultivos de 15 días. Referencia: art. 21.1 Ley 31/1995."
+      },
+      {
+        "texto": "d) Obligar a los delegados de prevención a resolver el desperfecto técnico de forma personal e inmediata.",
+        "es_correcta": false,
+        "explicacion": "Los delegados tienen funciones de representación y control, no funciones operativas de reparación de averías estructurales. Referencia: art. 35.1 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "Al amparo del artículo 29 de la Ley 31/1995, constituye una obligación individual y expresa de cada empleado público en materia preventiva:",
+    "opciones": [
+      {
+        "texto": "a) Velar, según sus posibilidades, por su propia seguridad y salud en el trabajo y por la de aquellas otras personas a las que pueda afectar su actividad.",
+        "es_correcta": true,
+        "explicacion": "La ley establece una corresponsabilidad del trabajador de velar por su seguridad y la de terceros conforme a su formación y directrices recibidas. Referencia: art. 29.1 Ley 31/1995."
+      },
+      {
+        "texto": "b) Elaborar de forma autónoma el plan de evacuación de su sección o planta administrativa.",
+        "es_correcta": false,
+        "explicacion": "La elaboración técnica de planes de autoprotección es competencia de los servicios de prevención, no una obligación genérica individual de cada trabajador. Referencia: art. 16 y 20 Ley 31/1995."
+      },
+      {
+        "texto": "c) Costear el mantenimiento y limpieza periódica de las instalaciones de climatización del centro de trabajo.",
+        "es_correcta": false,
+        "explicacion": "El mantenimiento estructural de los edificios públicos y su coste recae íntegramente sobre la Administración titular. Referencia: art. 14.5 Ley 31/1995."
+      },
+      {
+        "texto": "d) Sancionar de forma directa e independiente a los compañeros de oficina que incurran en prácticas de riesgo.",
+        "es_correcta": false,
+        "explicacion": "La potestad disciplinaria corresponde en exclusiva a los órganos competentes en materia de personal de la Administración, no a los compañeros. Referencia: TREBEP."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Quién ostenta la facultad de designar a los Delegados de Prevención en el seno de la Administración de la Comunidad de Castilla y León de acuerdo con la LPRL?",
+    "opciones": [
+      {
+        "texto": "a) El Consejero de la Presidencia de modo discrecional.",
+        "es_correcta": false,
+        "explicacion": "La designación emana de los trabajadores a través de sus cauces sindicales y electorales, no de un órgano directivo de la Administración. Referencia: art. 35.2 Ley 31/1995."
+      },
+      {
+        "texto": "b) Los propios trabajadores mediante sufragio universal directo de todo el censo de funcionarios en asamblea general.",
+        "es_correcta": false,
+        "explicacion": "La ley prevé un sistema indirecto: son elegidos por y entre los representantes del personal (Juntas de Personal o Comités de Empresa). Referencia: art. 35.2 Ley 31/1995."
+      },
+      {
+        "texto": "c) Son designados por y entre los representantes del personal (miembros de las Juntas de Personal o miembros de los Comités de Empresa).",
+        "es_correcta": true,
+        "explicacion": "La normativa vigente residencia la elección de los delegados de prevención en los órganos de representación unitaria de los empleados. Referencia: art. 35.2 Ley 31/1995."
+      },
+      {
+        "texto": "d) El Inspector General de Trabajo de la provincia correspondiente.",
+        "es_correcta": false,
+        "explicacion": "La Inspección de Trabajo vigila el cumplimiento de la norma, pero carece de competencias para nombrar representantes de los trabajadores. Referencia: art. 9 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "De acuerdo con el artículo 38 de la Ley 31/1995, el Comité de Seguridad y Salud se constituirá de forma obligatoria en todos los centros de trabajo que cuenten con:",
+    "opciones": [
+      {
+        "texto": "a) 10 o más empleados públicos.",
+        "es_correcta": false,
+        "explicacion": "Para centros de menor tamaño existen los Delegados de Prevención, pero no el órgano colegiado paritario complejo. Referencia: art. 38.1 Ley 31/1995."
+      },
+      {
+        "texto": "b) 50 o más trabajadores.",
+        "es_correcta": true,
+        "explicacion": "La ley fija el umbral numérico a partir de los 50 trabajadores para hacer imperativa la creación de este comité paritario de consulta regular. Referencia: art. 38.1 Ley 31/1995."
+      },
+      {
+        "texto": "c) Únicamente en aquellos centros con más de 250 trabajadores fijos de plantilla.",
+        "es_correcta": false,
+        "explicacion": "El límite de 250 es propio de otros umbrales representativos, situándose el de seguridad y salud de forma general en 50. Referencia: art. 38.1 Ley 31/1995."
+      },
+      {
+        "texto": "d) Es obligatorio en todas las Delegaciones Territoriales con independencia absoluta del número de efectivos personales que posean.",
+        "es_correcta": false,
+        "explicacion": "El factor determinante fijado por la Ley de Prevención para su obligatoriedad es el volumen numérico de la plantilla del centro de trabajo. Referencia: art. 38.1 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "Dentro de los factores de riesgo de carácter psicosocial intrínsecos a las funciones de un Auxiliar Administrativo, la fatiga mental suele asociarse a:",
+    "opciones": [
+      {
+        "texto": "a) La manipulación manual continuada de cargas pesadas que excedan de los 25 kilogramos de peso unitario.",
+        "es_correcta": false,
+        "explicacion": "La manipulación de cargas es un factor de riesgo de tipo mecánico o ergonómico, causante de fatiga física, no de carácter psicosocial/mental de manera principal. Referencia: Guía Técnica INSST."
+      },
+      {
+        "texto": "b) Una alta exigencia de atención sostenida, el procesamiento continuado de información compleja y plazos estrictos en la tramitación de expedientes o atención al ciudadano.",
+        "es_correcta": true,
+        "explicacion": "La sobrecarga cognitiva derivada del volumen de datos informáticos, plazos perentorios y la interacción con administrados define el origen de la fatiga mental en puestos de oficina. Referencia: Factores Psicosociales INSST."
+      },
+      {
+        "texto": "c) Trabajar en espacios con corrientes de aire constantes por encima de los límites de velocidad del aire regulados.",
+        "es_correcta": false,
+        "explicacion": "Las corrientes de aire constituyen un riesgo higiénico ambiental relacionado con el confort termo-higrométrico. Referencia: RD 486/1997."
+      },
+      {
+        "texto": "d) La falta de herramientas informáticas obsoletas que reduzcan la velocidad de tecleo del profesional.",
+        "es_correcta": false,
+        "explicacion": "La obsolescencia tecnológica puede generar frustración, pero la definición técnica de fatiga mental se vincula de modo directo a la carga de atención y plazos temporales de la tarea. Referencia: Guía Técnica INSST."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "Para mitigar eficazmente el riesgo de aparición de Trastornos Músculoesqueléticos (TME) causados por la postura estática prolongada en tareas de oficina, ¿qué medida de tipo organizativo resulta prioritaria?",
+    "opciones": [
+      {
+        "texto": "a) Incrementar el número de horas extra de trabajo para agotar las fases de descanso semanal.",
+        "es_correcta": false,
+        "explicacion": "Aumentar el tiempo de exposición agravaría el trastorno muscular de manera drástica. Referencia: Principios de Ergonomía."
+      },
+      {
+        "texto": "b) Alternar la postura sedente mediante la realización de pequeños descansos periódicos o la introducción de micropausas activas que permitan cambiar de posición y realizar estiramientos.",
+        "es_correcta": true,
+        "explicacion": "Romper el estatismo postural mediante la alternancia de tareas o pequeñas micropausas activas reactiva la circulación y descarga la tensión muscular acumulada. Referencia: Guía Ergonómica INSST."
+      },
+      {
+        "texto": "c) Prohibir el uso del ratón informático, obligando a realizar todas las operaciones a través de combinaciones de teclas de comandos.",
+        "es_correcta": false,
+        "explicacion": "Eliminar el ratón sin un rediseño adecuado puede sobrecargar la musculatura de los dedos y las muñecas de manera lesiva. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "d) Exigir el uso permanente de una faja lumbar ortopédica rígida durante la totalidad de la jornada administrativa diaria.",
+        "es_correcta": false,
+        "explicacion": "El uso continuado de fajas lumbares sin prescripción médica atrofia la musculatura del tronco, resultando contraproducente como medida preventiva general. Referencia: Criterios INSST."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "De conformidad con lo dispuesto en el artículo 9.2 del Decreto 80/2013, de 26 de diciembre, para complementar la acción preventiva en los Servicios Centrales de la Junta de Castilla y León, se establece que:",
+    "opciones": [
+      {
+        "texto": "a) Deberá designarse, al menos, un empleado público especializado en materia de prevención en cada Consejería y Organismo Autónomo.",
+        "es_correcta": true,
+        "explicacion": "El decreto determina de forma literal esta exigencia organizativa mínima para los Servicios Centrales de la estructura autonómica. Referencia: art. 9.2.a Decreto 80/2013."
+      },
+      {
+        "texto": "b) Solo se designará personal de refuerzo en la Consejería de Sanidad, quedando exentas el resto de áreas gubernamentales.",
+        "es_correcta": false,
+        "explicacion": "La norma tiene vocación horizontal y afecta obligatoriamente a todas las Consejerías y Organismos Autónomos. Referencia: art. 9.2.a Decreto 80/2013."
+      },
+      {
+        "texto": "c) Las funciones de prevención recaerán exclusivamente sobre asesores externos subcontratados mediante licitación pública anual.",
+        "es_correcta": false,
+        "explicacion": "El espíritu del Decreto 80/2013 prima la estructuración y el refuerzo con medios propios y personal empleado público designado. Referencia: art. 9 Decreto 80/2013."
+      },
+      {
+        "texto": "d) Se suprime la figura del empleado designado en Servicios Centrales, centralizándose toda la actividad preventiva de la Junta en las mutuas de accidentes.",
+        "es_correcta": false,
+        "explicacion": "El decreto mantiene la vigencia y necesidad del personal designado interno para asegurar una correcta integración preventiva. Referencia: art. 9.2.a Decreto 80/2013."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "pregunta": "De conformidad con el art. 3 de la Ley 31/1995, de Prevención de Riesgos Laborales, ¿en qué actividades, en el ámbito de las funciones públicas, no es de aplicación dicha ley?",
+    "opciones": [
+      {
+        "texto": "a) En las actividades de los empleados públicos.",
+        "es_correcta": false,
+        "explicacion": "La Ley de Prevención de Riesgos Laborales sí se aplica con carácter general a los empleados públicos. Referencia: art. 3.1 Ley 31/1995."
+      },
+      {
+        "texto": "b) En las actividades de policía, seguridad y resguardo aduanero.",
+        "es_correcta": true,
+        "explicacion": "La ley excluye expresamente estas actividades por su especial naturaleza. Referencia: art. 3.2 Ley 31/1995."
+      },
+      {
+        "texto": "c) En las actividades de los centros escolares públicos.",
+        "es_correcta": false,
+        "explicacion": "Los centros escolares públicos no están excluidos del ámbito de aplicación de la ley. Referencia: art. 3 Ley 31/1995."
+      },
+      {
+        "texto": "d) En las actividades de atención al público en oficinas administrativas.",
+        "es_correcta": false,
+        "explicacion": "Las tareas administrativas ordinarias están dentro del ámbito general de la prevención de riesgos laborales. Referencia: art. 3.1 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "Según el art. 14 de la Ley 31/1995, ¿qué derecho básico tienen los trabajadores en materia preventiva?",
+    "opciones": [
+      {
+        "texto": "a) Derecho a la información, consulta y participación en materia de prevención.",
+        "es_correcta": true,
+        "explicacion": "La ley reconoce como derecho básico la protección eficaz en seguridad y salud, con información, consulta y participación. Referencia: art. 14 y 18 Ley 31/1995."
+      },
+      {
+        "texto": "b) Derecho a elegir libremente las medidas preventivas de su puesto.",
+        "es_correcta": false,
+        "explicacion": "La elección de medidas preventivas corresponde al empresario dentro de la organización preventiva. Referencia: art. 14 Ley 31/1995."
+      },
+      {
+        "texto": "c) Derecho a renunciar a toda formación en prevención.",
+        "es_correcta": false,
+        "explicacion": "La formación preventiva es obligatoria y no puede ser rechazada unilateralmente como regla general. Referencia: art. 19 Ley 31/1995."
+      },
+      {
+        "texto": "d) Derecho a trabajar sin vigilancia de la salud en ningún caso.",
+        "es_correcta": false,
+        "explicacion": "La vigilancia de la salud puede ser obligatoria en supuestos legalmente previstos. Referencia: art. 22 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "En un puesto de auxiliar administrativo, ¿cuál de los siguientes riesgos está más directamente asociado al trabajo con pantallas de visualización de datos?",
+    "opciones": [
+      {
+        "texto": "a) Exposición a radiaciones ionizantes.",
+        "es_correcta": false,
+        "explicacion": "No es el riesgo típico de un puesto administrativo con pantallas. Referencia: prevención básica en oficinas."
+      },
+      {
+        "texto": "b) Fatiga visual y trastornos musculoesqueléticos.",
+        "es_correcta": true,
+        "explicacion": "Es uno de los riesgos más frecuentes en trabajos prolongados con pantallas y postura estática. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "c) Intoxicación por gases industriales.",
+        "es_correcta": false,
+        "explicacion": "No es un riesgo característico del entorno administrativo ordinario. Referencia: prevención básica en oficinas."
+      },
+      {
+        "texto": "d) Aplastamiento por maquinaria pesada.",
+        "es_correcta": false,
+        "explicacion": "No se corresponde con un puesto administrativo de oficina. Referencia: prevención básica en oficinas."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "Según el art. 17 de la Ley 31/1995, ¿qué obligación tiene el empresario respecto a los equipos de protección individual?",
+    "opciones": [
+      {
+        "texto": "a) Debe proporcionarlos gratuitamente a los trabajadores cuando sean necesarios.",
+        "es_correcta": true,
+        "explicacion": "El empresario debe facilitar gratuitamente los EPI adecuados cuando no puedan evitarse los riesgos por otros medios. Referencia: art. 17.2 Ley 31/1995."
+      },
+      {
+        "texto": "b) Debe cobrarlos al trabajador si este los pierde.",
+        "es_correcta": false,
+        "explicacion": "La ley impone suministro gratuito, sin trasladar el coste ordinario al trabajador. Referencia: art. 17.2 Ley 31/1995."
+      },
+      {
+        "texto": "c) Solo debe entregarlos si el trabajador los solicita por escrito.",
+        "es_correcta": false,
+        "explicacion": "La obligación nace de la evaluación de riesgos, no de una solicitud previa del trabajador. Referencia: art. 17 Ley 31/1995."
+      },
+      {
+        "texto": "d) Únicamente debe entregarlos a personal funcionario de carrera.",
+        "es_correcta": false,
+        "explicacion": "La protección preventiva alcanza al personal al servicio de la Administración en general. Referencia: art. 14 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cuál de las siguientes medidas preventivas es más adecuada para evitar la fatiga visual en tareas administrativas con ordenador?",
+    "opciones": [
+      {
+        "texto": "a) Aumentar el brillo de la pantalla al máximo.",
+        "es_correcta": false,
+        "explicacion": "Un brillo excesivo suele incrementar el cansancio visual. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "b) Colocar la pantalla de forma que evite reflejos y deslumbramientos.",
+        "es_correcta": true,
+        "explicacion": "La colocación correcta del monitor reduce reflejos y molestias visuales. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "c) Trabajar siempre con la luz apagada.",
+        "es_correcta": false,
+        "explicacion": "La iluminación debe ser suficiente y adaptada al puesto. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "d) Acercar la pantalla al máximo a los ojos.",
+        "es_correcta": false,
+        "explicacion": "Una distancia inadecuada puede aumentar la fatiga visual. Referencia: RD 488/1997."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "Según el art. 19 de la Ley 31/1995, la formación en materia preventiva debe ser:",
+    "opciones": [
+      {
+        "texto": "a) Teórica y práctica, suficiente y adecuada.",
+        "es_correcta": true,
+        "explicacion": "La formación preventiva debe ser suficiente, adecuada, teórica y práctica. Referencia: art. 19.1 Ley 31/1995."
+      },
+      {
+        "texto": "b) Solo teórica para ahorrar tiempo.",
+        "es_correcta": false,
+        "explicacion": "La ley exige también parte práctica. Referencia: art. 19.1 Ley 31/1995."
+      },
+      {
+        "texto": "c) Voluntaria para el trabajador.",
+        "es_correcta": false,
+        "explicacion": "La formación forma parte del derecho a una protección eficaz y no queda al arbitrio del trabajador. Referencia: art. 19 Ley 31/1995."
+      },
+      {
+        "texto": "d) Exclusiva para mandos intermedios.",
+        "es_correcta": false,
+        "explicacion": "Debe impartirse a todos los trabajadores afectados por el riesgo. Referencia: art. 19 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "En materia de evacuación y emergencias en una oficina pública, ¿qué conducta es correcta?",
+    "opciones": [
+      {
+        "texto": "a) Correr hacia la salida más cercana sin atender indicaciones.",
+        "es_correcta": false,
+        "explicacion": "Puede generar riesgos adicionales y bloqueos. Referencia: medidas básicas de emergencia."
+      },
+      {
+        "texto": "b) Seguir el plan de emergencia y las instrucciones del personal responsable.",
+        "es_correcta": true,
+        "explicacion": "La actuación correcta es obedecer el plan de emergencia y las indicaciones de evacuación. Referencia: art. 20 Ley 31/1995."
+      },
+      {
+        "texto": "c) Volver a recoger objetos personales antes de evacuar.",
+        "es_correcta": false,
+        "explicacion": "Retrasa la evacuación y aumenta el peligro. Referencia: art. 20 Ley 31/1995."
+      },
+      {
+        "texto": "d) Utilizar el ascensor si está disponible.",
+        "es_correcta": false,
+        "explicacion": "En emergencias no debe usarse el ascensor. Referencia: medidas básicas de evacuación."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "Según el art. 20 de la Ley 31/1995, ¿qué obligación tiene el empresario en materia de medidas de emergencia?",
+    "opciones": [
+      {
+        "texto": "a) Adoptar medidas de emergencia y designar personal encargado.",
+        "es_correcta": true,
+        "explicacion": "Debe analizar posibles situaciones de emergencia y adoptar medidas necesarias, incluyendo personal de emergencia. Referencia: art. 20 Ley 31/1995."
+      },
+      {
+        "texto": "b) Esperar a que actúen exclusivamente los servicios externos.",
+        "es_correcta": false,
+        "explicacion": "La empresa debe organizar medidas previas internas de actuación. Referencia: art. 20 Ley 31/1995."
+      },
+      {
+        "texto": "c) No elaborar ningún plan para oficinas pequeñas.",
+        "es_correcta": false,
+        "explicacion": "La obligación preventiva existe también en centros de trabajo pequeños, con la intensidad adecuada. Referencia: art. 20 Ley 31/1995."
+      },
+      {
+        "texto": "d) Delegar toda la gestión en el trabajador más antiguo.",
+        "es_correcta": false,
+        "explicacion": "La responsabilidad organizativa corresponde al empresario. Referencia: art. 20 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuál de los siguientes es un riesgo ergonómico habitual en tareas de auxiliar administrativo?",
+    "opciones": [
+      {
+        "texto": "a) Sobreesfuerzo por manipulación manual de cargas muy pesadas.",
+        "es_correcta": false,
+        "explicacion": "No es el riesgo principal en oficina, aunque puede existir ocasionalmente. Referencia: prevención básica en oficinas."
+      },
+      {
+        "texto": "b) Posturas forzadas y movimientos repetitivos.",
+        "es_correcta": true,
+        "explicacion": "Son riesgos ergonómicos típicos por uso continuado de teclado, ratón y silla inadecuada. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "c) Exposición a ruido de maquinaria industrial continua.",
+        "es_correcta": false,
+        "explicacion": "No es el riesgo típico de una oficina administrativa. Referencia: prevención básica en oficinas."
+      },
+      {
+        "texto": "d) Contacto con sustancias corrosivas.",
+        "es_correcta": false,
+        "explicacion": "No es un riesgo ordinario del puesto administrativo. Referencia: prevención básica en oficinas."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "De acuerdo con el art. 22 de la Ley 31/1995, la vigilancia de la salud de los trabajadores:",
+    "opciones": [
+      {
+        "texto": "a) Es obligatoria en todos los casos sin excepción.",
+        "es_correcta": false,
+        "explicacion": "Como regla general requiere consentimiento del trabajador, salvo excepciones legales. Referencia: art. 22 Ley 31/1995."
+      },
+      {
+        "texto": "b) Solo puede realizarse si la solicita el trabajador.",
+        "es_correcta": false,
+        "explicacion": "Puede proceder en los supuestos previstos por la ley aunque no la solicite el trabajador. Referencia: art. 22 Ley 31/1995."
+      },
+      {
+        "texto": "c) Se realizará con el consentimiento del trabajador, salvo excepciones legales.",
+        "es_correcta": true,
+        "explicacion": "La ley establece esa regla general para la vigilancia de la salud. Referencia: art. 22 Ley 31/1995."
+      },
+      {
+        "texto": "d) No puede incluir reconocimientos médicos periódicos.",
+        "es_correcta": false,
+        "explicacion": "La ley contempla la vigilancia de la salud mediante protocolos adecuados. Referencia: art. 22 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué medida es más eficaz para prevenir accidentes por caídas al mismo nivel en una oficina?",
+    "opciones": [
+      {
+        "texto": "a) Dejar cables y cajas en zonas de paso.",
+        "es_correcta": false,
+        "explicacion": "Aumenta claramente el riesgo de tropiezo. Referencia: prevención básica en oficinas."
+      },
+      {
+        "texto": "b) Mantener despejadas las zonas de paso y ordenar el cableado.",
+        "es_correcta": true,
+        "explicacion": "La limpieza y orden reducen el riesgo de caídas al mismo nivel. Referencia: principios preventivos generales."
+      },
+      {
+        "texto": "c) Colocar alfombras sueltas para amortiguar.",
+        "es_correcta": false,
+        "explicacion": "Las alfombras sueltas pueden provocar tropiezos. Referencia: prevención básica en oficinas."
+      },
+      {
+        "texto": "d) Evitar revisar el suelo antes de caminar.",
+        "es_correcta": false,
+        "explicacion": "La inspección visual del entorno ayuda a detectar obstáculos. Referencia: prevención básica en oficinas."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "Según el art. 15 de la Ley 31/1995, ¿cuál de los siguientes es un principio de la acción preventiva?",
+    "opciones": [
+      {
+        "texto": "a) Evitar los riesgos.",
+        "es_correcta": true,
+        "explicacion": "Evitar los riesgos es uno de los principios esenciales de la acción preventiva. Referencia: art. 15 Ley 31/1995."
+      },
+      {
+        "texto": "b) Trasladar el riesgo al trabajador.",
+        "es_correcta": false,
+        "explicacion": "La prevención busca eliminar o reducir el riesgo, no trasladarlo. Referencia: art. 15 Ley 31/1995."
+      },
+      {
+        "texto": "c) Aumentar la exposición al riesgo para vigilarla mejor.",
+        "es_correcta": false,
+        "explicacion": "Contradice por completo la lógica preventiva. Referencia: art. 15 Ley 31/1995."
+      },
+      {
+        "texto": "d) Sustituir siempre la protección colectiva por la individual.",
+        "es_correcta": false,
+        "explicacion": "La ley da prioridad a la protección colectiva frente a la individual. Referencia: art. 15 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "En una oficina administrativa, ¿cuál es una medida ergonómica correcta respecto a la silla de trabajo?",
+    "opciones": [
+      {
+        "texto": "a) Debe impedir el apoyo de los pies en el suelo.",
+        "es_correcta": false,
+        "explicacion": "La postura correcta requiere apoyo estable y ajuste del asiento. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "b) Debe permitir regulación de altura y respaldo adecuado.",
+        "es_correcta": true,
+        "explicacion": "La silla debe adaptarse al usuario para favorecer una postura correcta. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "c) Debe ser rígida y sin posibilidad de ajuste.",
+        "es_correcta": false,
+        "explicacion": "La inmovilidad empeora la ergonomía del puesto. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "d) Debe obligar a trabajar de pie todo el tiempo.",
+        "es_correcta": false,
+        "explicacion": "No es la recomendación preventiva general para tareas administrativas. Referencia: RD 488/1997."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "Según el art. 18 de la Ley 31/1995, ¿qué debe garantizar el empresario a los trabajadores?",
+    "opciones": [
+      {
+        "texto": "a) Información sobre los riesgos para la seguridad y la salud.",
+        "es_correcta": true,
+        "explicacion": "La información sobre riesgos y medidas preventivas es una obligación esencial del empresario. Referencia: art. 18 Ley 31/1995."
+      },
+      {
+        "texto": "b) Información solo cuando haya un accidente.",
+        "es_correcta": false,
+        "explicacion": "La información debe ser previa y continuada, no solo reactiva. Referencia: art. 18 Ley 31/1995."
+      },
+      {
+        "texto": "c) Información únicamente a mandos superiores.",
+        "es_correcta": false,
+        "explicacion": "La información preventiva alcanza a todos los trabajadores afectados. Referencia: art. 18 Ley 31/1995."
+      },
+      {
+        "texto": "d) Información exclusiva sobre retribuciones.",
+        "es_correcta": false,
+        "explicacion": "No es una materia preventiva. Referencia: art. 18 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cuál de las siguientes situaciones puede generar carga mental en un puesto de auxiliar administrativo?",
+    "opciones": [
+      {
+        "texto": "a) Tareas monótonas y repetitivas con alta presión de tiempo.",
+        "es_correcta": true,
+        "explicacion": "La monotonía unida a presión temporal puede incrementar la carga mental. Referencia: prevención psicosocial básica."
+      },
+      {
+        "texto": "b) Ejercicio físico intenso al aire libre.",
+        "es_correcta": false,
+        "explicacion": "No es la situación típica del puesto administrativo. Referencia: prevención básica en oficinas."
+      },
+      {
+        "texto": "c) Exposición a ruido industrial permanente.",
+        "es_correcta": false,
+        "explicacion": "No es un factor habitual del trabajo administrativo de oficina. Referencia: prevención básica en oficinas."
+      },
+      {
+        "texto": "d) Contacto con fauna peligrosa.",
+        "es_correcta": false,
+        "explicacion": "No guarda relación con el entorno de oficina administrativa. Referencia: prevención básica en oficinas."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "Según el art. 25 de la Ley 31/1995, ¿qué obligación existe respecto a trabajadores especialmente sensibles?",
+    "opciones": [
+      {
+        "texto": "a) Adaptar el trabajo a la persona, en la medida de lo posible.",
+        "es_correcta": true,
+        "explicacion": "La ley exige proteger especialmente a trabajadores con sensibilidad especial ante determinados riesgos. Referencia: art. 25 Ley 31/1995."
+      },
+      {
+        "texto": "b) Excluirlos automáticamente del trabajo.",
+        "es_correcta": false,
+        "explicacion": "La exclusión no es la regla; debe buscarse la adaptación del puesto. Referencia: art. 25 Ley 31/1995."
+      },
+      {
+        "texto": "c) Ignorar su situación si el puesto es administrativo.",
+        "es_correcta": false,
+        "explicacion": "La protección preventiva también rige en puestos administrativos. Referencia: art. 25 Ley 31/1995."
+      },
+      {
+        "texto": "d) Cambiarles de puesto solo por decisión del compañero.",
+        "es_correcta": false,
+        "explicacion": "La decisión organizativa corresponde al empleador/Administración, no a terceros. Referencia: art. 25 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué práctica ayuda a prevenir riesgos por manipulación manual de cargas en oficina?",
+    "opciones": [
+      {
+        "texto": "a) Levantar las cargas con la espalda doblada.",
+        "es_correcta": false,
+        "explicacion": "Es una técnica incorrecta que aumenta el riesgo de lesión. Referencia: prevención básica de ergonomía."
+      },
+      {
+        "texto": "b) Utilizar ayudas mecánicas y pedir apoyo si la carga es pesada.",
+        "es_correcta": true,
+        "explicacion": "El uso de ayudas y la organización del trabajo reduce el riesgo lumbar. Referencia: RD 487/1997."
+      },
+      {
+        "texto": "c) Girar el tronco bruscamente al levantar.",
+        "es_correcta": false,
+        "explicacion": "Incrementa el riesgo de lesión musculoesquelética. Referencia: RD 487/1997."
+      },
+      {
+        "texto": "d) Cargar siempre más peso para terminar antes.",
+        "es_correcta": false,
+        "explicacion": "Aumenta la exposición al riesgo y contraviene la prevención. Referencia: RD 487/1997."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "En un puesto con pantalla de visualización, ¿qué posición es recomendable para el monitor?",
+    "opciones": [
+      {
+        "texto": "a) Muy por encima de la línea de visión.",
+        "es_correcta": false,
+        "explicacion": "Forzar el cuello hacia arriba favorece molestias cervicales. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "b) Frente al usuario, con una altura y distancia adecuadas.",
+        "es_correcta": true,
+        "explicacion": "La colocación frontal y adecuada mejora la postura y reduce la fatiga. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "c) Pegado al teclado y sin posibilidad de ajuste.",
+        "es_correcta": false,
+        "explicacion": "La falta de ajuste empeora la ergonomía del puesto. Referencia: RD 488/1997."
+      },
+      {
+        "texto": "d) De espaldas al trabajador para evitar distracciones.",
+        "es_correcta": false,
+        "explicacion": "No es una disposición ergonómica recomendable. Referencia: RD 488/1997."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "Según el art. 21 de la Ley 31/1995, en caso de riesgo grave e inminente, el empresario debe:",
+    "opciones": [
+      {
+        "texto": "a) Adoptar las medidas necesarias y, si procede, interrumpir la actividad.",
+        "es_correcta": true,
+        "explicacion": "Ante riesgo grave e inminente deben adoptarse medidas inmediatas de protección. Referencia: art. 21 Ley 31/1995."
+      },
+      {
+        "texto": "b) Esperar a que el riesgo se materialice.",
+        "es_correcta": false,
+        "explicacion": "La prevención actúa antes de que se produzca el daño. Referencia: art. 21 Ley 31/1995."
+      },
+      {
+        "texto": "c) Mantener la actividad sin cambios.",
+        "es_correcta": false,
+        "explicacion": "Sería contrario al deber de protección eficaz. Referencia: art. 21 Ley 31/1995."
+      },
+      {
+        "texto": "d) Trasladar la responsabilidad al trabajador.",
+        "es_correcta": false,
+        "explicacion": "La responsabilidad preventiva no se traslada al trabajador. Referencia: art. 14 Ley 31/1995."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál de las siguientes medidas reduce mejor el riesgo de estrés laboral en una oficina administrativa?",
+    "opciones": [
+      {
+        "texto": "a) Incrementar indefinidamente la carga de trabajo.",
+        "es_correcta": false,
+        "explicacion": "Aumenta el estrés y empeora la salud psicosocial. Referencia: prevención de riesgos psicosociales."
+      },
+      {
+        "texto": "b) Organizar las tareas, priorizar objetivos y mantener pausas.",
+        "es_correcta": true,
+        "explicacion": "La organización del trabajo y las pausas ayudan a reducir la carga mental. Referencia: principios preventivos generales."
+      },
+      {
+        "texto": "c) Eliminar toda comunicación entre compañeros.",
+        "es_correcta": false,
+        "explicacion": "La mala comunicación puede agravar el estrés y los errores. Referencia: prevención psicosocial básica."
+      },
+      {
+        "texto": "d) Trabajar sin descansos para acabar antes.",
+        "es_correcta": false,
+        "explicacion": "La ausencia de pausas aumenta la fatiga y el riesgo de error. Referencia: prevención psicosocial básica."
+      }
+    ]
   }
 ]
